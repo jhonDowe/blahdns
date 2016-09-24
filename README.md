@@ -20,6 +20,7 @@ Block content: EasyList, EasyPrivacy, China List, Gambling, Adware, Malware site
 <li> MAC --> killall -HUP mDNSResponder </li>
 <li> Linux --> sudo systemctl restart NetworkManager or sudo rcnscd restart </li>
 <li> Android --> Open Airplane Mode --> Close it --> Done </li>
+</ul>
 
 <p>&copy; Copyright 2016 Blahdns.com </p>
 
