@@ -3,53 +3,53 @@ IPv4: 45.76.100.97 <br>
 IPv6: 2001:19f0:7001:d22:5400:00ff:fe35:c263
 <br>
 Block content: EasyList, EasyPrivacy, China List, Gambling, Adware, Malware sites
-
+<br>
 <h4>How to setup </h4>
+<br>
+<strong>Generic Router </strong><br>
+Recommanded ~~<br>
 
-<strong>Generic Router </strong>
-Recommanded ~~
+Open the preferences for your router.<br>
 
-Open the preferences for your router.
+Often, the preferences are set in your web browser, via a URL with numbers (example: http://192.168.0.1). You may need a password.<br>
+Find the DNS server settings.<br>
+Scan for the letters DNS next to a field which allows two or three sets of numbers<br>
+Put in the OpenDNS server addresses, 45.76.100.97 , 8.8.8.8 as your DNS server settings and save/apply.<br>
+Restart Router <br>
+<br>
+<strong> Mac OS X</strong><br>
 
-Often, the preferences are set in your web browser, via a URL with numbers (example: http://192.168.0.1). You may need a password.
-Find the DNS server settings.
-Scan for the letters DNS next to a field which allows two or three sets of numbers
-Put in the OpenDNS server addresses, 45.76.100.97 , 8.8.8.8 as your DNS server settings and save/apply.
-Restart Router 
+Go to System Preferences.<br>
+Click on Network.<br>
+Select the first connection in your list and click Advanced.<br>
+Select the DNS tab and add 45.76.100.97 , 8.8.8.8 to the list of DNS servers.<br>
+Click OK<br>
+<br>
+<strong>Windows 10</strong><br>
 
-<strong> Mac OS X</strong>
+Right-click the bottom-leftmost corner of your screen to bring up WIN+X menu.<br>
+Click on Network Connections.<br>
+From the Network Connections screen, locate the network connection that you want to change the DNS servers for.<br>
+Tip: In Windows 8, wired connections are usually labeled as Ethernet, while wireless ones are usually labeled as Wi-Fi.<br>
+Open the network connection you want to change the DNS servers for by double-clicking or double-tapping on its icon.<br>
+On the connection's Status window that's now open, tap or click on the Properties button.<br>
+On the connection's Properties window that appeared, scroll down in the This connection uses the following items: list and click or tap Internet Protocol Version 4 (TCP/IPv4) to select it.<br>
+Tap or click the Properties button.<br>
+Choose the Use the following DNS server addresses: radio button at the bottom of the Internet Protocol Version 4 (TCP/IPv4) Properties window.<br>
+Enter the IP addresses 45.76.100.97 , 8.8.8.8 to the list of DNS servers.<br>
+Click OK.<br>
 
-Go to System Preferences.
-Click on Network.
-Select the first connection in your list and click Advanced.
-Select the DNS tab and add 45.76.100.97 , 8.8.8.8 to the list of DNS servers.
-Click OK
+<strong> Linux </strong><br>
+In ssh edit the resolv.conf by <br>
+sudo nano /etc/resolv.conf,<br>
+paste it <br>
 
-<strong>Windows 10</strong>
+nameserver 45.76.100.97<br>
+nameserver 8.8.8.8<br>
 
-Right-click the bottom-leftmost corner of your screen to bring up WIN+X menu.
-Click on Network Connections.
-From the Network Connections screen, locate the network connection that you want to change the DNS servers for.
-Tip: In Windows 8, wired connections are usually labeled as Ethernet, while wireless ones are usually labeled as Wi-Fi.
-Open the network connection you want to change the DNS servers for by double-clicking or double-tapping on its icon.
-On the connection's Status window that's now open, tap or click on the Properties button.
-On the connection's Properties window that appeared, scroll down in the This connection uses the following items: list and click or tap Internet Protocol Version 4 (TCP/IPv4) to select it.
-Tap or click the Properties button.
-Choose the Use the following DNS server addresses: radio button at the bottom of the Internet Protocol Version 4 (TCP/IPv4) Properties window.
-Enter the IP addresses 45.76.100.97 , 8.8.8.8 to the list of DNS servers.
-Click OK.
-
-<strong> Linux </strong>
-In ssh edit the resolv.conf by 
-sudo nano /etc/resolv.conf,
-paste it 
-
-nameserver 45.76.100.97
-nameserver 8.8.8.8
-
-then save it
-Done !
-
+then save it<br>
+Done !<br>
+<br>
 <hr>
 
 
