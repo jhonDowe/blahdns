@@ -7,7 +7,7 @@ Block content: EasyList, EasyPrivacy, China List, Gambling, Adware, Malware site
 <h4>How to setup </h4>
 <br>
 <strong>Generic Router </strong><br>
-Recommanded ~~<br>
+recommended ~~<br>
 
 Open the preferences for your router.<br>
 
@@ -53,8 +53,8 @@ Done !<br>
 <hr>
 
 
-<p> If you are from China and you want to climb over GFW, I recommand you to use VPN (L2TP) or Shadowsocks service is the best way to surf Google, Facebook ,etc.</p>
-<p> Another simple way is replace your local computer HOSTS file <br> I recommand this some few hosts resources .<br>
+<p> If you are from China and you want to climb over GFW, I recommend you to use VPN (L2TP) or Shadowsocks service is the best way to surf Google, Facebook ,etc.</p>
+<p> Another simple way is replace your local computer HOSTS file <br> I recommend this some few hosts resources .<br>
 <ul>
 <li><a href="https://github.com/racaljk/hosts">https://github.com/racaljk/hosts</a></li>
 <li><a href="http://htcui.com/4938.html">http://htcui.com/4938.html</a></li>
