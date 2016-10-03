@@ -1,6 +1,11 @@
 <h1> Block Ads with BlahDNS </h1>
+Japan<br>
 IPv4: 45.76.100.97 <br>
 IPv6: 2001:19f0:7001:d22:5400:00ff:fe35:c263
+<br>
+Amsterdam<br>
+Ipv4: 45.32.186.84<br>
+Ipv6: 2001:19f0:5001:48:5400:00ff:fe39:3257
 <br>
 Block content: EasyList, EasyPrivacy, China List, Gambling, Adware, Malware sites
 <br>
