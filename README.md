@@ -1,10 +1,10 @@
-<h1> Block Ads with BlahDNS </h1>
+<h1> Block Ads Malware Porn with BlahDNS </h1>
 <br>
 Amsterdam<br>
 Ipv4: 45.32.233.91<br>
 Ipv6: 2001:19f0:5001:fc:5400:00ff:fe3c:269a
 <br>
-Block content: EasyList, EasyPrivacy, China List, Gambling, Adware, Malware, Drugs sites
+Block content: EasyList, EasyPrivacy, China Ads, Gambling, Adware, Malware, Drugs, Porn sites
 <br>
 <h4>How to setup </h4>
 <br>
