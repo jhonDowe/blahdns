@@ -1,10 +1,10 @@
 <h1> Block Ads Malware Porn with BlahDNS </h1>
 <br>
-UK<br>
-Ipv4: 104.238.187.237<br>
-Ipv6: 2001:19f0:7402:1fd:5400:00ff:fe3e:99e0
+
+Ipv4: 108.61.103.226<br>
+Ipv6: 2001:19f0:5001:244:5400:00ff:fe40:0996
 <br>
-Block content: EasyList, EasyPrivacy, China Ads, Gambling, Adware, Malware, Drugs, Porn sites
+Block content: Ads,Scam Sites, Russia Ads, English Ads, Tracker, China Ads, Gambling, Adware, Malware, Drugs, Porn sites
 <br>
 <h4>How to setup </h4>
 <br>
@@ -16,7 +16,7 @@ Open the preferences for your router.<br>
 Often, the preferences are set in your web browser, via a URL with numbers (example: http://192.168.0.1). You may need a password.<br>
 Find the DNS server settings.<br>
 Scan for the letters DNS next to a field which allows two or three sets of numbers<br>
-Put in the OpenDNS server addresses, 104.238.187.237 , 8.8.8.8 as your DNS server settings and save/apply.<br>
+Put in the OpenDNS server addresses, 108.61.103.226 , 8.8.8.8 as your DNS server settings and save/apply.<br>
 Restart Router <br>
 <br>
 <strong> Mac OS X</strong><br>
@@ -24,7 +24,7 @@ Restart Router <br>
 Go to System Preferences.<br>
 Click on Network.<br>
 Select the first connection in your list and click Advanced.<br>
-Select the DNS tab and add 104.238.187.237 , 8.8.8.8 to the list of DNS servers.<br>
+Select the DNS tab and add 108.61.103.226 , 8.8.8.8 to the list of DNS servers.<br>
 Click OK<br>
 <br>
 <strong>Windows 10</strong><br>
@@ -38,7 +38,7 @@ On the connection's Status window that's now open, tap or click on the Propertie
 On the connection's Properties window that appeared, scroll down in the This connection uses the following items: list and click or tap Internet Protocol Version 4 (TCP/IPv4) to select it.<br>
 Tap or click the Properties button.<br>
 Choose the Use the following DNS server addresses: radio button at the bottom of the Internet Protocol Version 4 (TCP/IPv4) Properties window.<br>
-Enter the IP addresses 104.238.187.237 , 8.8.8.8 to the list of DNS servers.<br>
+Enter the IP addresses 108.61.103.226 , 8.8.8.8 to the list of DNS servers.<br>
 Click OK.<br>
 
 <strong> Linux </strong><br>
@@ -46,7 +46,7 @@ In ssh edit the resolv.conf by <br>
 sudo nano /etc/resolv.conf,<br>
 paste it <br>
 
-nameserver 104.238.187.237<br>
+nameserver 108.61.103.226<br>
 nameserver 8.8.8.8<br>
 
 then save it<br>
