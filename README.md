@@ -1,11 +1,12 @@
 <h1> Block Ads Malware Porn with BlahDNS </h1>
 <br>
 
-Ipv4: 45.76.36.162<br>
+<h2>Ipv4: 45.76.36.162</h2><br>
 
 <br>
 Block content: Ads,Scam Sites, Russia Ads, English Ads, Tracker, China Ads, Gambling, Adware, Malware, Drugs, Porn sites
 <br>
+<p>If you have a problem, please submit the problem in Issue. Thankyou </p>
 <h4>How to setup </h4>
 <br>
 <strong>Generic Router </strong><br>
