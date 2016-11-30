@@ -17,7 +17,7 @@ Open the preferences for your router.<br>
 Often, the preferences are set in your web browser, via a URL with numbers (example: http://192.168.0.1). You may need a password.<br>
 Find the DNS server settings.<br>
 Scan for the letters DNS next to a field which allows two or three sets of numbers<br>
-Put in the OpenDNS server addresses, 45.76.36.162 , 8.8.8.8 as your DNS server settings and save/apply.<br>
+Put in the OpenDNS server addresses, 45.63.119.61 , 8.8.8.8 as your DNS server settings and save/apply.<br>
 Restart Router <br>
 <br>
 <strong> Mac OS X</strong><br>
@@ -25,7 +25,7 @@ Restart Router <br>
 Go to System Preferences.<br>
 Click on Network.<br>
 Select the first connection in your list and click Advanced.<br>
-Select the DNS tab and add 45.76.36.162 , 8.8.8.8 to the list of DNS servers.<br>
+Select the DNS tab and add 45.63.119.61 , 8.8.8.8 to the list of DNS servers.<br>
 Click OK<br>
 <br>
 <strong>Windows 10</strong><br>
@@ -39,7 +39,7 @@ On the connection's Status window that's now open, tap or click on the Propertie
 On the connection's Properties window that appeared, scroll down in the This connection uses the following items: list and click or tap Internet Protocol Version 4 (TCP/IPv4) to select it.<br>
 Tap or click the Properties button.<br>
 Choose the Use the following DNS server addresses: radio button at the bottom of the Internet Protocol Version 4 (TCP/IPv4) Properties window.<br>
-Enter the IP addresses 45.76.36.162 , 8.8.8.8 to the list of DNS servers.<br>
+Enter the IP addresses 45.63.119.61 , 8.8.8.8 to the list of DNS servers.<br>
 Click OK.<br>
 
 <strong> Linux </strong><br>
@@ -47,7 +47,7 @@ In ssh edit the resolv.conf by <br>
 sudo nano /etc/resolv.conf,<br>
 paste it <br>
 
-nameserver 45.76.36.162<br>
+nameserver 45.63.119.61<br>
 nameserver 8.8.8.8<br>
 
 then save it<br>
