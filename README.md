@@ -2,6 +2,7 @@
 <br>
 
 <h2>Ipv4: 37.114.61.231</h2><br>
+<h2>Ipv4: 163.44.172.108</h2><br>
 
 <br>
 Block content: Ads,Scam Sites, Russia Ads, English Ads, Tracker, China Ads, Gambling, Adware, Malware, Drugs, Porn sites
