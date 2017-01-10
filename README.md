@@ -10,13 +10,12 @@ Default blocked content: English, Russia, China, German, Japan Ads, Tracker, Mal
 <hr>
 
 <h2>Why Us </h2>
-<p>Privacy Protection
+<p>Privacy Protection</p><p>
 We have no interest in logging DNS queries. </p>
-<p>Fast & Reliable 
+<p>Fast & Reliable </p><p>
 It's important to us, that using our DNS resolver does not slow down using the internet. You don't have to trade in better privacy protection for speed.
 </p>
-
-
+<hr>
 <p> If you are from China and you want to climb over GFW, I recommend you to use VPN (L2TP) or Shadowsocks service is the best way to surf Google, Facebook ,etc.</p>
 <p> Another simple way is replace your local computer HOSTS file <br> I recommend this some few hosts resources .<br>
 <ul>
