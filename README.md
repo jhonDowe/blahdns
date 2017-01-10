@@ -1,60 +1,20 @@
-<h1> Block Ads Malware Porn with BlahDNS </h1>
+<h1> Ads block with BlahDNS </h1>
+<h2>Ipv4: 37.114.61.231 (US,EU)
 <br>
+Ipv4: 163.44.172.108(Asia)
+</h2><br>
 
-<h2>Ipv4: 37.114.61.231</h2><br>
-<h2>Ipv4: 163.44.172.108</h2><br>
-
+Block unwanted Ads, Just DNS, No Cencorship, Fast, Secure!!
 <br>
-Block content: Ads,Scam Sites, Russia Ads, English Ads, Tracker, China Ads, Gambling, Adware, Malware, Drugs, Porn sites
-<br>
-<p>If you have a problem, please submit the problem in Issue. Thankyou </p>
-<h4>How to setup </h4>
-<br>
-<strong>Generic Router </strong><br>
-recommended ~~<br>
-
-Open the preferences for your router.<br>
-
-Often, the preferences are set in your web browser, via a URL with numbers (example: http://192.168.0.1). You may need a password.<br>
-Find the DNS server settings.<br>
-Scan for the letters DNS next to a field which allows two or three sets of numbers<br>
-Put in the OpenDNS server addresses, 37.114.61.231 , 8.8.8.8 as your DNS server settings and save/apply.<br>
-Restart Router <br>
-<br>
-<strong> Mac OS X</strong><br>
-
-Go to System Preferences.<br>
-Click on Network.<br>
-Select the first connection in your list and click Advanced.<br>
-Select the DNS tab and add 37.114.61.231 , 8.8.8.8 to the list of DNS servers.<br>
-Click OK<br>
-<br>
-<strong>Windows 10</strong><br>
-
-Right-click the bottom-leftmost corner of your screen to bring up WIN+X menu.<br>
-Click on Network Connections.<br>
-From the Network Connections screen, locate the network connection that you want to change the DNS servers for.<br>
-Tip: In Windows 8, wired connections are usually labeled as Ethernet, while wireless ones are usually labeled as Wi-Fi.<br>
-Open the network connection you want to change the DNS servers for by double-clicking or double-tapping on its icon.<br>
-On the connection's Status window that's now open, tap or click on the Properties button.<br>
-On the connection's Properties window that appeared, scroll down in the This connection uses the following items: list and click or tap Internet Protocol Version 4 (TCP/IPv4) to select it.<br>
-Tap or click the Properties button.<br>
-Choose the Use the following DNS server addresses: radio button at the bottom of the Internet Protocol Version 4 (TCP/IPv4) Properties window.<br>
-Enter the IP addresses 37.114.61.231 , 8.8.8.8 to the list of DNS servers.<br>
-Click OK.<br>
-
-<strong> Linux </strong><br>
-In ssh edit the resolv.conf by <br>
-sudo nano /etc/resolv.conf,<br>
-paste it <br>
-
-nameserver 37.114.61.231<br>
-nameserver 8.8.8.8<br>
-
-then save it<br>
-Done !<br>
-<br>
+Default blocked content: English, Russia, China, German, Japan Ads, Tracker, Malwaresites, Phishingsites, some Pornsites
 <hr>
+
+<h2>Why Us </h2>
+<p>Privacy Protection
+We have no interest in logging DNS queries. </p>
+<p>Fast & Reliable 
+It's important to us, that using our DNS resolver does not slow down using the internet. You don't have to trade in better privacy protection for speed.
+</p>
 
 
 <p> If you are from China and you want to climb over GFW, I recommend you to use VPN (L2TP) or Shadowsocks service is the best way to surf Google, Facebook ,etc.</p>
