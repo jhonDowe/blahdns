@@ -31,5 +31,5 @@ It's important to us, that using our DNS resolver does not slow down using the i
 <li> Android --> Open Airplane Mode --> Close it --> Done </li>
 </ul>
 
-<p>&copy; Copyright 2016 Blahdns.com </p>
+<p>&copy; Copyright 2017 Blahdns.com </p>
 

@@ -1,5 +1,5 @@
 ### DNS Exception List ###
-## Modified Date 2016.12.2 ##
+## Modified Date 2017.1.17 ##
 
 server=/taobao.com/8.8.8.8
 server=/counter.yadro.ru/8.8.8.8
@@ -7,10 +7,12 @@ server=/g.alicdn.com/8.8.8.8
 server=/mc.yandex.ru/8.8.8.8
 server=/sysctl.org/8.8.8.8
 server=/shield.sitelock.com/8.8.8.8
-server=/api.solvemedia.com/8.8.8.8
 server=/s3.amazonaws.com/8.8.8.8
 server=/amazon.com/8.8.8.8
 server=/yandex.ru/8.8.8.8
 server=/raw.githubusercontent.com/8.8.8.8
+server=/api.solvemedia.com/8.8.8.8
+server=/www.google-analytics.com/8.8.8.8
+server=/clk.yandex.ru/8.8.8.8
 
 #### End ####
