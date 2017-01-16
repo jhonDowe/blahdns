@@ -1,5 +1,5 @@
 <h1> Ads block with BlahDNS </h1>
-<h2>Ipv4: 45.32.235.56 (US,EU)
+<h2>Ipv4: 108.61.171.114 (US,EU)
 <br>
 Ipv4: 163.44.172.108(Asia)
 </h2><br>
