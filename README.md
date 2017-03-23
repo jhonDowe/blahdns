@@ -1,5 +1,5 @@
 <h1> Ads block with BlahDNS </h1>
-<h2>Ipv4: 107.170.196.13, 217.61.0.97
+<h2>Ipv4: 217.61.0.97,138.68.47.17
 </h2><br>
 
 Block unwanted Ads, Just DNS, No Cencorship, Fast, Secure!!
