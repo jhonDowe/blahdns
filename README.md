@@ -5,8 +5,6 @@ Block unwanted Ads, Malware, Phisihing sites, No Cencorship, Fast, Secure!!
 <br>
 Default blocked content: English, Russia, China, German, Japan Ads, Tracker, Malwaresites, Phishingsites, some Pornsites
 <hr>
-
-<hr>
 Limitation: Due to the DDOS Attack, I set the limitation from each IP per second. (Around 10 request per IP), If u face any problem with this, please open the issue I will add ur ip into whitelist. 
 Thanks 
 <hr>
