@@ -5,8 +5,12 @@ Block unwanted Ads, Malware, Phisihing sites, No Cencorship, Fast, Secure!!
 <br>
 Default blocked content: English, Russia, China, German, Japan Ads, Tracker, Malwaresites, Phishingsites, some Pornsites
 <hr>
-Limitation: Due to the DDOS Attack, I set the limitation from each IP per second. (Around 10 request per IP), If u face any problem with this, please open the issue I will add ur ip into whitelist. 
-Thanks 
+<h2>Disclaimer</h2>
+<p>
+Limitation: Due to the DDOS Attack, I set the limitation from each IP per second. (Around 10 request per IP), If u face any problem with this, please open the issue I will add your ip into whitelist. 
+I am not responsible for any damage or loss, always make backups.
+</p>
+
 <hr>
 
 <p>Privacy Protection</p><p>
@@ -14,20 +18,23 @@ We have no interest in logging DNS queries.</p>
 <p>
 It's important to us, that using our DNS resolver does not slow down using the internet. You don't have to trade in better privacy protection for speed. We have server in LA and Germany
 </p>
-<hr>
-<p> If you are from China and you want to climb over GFW, I recommend you to use VPN (L2TP) or Shadowsocks service is the best way to surf Google, Facebook ,etc.</p>
-<p> Another simple way is replace your local computer HOSTS file <br> I recommend this some few hosts resources .<br>
-<ul>
-<li><a href="https://github.com/racaljk/hosts">https://github.com/racaljk/hosts</a></li>
-<li><a href="http://htcui.com/4938.html">http://htcui.com/4938.html</a></li>
-</ul>
+
 <br>
-<p> The way to flush your dns after you change or edit ur Hosts file </p>
+<p> The way to flush your dns </p>
 <ul>
 <li> Windows --> CMD --> ipconfig /flushdns </li>
 <li> MAC --> killall -HUP mDNSResponder </li>
 <li> Linux --> sudo systemctl restart NetworkManager or sudo rcnscd restart </li>
 <li> Android --> Open Airplane Mode --> Close it --> Done </li>
+</ul>
+
+<hr>
+<p> If you are from China and you want to climb over GFW, I recommend you to use VPN (Openvpn, L2TP, Ikev2) or Shadowsocks would be the way to surf Google, Facebook,etc.</p>
+<p> Another simple way is replace your local computer HOSTS file 
+<br> I recommend this some few hosts resources .<br>
+<ul>
+<li><a href="https://github.com/racaljk/hosts">https://github.com/racaljk/hosts</a></li>
+<li><a href="http://htcui.com/4938.html">http://htcui.com/4938.html</a></li>
 </ul>
 
 <p>&copy; Copyright 2017 Blahdns.com </p>
