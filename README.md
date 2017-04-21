@@ -1,17 +1,20 @@
 <h1> Ads block with BlahDNS </h1>
-<h2>Ipv4: 217.61.0.97,45.32.81.2
+<h2>Ipv4: 45.32.81.2, 217.61.0.97
 </h2><br>
-
-Block unwanted Ads, Just DNS, No Cencorship, Fast, Secure!!
+Block unwanted Ads, Malware, Phisihing sites, No Cencorship, Fast, Secure!!
 <br>
 Default blocked content: English, Russia, China, German, Japan Ads, Tracker, Malwaresites, Phishingsites, some Pornsites
 <hr>
 
-<h2>Why Us </h2>
+<hr>
+Limitation: Due to the DDOS Attack, I set the limitation from each IP per second. (Around 10 request per IP), If u face any problem with this, please open the issue I will add ur ip into whitelist. 
+Thanks 
+<hr>
+
 <p>Privacy Protection</p><p>
-We have no interest in logging DNS queries. </p>
-<p>Fast & Reliable </p><p>
-It's important to us, that using our DNS resolver does not slow down using the internet. You don't have to trade in better privacy protection for speed.
+We have no interest in logging DNS queries.</p>
+<p>
+It's important to us, that using our DNS resolver does not slow down using the internet. You don't have to trade in better privacy protection for speed. We have server in LA and Germany
 </p>
 <hr>
 <p> If you are from China and you want to climb over GFW, I recommend you to use VPN (L2TP) or Shadowsocks service is the best way to surf Google, Facebook ,etc.</p>
