@@ -3121,8 +3121,8 @@ s@.*\sHTTP\/1.*@$&\r\nX-Frame-Options: DENY@i
 CLIENT-HEADER-TAGGER: adfilter-elemhide-check-debug
 s@^cookie:.*adfilter-elemhide-filter-debug=true(?:;|$).*@adfilter-elemhide-filter-debug@Ti
 FILTER: adfilter-elemhide-filter
-s@[^'"\s]\s*<head[^>]*>(?=\s*[^'"\s])@$&<link rel="stylesheet" type="text/css" href="http://svr1.ookangzheng.com/privoxy/ab2p.common.css"></link><link rel="stylesheet" type="text/css" href="http://svr1.ookangzheng.com/privoxy/$host/ab2p.css"></link>@iUD
+s@[^'"\s]\s*<head[^>]*>(?=\s*[^'"\s])@$&<link rel="stylesheet" type="text/css" href="http://0.0.0.0/ab2p.common.css"></link><link rel="stylesheet" type="text/css" href="http://0.0.0.0/$host/ab2p.css"></link>@iUD
 FILTER: ab2p-elemhide-filter-debug
-s@[^'"\s]\s*<head[^>]*>(?=\s*[^'"\s])@$&<link rel="stylesheet" type="text/css" href="http://svr1.ookangzheng.com/privoxy/debug/ab2p.common.css"></link><link rel="stylesheet" type="text/css" href="http://svr1.ookangzheng.com/privoxy/$host.debug/ab2p.css"></link>@iUD
+s@[^'"\s]\s*<head[^>]*>(?=\s*[^'"\s])@$&<link rel="stylesheet" type="text/css" href="http://0.0.0.0/debug/ab2p.common.css"></link><link rel="stylesheet" type="text/css" href="http://0.0.0.0/$host.debug/ab2p.css"></link>@iUD
 FILTER: adfilter-popup-filter
 s@[^'"\s]\s*<head[^>]*>(?=\s*[^'"\s])@$&<script type="text/javascript">parent==window&&opener&&close()</script>@iUD
