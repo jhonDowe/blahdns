@@ -1,3 +1,4 @@
+address=/api.solvemedia.com/8.8.8.8
 address=/click.linksynergy.com/8.8.8.8
 address=/mirror1.malwaredomains.com/8.8.8.8
 address=/sysctl.org/8.8.8.8
