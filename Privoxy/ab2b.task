@@ -1,0 +1,71 @@
+----- source -----
+Title: Ransomware Tracker Domain Blocklist
+Url: https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
+Last modified: 23 Apr 2017 13:36 UTC
+Expires: 72 hours (expired)
+Version: 201704231331
+----- source -----
+Title: Youtube: Pure Video Experience
+Url: https://easylist-downloads.adblockplus.org/yt_annoyances_full.txt
+Last modified: 28 Apr 2017 14:44 UTC
+Expires: 24 hours
+Version: 201704281432
+Homepage: http://youtube.adblockplus.me/
+----- source -----
+Url: https://adaway.org/hosts.txt
+Last modified: 17 Nov 1858 00:00 UTC
+Expires: 72 hours (expired)
+----- source -----
+Url: https://adguard.com/en/filter-rules.html?id=15
+Last modified: 17 Nov 1858 00:00 UTC
+Expires: 72 hours (expired)
+----- source -----
+Title: Popup Blocker PLUS ( PL )
+Url: https://raw.githubusercontent.com/azet12/PopupBlocker/master/PPB.txt
+Last modified: 28 Apr 2017 14:44 UTC
+Expires: 168 hours
+Version: 2017042501
+License: CC BY-SA 4.0.
+----- source -----
+Url: https://adguard.com/en/filter-rules.html?id=14
+Last modified: 17 Nov 1858 00:00 UTC
+Expires: 72 hours (expired)
+----- source -----
+Url: https://adguard.com/en/filter-rules.html?id=11
+Last modified: 17 Nov 1858 00:00 UTC
+Expires: 72 hours (expired)
+----- source -----
+Url: https://raw.githubusercontent.com/FadeMind/hosts.extras/master/SpotifyAds/hosts
+Last modified: 17 Nov 1858 00:00 UTC
+Expires: 72 hours (expired)
+----- source -----
+Title: EasyList China
+Url: https://easylist-downloads.adblockplus.org/easylistchina.txt
+Last modified: 28 Apr 2017 14:44 UTC
+Expires: 96 hours
+Version: 201704281432
+License: https://easylist-downloads.adblockplus.org/COPYING
+Homepage: http://abpchina.org/forum/
+----- source -----
+Url: my_ab2b.txt
+Last modified: 17 Nov 1858 00:00 UTC
+Expires: 72 hours (expired)
+------- end ------
+
+----- options -----
+Privoxy path: /etc/privoxy
+Web path: /home/wwwroot/45.77.34.107/privoxy
+CSS web server domain: 45.77.34.107/privoxy
+------- end ------
+
+Comments: 611
+Elements hiding rules: 5342
+Errors: 3
+Request block rules for exception: 563
+Request block rules total: 6596
+Request block rules with domain option: 393
+Request block rules with request type options: 393
+Rules with third party option: 632
+ERROR: ||uuu9.com/html/show.html#id=2| (easylistchina.txt: 5728) - Record type detection failed
+ERROR: @@.gif#$domain=tgfcer.com|wgun.net (easylistchina.txt: 10769) - Record type detection failed
+ERROR: @@.png#$domain=9zvip.net|club.tgfcer.com (easylistchina.txt: 10770) - Record type detection failed
