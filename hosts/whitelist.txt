@@ -8,7 +8,6 @@ address=/zeustracker.abuse.ch/8.8.8.8
 address=/s3.amazonaws.com/8.8.8.8
 address=/hosts-file.net/8.8.8.8
 address=/sbc.io/8.8.8.8
-address=/github.com/8.8.8.8
 address=/dn-mwsl-hosts.qbox.me/8.8.8.8
 address=/svr1.ookangzheng.com/8.8.8.8
 address=/hblock.molinero.xyz/8.8.8.8
