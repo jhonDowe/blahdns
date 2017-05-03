@@ -18,10 +18,10 @@ TAG:^adfilter-block-dnt$
 .s1.hiapk.com
 .mipujia.com
 .milk.yesky.com.cn
+.lixiangmo.com
 .lele999.com
 .kuku99.com
 .jsm.9939.com
-.js.syiae.com
 .gzlykj.cn
 .guang.sdsgwy.com
 .fuz.cc
@@ -39,22 +39,25 @@ TAG:^adfilter-block-dnt$
 .daima.chazidian.com
 .d6.mobaders.com
 .cp.greenxf.cn
+.chicken18.com
 .bd1.nxing.cn
 .ap*./.*\.pl520\.com[^\w%.-]
 .ap*.pl520.com
 .a.fengyx.com
+.7car.com.cn
 .52lubo.cn
 .3.guidaye.com
 .200218.com
+.2.rengshu.com
 .1.win7china.com
 .1.rengshu.com
 .1.panduoduo.net
 .1.1010pic.com
-/.*\?.*=.*%.*%.*%.*&.*=1.*=1.*=1.*%
+/.*\?.*=.*%.*&.*=1.*=1.*=1.*%
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.ttyavav.com/kanshenmekan/
+.piimg.com/588755/ba9d370dfd134a36\.jpg
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -189,7 +192,6 @@ TAG:^adfilter-block-dnt$
 .yupoo.com/heidongke_v/FJKFWmhp/jsI59\.gif
 .yupoo.com/heidongke_v/DMI8TWao/11YsLR\.png
 .yunupload.net/jsa/
-.yunmayi.com/upload/2015/04/14/b5d2b4c37af3f4d4c6af5831422b1ead\.jpg
 .yunlaige.com/configs/article/tcgg\.js
 .yunfile.com/ex/pop/
 .yundianb.com/tu/jia\.gif
@@ -595,7 +597,6 @@ TAG:^adfilter-block-dnt$
 .txtyd.com/js/.*box\.js
 .txtshu365.com/statics/js/tuku
 .txtshu365.com/img/
-.txtbbs.com/data/txtbbs/
 .txahz.com/static/image/tp/
 .twunbbs.com/images/
 .twavtv.com/js/jquery\.colorbox
@@ -616,6 +617,7 @@ TAG:^adfilter-block-dnt$
 .tudouui.com/tspecial/assets/PauseContainer\.swf
 .tuan.cs090.com/gettuan\.php\?
 .ttyavav.com/qian/
+.ttyavav.com/kanshenmekan/
 .ttx.cn/js/tcgd//jquery\.lightbox\.min\.js
 .ttx.cn/js/float\.js
 .ttrar.com/js/
@@ -1223,10 +1225,6 @@ TAG:^adfilter-block-dnt$
 .pg.udn.com/BT/.*\.swf
 .pfp.sina.com.cn
 .pfizer.com.tw
-.peryi.net/js/imp/SysCon\.js
-.peryi.net/js/imp/Finc\.js
-.peryi.com/templets/xunbodm/images/js/sys\.js
-.peryi.com/GetGame/
 .perlmaven.com/img/linode
 .perlmaven.com/img/.*0x2
 .people.com.cn/img/gjt/
@@ -2591,7 +2589,7 @@ TAG:^adfilter-block-dnt$
 .dongfangtai.com/js/duil\.js
 .domeng.cn/js/index_
 .domecross.com/ad/
-.dolphin.ftimg.net/s\?
+.ftimg.net/s\?z=
 .dol.tianya.cn/s\?z=tianya&
 .dodo8.com/inc/
 .docin.com/jsp_cn/ad/
@@ -3375,7 +3373,6 @@ TAG:^adfilter-block-dnt$
 .9upk.com/js/
 .9upk.com/images/95050\.gif
 .9tour.cn/x2/images/czmf\.jpg
-.9tcn.com/getgame/
 .9sky.com/_gg/
 .9ku.com/aaa/
 .9kjj.com/images/.*\.gif
@@ -4632,6 +4629,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .nmbtedu.com
 .nlrsq.com/.*\.js
 .nkeo.top
+.njwxh.com
 .njq.net
 .njfsk.com
 .njdijiani.com
@@ -4695,6 +4693,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .lv711.net
 .lucting.cn
 .lubosheng.cn
+.lu.sogoucdn.com
 .lu.sogou.com
 .lthxz.cn
 .lovestyl.com
@@ -4736,6 +4735,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .ksrsy.com
 .kqy1.com
 .koukou7.com
+.kooyum.com
 .koopei.com
 .kod4pc293.com
 .kmwqxqh.com
@@ -6761,10 +6761,10 @@ TAG:^adfilter-block-elem$
 .s1.hiapk.com
 .mipujia.com
 .milk.yesky.com.cn
+.lixiangmo.com
 .lele999.com
 .kuku99.com
 .jsm.9939.com
-.js.syiae.com
 .gzlykj.cn
 .guang.sdsgwy.com
 .fuz.cc
@@ -6782,22 +6782,25 @@ TAG:^adfilter-block-elem$
 .daima.chazidian.com
 .d6.mobaders.com
 .cp.greenxf.cn
+.chicken18.com
 .bd1.nxing.cn
 .ap*./.*\.pl520\.com[^\w%.-]
 .ap*.pl520.com
 .a.fengyx.com
+.7car.com.cn
 .52lubo.cn
 .3.guidaye.com
 .200218.com
+.2.rengshu.com
 .1.win7china.com
 .1.rengshu.com
 .1.panduoduo.net
 .1.1010pic.com
-/.*\?.*=.*%.*%.*%.*&.*=1.*=1.*=1.*%
+/.*\?.*=.*%.*&.*=1.*=1.*=1.*%
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.ttyavav.com/kanshenmekan/
+.piimg.com/588755/ba9d370dfd134a36\.jpg
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -6932,7 +6935,6 @@ TAG:^adfilter-block-elem$
 .yupoo.com/heidongke_v/FJKFWmhp/jsI59\.gif
 .yupoo.com/heidongke_v/DMI8TWao/11YsLR\.png
 .yunupload.net/jsa/
-.yunmayi.com/upload/2015/04/14/b5d2b4c37af3f4d4c6af5831422b1ead\.jpg
 .yunlaige.com/configs/article/tcgg\.js
 .yunfile.com/ex/pop/
 .yundianb.com/tu/jia\.gif
@@ -7338,7 +7340,6 @@ TAG:^adfilter-block-elem$
 .txtyd.com/js/.*box\.js
 .txtshu365.com/statics/js/tuku
 .txtshu365.com/img/
-.txtbbs.com/data/txtbbs/
 .txahz.com/static/image/tp/
 .twunbbs.com/images/
 .twavtv.com/js/jquery\.colorbox
@@ -7359,6 +7360,7 @@ TAG:^adfilter-block-elem$
 .tudouui.com/tspecial/assets/PauseContainer\.swf
 .tuan.cs090.com/gettuan\.php\?
 .ttyavav.com/qian/
+.ttyavav.com/kanshenmekan/
 .ttx.cn/js/tcgd//jquery\.lightbox\.min\.js
 .ttx.cn/js/float\.js
 .ttrar.com/js/
@@ -7966,10 +7968,6 @@ TAG:^adfilter-block-elem$
 .pg.udn.com/BT/.*\.swf
 .pfp.sina.com.cn
 .pfizer.com.tw
-.peryi.net/js/imp/SysCon\.js
-.peryi.net/js/imp/Finc\.js
-.peryi.com/templets/xunbodm/images/js/sys\.js
-.peryi.com/GetGame/
 .perlmaven.com/img/linode
 .perlmaven.com/img/.*0x2
 .people.com.cn/img/gjt/
@@ -9334,7 +9332,7 @@ TAG:^adfilter-block-elem$
 .dongfangtai.com/js/duil\.js
 .domeng.cn/js/index_
 .domecross.com/ad/
-.dolphin.ftimg.net/s\?
+.ftimg.net/s\?z=
 .dol.tianya.cn/s\?z=tianya&
 .dodo8.com/inc/
 .docin.com/jsp_cn/ad/
@@ -10118,7 +10116,6 @@ TAG:^adfilter-block-elem$
 .9upk.com/js/
 .9upk.com/images/95050\.gif
 .9tour.cn/x2/images/czmf\.jpg
-.9tcn.com/getgame/
 .9sky.com/_gg/
 .9ku.com/aaa/
 .9kjj.com/images/.*\.gif
@@ -11375,6 +11372,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .nmbtedu.com
 .nlrsq.com/.*\.js
 .nkeo.top
+.njwxh.com
 .njq.net
 .njfsk.com
 .njdijiani.com
@@ -11438,6 +11436,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .lv711.net
 .lucting.cn
 .lubosheng.cn
+.lu.sogoucdn.com
 .lu.sogou.com
 .lthxz.cn
 .lovestyl.com
@@ -11479,6 +11478,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .ksrsy.com
 .kqy1.com
 .koukou7.com
+.kooyum.com
 .koopei.com
 .kod4pc293.com
 .kmwqxqh.com
@@ -13501,9 +13501,9 @@ TAG:^adfilter-block-request$
 .yhzm.cc
 .s1.hiapk.com
 .milk.yesky.com.cn
+.lixiangmo.com
 .lele999.com
 .jsm.9939.com
-.js.syiae.com
 .gzlykj.cn
 .guang.sdsgwy.com
 .fotao9.com
@@ -13520,12 +13520,15 @@ TAG:^adfilter-block-request$
 .daima.chazidian.com
 .d6.mobaders.com
 .cp.greenxf.cn
+.chicken18.com
 .bd1.nxing.cn
 .ap*./.*\.pl520\.com[^\w%.-]
 .ap*.pl520.com
 .a.fengyx.com
+.7car.com.cn
 .52lubo.cn
 .3.guidaye.com
+.2.rengshu.com
 .1.win7china.com
 .1.rengshu.com
 .1.panduoduo.net
@@ -13533,7 +13536,7 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.ttyavav.com/kanshenmekan/
+.piimg.com/588755/ba9d370dfd134a36\.jpg
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -13667,7 +13670,6 @@ TAG:^adfilter-block-request$
 .yupoo.com/heidongke_v/FJKFWmhp/jsI59\.gif
 .yupoo.com/heidongke_v/DMI8TWao/11YsLR\.png
 .yunupload.net/jsa/
-.yunmayi.com/upload/2015/04/14/b5d2b4c37af3f4d4c6af5831422b1ead\.jpg
 .yunlaige.com/configs/article/tcgg\.js
 .yunfile.com/ex/pop/
 .yundianb.com/tu/jia\.gif
@@ -14056,7 +14058,6 @@ TAG:^adfilter-block-request$
 .txtyd.com/js/.*box\.js
 .txtshu365.com/statics/js/tuku
 .txtshu365.com/img/
-.txtbbs.com/data/txtbbs/
 .txahz.com/static/image/tp/
 .twunbbs.com/images/
 .twavtv.com/js/jquery\.colorbox
@@ -14076,6 +14077,7 @@ TAG:^adfilter-block-request$
 .tudouui.com/tspecial/assets/PauseContainer\.swf
 .tuan.cs090.com/gettuan\.php\?
 .ttyavav.com/qian/
+.ttyavav.com/kanshenmekan/
 .ttx.cn/js/tcgd//jquery\.lightbox\.min\.js
 .ttx.cn/js/float\.js
 .ttrar.com/js/
@@ -14655,10 +14657,6 @@ TAG:^adfilter-block-request$
 .ph66.com/bbsgg/
 .pgzhibo.com/uploads/image/20.*\.gif
 .pg.udn.com/BT/.*\.swf
-.peryi.net/js/imp/SysCon\.js
-.peryi.net/js/imp/Finc\.js
-.peryi.com/templets/xunbodm/images/js/sys\.js
-.peryi.com/GetGame/
 .perlmaven.com/img/linode
 .perlmaven.com/img/.*0x2
 .people.com.cn/img/gjt/
@@ -15964,7 +15962,7 @@ TAG:^adfilter-block-request$
 .dongfangtai.com/js/duil\.js
 .domeng.cn/js/index_
 .domecross.com/ad/
-.dolphin.ftimg.net/s\?
+.ftimg.net/s\?z=
 .dol.tianya.cn/s\?z=tianya&
 .docin.com/jsp_cn/ad/
 .docin.com/docin_adv/
@@ -16706,7 +16704,6 @@ TAG:^adfilter-block-request$
 .9w1an.com/special/
 .9upk.com/images/95050\.gif
 .9tour.cn/x2/images/czmf\.jpg
-.9tcn.com/getgame/
 .9sky.com/_gg/
 .9ku.com/aaa/
 .9kjj.com/images/.*\.gif
@@ -17755,6 +17752,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .nmkgs.cn
 .nlrsq.com/.*\.js
 .nkeo.top
+.njwxh.com
 .njq.net
 .njfsk.com
 .njdijiani.com
@@ -17793,6 +17791,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .lyaeccn.com
 .lucting.cn
 .lubosheng.cn
+.lu.sogoucdn.com
 .lu.sogou.com
 .lthxz.cn
 .lovestyl.com
@@ -17819,6 +17818,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .ksrsy.com
 .kqy1.com
 .koukou7.com
+.kooyum.com
 .kod4pc293.com
 .kmwqxqh.com
 .kmadou.com
@@ -20241,7 +20241,7 @@ floatad.*.
 {+server-header-filter{adfilter-xframe-filter} \
 }
 TAG:^adfilter-block-xframe$
-/.*\?.*=.*%.*%.*%.*&.*=1.*=1.*=1.*%
+/.*\?.*=.*%.*&.*=1.*=1.*=1.*%
 .yxdd.com
 .youth.cn
 .ylnet.com.cn/inc/ad
