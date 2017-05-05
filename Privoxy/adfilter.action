@@ -52,12 +52,15 @@ TAG:^adfilter-block-dnt$
 .1.win7china.com
 .1.rengshu.com
 .1.panduoduo.net
+.1.feihua.com
 .1.1010pic.com
 /.*\?.*=.*%.*&.*=1.*=1.*=1.*%
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.piimg.com/588755/ba9d370dfd134a36\.jpg
+.erebor.douban.com
+.weipaima.com/img/jc\.png
+.btsou.net/static/image/.*\.gif
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -1196,6 +1199,7 @@ TAG:^adfilter-block-dnt$
 .pingpang.info/bbs/UploadFile/2014-11/20141113852238131\.jpg
 .pingpang.info/banner/
 .pimg.tw/ifans/1399368662-4247048381\.png
+.piimg.com/588755/ba9d370dfd134a36\.jpg
 .piimg.com/562723/92bbcd8f9e965644\.jpg
 .pifa.fobshanghai.com/link/
 .pics.xgo-img.com.cn
@@ -1449,6 +1453,8 @@ TAG:^adfilter-block-dnt$
 .microcontrol.cn/bbs/images/AD755_150\.swf
 .miaobige.com/wap/wap_xia
 .miaobige.com/react\.js\?id=
+.miaobige.com/native\?
+.miaobige.com/fw\.html
 .mianbao99.com/bd/
 .mianbao99.com/a/mianbao/
 .mhhf.net/fserFiles/711x90\.jpg
@@ -2389,6 +2395,7 @@ TAG:^adfilter-block-dnt$
 .fububu.com/zb_users/THEME/LuSongSong/style/ads/
 .fububu.com/zb_users/.*/ttz
 .ftxs.org/images/86dg980x100\.jpg
+.ftimg.net/s\?z=
 .ftchinese.com/m/marketing/
 .fsehome.com/images/ad_tan\.js
 .free9.net/myc/myc\.js
@@ -2589,7 +2596,6 @@ TAG:^adfilter-block-dnt$
 .dongfangtai.com/js/duil\.js
 .domeng.cn/js/index_
 .domecross.com/ad/
-.ftimg.net/s\?z=
 .dol.tianya.cn/s\?z=tianya&
 .dodo8.com/inc/
 .docin.com/jsp_cn/ad/
@@ -3785,7 +3791,6 @@ TAG:^adfilter-block-dnt$
 .2324av.com/zz/
 .2300sjz.com/liv_loadfile/folder81/fold
 .2233777.com/bak/ad/
-.222.82.218.6:81/asset/video/2016/07/20/1469004836473\.swf
 .222.47.26.21/m\.js
 .222.45.224.77/.*\.js
 .221.5.69.52/.*\.js
@@ -4208,6 +4213,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .youbet8.com
 .yongv.com
 .yongkang6.com
+.ynmbz.com
 .yndianju.com
 .ymcqb.com
 .ykjmy.com
@@ -4641,6 +4647,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .nextcps.com
 .news.tagtoo.co
 .ne9377.com
+.ndtzx.com
 .ncachear.com
 .nbjjd.com
 .namemek.com
@@ -5628,6 +5635,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.118.144.88.216
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6795,12 +6803,15 @@ TAG:^adfilter-block-elem$
 .1.win7china.com
 .1.rengshu.com
 .1.panduoduo.net
+.1.feihua.com
 .1.1010pic.com
 /.*\?.*=.*%.*&.*=1.*=1.*=1.*%
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.piimg.com/588755/ba9d370dfd134a36\.jpg
+.erebor.douban.com
+.weipaima.com/img/jc\.png
+.btsou.net/static/image/.*\.gif
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7939,6 +7950,7 @@ TAG:^adfilter-block-elem$
 .pingpang.info/bbs/UploadFile/2014-11/20141113852238131\.jpg
 .pingpang.info/banner/
 .pimg.tw/ifans/1399368662-4247048381\.png
+.piimg.com/588755/ba9d370dfd134a36\.jpg
 .piimg.com/562723/92bbcd8f9e965644\.jpg
 .pifa.fobshanghai.com/link/
 .pics.xgo-img.com.cn
@@ -8192,6 +8204,8 @@ TAG:^adfilter-block-elem$
 .microcontrol.cn/bbs/images/AD755_150\.swf
 .miaobige.com/wap/wap_xia
 .miaobige.com/react\.js\?id=
+.miaobige.com/native\?
+.miaobige.com/fw\.html
 .mianbao99.com/bd/
 .mianbao99.com/a/mianbao/
 .mhhf.net/fserFiles/711x90\.jpg
@@ -9132,6 +9146,7 @@ TAG:^adfilter-block-elem$
 .fububu.com/zb_users/THEME/LuSongSong/style/ads/
 .fububu.com/zb_users/.*/ttz
 .ftxs.org/images/86dg980x100\.jpg
+.ftimg.net/s\?z=
 .ftchinese.com/m/marketing/
 .fsehome.com/images/ad_tan\.js
 .free9.net/myc/myc\.js
@@ -9332,7 +9347,6 @@ TAG:^adfilter-block-elem$
 .dongfangtai.com/js/duil\.js
 .domeng.cn/js/index_
 .domecross.com/ad/
-.ftimg.net/s\?z=
 .dol.tianya.cn/s\?z=tianya&
 .dodo8.com/inc/
 .docin.com/jsp_cn/ad/
@@ -10528,7 +10542,6 @@ TAG:^adfilter-block-elem$
 .2324av.com/zz/
 .2300sjz.com/liv_loadfile/folder81/fold
 .2233777.com/bak/ad/
-.222.82.218.6:81/asset/video/2016/07/20/1469004836473\.swf
 .222.47.26.21/m\.js
 .222.45.224.77/.*\.js
 .221.5.69.52/.*\.js
@@ -10951,6 +10964,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .youbet8.com
 .yongv.com
 .yongkang6.com
+.ynmbz.com
 .yndianju.com
 .ymcqb.com
 .ykjmy.com
@@ -11384,6 +11398,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .nextcps.com
 .news.tagtoo.co
 .ne9377.com
+.ndtzx.com
 .ncachear.com
 .nbjjd.com
 .namemek.com
@@ -12371,6 +12386,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.118.144.88.216
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13532,11 +13548,14 @@ TAG:^adfilter-block-request$
 .1.win7china.com
 .1.rengshu.com
 .1.panduoduo.net
+.1.feihua.com
 .1.1010pic.com
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.piimg.com/588755/ba9d370dfd134a36\.jpg
+.erebor.douban.com
+.weipaima.com/img/jc\.png
+.btsou.net/static/image/.*\.gif
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -14632,6 +14651,7 @@ TAG:^adfilter-block-request$
 .pingpang.info/bbs/UploadFile/2014-11/20141113852238131\.jpg
 .pingpang.info/banner/
 .pimg.tw/ifans/1399368662-4247048381\.png
+.piimg.com/588755/ba9d370dfd134a36\.jpg
 .piimg.com/562723/92bbcd8f9e965644\.jpg
 .pifa.fobshanghai.com/link/
 .pics.xgo-img.com.cn
@@ -14875,6 +14895,8 @@ TAG:^adfilter-block-request$
 .microcontrol.cn/bbs/images/AD755_150\.swf
 .miaobige.com/wap/wap_xia
 .miaobige.com/react\.js\?id=
+.miaobige.com/native\?
+.miaobige.com/fw\.html
 .mianbao99.com/bd/
 .mianbao99.com/a/mianbao/
 .mhhf.net/fserFiles/711x90\.jpg
@@ -15475,6 +15497,7 @@ TAG:^adfilter-block-request$
 .hoopchina.com.cn/web/widget/partner/.*/promote\.js
 .hoopchina.com.cn/web/channel/voice/.*/beforelogin/beforelogin\.js
 .hoopchina.com.cn/web/ad/
+.hoopchina.com.cn/topn
 .hoopchina.com.cn/static/www/.*340x230\.
 .hoopchina.com.cn/static/www/.*340-230\.
 .hoopchina.com.cn/common/lazyLoadAd\.js
@@ -15770,6 +15793,7 @@ TAG:^adfilter-block-request$
 .fububu.com/zb_users/THEME/LuSongSong/style/ads/
 .fububu.com/zb_users/.*/ttz
 .ftxs.org/images/86dg980x100\.jpg
+.ftimg.net/s\?z=
 .ftchinese.com/m/marketing/
 .fsehome.com/images/ad_tan\.js
 .free9.net/myc/myc\.js
@@ -15962,7 +15986,6 @@ TAG:^adfilter-block-request$
 .dongfangtai.com/js/duil\.js
 .domeng.cn/js/index_
 .domecross.com/ad/
-.ftimg.net/s\?z=
 .dol.tianya.cn/s\?z=tianya&
 .docin.com/jsp_cn/ad/
 .docin.com/docin_adv/
@@ -17100,7 +17123,6 @@ TAG:^adfilter-block-request$
 .2324av.com/zz/
 .2300sjz.com/liv_loadfile/folder81/fold
 .2233777.com/bak/ad/
-.222.82.218.6:81/asset/video/2016/07/20/1469004836473\.swf
 .222.47.26.21/m\.js
 .222.45.224.77/.*\.js
 .221.5.69.52/.*\.js
@@ -17465,6 +17487,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .yousee.com
 .youfumei.com
 .yongkang6.com
+.ynmbz.com
 .yndianju.com
 .ymcqb.com
 .ykjmy.com
@@ -17759,6 +17782,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .niuxgame77.com
 .nextcps.com
 .ne9377.com
+.ndtzx.com
 .ncachear.com
 .nbjjd.com
 .namemek.com
@@ -18315,6 +18339,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.118.144.88.216
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -20273,7 +20298,6 @@ TAG:^adfilter-block-xframe$
 .img*./.*\.hc360\.com[^\w%.-]
 .img*.hc360.com
 .images.china.cn/.*first/
-.hoopchina.com.cn/topn
 .gq.com.tw/event/
 .gaoqingkong.com
 .games.ifeng.com
