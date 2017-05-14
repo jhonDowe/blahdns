@@ -1,5 +1,5 @@
 
-#version=201705122121
+#version=201705141444
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -230,6 +230,7 @@
 127.0.0.1 astrategy.beacon.qq.com
 127.0.0.1 eventlog.beacon.qq.com
 127.0.0.1 monitor.uu.qq.com
+127.0.0.1 omgmta.qq.com
 127.0.0.1 omgmta1.qq.com
 127.0.0.1 oth.eve.mdt.qq.com
 127.0.0.1 oth.str.mdt.qq.com
@@ -334,6 +335,8 @@
 127.0.0.1 xtruh.uranus.sogou.com
 127.0.0.1 adstream.123.sogoucdn.com
 127.0.0.1 theta.sogoucdn.com
+127.0.0.1 moka.inte.sogoucdn.com
+127.0.0.1 wds.inte.sogoucdn.com
 127.0.0.1 r.admob.com
 127.0.0.1 mm.admob.com
 127.0.0.1 ad.doubleclick.net
@@ -1094,8 +1097,9 @@
 127.0.0.1 stats.yzbo.tv
 127.0.0.1 iadctest.qwapi.com
 127.0.0.1 liveupdate.mac.sandai.net
-127.0.0.1 activeqq.3g.qq.com
 127.0.0.1 jrlt.beacon.qq.com
+127.0.0.1 log.tbs.qq.com
+127.0.0.1 activeqq.3g.qq.com
 127.0.0.1 masdk.3g.qq.com
 127.0.0.1 pmir.3g.qq.com
 127.0.0.1 btrace.qq.com
@@ -2350,6 +2354,8 @@
 127.0.0.1 www.zhzywl.cc
 127.0.0.1 guffs.m.bookben.com
 127.0.0.1 gufft.m.bookben.com
+127.0.0.1 s.hkfuy.com
+127.0.0.1 e.rpaulfrank.com
 127.0.0.1 c.xhsxgmt.cn
 127.0.0.1 e.jackaow.com
 127.0.0.1 s.nyydj.com
@@ -2447,6 +2453,7 @@
 127.0.0.1 link.yida558.com
 127.0.0.1 api.xiaoliangchx.com
 127.0.0.1 mm.2436.cn
+127.0.0.1 m.tangoutianxia.com
 127.0.0.1 m.cgskqg.com
 127.0.0.1 gmtw.wzflourish.com
 127.0.0.1 s.175bar.com
@@ -2512,6 +2519,7 @@
 127.0.0.1 b.smxsg.com
 127.0.0.1 net.yiheshun.cn
 127.0.0.1 b.jxbjt.com
+127.0.0.1 m.kuwoyy.com
 127.0.0.1 m.maibahe300cc.com
 127.0.0.1 m.s400cc.com
 127.0.0.1 s.kguke.com
@@ -2528,6 +2536,7 @@
 127.0.0.1 www.gouzhibao.cn
 127.0.0.1 cp.5jjx.net
 127.0.0.1 vip.xjidian.com
+127.0.0.1 in.hkfuy.com
 127.0.0.1 i.zgzjjp.com
 127.0.0.1 image.qj175.com
 127.0.0.1 ms.myyage.com
@@ -2568,6 +2577,12 @@
 127.0.0.1 s.xpqfc.com
 127.0.0.1 vip.cainiaofx.com
 127.0.0.1 c3.gostats.cn
+127.0.0.1 aidaban.shushijiameng123.com
+127.0.0.1 dl.mbsea.com
+127.0.0.1 img.miuan.top
+127.0.0.1 syd.wayize.cn
+127.0.0.1 tks1y9.bairuile.cn
+127.0.0.1 wowo.kilospeak.com
 127.0.0.1 m.gdyyyg.net
 127.0.0.1 img.hzkcbs.com
 127.0.0.1 js.hzkcbs.com
@@ -3043,6 +3058,7 @@
 127.0.0.1 js993.dugbvb.com
 127.0.0.1 la.gydag.com
 127.0.0.1 img2.hrccb.com
+127.0.0.1 m.lflili.com
 127.0.0.1 js1597.51weidashi.com
 127.0.0.1 js1597.tongqing2015.com
 127.0.0.1 js1597.txjzjx.cn
