@@ -1,5 +1,6 @@
 
 #https://hblock.molinero.xyz/hosts
+https://github.com/AdguardTeam/AdguardDNS/raw/master/Filters/filter.txt
 https://github.com/joeylane/hosts/raw/master/hosts
 https://raw.githubusercontent.com/michaeltrimm/hosts-blocking/master/_hosts.txt
 https://github.com/ookangzheng/blahdns/raw/master/hosts/hblock.hosts
@@ -11,7 +12,7 @@ http://sbc.io/hosts/alternates/fakenews-gambling-porn/hosts
 # The below list amalgamates several lists we used previously.
 # See `https://github.com/StevenBlack/hosts` for details
 ##StevenBlack's list
-https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+#https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 
 ##MalwareDomains
 https://mirror1.malwaredomains.com/files/justdomains
