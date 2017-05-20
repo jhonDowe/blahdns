@@ -1,6 +1,6 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Thu May 18 06:00:38 UTC 2017
+# Last updated:        Sat May 20 06:04:15 UTC 2017
 # Blacklisted domains: 65149
 
 # <header>
@@ -457,7 +457,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 2017folders.com
 0.0.0.0 2017pessoafisicaonline.com
 0.0.0.0 2017rev1ews.com
-0.0.0.0 201ddlyh.com
 0.0.0.0 2020closings.com
 0.0.0.0 203kitchen.com
 0.0.0.0 20585485p.rfihub.com
@@ -43712,6 +43711,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 prizemeter.com
 0.0.0.0 prizeraffles.net
 0.0.0.0 prizes.co.uk
+0.0.0.0 prizestohandle.club
 0.0.0.0 prjcq.com
 0.0.0.0 prk.firstconf.3gb.biz
 0.0.0.0 prm-ext.phorm.com
@@ -64022,7 +64022,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 xotsa.frenchgerlemanelectric.com
 0.0.0.0 xoxcenter.com
 0.0.0.0 xoxktv.com
-0.0.0.0 xoxmmm.com
 0.0.0.0 xp.classifieds1000.com
 0.0.0.0 xp1.zedo.com
 0.0.0.0 xp2.zedo.com
@@ -64489,6 +64488,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 yourfreevideoipods.com
 0.0.0.0 yourfreexboxone.com
 0.0.0.0 yourfreezunehd.com
+0.0.0.0 yourgamehack.com
 0.0.0.0 yourgamesdownloads.com
 0.0.0.0 yourgascards.com
 0.0.0.0 yourgiftcards4free.com

@@ -14,6 +14,8 @@ TAG:^adfilter-block-dnt$
 .sonomoyo.com
 .gyrtg.com
 .feifish66.com
+.jundazulin.com
+.23txt.com
 .axkxy.com
 .caoimgs.com/images/.*\.gif
 .youbian.com
@@ -68,9 +70,6 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
-.sogoucdn.com/wap/js/
-.bjcathay.com/s\?z=
-.nba98.com/res/js\.js
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -567,7 +566,6 @@ cpro.*.
 .uuu9.com/yoyo_
 .uuu9.com/news/css/news_content_in\.js
 .uuu9.com/360adtest/
-.uschinapress.com/2016/0608/1465408047836\.gif
 .uschinapress.com/2015/0115/1421375153170\.gif
 .uschinapress.com/2014/0922/1411428929105\.png
 .urlpic.club/2016/upload/image/20170422/4220643630
@@ -808,6 +806,7 @@ cpro.*.
 .sohu.com/interaction/get/
 .sohu.com/adgtr/
 .sohu.com.cn/ppp/bms/bms\.popup\.
+.sogoucdn.com/wap/js/
 .sogoucdn.com/imgu/.*\.swf
 .sogou.com/img_logo/wp\.js
 .sogou.com/acquireAdvertise\.
@@ -1366,6 +1365,7 @@ cpro.*.
 .neihanshe.cn/upload/2014-09-24/46d6992067f9ad73daffac4cd519e11b\.jpg
 .ncdiy.com/webindex/300-250AD\.swf
 .nbyayu.cn/player\.swf
+.nba98.com/res/js\.js
 .narutom.com/v2/v/
 .narutom.com/v2/js/ca\.js
 .nanrenshu.com/rmb/st_dh\.js
@@ -1679,6 +1679,7 @@ cpro.*.
 .kcwiki.moe/commons/4/4f/DMMprepaidcard\.jpg
 .kaoyan1v1.com/IAA/
 .kanpp.net/Uploads/ad/
+.kankanwu.com/le/
 .kankantv.cc/330-50\.gif
 .kankanmi.com/js/zjgg
 .kanguba.com/file/js/ifr\.asp
@@ -1784,6 +1785,7 @@ cpro.*.
 .jb51.net/templets/2016js/
 .jb51.net/skin/office/js/botad\.js
 .jb51.net/js/ggtop\.js
+.jb51.net/js/beitou\.js
 .javlibrary.com/js/bnr_
 .javjunkies.com/FL
 .javazhijia.com/skin/bysj\.jpg
@@ -3029,6 +3031,7 @@ cpro.*.
 .bjmxw.net/bd/
 .bjmama.net/s/
 .bjmama.net/a/spc_
+.bjcathay.com/s\?z=
 .biz37.net/.*\.swf\?uid=
 .biz.weibo.com
 .biz.lyd.com.cn/20
@@ -5712,6 +5715,10 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.onewhee.com
+.queene.cn
+.udrwyjpwjfeg.com
+.fembsflungod.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6848,6 +6855,8 @@ TAG:^adfilter-block-elem$
 .sonomoyo.com
 .gyrtg.com
 .feifish66.com
+.jundazulin.com
+.23txt.com
 .axkxy.com
 .caoimgs.com/images/.*\.gif
 .youbian.com
@@ -6902,9 +6911,6 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
-.sogoucdn.com/wap/js/
-.bjcathay.com/s\?z=
-.nba98.com/res/js\.js
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7401,7 +7407,6 @@ cpro.*.
 .uuu9.com/yoyo_
 .uuu9.com/news/css/news_content_in\.js
 .uuu9.com/360adtest/
-.uschinapress.com/2016/0608/1465408047836\.gif
 .uschinapress.com/2015/0115/1421375153170\.gif
 .uschinapress.com/2014/0922/1411428929105\.png
 .urlpic.club/2016/upload/image/20170422/4220643630
@@ -7642,6 +7647,7 @@ cpro.*.
 .sohu.com/interaction/get/
 .sohu.com/adgtr/
 .sohu.com.cn/ppp/bms/bms\.popup\.
+.sogoucdn.com/wap/js/
 .sogoucdn.com/imgu/.*\.swf
 .sogou.com/img_logo/wp\.js
 .sogou.com/acquireAdvertise\.
@@ -8200,6 +8206,7 @@ cpro.*.
 .neihanshe.cn/upload/2014-09-24/46d6992067f9ad73daffac4cd519e11b\.jpg
 .ncdiy.com/webindex/300-250AD\.swf
 .nbyayu.cn/player\.swf
+.nba98.com/res/js\.js
 .narutom.com/v2/v/
 .narutom.com/v2/js/ca\.js
 .nanrenshu.com/rmb/st_dh\.js
@@ -8513,6 +8520,7 @@ cpro.*.
 .kcwiki.moe/commons/4/4f/DMMprepaidcard\.jpg
 .kaoyan1v1.com/IAA/
 .kanpp.net/Uploads/ad/
+.kankanwu.com/le/
 .kankantv.cc/330-50\.gif
 .kankanmi.com/js/zjgg
 .kanguba.com/file/js/ifr\.asp
@@ -8618,6 +8626,7 @@ cpro.*.
 .jb51.net/templets/2016js/
 .jb51.net/skin/office/js/botad\.js
 .jb51.net/js/ggtop\.js
+.jb51.net/js/beitou\.js
 .javlibrary.com/js/bnr_
 .javjunkies.com/FL
 .javazhijia.com/skin/bysj\.jpg
@@ -9863,6 +9872,7 @@ cpro.*.
 .bjmxw.net/bd/
 .bjmama.net/s/
 .bjmama.net/a/spc_
+.bjcathay.com/s\?z=
 .biz37.net/.*\.swf\?uid=
 .biz.weibo.com
 .biz.lyd.com.cn/20
@@ -12546,6 +12556,10 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.onewhee.com
+.queene.cn
+.udrwyjpwjfeg.com
+.fembsflungod.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13683,6 +13697,7 @@ TAG:^adfilter-block-request$
 .sonomoyo.com
 .gyrtg.com
 .feifish66.com
+.jundazulin.com
 .axkxy.com
 .caoimgs.com/images/.*\.gif
 .yhzm.cc
@@ -13728,9 +13743,6 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
-.sogoucdn.com/wap/js/
-.bjcathay.com/s\?z=
-.nba98.com/res/js\.js
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -14211,7 +14223,6 @@ TAG:^adfilter-block-request$
 .uuu9.com/yoyo_
 .uuu9.com/news/css/news_content_in\.js
 .uuu9.com/360adtest/
-.uschinapress.com/2016/0608/1465408047836\.gif
 .uschinapress.com/2015/0115/1421375153170\.gif
 .uschinapress.com/2014/0922/1411428929105\.png
 .urlpic.club/2016/upload/image/20170422/4220643630
@@ -14444,6 +14455,7 @@ TAG:^adfilter-block-request$
 .sohu.com/interaction/get/
 .sohu.com/adgtr/
 .sohu.com.cn/ppp/bms/bms\.popup\.
+.sogoucdn.com/wap/js/
 .sogoucdn.com/imgu/.*\.swf
 .sogou.com/img_logo/wp\.js
 .sogou.com/acquireAdvertise\.
@@ -14978,6 +14990,7 @@ TAG:^adfilter-block-request$
 .neihanshe.cn/upload/2014-09-24/46d6992067f9ad73daffac4cd519e11b\.jpg
 .ncdiy.com/webindex/300-250AD\.swf
 .nbyayu.cn/player\.swf
+.nba98.com/res/js\.js
 .narutom.com/v2/js/ca\.js
 .nanrenshu.com/rmb/st_dh\.js
 .nanren400.com/goto/
@@ -15270,6 +15283,7 @@ TAG:^adfilter-block-request$
 .kcwiki.moe/commons/4/4f/DMMprepaidcard\.jpg
 .kaoyan1v1.com/IAA/
 .kanpp.net/Uploads/ad/
+.kankanwu.com/le/
 .kankantv.cc/330-50\.gif
 .kankanmi.com/js/zjgg
 .kanguba.com/file/js/ifr\.asp
@@ -15372,6 +15386,7 @@ TAG:^adfilter-block-request$
 .jb51.net/templets/2016js/
 .jb51.net/skin/office/js/botad\.js
 .jb51.net/js/ggtop\.js
+.jb51.net/js/beitou\.js
 .javlibrary.com/js/bnr_
 .javazhijia.com/skin/bysj\.jpg
 .jav11b.com/js/bnr_
@@ -16561,6 +16576,7 @@ TAG:^adfilter-block-request$
 .bjmxw.net/bd/
 .bjmama.net/s/
 .bjmama.net/a/spc_
+.bjcathay.com/s\?z=
 .biz37.net/.*\.swf\?uid=
 .biz.weibo.com
 .biz.lyd.com.cn/20
@@ -18576,6 +18592,9 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.queene.cn
+.udrwyjpwjfeg.com
+.fembsflungod.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -19313,6 +19332,7 @@ gg.*.
 
 {+client-header-tagger{adfilter-block-request-Anhm-Cnhm-when-Rt} \
 }
+.23txt.com
 .youbian.com
 .sundxs.com
 .star-media.cn
@@ -19837,6 +19857,7 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
+.onewhee.com
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
