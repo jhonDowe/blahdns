@@ -1,6 +1,6 @@
 #Source
+<br>
+https://filterlists.com/
 https://github.com/qwIvan/privoxy-adfilter/blob/master/adfilter.action
 https://raw.githubusercontent.com/qwIvan/privoxy-adfilter/master/adfilter.filter
-
-
-Github:https://github.com/qwIvan/privoxy-adfilter
+https://github.com/qwIvan/privoxy-adfilter
