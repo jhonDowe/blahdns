@@ -1,22 +1,9 @@
 
-#version=201705202039
+#version=201705222248
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
 127.0.0.1 XiaoQiang
-218.93.127.136 cdn.pcbeta.attachment.inimc.com
-218.93.127.136 cdn.pcbeta.css.inimc.com
-218.93.127.136 cdn.pcbeta.img.inimc.com
-218.93.127.136 cdn.pcbeta.js.inimc.com
-218.93.127.136 cdn.pcbeta.static.inimc.com
-218.93.127.136 bbs.pcbeta.com
-218.93.127.136 i.pcbeta.com
-218.93.127.136 m.pcbeta.com
-218.93.127.136 pcbeta.com
-218.93.127.136 static.template.pcbeta.com
-218.93.127.136 uc.pcbeta.com
-218.93.127.136 web.pcbeta.com
-218.93.127.136 www.pcbeta.com
 74.222.26.86 bbs.uvwxyz.xyz
 74.222.26.86 ipv6.uvwxyz.xyz
 74.222.26.86 uvwxyz.xyz
@@ -156,9 +143,17 @@
 127.0.0.1 pre.nbsdk-baichuan.taobao.com
 127.0.0.1 tunion-api.m.taobao.com
 127.0.0.1 strip.taobaocdn.com
+127.0.0.1 adn.insight.ucweb.com
+127.0.0.1 adtrack.ucweb.com
+127.0.0.1 puds.ucweb.com
+127.0.0.1 wap3.ucweb.com
+127.0.0.1 alissl.ucdl.pp.uc.cn
+127.0.0.1 api.mp.uc.cn
 127.0.0.1 applog.uc.cn
-127.0.0.1 huichuan.sm.cn
+127.0.0.1 track.uc.cn
 127.0.0.1 log.cs.pp.cn
+127.0.0.1 server.m.pp.cn
+127.0.0.1 huichuan.sm.cn
 127.0.0.1 c.wrating.com
 127.0.0.1 cookiemapping.wrating.com
 127.0.0.1 sina.wrating.com
@@ -188,6 +183,9 @@
 127.0.0.1 dxp.baidu.com
 127.0.0.1 openrcv.baidu.com
 127.0.0.1 tipsdk.baidu.com
+127.0.0.1 f10.baidu.com
+127.0.0.1 f11.baidu.com
+127.0.0.1 f12.baidu.com
 127.0.0.1 api.tuisong.baidu.com
 127.0.0.1 ecma.bdimg.com
 127.0.0.1 ecmb.bdimg.com
@@ -883,8 +881,6 @@
 127.0.0.1 cr.m.liebao.cn
 127.0.0.1 j.wan.liebao.cn
 127.0.0.1 mad.m.maxthon.cn
-127.0.0.1 adn.insight.ucweb.com
-127.0.0.1 api.mp.uc.cn
 127.0.0.1 image.uczzd.cn
 127.0.0.1 m.uczzd.cn
 127.0.0.1 iflow.uczzd.cn
@@ -1812,6 +1808,9 @@
 127.0.0.1 game.rising.cn
 127.0.0.1 wan.rising.cn
 127.0.0.1 404.safedog.cn
+127.0.0.1 daima.dsxdn.com
+127.0.0.1 gg.dsxdn.com
+127.0.0.1 jiansuo.dsxdn.com
 127.0.0.1 counter.yesky.com
 127.0.0.1 media.tianjimedia.com
 127.0.0.1 am.zdnet.com.cn
@@ -2580,6 +2579,7 @@
 127.0.0.1 baidu.shu008.com
 127.0.0.1 tmall.shu008.com
 127.0.0.1 qq.shu008.com
+127.0.0.1 www.lhafy.com
 127.0.0.1 e.kuwoyy.com
 127.0.0.1 e.s400cc.com
 127.0.0.1 m.sos0easy.com
@@ -3581,6 +3581,12 @@
 127.0.0.1 fnm.08160.cn
 127.0.0.1 g1.08160.cn
 127.0.0.1 ssp.08160.cn
+127.0.0.1 b17.xiumu.cn
+127.0.0.1 j17.xiumu.cn
+127.0.0.1 1.21shebao.com
+127.0.0.1 2.21shebao.com
+127.0.0.1 gg.anqu.com
+127.0.0.1 mm.anqu.com
 127.0.0.1 dygang.kkcaicai.com
 127.0.0.1 img1.tzxrs.com
 127.0.0.1 img2.tzxrs.com
