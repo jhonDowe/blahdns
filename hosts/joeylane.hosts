@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75918 ad serving and malware domains.
+# Currently blocking 75924 ad serving and malware domains.
 #
-# Date Generated: May 21 2017
+# Date Generated: May 24 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -24743,6 +24743,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 advertisingnemesis.com
 127.0.0.1 advertisingpath.net
 127.0.0.1 advertisingsex.com
+127.0.0.1 advertisingtag.net
 127.0.0.1 advertisingvalue.info
 127.0.0.1 advertisingvision.com
 127.0.0.1 advertisment.unimatrix.si
@@ -26246,6 +26247,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 anonymoussurfing.net
 127.0.0.1 anorak.uk.intellitxt.com
 127.0.0.1 anothersite.com
+127.0.0.1 anouslab.cmail20.com
 127.0.0.1 anpqt.voluumtrk.com
 127.0.0.1 anrtx.tacoda.net
 127.0.0.1 anrysys.popunder.ru
@@ -51338,6 +51340,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 npvnf.voluumtrk.com
 127.0.0.1 npvos.com
 127.0.0.1 nqi5j.voluumtrk.com
+127.0.0.1 nqm.blackcurranthumidifiers.site
 127.0.0.1 nr.taboola.com
 127.0.0.1 nrads.1host.co.il
 127.0.0.1 nrg.checkm8.com
@@ -55900,6 +55903,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 revsci.net
 127.0.0.1 revsci.tvguide.com
 127.0.0.1 revstats.com
+127.0.0.1 reward-survey.net
 127.0.0.1 rewardblvd.com
 127.0.0.1 rewardhotspot.com
 127.0.0.1 rewardit.go2cloud.org
@@ -70195,6 +70199,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.besttoolbars.net
 127.0.0.1 www.bestwebnutfunblack.biz
 127.0.0.1 www.besuchercounter.de
+127.0.0.1 www.bet365.com
 127.0.0.1 www.betcounter.com
 127.0.0.1 www.betterclips.com
 127.0.0.1 www.bettermail.ca
@@ -70703,6 +70708,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.coreglead.co.uk
 127.0.0.1 www.coremetrics.com
 127.0.0.1 www.corinne-gump.us
+127.0.0.1 www.cornomase.win
 127.0.0.1 www.corrie-mchale.us
 127.0.0.1 www.corrine-scroggins.us
 127.0.0.1 www.cortesidesign.com
