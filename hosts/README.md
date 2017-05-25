@@ -1,5 +1,5 @@
 Source
-1. https://github.com/vokins/yhosts/blob/master/hosts
+1. https://github.com/vokins/yhosts/raw/master/hosts
 2. https://hblock.molinero.xyz/hosts
 3. http://sbc.io/hosts/alternates/fakenews-gambling-porn/hosts
 4. https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
