@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75924 ad serving and malware domains.
+# Currently blocking 75927 ad serving and malware domains.
 #
-# Date Generated: May 24 2017
+# Date Generated: May 25 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -2702,6 +2702,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 aavalue.com
 127.0.0.1 aavc.com
 127.0.0.1 aavis.com
+127.0.0.1 aax-cpm.amazon-adsystem.com
 127.0.0.1 aax-eu-rtb.amazon-adsystem.com
 127.0.0.1 aax-eu.amazon-adsystem.com
 127.0.0.1 aax-fe-sin.amazon-adsystem.com
@@ -52386,6 +52387,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 onlinsport.2cnt.net
 127.0.0.1 only-valium.go.to
 127.0.0.1 only-valium.shengen.ru
+127.0.0.1 only.best-games.today
 127.0.0.1 only2date.com
 127.0.0.1 onlybestsex.com
 127.0.0.1 onlybigmovies.com
@@ -63628,6 +63630,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 update.saintfrancoisath.be
 127.0.0.1 update.smart-browser.com
 127.0.0.1 update.smartallyes.com
+127.0.0.1 update.theplacetoupdating.pw
 127.0.0.1 update.timstackleshop.es
 127.0.0.1 update4soft.fixbugs2update.org
 127.0.0.1 updateacces.org

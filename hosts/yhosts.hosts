@@ -1,5 +1,5 @@
 
-#version=201705251402
+#version=201705261159
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -667,6 +667,7 @@
 127.0.0.1 img.toppr.com.cn
 127.0.0.1 www.remote88.com
 127.0.0.1 ypv.chengadx.com
+127.0.0.1 hao.tiandi.com
 127.0.0.1 info.yitsoftware.com
 127.0.0.1 osfota.cdn.aliyun.com
 127.0.0.1 osupdateservice.yunos.com
@@ -687,7 +688,6 @@
 127.0.0.1 t-flow.flyme.cn
 127.0.0.1 cal.meizu.com
 127.0.0.1 aries.mzres.com
-127.0.0.1 ebook.meizu.com
 127.0.0.1 ebook.res.meizu.com
 127.0.0.1 api-game.meizu.com
 127.0.0.1 game.res.meizu.com
@@ -2521,6 +2521,7 @@
 127.0.0.1 a.qindouxs.co
 127.0.0.1 b.qindouxs.co
 127.0.0.1 c.qindouxs.co
+127.0.0.1 ge.dezfu.com
 127.0.0.1 jie.mnxtu.com
 127.0.0.1 da.qgss8.com
 127.0.0.1 yue.sqext.com
@@ -2588,6 +2589,8 @@
 127.0.0.1 baidu.shu008.com
 127.0.0.1 tmall.shu008.com
 127.0.0.1 qq.shu008.com
+127.0.0.1 e.yunanfuwuqi.com
+127.0.0.1 m.yunanfuwuqi.com
 127.0.0.1 www.lhafy.com
 127.0.0.1 e.kuwoyy.com
 127.0.0.1 e.s400cc.com
@@ -2732,6 +2735,7 @@
 127.0.0.1 s1.9sfang.com
 127.0.0.1 vipjs.csad.cc
 127.0.0.1 www.baidu.com.cyad456.com
+127.0.0.1 in.ddstu.com
 127.0.0.1 s.ddstu.com
 127.0.0.1 img.bdaerfa.com
 127.0.0.1 lz.bdaerfa.com
