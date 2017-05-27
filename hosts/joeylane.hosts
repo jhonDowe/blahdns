@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75927 ad serving and malware domains.
+# Currently blocking 75930 ad serving and malware domains.
 #
-# Date Generated: May 25 2017
+# Date Generated: May 26 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -52109,6 +52109,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 offers.bycontext.com
 127.0.0.1 offers.impower.com
 127.0.0.1 offers.keynote.com
+127.0.0.1 offers.nordvpn.com
 127.0.0.1 offers.royalvegascasino.com
 127.0.0.1 offerservice.go2cloud.org
 127.0.0.1 offersinternational.go2cloud.org
@@ -53639,6 +53640,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 picupload.tnaflix.com
 127.0.0.1 pigment-adv.co.il
 127.0.0.1 pigra.csheaven.com
+127.0.0.1 pigredoben12.sytes.net
 127.0.0.1 pillscash.com
 127.0.0.1 pilltabletsrxbargain.net
 127.0.0.1 pilmedia.ads.visionweb.no
@@ -55909,6 +55911,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rewardblvd.com
 127.0.0.1 rewardhotspot.com
 127.0.0.1 rewardit.go2cloud.org
+127.0.0.1 rewardpoll.com
 127.0.0.1 rewards.macandbumble.com
 127.0.0.1 rewards.yoursitebar.com
 127.0.0.1 rewardsflow.com
