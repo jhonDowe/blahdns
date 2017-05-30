@@ -1,26 +1,18 @@
 <h1> Ads block with BlahDNS </h1>
-<h2>Ipv4: 45.32.81.2, 217.61.0.97
-</h2><br>
+<h2>Ipv4: 45.32.81.2 (Los Angeles, US), 217.61.0.97 (Frankfut, Germany) </h2>
+<br>
 Block unwanted Ads, Malware, Phisihing sites, No Cencorship, Fast, Secure!!
 <br>
-Default blocked content: English, Russia, China, German, Japan Ads, Tracker, Malwaresites, Phishingsites, some Pornsites
-<hr>
-<h2>Disclaimer</h2>
-<p>
-Limitation: Due to the DDOS Attack, I set the limitation from each IP per second. (Around 10 request per IP), If u face any problem with this, please open the issue I will add your ip into whitelist. 
-I am not responsible for any damage or loss, always make backups.
-</p>
-
+Default blocked content: English, Russia, China, German, Tracker, Malwaresites, Phishingsites, Ransome
 <hr>
 
 <p>Privacy Protection</p><p>
 We have no interest in logging DNS queries.</p>
 <p>
-It's important to us, that using our DNS resolver does not slow down using the internet. You don't have to trade in better privacy protection for speed. We have server in LA and Germany
+It's important to us, that using our DNS resolver does not slow down using the internet. You don't have to trade in better privacy protection for speed. 
 </p>
 
-<br>
-<p> The way to flush your dns </p>
+<p> How can I flush my DNS </p>
 <ul>
 <li> Windows --> CMD --> ipconfig /flushdns </li>
 <li> MAC --> killall -HUP mDNSResponder </li>
