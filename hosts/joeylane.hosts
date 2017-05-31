@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75968 ad serving and malware domains.
+# Currently blocking 75969 ad serving and malware domains.
 #
-# Date Generated: May 29 2017
+# Date Generated: May 30 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -40354,6 +40354,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 etad.telegraph.co.uk
 127.0.0.1 etahub.com
 127.0.0.1 etargetnet.com
+127.0.0.1 etek.club
 127.0.0.1 eten-users.us.intellitxt.com
 127.0.0.1 eternal.reklamlab.com
 127.0.0.1 eternitymobiles.com
