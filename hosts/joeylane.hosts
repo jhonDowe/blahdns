@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75969 ad serving and malware domains.
+# Currently blocking 75972 ad serving and malware domains.
 #
-# Date Generated: May 30 2017
+# Date Generated: Jun 01 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -24960,6 +24960,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 afantispy.com
 127.0.0.1 afdbande.cn
 127.0.0.1 afdtkr.com
+127.0.0.1 afdyfxfrwbfy.com
 127.0.0.1 afe.specificclick.net
 127.0.0.1 afe2.specificclick.net
 127.0.0.1 afe3.specificclick.net
@@ -34394,7 +34395,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 class-act-clicks.com
 127.0.0.1 class.heraldnet.com
 127.0.0.1 classic.mbn.com.ua
-127.0.0.1 classicalbitu.com
 127.0.0.1 classicallyabsurdphotography.com
 127.0.0.1 classicjack.com
 127.0.0.1 classicspeedway.com
@@ -52154,6 +52154,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 oggva.voluumtrk.com
 127.0.0.1 ogilvy.ngadcenter.net
 127.0.0.1 oglasnikadhr.hit.gemius.pl
+127.0.0.1 ogulzxfxrmow.com
 127.0.0.1 ogxtu.voluumtrk.com
 127.0.0.1 oh.5.p2l.info
 127.0.0.1 ohgizmo.us.intellitxt.com
@@ -54092,7 +54093,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 pool.skyhookwireless.com
 127.0.0.1 pool01.2cnt.net
 127.0.0.1 pool02.2cnt.net
-127.0.0.1 poolkingsthailand.com
 127.0.0.1 poolnoodle.tech
 127.0.0.1 poopoo.freestats.com
 127.0.0.1 pop-bazar.com
@@ -58021,6 +58021,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 show.ctrmanager.com
 127.0.0.1 show.onenetworkdirect.net
 127.0.0.1 show.smartcontext.pl
+127.0.0.1 show.targead.com
 127.0.0.1 show.textads.lv
 127.0.0.1 show.wwbads.com
 127.0.0.1 show.yeabble.com
@@ -58947,6 +58948,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ssl.xplosion.de
 127.0.0.1 ssl1.fra.vmsn.de
 127.0.0.1 ssl3.adhost.com
+127.0.0.1 ssl4anyone5.com
 127.0.0.1 sslad.adcash.com
 127.0.0.1 ssljscdn.airbrake.io
 127.0.0.1 sslsam.com
@@ -59944,6 +59946,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 stock.daydreamfuze.com
 127.0.0.1 stocker.bonnint.net
 127.0.0.1 stockgroup.us.intellitxt.com
+127.0.0.1 stoiximan.gr
 127.0.0.1 stop-smoking.1.p2l.info
 127.0.0.1 stopmeagency.free.fr
 127.0.0.1 stopphoulplay.com
@@ -61514,7 +61517,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 tools.ztod.com
 127.0.0.1 tools2.hitbox.com
 127.0.0.1 toolsa.hitbox.com
-127.0.0.1 toolsathomes.com
 127.0.0.1 toon-families.com
 127.0.0.1 toonfamilies.net
 127.0.0.1 top-casting-termine.de
@@ -70677,6 +70679,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.comfm.com
 127.0.0.1 www.commerce-offer.com
 127.0.0.1 www.commerce-rewardpath.com
+127.0.0.1 www.commercialclientsgroup.ru
 127.0.0.1 www.commission-junction.com
 127.0.0.1 www.commissionempire.com
 127.0.0.1 www.commissionmonster.com
