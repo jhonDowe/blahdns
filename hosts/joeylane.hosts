@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75972 ad serving and malware domains.
+# Currently blocking 75980 ad serving and malware domains.
 #
-# Date Generated: Jun 01 2017
+# Date Generated: Jun 02 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -18536,6 +18536,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 addfreestats.com
 127.0.0.1 addictivetechnologies.com
 127.0.0.1 addie.verticalnetwork.de
+127.0.0.1 addiliate.com
 127.0.0.1 addiply.com
 127.0.0.1 addirector.vindicosuite.com
 127.0.0.1 addjump.com
@@ -35177,6 +35178,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 code.adengage.com
 127.0.0.1 code.adsales.snidigital.com
 127.0.0.1 code.adtlgc.com
+127.0.0.1 code.blaztech.gdn
 127.0.0.1 code.checkstat.nl
 127.0.0.1 code.d-agency.net
 127.0.0.1 code.directadvert.ru
@@ -51478,6 +51480,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 nsads.us.publicus.com
 127.0.0.1 nsads4.us.publicus.com
 127.0.0.1 nsclick.baidu.com
+127.0.0.1 nsdic.pp.ru
 127.0.0.1 nsdldlese.112.2o7.net
 127.0.0.1 nsl.mapticket.net
 127.0.0.1 nsm.dell.com
@@ -51513,6 +51516,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 numax.nu-1.com
 127.0.0.1 numb.hotshare.biz
 127.0.0.1 nuptialimages.com
+127.0.0.1 nurno.com
 127.0.0.1 nuseek.com
 127.0.0.1 nutabuse.com
 127.0.0.1 nutnet.ir
@@ -56922,6 +56926,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sarah-maurer.us
 127.0.0.1 sarah.dntrax.com
 127.0.0.1 sarah.dntrx.com
+127.0.0.1 sarahdaniella.com
 127.0.0.1 sas.decisionnews.com
 127.0.0.1 sascentral.com
 127.0.0.1 sasha-castleman.us
@@ -69578,6 +69583,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.addbags.com
 127.0.0.1 www.addfreecounter.com
 127.0.0.1 www.addfreestats.com
+127.0.0.1 www.addiliate.com
 127.0.0.1 www.addinto.com
 127.0.0.1 www.addme.com
 127.0.0.1 www.addrive.com
@@ -72939,6 +72945,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.nubijlage.nl
 127.0.0.1 www.nudecash.com
 127.0.0.1 www.nudegalleries.org
+127.0.0.1 www.nurno.com
 127.0.0.1 www.nutabuse.com
 127.0.0.1 www.nutaku.com
 127.0.0.1 www.nutten-verzeichnis.cxa.de
@@ -74016,6 +74023,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.t-gas.co.uk
 127.0.0.1 www.t-sb.net
 127.0.0.1 www.t5.ro
+127.0.0.1 www.taba.site
 127.0.0.1 www.tafmaster.com
 127.0.0.1 www.tag4arm.com
 127.0.0.1 www.tagclearbits.com
