@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75980 ad serving and malware domains.
+# Currently blocking 75978 ad serving and malware domains.
 #
-# Date Generated: Jun 02 2017
+# Date Generated: Jun 03 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -59189,7 +59189,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 stat.simba.taobao.com
 127.0.0.1 stat.sittiad.com
 127.0.0.1 stat.stars.ru
-127.0.0.1 stat.su
 127.0.0.1 stat.synergy-e.com
 127.0.0.1 stat.tianya.cn
 127.0.0.1 stat.tudou.com
@@ -61570,7 +61569,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 topbarh.box.sk
 127.0.0.1 topbestgames.com
 127.0.0.1 topbinaryaffiliates.ck-cdn.com
-127.0.0.1 topblogarea.se
 127.0.0.1 topbrandrewards.com
 127.0.0.1 topbucks.com
 127.0.0.1 topcasino10.com
