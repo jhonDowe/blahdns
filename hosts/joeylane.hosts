@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75978 ad serving and malware domains.
+# Currently blocking 75981 ad serving and malware domains.
 #
-# Date Generated: Jun 03 2017
+# Date Generated: Jun 05 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -23703,6 +23703,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adsim.sabah.com.tr
 127.0.0.1 adsincontext.com
 127.0.0.1 adsinimages.com
+127.0.0.1 adsino24.com
 127.0.0.1 adsintl.starwave.com
 127.0.0.1 adsipl.indiatimes.com
 127.0.0.1 adsiplytmedia.indiatimes.com
@@ -42760,6 +42761,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 getmailcounter.com
 127.0.0.1 getmetrical.com
 127.0.0.1 getmusicfree.aavalue.com
+127.0.0.1 getmyads.com
 127.0.0.1 getmyads24.com
 127.0.0.1 getmycell.com
 127.0.0.1 getmyfreebabystuff.com
@@ -73174,6 +73176,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.pixetrk.com
 127.0.0.1 www.pkracv.com
 127.0.0.1 www.placehold.it
+127.0.0.1 www.placelocal.com
 127.0.0.1 www.plasmatv4free.com
 127.0.0.1 www.plasmatvreward.com
 127.0.0.1 www.platinscience.com
