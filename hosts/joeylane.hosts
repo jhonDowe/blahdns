@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75981 ad serving and malware domains.
+# Currently blocking 75983 ad serving and malware domains.
 #
-# Date Generated: Jun 05 2017
+# Date Generated: Jun 06 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -38134,6 +38134,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dc.tremormedia.com
 127.0.0.1 dc.webtrends.com
 127.0.0.1 dc.widespace.com
+127.0.0.1 dc43.s290.meetrics.net
 127.0.0.1 dc4d4996bc86498d8959-7dc0216bc6cc2f4ed239035dfc17235b.r83.cf3.rackcdn.com
 127.0.0.1 dc56.s290.meetrics.net
 127.0.0.1 dc61.s290.meetrics.net
@@ -39279,6 +39280,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dycpc40hvg4ki.cloudfront.net
 127.0.0.1 dyhju.voluumtrk.com
 127.0.0.1 dyl3p6so5yozo.cloudfront.net
+127.0.0.1 dyn.emetriq.de
 127.0.0.1 dyn.loolav.space
 127.0.0.1 dyn.naiadsystems.com
 127.0.0.1 dynad.website.bg
