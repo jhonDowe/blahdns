@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75983 ad serving and malware domains.
+# Currently blocking 75971 ad serving and malware domains.
 #
-# Date Generated: Jun 06 2017
+# Date Generated: Jun 07 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -25303,7 +25303,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 afreehome.com
 127.0.0.1 africandevelopmentbank.com
 127.0.0.1 africaspromise.org
-127.0.0.1 afrirent.net
 127.0.0.1 afs.ero-advertising.com
 127.0.0.1 afs.googlesyndication.com
 127.0.0.1 afs.googleusercontent.com
@@ -25495,7 +25494,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 akaokoichi.net
 127.0.0.1 akatracking.esearchvision.com
 127.0.0.1 akcr.free.fr
-127.0.0.1 akdenizklima.com.tr
 127.0.0.1 akihabaranews.us.intellitxt.com
 127.0.0.1 akillimeyveler.reklamagaci.com
 127.0.0.1 akirkpatrick.com
@@ -29407,7 +29405,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 bild.ivwbox.de
 127.0.0.1 bild01.webtrekk.net
 127.0.0.1 bildwl.mobile.de
-127.0.0.1 bilgenart.com
 127.0.0.1 bill-info.com
 127.0.0.1 bill-support.com
 127.0.0.1 bill.agent.56.com
@@ -37269,7 +37266,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cribdare2no.com
 127.0.0.1 crimg.sv.publicus.com
 127.0.0.1 crimunalbot001.ga
-127.0.0.1 criskolak.i.ng
 127.0.0.1 crispads.com
 127.0.0.1 crispadvertising.com
 127.0.0.1 crispmedia.com
@@ -37494,7 +37490,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cxtad.specificmedia.com
 127.0.0.1 cxw73.voluumtrk.com
 127.0.0.1 cy-m0ld.com
-127.0.0.1 cy-stuffs.ga
 127.0.0.1 cya2.net
 127.0.0.1 cyber-incentives.com
 127.0.0.1 cyber-shop.net
@@ -38633,7 +38628,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 dinoadserver2.roka.net
 127.0.0.1 dinsalgsvagt.adservinginternational.com
 127.0.0.1 dintandnesin.ru
-127.0.0.1 diosdelared.com.mx
 127.0.0.1 dir.opank.com
 127.0.0.1 dirbg.hit.gemius.pl
 127.0.0.1 direct-revenue.com
@@ -40359,7 +40353,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 etad.telegraph.co.uk
 127.0.0.1 etahub.com
 127.0.0.1 etargetnet.com
-127.0.0.1 etek.club
 127.0.0.1 eten-users.us.intellitxt.com
 127.0.0.1 eternal.reklamlab.com
 127.0.0.1 eternitymobiles.com
@@ -44188,7 +44181,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 hsb-canada.com
 127.0.0.1 hsbc.tt.omtrdc.net
 127.0.0.1 hsbconline.ca
-127.0.0.1 hsccosteel.com
 127.0.0.1 hsn01.wcom-ma.us.conversion-marketing.com
 127.0.0.1 hst-19-33.splius.lt
 127.0.0.1 hst.tradedoubler.com
@@ -45459,7 +45451,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 integral-marketing.com
 127.0.0.1 integrate.112.2o7.net
 127.0.0.1 integrate.com
-127.0.0.1 intekyapi.com.tr
 127.0.0.1 intela.com
 127.0.0.1 intelatrack.biz
 127.0.0.1 intelatracking.net
@@ -54218,7 +54209,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 portal.skyhookwireless.com
 127.0.0.1 portal.zedo.com
 127.0.0.1 portalfiremasters.com.br
-127.0.0.1 portaligrejavidanova.com.br
 127.0.0.1 portia-mota.us
 127.0.0.1 portraitphotographygroup.com
 127.0.0.1 pos-kupang.com
@@ -60523,7 +60513,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 t6.formalyzer.com
 127.0.0.1 t6.leadlander.com
 127.0.0.1 t6.trackalyzer.com
-127.0.0.1 t61haber.com
 127.0.0.1 t7.formalyzer.com
 127.0.0.1 t7.leadlander.com
 127.0.0.1 t7.trackalyzer.com
@@ -62804,6 +62793,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 trendnews.com
 127.0.0.1 trends.revcontent.com
 127.0.0.1 tresalacarta.2cnt.net
+127.0.0.1 treskainc.com
 127.0.0.1 treventuresonline.com
 127.0.0.1 trf.intuitwebsites.com
 127.0.0.1 trg.peer39.net
@@ -68403,7 +68393,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 watube.com
 127.0.0.1 wau.tynt.com
 127.0.0.1 wayads.com
-127.0.0.1 wayufilm.com
 127.0.0.1 wb.interpolls.com
 127.0.0.1 wba.wirtschaftsblatt.at
 127.0.0.1 wbads.vo.llnwd.net
@@ -68707,7 +68696,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 websurvey.burstmedia.com
 127.0.0.1 websurvey.spa-mr.com
 127.0.0.1 websystem24.nuggad.net
-127.0.0.1 webtahmin.com
 127.0.0.1 webtools.homestead.com
 127.0.0.1 webtrac.bluecherry.com
 127.0.0.1 webtrace.exapaq.com
@@ -70959,7 +70947,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.demandbase.com
 127.0.0.1 www.demdex.net
 127.0.0.1 www.demetria-tickle.us
-127.0.0.1 www.demexsoft.com
 127.0.0.1 www.depravedwhores.com
 127.0.0.1 www.dermadoctoraffiliates.com
 127.0.0.1 www.designbloxlive.com
@@ -73044,7 +73031,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.originalicons.com
 127.0.0.1 www.orquestanacaona.cult.cu
 127.0.0.1 www.os-downloads.com
-127.0.0.1 www.osregio.de
 127.0.0.1 www.ostsee-schnack.de
 127.0.0.1 www.otherossettlement.com
 127.0.0.1 www.otherprofit.com
@@ -73200,6 +73186,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.politicalopinionsurvey.com
 127.0.0.1 www.pollmonkey.com
 127.0.0.1 www.polly-hammack.us
+127.0.0.1 www.poloatmer.ru
 127.0.0.1 www.polskasupermarkecie.website
 127.0.0.1 www.pongoresume.com
 127.0.0.1 www.popads.ero-advertising.com
@@ -75586,6 +75573,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 yesupseo.com
 127.0.0.1 yesupweb.com
 127.0.0.1 yevins.com
+127.0.0.1 yhit.press
 127.0.0.1 yie4zooseif.info
 127.0.0.1 yield.audience.digitalmedia.bg
 127.0.0.1 yield.jmp9.com
