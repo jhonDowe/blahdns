@@ -18,7 +18,7 @@
 #----- source -----
 #Title: Spam404
 #Url: https://raw.githubusercontent.com/Dawsey21/Lists/master/adblock-list.txt
-#Last modified: 05 Jun 2017 11:44 UTC
+#Last modified: 09 Jun 2017 08:13 UTC
 #Expires: 48 hours
 #Version: 5821
 #License: We give everyone permission to modify, copy and distribute this list.
@@ -52,7 +52,7 @@
 #----- source -----
 #Title: Popup Blocker PLUS ( PL )
 #Url: https://raw.githubusercontent.com/azet12/PopupBlocker/master/PPB.txt
-#Last modified: 05 Jun 2017 11:45 UTC
+#Last modified: 09 Jun 2017 08:13 UTC
 #Expires: 168 hours
 #Version: 2017052901
 #License: CC BY-SA 4.0.
@@ -78,9 +78,9 @@
 #----- source -----
 #Title: EasyList China
 #Url: https://easylist-downloads.adblockplus.org/easylistchina.txt
-#Last modified: 05 Jun 2017 11:45 UTC
+#Last modified: 09 Jun 2017 08:13 UTC
 #Expires: 96 hours
-#Version: 201706051132
+#Version: 201706090802
 #License: https://easylist-downloads.adblockplus.org/COPYING
 #Homepage: http://abpchina.org/forum/
 #----- source -----
@@ -93,7 +93,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-dnt-R1
 s@^referer(?=:[^\n]*[./](?:100ksw\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R10
-s@^referer(?=:[^\n]*[./](?:172\.86\.179\.138|208\.94\.244\.100|208\.94\.244\.98|a88\.us|ac168\.info|aisex\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:17huohu\.com|firefox\.com\.cn|firefoxchina\.cn)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R100
 s@^referer(?=:[^\n]*[./](?:linkbucks\.com|zytpirwai\.net)):.*@ab2p-block-dnt@Ti
@@ -126,7 +126,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-dnt-R109
 s@^referer(?=:[^\n]*[./](?:mail\.pchome\.com\.tw)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R11
-s@^referer(?=:[^\n]*[./](?:17huohu\.com|firefox\.com\.cn|firefoxchina\.cn)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:189so\.cn)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R110
 s@^referer(?=:[^\n]*[./](?:mitbbs\.ca|mitbbs\.com)):.*@ab2p-block-dnt@Ti
@@ -159,7 +159,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-dnt-R119
 s@^referer(?=:[^\n]*[./](?:pc6\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R12
-s@^referer(?=:[^\n]*[./](?:189so\.cn)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:18avhub\.com|18avtube\.com|mm-cg\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R120
 s@^referer(?=:[^\n]*[./](?:pos\.baidu\.com)):.*@ab2p-block-dnt@Ti
@@ -180,19 +180,19 @@ CLIENT-HEADER-TAGGER: ab2p-block-dnt-R125
 s@^referer(?=:[^\n]*[./](?:shuajizhijia\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R126
-s@^referer(?=:[^\n]*[./](?:storm\.mg)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:steamcn\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R127
-s@^referer(?=:[^\n]*[./](?:sun0769\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:storm\.mg)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R128
-s@^referer(?=:[^\n]*[./](?:susu83\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:sun0769\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R129
 s@^referer(?=:[^\n]*[./](?:tieba\.baidu\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R13
-s@^referer(?=:[^\n]*[./](?:18avhub\.com|18avtube\.com|mm-cg\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:18board\.com|18p2p\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R130
 s@^referer(?=:[^\n]*[./](?:tiexue\.net)):.*@ab2p-block-dnt@Ti
@@ -225,7 +225,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-dnt-R139
 s@^referer(?=:[^\n]*[./](?:wishct\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R14
-s@^referer(?=:[^\n]*[./](?:18board\.com|18p2p\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:18p2p\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R140
 s@^referer(?=:[^\n]*[./](?:www\.gamer\.com\.tw)):.*@ab2p-block-dnt@Ti
@@ -240,58 +240,55 @@ CLIENT-HEADER-TAGGER: ab2p-block-dnt-R143
 s@^referer(?=:[^\n]*[./](?:www\.zol\.com\.cn)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R144
-s@^referer(?=:[^\n]*[./](?:xianzhenyuan\.cn)):.*@ab2p-block-dnt@Ti
-
-CLIENT-HEADER-TAGGER: ab2p-block-dnt-R145
 s@^referer(?=:[^\n]*[./](?:xiaoyun\.com)):.*@ab2p-block-dnt@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-dnt-R146
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R145
 s@^referer(?=:[^\n]*[./](?:xiuren\.org)):.*@ab2p-block-dnt@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-dnt-R147
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R146
 s@^referer(?=:[^\n]*[./](?:xtzgjx\.com|zzdxs\.org)):.*@ab2p-block-dnt@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-dnt-R148
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R147
 s@^referer(?=:[^\n]*[./](?:yifile\.com)):.*@ab2p-block-dnt@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-dnt-R149
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R148
 s@^referer(?=:[^\n]*[./](?:yinyuetai\.com)):.*@ab2p-block-dnt@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-dnt-R15
-s@^referer(?=:[^\n]*[./](?:18p2p\.com)):.*@ab2p-block-dnt@Ti
-
-CLIENT-HEADER-TAGGER: ab2p-block-dnt-R150
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R149
 s@^referer(?=:[^\n]*[./](?:youxi\.baidu\.com)):.*@ab2p-block-dnt@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-dnt-R151
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R15
+s@^referer(?=:[^\n]*[./](?:1kkk\.com|dm5\.com)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R150
 s@^referer(?=:[^\n]*[./](?:z63\.org)):.*@ab2p-block-dnt@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-dnt-R152
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R151
 s@^referer(?=:[^\n]*[./](?:zasv\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R16
-s@^referer(?=:[^\n]*[./](?:1kkk\.com|dm5\.com)):.*@ab2p-block-dnt@Ti
-
-CLIENT-HEADER-TAGGER: ab2p-block-dnt-R17
 s@^referer(?=:[^\n]*[./](?:1kkk\.com|dm5\.com|dm5\.hk)):.*@ab2p-block-dnt@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-dnt-R18
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R17
 s@^referer(?=:[^\n]*[./](?:28188\.com|28188\.net)):.*@ab2p-block-dnt@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-dnt-R19
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R18
 s@^referer(?=:[^\n]*[./](?:2c2\.website|2p8\.space|adultcao\.com|adultgao\.com|cao\.pe|caofoo\.top|caohot\.club|caopee\.com|caoporn\.club|caoporn\.com|caoporn\.wales|caosee\.club|gaohot\.pro|h3e\.pw|h3y\.pw|k88\.club|me88\.pw|p5p\.space|qq88\.space|se88\.space|t2p\.space|tb001\.xyz|te88\.pw|vgao\.xyz|vlang\.xyz|vwan\.xyz|wan1024\.com|wan41\.com)):.*@ab2p-block-dnt@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-dnt-R2
-s@^referer(?=:[^\n]*[./](?:11luba\.com|174\.139\.109\.38|18board\.com|18p2p\.com|208\.94\.244\.98|22ccaa\.com|345qyl\.com|360bifen\.cc|360bifen\.com|46bk\.com|500xxxx\.com|666hdhd\.com|84fn\.com|99kk3\.com|99kk4\.com|99ll1\.com|99re\.com|99vv1\.com|a3v4\.top|ac168\.info|acglover\.top|aisex\.com|aotu15\.com|avtb678\.com|bejson\.com|blz20\.com|blz24\.com|btago\.com|cangjige\.net|cangjige\.win|caoliuzx\.com|cililian\.me|dydh\.tv|ems183\.cn|fdzone\.org|fulitxx\.com|ifulidh\.com|iidvd\.com|ilxdh\.com|izzs\.cc|kiees\.cn|lifan\.moe|llj22\.com|motelppp\.com|neonan\.com|niluba\.cc|qqxbt\.com|qyle9\.com|rarbt\.com|sbme\.me|se533\.com|shouyoutan\.com|txtshu365\.com|vx666\.com|weike22\.com|wszhibo\.com|xinqixi\.com|youb444\.com|zhiboche\.com)):.*@ab2p-block-dnt@Ti
-
-CLIENT-HEADER-TAGGER: ab2p-block-dnt-R20
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R19
 s@^referer(?=:[^\n]*[./](?:360zhibo\.com|ballive\.com|chakd\.com|qqlubo\.net|zhainanfulishe\.net)):.*@ab2p-block-dnt@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-dnt-R21
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R2
+s@^referer(?=:[^\n]*[./](?:11luba\.com|174\.139\.109\.38|18board\.com|18p2p\.com|208\.94\.244\.98|22ccaa\.com|345qyl\.com|360bifen\.cc|360bifen\.com|46bk\.com|500xxxx\.com|666hdhd\.com|84fn\.com|99kk3\.com|99kk4\.com|99ll1\.com|99re\.com|99vv1\.com|a3v4\.top|ac168\.info|acglover\.top|aisex\.com|aotu15\.com|avtb678\.com|bejson\.com|blz20\.com|blz24\.com|btago\.com|cangjige\.net|cangjige\.win|caoliuzx\.com|cililian\.me|dydh\.tv|ems183\.cn|fdzone\.org|fulitxx\.com|ifulidh\.com|iidvd\.com|ilxdh\.com|izzs\.cc|kiees\.cn|lifan\.moe|llj22\.com|motelppp\.com|neonan\.com|niluba\.cc|qqxbt\.com|qyle9\.com|rarbt\.com|sbme\.me|se533\.com|shouyoutan\.com|txtshu365\.com|vx666\.com|weike22\.com|wszhibo\.com|youb444\.com|zhiboche\.com)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R20
 s@^referer(?=:[^\n]*[./](?:3g\.cn)):.*@ab2p-block-dnt@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-dnt-R22
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R21
 s@^referer(?=:[^\n]*[./](?:400gb\.com|bego\.cc|ctfile\.com|pipipan\.com)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R22
+s@^referer(?=:[^\n]*[./](?:4sefang2\.com|bbb551\.com|oms12345\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R23
 s@^referer(?=:[^\n]*[./](?:50\.7\.31\.228|tvboxnow\.com)):.*@ab2p-block-dnt@Ti
@@ -315,7 +312,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-dnt-R29
 s@^referer(?=:[^\n]*[./](?:6668\.se)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R3
-s@^referer(?=:[^\n]*[./](?:12345xo\.com|123gbgb\.com|123ksks\.com|216xx\.com|263kk\.com|44rbrb\.com|66ctct\.com|828ee\.com|832ee\.com|833tu\.com|90yb\.com|955aa\.com|970b\.com|987abc\.com|99ksks\.com|auau88\.com|ccc559\.com|etet666\.com|xbxb123\.com|yeyeqi7\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:123du\.cc|bokon\.net)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R30
 s@^referer(?=:[^\n]*[./](?:67\.228\.203\.174|iu91\.co|maichun5\.info|mc88\.info|myhhg\.com|sejie\.com|sejie3\.us|ukhuaren\.co|yh1\.info|yh10\.info)):.*@ab2p-block-dnt@Ti
@@ -348,7 +345,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-dnt-R39
 s@^referer(?=:[^\n]*[./](?:acgura\.us|kisssub\.org|lsjsoso\.me|ref\.so)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R4
-s@^referer(?=:[^\n]*[./](?:123du\.cc|bokon\.net)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:12580sky\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R40
 s@^referer(?=:[^\n]*[./](?:adultcao\.com|cao\.pe|caofoo\.top|caohot\.club|caoporn\.club|caoporn\.com|caoporn\.wales|caosee\.club|gaohot\.pro|k88\.club|me88\.pw|p5p\.space|qq88\.space|se88\.space|tb001\.xyz|te88\.pw|vgao\.xyz|vwan\.xyz|wan1024\.com|wan41\.com)):.*@ab2p-block-dnt@Ti
@@ -381,13 +378,13 @@ CLIENT-HEADER-TAGGER: ab2p-block-dnt-R49
 s@^referer(?=:[^\n]*[./](?:bejson\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R5
-s@^referer(?=:[^\n]*[./](?:12580sky\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:144\.217\.84\.47|149\.56\.45\.111|a7s7\.com|sex169\.biz|sex169\.info|sex169\.net|sex169\.org|sex169\.pw|sex169\.xyz|vidoe169\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R50
 s@^referer(?=:[^\n]*[./](?:bilibili\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R51
-s@^referer(?=:[^\n]*[./](?:bilibilijj\.com|gaoqingkong\.com|xianzhenyuan\.cn)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:bilibilijj\.com|gaoqingkong\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R52
 s@^referer(?=:[^\n]*[./](?:bjmama\.com)):.*@ab2p-block-dnt@Ti
@@ -414,7 +411,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-dnt-R59
 s@^referer(?=:[^\n]*[./](?:chineseinla\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R6
-s@^referer(?=:[^\n]*[./](?:144\.217\.84\.47|149\.56\.45\.111|a7s7\.com|sex169\.biz|sex169\.info|sex169\.net|sex169\.org|sex169\.pw|sex169\.xyz|vidoe169\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:17173\.com|17173\.tv\.sohu\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R60
 s@^referer(?=:[^\n]*[./](?:ck101\.com)):.*@ab2p-block-dnt@Ti
@@ -447,7 +444,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-dnt-R69
 s@^referer(?=:[^\n]*[./](?:dm5\.com|dm5\.hk)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R7
-s@^referer(?=:[^\n]*[./](?:17173\.com|17173\.tv\.sohu\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:172\.86\.179\.138|208\.94\.244\.100|208\.94\.244\.98|a88\.us|ac168\.info|ac88\.info|aisex\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R70
 s@^referer(?=:[^\n]*[./](?:dmhy\.org)):.*@ab2p-block-dnt@Ti
@@ -480,7 +477,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-dnt-R79
 s@^referer(?=:[^\n]*[./](?:forum\.qidian\.com|sosu\.qidian\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R8
-s@^referer(?=:[^\n]*[./](?:172\.86\.179\.138|208\.94\.244\.100|208\.94\.244\.98|a88\.us|ac168\.info|ac88\.info|aisex\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:172\.86\.179\.138|208\.94\.244\.100|208\.94\.244\.98|a88\.us|ac168\.info|ac88\.info|aisex\.com|fdzone\.org|go543\.com|jandown\.com|mimima\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R80
 s@^referer(?=:[^\n]*[./](?:game\.macx\.cn)):.*@ab2p-block-dnt@Ti
@@ -513,7 +510,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-dnt-R89
 s@^referer(?=:[^\n]*[./](?:hkgolden\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R9
-s@^referer(?=:[^\n]*[./](?:172\.86\.179\.138|208\.94\.244\.100|208\.94\.244\.98|a88\.us|ac168\.info|ac88\.info|aisex\.com|fdzone\.org|go543\.com|jandown\.com|mimima\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:172\.86\.179\.138|208\.94\.244\.100|208\.94\.244\.98|a88\.us|ac168\.info|aisex\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R90
 s@^referer(?=:[^\n]*[./](?:hmog\.me)):.*@ab2p-block-dnt@Ti
@@ -545,47 +542,50 @@ s@^referer(?=:[^\n]*[./](?:jpfans\.com|jpseek\.com)):.*@ab2p-block-dnt@Ti
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R99
 s@^referer(?=:[^\n]*[./](?:kisssub\.org)):.*@ab2p-block-dnt@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn153
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn152
 s@^referer(?!:[^\n]*[./](?:11185\.cn|fanfou\.com|gg1z\.com|ha47\.cn)):.*@ab2p-block-dnt@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn154
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn153
 s@^referer(?!:[^\n]*[./](?:1688\.com|alimama\.com|taobao\.com)):.*@ab2p-block-dnt@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn155
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn154
 s@^referer(?!:[^\n]*[./](?:1688\.com|alimama\.com|taobao\.com|tmall\.com)):.*@ab2p-block-dnt@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn156
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn155
 s@^referer(?!:[^\n]*[./](?:388g\.com|msra\.cn)):.*@ab2p-block-dnt@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn157
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn156
 s@^referer(?!:[^\n]*[./](?:520cc\.me)):.*@ab2p-block-dnt@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn158
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn157
 s@^referer(?!:[^\n]*[./](?:alimama\.com|alitrip\.com|tanx\.com|tmall\.com)):.*@ab2p-block-dnt@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn159
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn158
 s@^referer(?!:[^\n]*[./](?:alimama\.com|budou\.com|foctop\.com|hetongal\.ac\.cn|ith8\.com|meidebi\.com|qinqintejia\.com|tanx\.com|taobao\.com|taobao\.com\.cn|wajuemao\.com|youhuiyouhui\.com\.cn)):.*@ab2p-block-dnt@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn160
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn159
 s@^referer(?!:[^\n]*[./](?:bittiger\.io)):.*@ab2p-block-dnt@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn161
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn160
 s@^referer(?!:[^\n]*[./](?:coolpc\.com\.tw|sac\.net\.cn)):.*@ab2p-block-dnt@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn162
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn161
 s@^referer(?!:[^\n]*[./](?:dmzj\.com)):.*@ab2p-block-dnt@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn163
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn162
 s@^referer(?!:[^\n]*[./](?:eoffcn\.com)):.*@ab2p-block-dnt@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn164
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn163
 s@^referer(?!:[^\n]*[./](?:fwxgx\.com)):.*@ab2p-block-dnt@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn165
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn164
 s@^referer(?!:[^\n]*[./](?:guagua\.cn)):.*@ab2p-block-dnt@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn166
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn165
 s@^referer(?!:[^\n]*[./](?:hdwan\.net)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn166
+s@^referer(?!:[^\n]*[./](?:index\.sogou\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn167
 s@^referer(?!:[^\n]*[./](?:ipinyou\.com\.cn)):.*@ab2p-block-dnt@Ti
@@ -624,7 +624,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-elem-R1
 s@^referer(?=:[^\n]*[./](?:100ksw\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R10
-s@^referer(?=:[^\n]*[./](?:172\.86\.179\.138|208\.94\.244\.100|208\.94\.244\.98|a88\.us|ac168\.info|aisex\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:17huohu\.com|firefox\.com\.cn|firefoxchina\.cn)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R100
 s@^referer(?=:[^\n]*[./](?:linkbucks\.com|zytpirwai\.net)):.*@ab2p-block-elem@Ti
@@ -657,7 +657,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-elem-R109
 s@^referer(?=:[^\n]*[./](?:mail\.pchome\.com\.tw)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R11
-s@^referer(?=:[^\n]*[./](?:17huohu\.com|firefox\.com\.cn|firefoxchina\.cn)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:189so\.cn)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R110
 s@^referer(?=:[^\n]*[./](?:mitbbs\.ca|mitbbs\.com)):.*@ab2p-block-elem@Ti
@@ -690,7 +690,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-elem-R119
 s@^referer(?=:[^\n]*[./](?:pc6\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R12
-s@^referer(?=:[^\n]*[./](?:189so\.cn)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:18avhub\.com|18avtube\.com|mm-cg\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R120
 s@^referer(?=:[^\n]*[./](?:pos\.baidu\.com)):.*@ab2p-block-elem@Ti
@@ -711,19 +711,19 @@ CLIENT-HEADER-TAGGER: ab2p-block-elem-R125
 s@^referer(?=:[^\n]*[./](?:shuajizhijia\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R126
-s@^referer(?=:[^\n]*[./](?:storm\.mg)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:steamcn\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R127
-s@^referer(?=:[^\n]*[./](?:sun0769\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:storm\.mg)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R128
-s@^referer(?=:[^\n]*[./](?:susu83\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:sun0769\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R129
 s@^referer(?=:[^\n]*[./](?:tieba\.baidu\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R13
-s@^referer(?=:[^\n]*[./](?:18avhub\.com|18avtube\.com|mm-cg\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:18board\.com|18p2p\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R130
 s@^referer(?=:[^\n]*[./](?:tiexue\.net)):.*@ab2p-block-elem@Ti
@@ -756,7 +756,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-elem-R139
 s@^referer(?=:[^\n]*[./](?:wishct\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R14
-s@^referer(?=:[^\n]*[./](?:18board\.com|18p2p\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:18p2p\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R140
 s@^referer(?=:[^\n]*[./](?:www\.gamer\.com\.tw)):.*@ab2p-block-elem@Ti
@@ -771,58 +771,55 @@ CLIENT-HEADER-TAGGER: ab2p-block-elem-R143
 s@^referer(?=:[^\n]*[./](?:www\.zol\.com\.cn)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R144
-s@^referer(?=:[^\n]*[./](?:xianzhenyuan\.cn)):.*@ab2p-block-elem@Ti
-
-CLIENT-HEADER-TAGGER: ab2p-block-elem-R145
 s@^referer(?=:[^\n]*[./](?:xiaoyun\.com)):.*@ab2p-block-elem@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-elem-R146
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R145
 s@^referer(?=:[^\n]*[./](?:xiuren\.org)):.*@ab2p-block-elem@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-elem-R147
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R146
 s@^referer(?=:[^\n]*[./](?:xtzgjx\.com|zzdxs\.org)):.*@ab2p-block-elem@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-elem-R148
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R147
 s@^referer(?=:[^\n]*[./](?:yifile\.com)):.*@ab2p-block-elem@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-elem-R149
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R148
 s@^referer(?=:[^\n]*[./](?:yinyuetai\.com)):.*@ab2p-block-elem@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-elem-R15
-s@^referer(?=:[^\n]*[./](?:18p2p\.com)):.*@ab2p-block-elem@Ti
-
-CLIENT-HEADER-TAGGER: ab2p-block-elem-R150
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R149
 s@^referer(?=:[^\n]*[./](?:youxi\.baidu\.com)):.*@ab2p-block-elem@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-elem-R151
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R15
+s@^referer(?=:[^\n]*[./](?:1kkk\.com|dm5\.com)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R150
 s@^referer(?=:[^\n]*[./](?:z63\.org)):.*@ab2p-block-elem@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-elem-R152
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R151
 s@^referer(?=:[^\n]*[./](?:zasv\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R16
-s@^referer(?=:[^\n]*[./](?:1kkk\.com|dm5\.com)):.*@ab2p-block-elem@Ti
-
-CLIENT-HEADER-TAGGER: ab2p-block-elem-R17
 s@^referer(?=:[^\n]*[./](?:1kkk\.com|dm5\.com|dm5\.hk)):.*@ab2p-block-elem@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-elem-R18
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R17
 s@^referer(?=:[^\n]*[./](?:28188\.com|28188\.net)):.*@ab2p-block-elem@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-elem-R19
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R18
 s@^referer(?=:[^\n]*[./](?:2c2\.website|2p8\.space|adultcao\.com|adultgao\.com|cao\.pe|caofoo\.top|caohot\.club|caopee\.com|caoporn\.club|caoporn\.com|caoporn\.wales|caosee\.club|gaohot\.pro|h3e\.pw|h3y\.pw|k88\.club|me88\.pw|p5p\.space|qq88\.space|se88\.space|t2p\.space|tb001\.xyz|te88\.pw|vgao\.xyz|vlang\.xyz|vwan\.xyz|wan1024\.com|wan41\.com)):.*@ab2p-block-elem@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-elem-R2
-s@^referer(?=:[^\n]*[./](?:11luba\.com|174\.139\.109\.38|18board\.com|18p2p\.com|208\.94\.244\.98|22ccaa\.com|345qyl\.com|360bifen\.cc|360bifen\.com|46bk\.com|500xxxx\.com|666hdhd\.com|84fn\.com|99kk3\.com|99kk4\.com|99ll1\.com|99re\.com|99vv1\.com|a3v4\.top|ac168\.info|acglover\.top|aisex\.com|aotu15\.com|avtb678\.com|bejson\.com|blz20\.com|blz24\.com|btago\.com|cangjige\.net|cangjige\.win|caoliuzx\.com|cililian\.me|dydh\.tv|ems183\.cn|fdzone\.org|fulitxx\.com|ifulidh\.com|iidvd\.com|ilxdh\.com|izzs\.cc|kiees\.cn|lifan\.moe|llj22\.com|motelppp\.com|neonan\.com|niluba\.cc|qqxbt\.com|qyle9\.com|rarbt\.com|sbme\.me|se533\.com|shouyoutan\.com|txtshu365\.com|vx666\.com|weike22\.com|wszhibo\.com|xinqixi\.com|youb444\.com|zhiboche\.com)):.*@ab2p-block-elem@Ti
-
-CLIENT-HEADER-TAGGER: ab2p-block-elem-R20
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R19
 s@^referer(?=:[^\n]*[./](?:360zhibo\.com|ballive\.com|chakd\.com|qqlubo\.net|zhainanfulishe\.net)):.*@ab2p-block-elem@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-elem-R21
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R2
+s@^referer(?=:[^\n]*[./](?:11luba\.com|174\.139\.109\.38|18board\.com|18p2p\.com|208\.94\.244\.98|22ccaa\.com|345qyl\.com|360bifen\.cc|360bifen\.com|46bk\.com|500xxxx\.com|666hdhd\.com|84fn\.com|99kk3\.com|99kk4\.com|99ll1\.com|99re\.com|99vv1\.com|a3v4\.top|ac168\.info|acglover\.top|aisex\.com|aotu15\.com|avtb678\.com|bejson\.com|blz20\.com|blz24\.com|btago\.com|cangjige\.net|cangjige\.win|caoliuzx\.com|cililian\.me|dydh\.tv|ems183\.cn|fdzone\.org|fulitxx\.com|ifulidh\.com|iidvd\.com|ilxdh\.com|izzs\.cc|kiees\.cn|lifan\.moe|llj22\.com|motelppp\.com|neonan\.com|niluba\.cc|qqxbt\.com|qyle9\.com|rarbt\.com|sbme\.me|se533\.com|shouyoutan\.com|txtshu365\.com|vx666\.com|weike22\.com|wszhibo\.com|youb444\.com|zhiboche\.com)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R20
 s@^referer(?=:[^\n]*[./](?:3g\.cn)):.*@ab2p-block-elem@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-elem-R22
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R21
 s@^referer(?=:[^\n]*[./](?:400gb\.com|bego\.cc|ctfile\.com|pipipan\.com)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R22
+s@^referer(?=:[^\n]*[./](?:4sefang2\.com|bbb551\.com|oms12345\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R23
 s@^referer(?=:[^\n]*[./](?:50\.7\.31\.228|tvboxnow\.com)):.*@ab2p-block-elem@Ti
@@ -846,7 +843,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-elem-R29
 s@^referer(?=:[^\n]*[./](?:6668\.se)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R3
-s@^referer(?=:[^\n]*[./](?:12345xo\.com|123gbgb\.com|123ksks\.com|216xx\.com|263kk\.com|44rbrb\.com|66ctct\.com|828ee\.com|832ee\.com|833tu\.com|90yb\.com|955aa\.com|970b\.com|987abc\.com|99ksks\.com|auau88\.com|ccc559\.com|etet666\.com|xbxb123\.com|yeyeqi7\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:123du\.cc|bokon\.net)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R30
 s@^referer(?=:[^\n]*[./](?:67\.228\.203\.174|iu91\.co|maichun5\.info|mc88\.info|myhhg\.com|sejie\.com|sejie3\.us|ukhuaren\.co|yh1\.info|yh10\.info)):.*@ab2p-block-elem@Ti
@@ -879,7 +876,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-elem-R39
 s@^referer(?=:[^\n]*[./](?:acgura\.us|kisssub\.org|lsjsoso\.me|ref\.so)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R4
-s@^referer(?=:[^\n]*[./](?:123du\.cc|bokon\.net)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:12580sky\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R40
 s@^referer(?=:[^\n]*[./](?:adultcao\.com|cao\.pe|caofoo\.top|caohot\.club|caoporn\.club|caoporn\.com|caoporn\.wales|caosee\.club|gaohot\.pro|k88\.club|me88\.pw|p5p\.space|qq88\.space|se88\.space|tb001\.xyz|te88\.pw|vgao\.xyz|vwan\.xyz|wan1024\.com|wan41\.com)):.*@ab2p-block-elem@Ti
@@ -912,13 +909,13 @@ CLIENT-HEADER-TAGGER: ab2p-block-elem-R49
 s@^referer(?=:[^\n]*[./](?:bejson\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R5
-s@^referer(?=:[^\n]*[./](?:12580sky\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:144\.217\.84\.47|149\.56\.45\.111|a7s7\.com|sex169\.biz|sex169\.info|sex169\.net|sex169\.org|sex169\.pw|sex169\.xyz|vidoe169\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R50
 s@^referer(?=:[^\n]*[./](?:bilibili\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R51
-s@^referer(?=:[^\n]*[./](?:bilibilijj\.com|gaoqingkong\.com|xianzhenyuan\.cn)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:bilibilijj\.com|gaoqingkong\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R52
 s@^referer(?=:[^\n]*[./](?:bjmama\.com)):.*@ab2p-block-elem@Ti
@@ -945,7 +942,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-elem-R59
 s@^referer(?=:[^\n]*[./](?:chineseinla\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R6
-s@^referer(?=:[^\n]*[./](?:144\.217\.84\.47|149\.56\.45\.111|a7s7\.com|sex169\.biz|sex169\.info|sex169\.net|sex169\.org|sex169\.pw|sex169\.xyz|vidoe169\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:17173\.com|17173\.tv\.sohu\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R60
 s@^referer(?=:[^\n]*[./](?:ck101\.com)):.*@ab2p-block-elem@Ti
@@ -978,7 +975,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-elem-R69
 s@^referer(?=:[^\n]*[./](?:dm5\.com|dm5\.hk)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R7
-s@^referer(?=:[^\n]*[./](?:17173\.com|17173\.tv\.sohu\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:172\.86\.179\.138|208\.94\.244\.100|208\.94\.244\.98|a88\.us|ac168\.info|ac88\.info|aisex\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R70
 s@^referer(?=:[^\n]*[./](?:dmhy\.org)):.*@ab2p-block-elem@Ti
@@ -1011,7 +1008,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-elem-R79
 s@^referer(?=:[^\n]*[./](?:forum\.qidian\.com|sosu\.qidian\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R8
-s@^referer(?=:[^\n]*[./](?:172\.86\.179\.138|208\.94\.244\.100|208\.94\.244\.98|a88\.us|ac168\.info|ac88\.info|aisex\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:172\.86\.179\.138|208\.94\.244\.100|208\.94\.244\.98|a88\.us|ac168\.info|ac88\.info|aisex\.com|fdzone\.org|go543\.com|jandown\.com|mimima\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R80
 s@^referer(?=:[^\n]*[./](?:game\.macx\.cn)):.*@ab2p-block-elem@Ti
@@ -1044,7 +1041,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-elem-R89
 s@^referer(?=:[^\n]*[./](?:hkgolden\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R9
-s@^referer(?=:[^\n]*[./](?:172\.86\.179\.138|208\.94\.244\.100|208\.94\.244\.98|a88\.us|ac168\.info|ac88\.info|aisex\.com|fdzone\.org|go543\.com|jandown\.com|mimima\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:172\.86\.179\.138|208\.94\.244\.100|208\.94\.244\.98|a88\.us|ac168\.info|aisex\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R90
 s@^referer(?=:[^\n]*[./](?:hmog\.me)):.*@ab2p-block-elem@Ti
@@ -1076,47 +1073,50 @@ s@^referer(?=:[^\n]*[./](?:jpfans\.com|jpseek\.com)):.*@ab2p-block-elem@Ti
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R99
 s@^referer(?=:[^\n]*[./](?:kisssub\.org)):.*@ab2p-block-elem@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn153
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn152
 s@^referer(?!:[^\n]*[./](?:11185\.cn|fanfou\.com|gg1z\.com|ha47\.cn)):.*@ab2p-block-elem@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn154
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn153
 s@^referer(?!:[^\n]*[./](?:1688\.com|alimama\.com|taobao\.com)):.*@ab2p-block-elem@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn155
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn154
 s@^referer(?!:[^\n]*[./](?:1688\.com|alimama\.com|taobao\.com|tmall\.com)):.*@ab2p-block-elem@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn156
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn155
 s@^referer(?!:[^\n]*[./](?:388g\.com|msra\.cn)):.*@ab2p-block-elem@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn157
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn156
 s@^referer(?!:[^\n]*[./](?:520cc\.me)):.*@ab2p-block-elem@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn158
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn157
 s@^referer(?!:[^\n]*[./](?:alimama\.com|alitrip\.com|tanx\.com|tmall\.com)):.*@ab2p-block-elem@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn159
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn158
 s@^referer(?!:[^\n]*[./](?:alimama\.com|budou\.com|foctop\.com|hetongal\.ac\.cn|ith8\.com|meidebi\.com|qinqintejia\.com|tanx\.com|taobao\.com|taobao\.com\.cn|wajuemao\.com|youhuiyouhui\.com\.cn)):.*@ab2p-block-elem@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn160
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn159
 s@^referer(?!:[^\n]*[./](?:bittiger\.io)):.*@ab2p-block-elem@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn161
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn160
 s@^referer(?!:[^\n]*[./](?:coolpc\.com\.tw|sac\.net\.cn)):.*@ab2p-block-elem@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn162
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn161
 s@^referer(?!:[^\n]*[./](?:dmzj\.com)):.*@ab2p-block-elem@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn163
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn162
 s@^referer(?!:[^\n]*[./](?:eoffcn\.com)):.*@ab2p-block-elem@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn164
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn163
 s@^referer(?!:[^\n]*[./](?:fwxgx\.com)):.*@ab2p-block-elem@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn165
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn164
 s@^referer(?!:[^\n]*[./](?:guagua\.cn)):.*@ab2p-block-elem@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn166
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn165
 s@^referer(?!:[^\n]*[./](?:hdwan\.net)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn166
+s@^referer(?!:[^\n]*[./](?:index\.sogou\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn167
 s@^referer(?!:[^\n]*[./](?:ipinyou\.com\.cn)):.*@ab2p-block-elem@Ti
@@ -1197,7 +1197,7 @@ s@^referer(?=:[^\n]*[./](?:v2ex\.com)):.*@ab2p-block-request-Ai-Ci@Ti
 CLIENT-HEADER-TAGGER: ab2p-block-request-Ai-Ci-when-R143
 s@^referer(?=:[^\n]*[./](?:www\.zol\.com\.cn)):.*@ab2p-block-request-Ai-Ci@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Ai-Ci-when-R6
+CLIENT-HEADER-TAGGER: ab2p-block-request-Ai-Ci-when-R5
 s@^referer(?=:[^\n]*[./](?:144\.217\.84\.47|149\.56\.45\.111|a7s7\.com|sex169\.biz|sex169\.info|sex169\.net|sex169\.org|sex169\.pw|sex169\.xyz|vidoe169\.com)):.*@ab2p-block-request-Ai-Ci@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-Ai-Ci-when-R61
@@ -1234,7 +1234,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-request-Aj-Cj-Xx-when-R180t
 s@^referer:.*@$&\t$host@Di
 s@^referer(?=:[^\n]*[./](?:m\.00ksw\.net|m\.33yq\.com|m\.50zw\.la|m\.55xs\.com|m\.88dushu\.com|m\.biqudu\.com|m\.biquge\.com|m\.biquge\.com\.tw|m\.biquge\.tw|m\.biqugego\.com|m\.biqugezw\.com|m\.biquwu\.cc|m\.bqg5200\.com|m\.dhzw\.org|m\.kewaishu\.net|m\.lewenxiaoshuo\.com|m\.liewen\.cc|m\.qu\.la|m\.shenmabook\.com|m\.shumilou\.co|m\.snwx8\.com|m\.vodtw\.com|m\.xs222\.com|m\.zwdu\.com|wap\.xxbiquge\.com))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Aj-Cj-Xx@i
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Aj-Cj-when-R12
+CLIENT-HEADER-TAGGER: ab2p-block-request-Aj-Cj-when-R11
 s@^referer(?=:[^\n]*[./](?:189so\.cn)):.*@ab2p-block-request-Aj-Cj@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-Aj-Cj-when-R132
@@ -1244,7 +1244,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-request-Aj-Cj-when-R181t
 s@^referer:.*@$&\t$host@Di
 s@^referer(?=:[^\n]*[./](?:xtzgjx\.com|zzdxs\.org))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Aj-Cj@i
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Aj-Cj-when-R6
+CLIENT-HEADER-TAGGER: ab2p-block-request-Aj-Cj-when-R5
 s@^referer(?=:[^\n]*[./](?:144\.217\.84\.47|149\.56\.45\.111|a7s7\.com|sex169\.biz|sex169\.info|sex169\.net|sex169\.org|sex169\.pw|sex169\.xyz|vidoe169\.com)):.*@ab2p-block-request-Aj-Cj@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-Aj-Cj-when-R77
@@ -1253,7 +1253,7 @@ s@^referer(?=:[^\n]*[./](?:firefox\.huanqiu\.com)):.*@ab2p-block-request-Aj-Cj@T
 CLIENT-HEADER-TAGGER: ab2p-block-request-Aj-Cj-when-R88
 s@^referer(?=:[^\n]*[./](?:hk\.news\.yahoo\.com|hk\.yahoo\.com|tw\.news\.yahoo\.com|tw\.stock\.yahoo\.com|tw\.yahoo\.com)):.*@ab2p-block-request-Aj-Cj@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Aj-Cj-when-Rn160
+CLIENT-HEADER-TAGGER: ab2p-block-request-Aj-Cj-when-Rn159
 s@^referer(?!:[^\n]*[./](?:bittiger\.io)):.*@ab2p-block-request-Aj-Cj@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-Aj-Cj-when-Rt
@@ -1349,7 +1349,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-request-R1
 s@^referer(?=:[^\n]*[./](?:100ksw\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R10
-s@^referer(?=:[^\n]*[./](?:172\.86\.179\.138|208\.94\.244\.100|208\.94\.244\.98|a88\.us|ac168\.info|aisex\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:17huohu\.com|firefox\.com\.cn|firefoxchina\.cn)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R100
 s@^referer(?=:[^\n]*[./](?:linkbucks\.com|zytpirwai\.net)):.*@ab2p-block-request@Ti
@@ -1378,9 +1378,6 @@ s@^referer(?=:[^\n]*[./](?:m\.iqiyi\.com)):.*@ab2p-block-request@Ti
 CLIENT-HEADER-TAGGER: ab2p-block-request-R109
 s@^referer(?=:[^\n]*[./](?:mail\.pchome\.com\.tw)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-R11
-s@^referer(?=:[^\n]*[./](?:17huohu\.com|firefox\.com\.cn|firefoxchina\.cn)):.*@ab2p-block-request@Ti
-
 CLIENT-HEADER-TAGGER: ab2p-block-request-R110
 s@^referer(?=:[^\n]*[./](?:mitbbs\.ca|mitbbs\.com)):.*@ab2p-block-request@Ti
 
@@ -1405,6 +1402,9 @@ s@^referer(?=:[^\n]*[./](?:ocucn\.com)):.*@ab2p-block-request@Ti
 CLIENT-HEADER-TAGGER: ab2p-block-request-R118
 s@^referer(?=:[^\n]*[./](?:oldpig\.org)):.*@ab2p-block-request@Ti
 
+CLIENT-HEADER-TAGGER: ab2p-block-request-R12
+s@^referer(?=:[^\n]*[./](?:18avhub\.com|18avtube\.com|mm-cg\.com)):.*@ab2p-block-request@Ti
+
 CLIENT-HEADER-TAGGER: ab2p-block-request-R120
 s@^referer(?=:[^\n]*[./](?:pos\.baidu\.com)):.*@ab2p-block-request@Ti
 
@@ -1424,16 +1424,16 @@ CLIENT-HEADER-TAGGER: ab2p-block-request-R125
 s@^referer(?=:[^\n]*[./](?:shuajizhijia\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R126
-s@^referer(?=:[^\n]*[./](?:storm\.mg)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:steamcn\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R127
-s@^referer(?=:[^\n]*[./](?:sun0769\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:storm\.mg)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R128
-s@^referer(?=:[^\n]*[./](?:susu83\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:sun0769\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R13
-s@^referer(?=:[^\n]*[./](?:18avhub\.com|18avtube\.com|mm-cg\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:18board\.com|18p2p\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R130
 s@^referer(?=:[^\n]*[./](?:tiexue\.net)):.*@ab2p-block-request@Ti
@@ -1463,7 +1463,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-request-R139
 s@^referer(?=:[^\n]*[./](?:wishct\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R14
-s@^referer(?=:[^\n]*[./](?:18board\.com|18p2p\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:18p2p\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R140
 s@^referer(?=:[^\n]*[./](?:www\.gamer\.com\.tw)):.*@ab2p-block-request@Ti
@@ -1472,43 +1472,40 @@ CLIENT-HEADER-TAGGER: ab2p-block-request-R142
 s@^referer(?=:[^\n]*[./](?:www\.tiexue\.net)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R144
-s@^referer(?=:[^\n]*[./](?:xianzhenyuan\.cn)):.*@ab2p-block-request@Ti
-
-CLIENT-HEADER-TAGGER: ab2p-block-request-R145
 s@^referer(?=:[^\n]*[./](?:xiaoyun\.com)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-R146
+CLIENT-HEADER-TAGGER: ab2p-block-request-R145
 s@^referer(?=:[^\n]*[./](?:xiuren\.org)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-R148
+CLIENT-HEADER-TAGGER: ab2p-block-request-R147
 s@^referer(?=:[^\n]*[./](?:yifile\.com)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-R149
+CLIENT-HEADER-TAGGER: ab2p-block-request-R148
 s@^referer(?=:[^\n]*[./](?:yinyuetai\.com)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-R15
-s@^referer(?=:[^\n]*[./](?:18p2p\.com)):.*@ab2p-block-request@Ti
-
-CLIENT-HEADER-TAGGER: ab2p-block-request-R150
+CLIENT-HEADER-TAGGER: ab2p-block-request-R149
 s@^referer(?=:[^\n]*[./](?:youxi\.baidu\.com)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-R151
+CLIENT-HEADER-TAGGER: ab2p-block-request-R15
+s@^referer(?=:[^\n]*[./](?:1kkk\.com|dm5\.com)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-R150
 s@^referer(?=:[^\n]*[./](?:z63\.org)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-R152
+CLIENT-HEADER-TAGGER: ab2p-block-request-R151
 s@^referer(?=:[^\n]*[./](?:zasv\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R16
-s@^referer(?=:[^\n]*[./](?:1kkk\.com|dm5\.com)):.*@ab2p-block-request@Ti
-
-CLIENT-HEADER-TAGGER: ab2p-block-request-R17
 s@^referer(?=:[^\n]*[./](?:1kkk\.com|dm5\.com|dm5\.hk)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-R18
+CLIENT-HEADER-TAGGER: ab2p-block-request-R17
 s@^referer(?=:[^\n]*[./](?:28188\.com|28188\.net)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-R19
+CLIENT-HEADER-TAGGER: ab2p-block-request-R18
 s@^referer(?=:[^\n]*[./](?:2c2\.website|2p8\.space|adultcao\.com|adultgao\.com|cao\.pe|caofoo\.top|caohot\.club|caopee\.com|caoporn\.club|caoporn\.com|caoporn\.wales|caosee\.club|gaohot\.pro|h3e\.pw|h3y\.pw|k88\.club|me88\.pw|p5p\.space|qq88\.space|se88\.space|t2p\.space|tb001\.xyz|te88\.pw|vgao\.xyz|vlang\.xyz|vwan\.xyz|wan1024\.com|wan41\.com)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-R19
+s@^referer(?=:[^\n]*[./](?:360zhibo\.com|ballive\.com|chakd\.com|qqlubo\.net|zhainanfulishe\.net)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R191t
 s@^referer:.*@$&\t$host@Di
@@ -1519,16 +1516,16 @@ s@^referer:.*@$&\t$host@Di
 s@^referer(?=:[^\n]*[./](?:jandown\.com))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request@i
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R2
-s@^referer(?=:[^\n]*[./](?:11luba\.com|174\.139\.109\.38|18board\.com|18p2p\.com|208\.94\.244\.98|22ccaa\.com|345qyl\.com|360bifen\.cc|360bifen\.com|46bk\.com|500xxxx\.com|666hdhd\.com|84fn\.com|99kk3\.com|99kk4\.com|99ll1\.com|99re\.com|99vv1\.com|a3v4\.top|ac168\.info|acglover\.top|aisex\.com|aotu15\.com|avtb678\.com|bejson\.com|blz20\.com|blz24\.com|btago\.com|cangjige\.net|cangjige\.win|caoliuzx\.com|cililian\.me|dydh\.tv|ems183\.cn|fdzone\.org|fulitxx\.com|ifulidh\.com|iidvd\.com|ilxdh\.com|izzs\.cc|kiees\.cn|lifan\.moe|llj22\.com|motelppp\.com|neonan\.com|niluba\.cc|qqxbt\.com|qyle9\.com|rarbt\.com|sbme\.me|se533\.com|shouyoutan\.com|txtshu365\.com|vx666\.com|weike22\.com|wszhibo\.com|xinqixi\.com|youb444\.com|zhiboche\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:11luba\.com|174\.139\.109\.38|18board\.com|18p2p\.com|208\.94\.244\.98|22ccaa\.com|345qyl\.com|360bifen\.cc|360bifen\.com|46bk\.com|500xxxx\.com|666hdhd\.com|84fn\.com|99kk3\.com|99kk4\.com|99ll1\.com|99re\.com|99vv1\.com|a3v4\.top|ac168\.info|acglover\.top|aisex\.com|aotu15\.com|avtb678\.com|bejson\.com|blz20\.com|blz24\.com|btago\.com|cangjige\.net|cangjige\.win|caoliuzx\.com|cililian\.me|dydh\.tv|ems183\.cn|fdzone\.org|fulitxx\.com|ifulidh\.com|iidvd\.com|ilxdh\.com|izzs\.cc|kiees\.cn|lifan\.moe|llj22\.com|motelppp\.com|neonan\.com|niluba\.cc|qqxbt\.com|qyle9\.com|rarbt\.com|sbme\.me|se533\.com|shouyoutan\.com|txtshu365\.com|vx666\.com|weike22\.com|wszhibo\.com|youb444\.com|zhiboche\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R20
-s@^referer(?=:[^\n]*[./](?:360zhibo\.com|ballive\.com|chakd\.com|qqlubo\.net|zhainanfulishe\.net)):.*@ab2p-block-request@Ti
-
-CLIENT-HEADER-TAGGER: ab2p-block-request-R21
 s@^referer(?=:[^\n]*[./](?:3g\.cn)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-R22
+CLIENT-HEADER-TAGGER: ab2p-block-request-R21
 s@^referer(?=:[^\n]*[./](?:400gb\.com|bego\.cc|ctfile\.com|pipipan\.com)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-R22
+s@^referer(?=:[^\n]*[./](?:4sefang2\.com|bbb551\.com|oms12345\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R23
 s@^referer(?=:[^\n]*[./](?:50\.7\.31\.228|tvboxnow\.com)):.*@ab2p-block-request@Ti
@@ -1547,9 +1544,6 @@ s@^referer(?=:[^\n]*[./](?:52vip\.net)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R29
 s@^referer(?=:[^\n]*[./](?:6668\.se)):.*@ab2p-block-request@Ti
-
-CLIENT-HEADER-TAGGER: ab2p-block-request-R3
-s@^referer(?=:[^\n]*[./](?:12345xo\.com|123gbgb\.com|123ksks\.com|216xx\.com|263kk\.com|44rbrb\.com|66ctct\.com|828ee\.com|832ee\.com|833tu\.com|90yb\.com|955aa\.com|970b\.com|987abc\.com|99ksks\.com|auau88\.com|ccc559\.com|etet666\.com|xbxb123\.com|yeyeqi7\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R30
 s@^referer(?=:[^\n]*[./](?:67\.228\.203\.174|iu91\.co|maichun5\.info|mc88\.info|myhhg\.com|sejie\.com|sejie3\.us|ukhuaren\.co|yh1\.info|yh10\.info)):.*@ab2p-block-request@Ti
@@ -1581,6 +1575,9 @@ s@^referer(?=:[^\n]*[./](?:acglover\.top|freecctv\.xyz|mlook\.mobi)):.*@ab2p-blo
 CLIENT-HEADER-TAGGER: ab2p-block-request-R39
 s@^referer(?=:[^\n]*[./](?:acgura\.us|kisssub\.org|lsjsoso\.me|ref\.so)):.*@ab2p-block-request@Ti
 
+CLIENT-HEADER-TAGGER: ab2p-block-request-R4
+s@^referer(?=:[^\n]*[./](?:12580sky\.com)):.*@ab2p-block-request@Ti
+
 CLIENT-HEADER-TAGGER: ab2p-block-request-R40
 s@^referer(?=:[^\n]*[./](?:adultcao\.com|cao\.pe|caofoo\.top|caohot\.club|caoporn\.club|caoporn\.com|caoporn\.wales|caosee\.club|gaohot\.pro|k88\.club|me88\.pw|p5p\.space|qq88\.space|se88\.space|tb001\.xyz|te88\.pw|vgao\.xyz|vwan\.xyz|wan1024\.com|wan41\.com)):.*@ab2p-block-request@Ti
 
@@ -1609,10 +1606,10 @@ CLIENT-HEADER-TAGGER: ab2p-block-request-R49
 s@^referer(?=:[^\n]*[./](?:bejson\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R5
-s@^referer(?=:[^\n]*[./](?:12580sky\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:144\.217\.84\.47|149\.56\.45\.111|a7s7\.com|sex169\.biz|sex169\.info|sex169\.net|sex169\.org|sex169\.pw|sex169\.xyz|vidoe169\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R51
-s@^referer(?=:[^\n]*[./](?:bilibilijj\.com|gaoqingkong\.com|xianzhenyuan\.cn)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:bilibilijj\.com|gaoqingkong\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R52
 s@^referer(?=:[^\n]*[./](?:bjmama\.com)):.*@ab2p-block-request@Ti
@@ -1636,7 +1633,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-request-R59
 s@^referer(?=:[^\n]*[./](?:chineseinla\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R6
-s@^referer(?=:[^\n]*[./](?:144\.217\.84\.47|149\.56\.45\.111|a7s7\.com|sex169\.biz|sex169\.info|sex169\.net|sex169\.org|sex169\.pw|sex169\.xyz|vidoe169\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:17173\.com|17173\.tv\.sohu\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R60
 s@^referer(?=:[^\n]*[./](?:ck101\.com)):.*@ab2p-block-request@Ti
@@ -1663,7 +1660,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-request-R68
 s@^referer(?=:[^\n]*[./](?:dix3\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R7
-s@^referer(?=:[^\n]*[./](?:17173\.com|17173\.tv\.sohu\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:172\.86\.179\.138|208\.94\.244\.100|208\.94\.244\.98|a88\.us|ac168\.info|ac88\.info|aisex\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R71
 s@^referer(?=:[^\n]*[./](?:dnvod\.tv)):.*@ab2p-block-request@Ti
@@ -1690,7 +1687,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-request-R79
 s@^referer(?=:[^\n]*[./](?:forum\.qidian\.com|sosu\.qidian\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R8
-s@^referer(?=:[^\n]*[./](?:172\.86\.179\.138|208\.94\.244\.100|208\.94\.244\.98|a88\.us|ac168\.info|ac88\.info|aisex\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:172\.86\.179\.138|208\.94\.244\.100|208\.94\.244\.98|a88\.us|ac168\.info|ac88\.info|aisex\.com|fdzone\.org|go543\.com|jandown\.com|mimima\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R80
 s@^referer(?=:[^\n]*[./](?:game\.macx\.cn)):.*@ab2p-block-request@Ti
@@ -1717,7 +1714,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-request-R89
 s@^referer(?=:[^\n]*[./](?:hkgolden\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R9
-s@^referer(?=:[^\n]*[./](?:172\.86\.179\.138|208\.94\.244\.100|208\.94\.244\.98|a88\.us|ac168\.info|ac88\.info|aisex\.com|fdzone\.org|go543\.com|jandown\.com|mimima\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:172\.86\.179\.138|208\.94\.244\.100|208\.94\.244\.98|a88\.us|ac168\.info|aisex\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R90
 s@^referer(?=:[^\n]*[./](?:hmog\.me)):.*@ab2p-block-request@Ti
@@ -1743,23 +1740,26 @@ s@^referer(?=:[^\n]*[./](?:jpfans\.com|jpseek\.com)):.*@ab2p-block-request@Ti
 CLIENT-HEADER-TAGGER: ab2p-block-request-R99
 s@^referer(?=:[^\n]*[./](?:kisssub\.org)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Rn153
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn152
 s@^referer(?!:[^\n]*[./](?:11185\.cn|fanfou\.com|gg1z\.com|ha47\.cn)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Rn156
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn155
 s@^referer(?!:[^\n]*[./](?:388g\.com|msra\.cn)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Rn157
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn156
 s@^referer(?!:[^\n]*[./](?:520cc\.me)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Rn161
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn160
 s@^referer(?!:[^\n]*[./](?:coolpc\.com\.tw|sac\.net\.cn)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Rn164
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn163
 s@^referer(?!:[^\n]*[./](?:fwxgx\.com)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Rn166
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn165
 s@^referer(?!:[^\n]*[./](?:hdwan\.net)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn166
+s@^referer(?!:[^\n]*[./](?:index\.sogou\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-Rn168
 s@^referer(?!:[^\n]*[./](?:lianmeng\.360\.cn)):.*@ab2p-block-request@Ti
@@ -1798,7 +1798,7 @@ s@^referer(?=:[^\n]*[./](?:pc6\.com)):.*@ab2p-block-xframe@Ti
 CLIENT-HEADER-TAGGER: ab2p-block-xframe-R129
 s@^referer(?=:[^\n]*[./](?:tieba\.baidu\.com)):.*@ab2p-block-xframe@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-xframe-R4
+CLIENT-HEADER-TAGGER: ab2p-block-xframe-R3
 s@^referer(?=:[^\n]*[./](?:123du\.cc|bokon\.net)):.*@ab2p-block-xframe@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-xframe-R69
@@ -1816,7 +1816,7 @@ s@^referer(?=:[^\n]*[./](?:gdmm\.com)):.*@ab2p-block-xframe@Ti
 CLIENT-HEADER-TAGGER: ab2p-block-xframe-R88
 s@^referer(?=:[^\n]*[./](?:hk\.news\.yahoo\.com|hk\.yahoo\.com|tw\.news\.yahoo\.com|tw\.stock\.yahoo\.com|tw\.yahoo\.com)):.*@ab2p-block-xframe@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-xframe-Rn162
+CLIENT-HEADER-TAGGER: ab2p-block-xframe-Rn161
 s@^referer(?!:[^\n]*[./](?:dmzj\.com)):.*@ab2p-block-xframe@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-xframe-Rt
@@ -1825,6 +1825,9 @@ s@^referer(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@
 
 CLIENT-HEADER-TAGGER: ab2p-block-xpopup-R100
 s@^referer(?=:[^\n]*[./](?:linkbucks\.com|zytpirwai\.net)):.*@ab2p-block-xpopup@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-xpopup-R126
+s@^referer(?=:[^\n]*[./](?:steamcn\.com)):.*@ab2p-block-xpopup@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-xpopup-R131
 s@^referer(?=:[^\n]*[./](?:tsdm\.me|tsdm\.net|tsdm\.tw)):.*@ab2p-block-xpopup@Ti
@@ -1835,10 +1838,7 @@ s@^referer(?=:[^\n]*[./](?:tt1069\.com)):.*@ab2p-block-xpopup@Ti
 CLIENT-HEADER-TAGGER: ab2p-block-xpopup-R136
 s@^referer(?=:[^\n]*[./](?:up2stream\.com)):.*@ab2p-block-xpopup@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-xpopup-R144
-s@^referer(?=:[^\n]*[./](?:xianzhenyuan\.cn)):.*@ab2p-block-xpopup@Ti
-
-CLIENT-HEADER-TAGGER: ab2p-block-xpopup-R148
+CLIENT-HEADER-TAGGER: ab2p-block-xpopup-R147
 s@^referer(?=:[^\n]*[./](?:yifile\.com)):.*@ab2p-block-xpopup@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-xpopup-R191t
@@ -1853,7 +1853,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-xpopup-R31
 s@^referer(?=:[^\n]*[./](?:77file\.com)):.*@ab2p-block-xpopup@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-xpopup-R51
-s@^referer(?=:[^\n]*[./](?:bilibilijj\.com|gaoqingkong\.com|xianzhenyuan\.cn)):.*@ab2p-block-xpopup@Ti
+s@^referer(?=:[^\n]*[./](?:bilibilijj\.com|gaoqingkong\.com)):.*@ab2p-block-xpopup@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-xpopup-R86
 s@^referer(?=:[^\n]*[./](?:henbt\.com)):.*@ab2p-block-xpopup@Ti
@@ -2229,60 +2229,63 @@ CLIENT-HEADER-TAGGER: ab2p-unblock-dnt-R313
 s@^referer(?=:[^\n]*[./](?:ttx\.cn)):.*@ab2p-unblock-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-dnt-R314
-s@^referer(?=:[^\n]*[./](?:tvb\.com)):.*@ab2p-unblock-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:tudou\.com|youku\.com)):.*@ab2p-unblock-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-dnt-R315
-s@^referer(?=:[^\n]*[./](?:tw\.autos\.yahoo\.com|tw\.buy\.yahoo\.com)):.*@ab2p-unblock-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:tvb\.com)):.*@ab2p-unblock-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-dnt-R316
-s@^referer(?=:[^\n]*[./](?:tw\.buy\.yahoo\.com)):.*@ab2p-unblock-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:tw\.autos\.yahoo\.com|tw\.buy\.yahoo\.com)):.*@ab2p-unblock-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-dnt-R317
-s@^referer(?=:[^\n]*[./](?:union\.163\.com)):.*@ab2p-unblock-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:tw\.buy\.yahoo\.com)):.*@ab2p-unblock-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-dnt-R318
-s@^referer(?=:[^\n]*[./](?:v\.ifeng\.com)):.*@ab2p-unblock-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:union\.163\.com)):.*@ab2p-unblock-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-dnt-R319
-s@^referer(?=:[^\n]*[./](?:veryeast\.cn)):.*@ab2p-unblock-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:v\.ifeng\.com)):.*@ab2p-unblock-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-dnt-R320
-s@^referer(?=:[^\n]*[./](?:video\.sina\.com\.cn)):.*@ab2p-unblock-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:veryeast\.cn)):.*@ab2p-unblock-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-dnt-R321
-s@^referer(?=:[^\n]*[./](?:videomega\.tv)):.*@ab2p-unblock-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:video\.sina\.com\.cn)):.*@ab2p-unblock-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-dnt-R322
-s@^referer(?=:[^\n]*[./](?:wb\.qq\.com)):.*@ab2p-unblock-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:videomega\.tv)):.*@ab2p-unblock-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-dnt-R323
-s@^referer(?=:[^\n]*[./](?:webcars\.com\.cn)):.*@ab2p-unblock-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:wb\.qq\.com)):.*@ab2p-unblock-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-dnt-R324
-s@^referer(?=:[^\n]*[./](?:weibo\.com))(?!:[^\n]*[./](?:widget\.weibo\.com)):.*@ab2p-unblock-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:webcars\.com\.cn)):.*@ab2p-unblock-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-dnt-R325
-s@^referer(?=:[^\n]*[./](?:www\.taobao\.com)):.*@ab2p-unblock-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:weibo\.com))(?!:[^\n]*[./](?:widget\.weibo\.com)):.*@ab2p-unblock-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-dnt-R326
-s@^referer(?=:[^\n]*[./](?:xcar\.com\.cn)):.*@ab2p-unblock-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:www\.taobao\.com)):.*@ab2p-unblock-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-dnt-R327
-s@^referer(?=:[^\n]*[./](?:xdf\.cn)):.*@ab2p-unblock-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:xcar\.com\.cn)):.*@ab2p-unblock-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-dnt-R328
-s@^referer(?=:[^\n]*[./](?:xingk\.cc)):.*@ab2p-unblock-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:xdf\.cn)):.*@ab2p-unblock-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-dnt-R329
-s@^referer(?=:[^\n]*[./](?:xoyo\.com)):.*@ab2p-unblock-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:xingk\.cc)):.*@ab2p-unblock-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-dnt-R330
-s@^referer(?=:[^\n]*[./](?:ybjk\.com)):.*@ab2p-unblock-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:xoyo\.com)):.*@ab2p-unblock-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-dnt-R331
-s@^referer(?=:[^\n]*[./](?:ygo-sem\.cn)):.*@ab2p-unblock-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:ybjk\.com)):.*@ab2p-unblock-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-dnt-R332
+s@^referer(?=:[^\n]*[./](?:ygo-sem\.cn)):.*@ab2p-unblock-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-unblock-dnt-R333
 s@^referer(?=:[^\n]*[./](?:youku\.com)):.*@ab2p-unblock-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-dnt-R70
@@ -2656,60 +2659,63 @@ CLIENT-HEADER-TAGGER: ab2p-unblock-elem-R313
 s@^referer(?=:[^\n]*[./](?:ttx\.cn)):.*@ab2p-unblock-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-elem-R314
-s@^referer(?=:[^\n]*[./](?:tvb\.com)):.*@ab2p-unblock-elem@Ti
+s@^referer(?=:[^\n]*[./](?:tudou\.com|youku\.com)):.*@ab2p-unblock-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-elem-R315
-s@^referer(?=:[^\n]*[./](?:tw\.autos\.yahoo\.com|tw\.buy\.yahoo\.com)):.*@ab2p-unblock-elem@Ti
+s@^referer(?=:[^\n]*[./](?:tvb\.com)):.*@ab2p-unblock-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-elem-R316
-s@^referer(?=:[^\n]*[./](?:tw\.buy\.yahoo\.com)):.*@ab2p-unblock-elem@Ti
+s@^referer(?=:[^\n]*[./](?:tw\.autos\.yahoo\.com|tw\.buy\.yahoo\.com)):.*@ab2p-unblock-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-elem-R317
-s@^referer(?=:[^\n]*[./](?:union\.163\.com)):.*@ab2p-unblock-elem@Ti
+s@^referer(?=:[^\n]*[./](?:tw\.buy\.yahoo\.com)):.*@ab2p-unblock-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-elem-R318
-s@^referer(?=:[^\n]*[./](?:v\.ifeng\.com)):.*@ab2p-unblock-elem@Ti
+s@^referer(?=:[^\n]*[./](?:union\.163\.com)):.*@ab2p-unblock-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-elem-R319
-s@^referer(?=:[^\n]*[./](?:veryeast\.cn)):.*@ab2p-unblock-elem@Ti
+s@^referer(?=:[^\n]*[./](?:v\.ifeng\.com)):.*@ab2p-unblock-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-elem-R320
-s@^referer(?=:[^\n]*[./](?:video\.sina\.com\.cn)):.*@ab2p-unblock-elem@Ti
+s@^referer(?=:[^\n]*[./](?:veryeast\.cn)):.*@ab2p-unblock-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-elem-R321
-s@^referer(?=:[^\n]*[./](?:videomega\.tv)):.*@ab2p-unblock-elem@Ti
+s@^referer(?=:[^\n]*[./](?:video\.sina\.com\.cn)):.*@ab2p-unblock-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-elem-R322
-s@^referer(?=:[^\n]*[./](?:wb\.qq\.com)):.*@ab2p-unblock-elem@Ti
+s@^referer(?=:[^\n]*[./](?:videomega\.tv)):.*@ab2p-unblock-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-elem-R323
-s@^referer(?=:[^\n]*[./](?:webcars\.com\.cn)):.*@ab2p-unblock-elem@Ti
+s@^referer(?=:[^\n]*[./](?:wb\.qq\.com)):.*@ab2p-unblock-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-elem-R324
-s@^referer(?=:[^\n]*[./](?:weibo\.com))(?!:[^\n]*[./](?:widget\.weibo\.com)):.*@ab2p-unblock-elem@Ti
+s@^referer(?=:[^\n]*[./](?:webcars\.com\.cn)):.*@ab2p-unblock-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-elem-R325
-s@^referer(?=:[^\n]*[./](?:www\.taobao\.com)):.*@ab2p-unblock-elem@Ti
+s@^referer(?=:[^\n]*[./](?:weibo\.com))(?!:[^\n]*[./](?:widget\.weibo\.com)):.*@ab2p-unblock-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-elem-R326
-s@^referer(?=:[^\n]*[./](?:xcar\.com\.cn)):.*@ab2p-unblock-elem@Ti
+s@^referer(?=:[^\n]*[./](?:www\.taobao\.com)):.*@ab2p-unblock-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-elem-R327
-s@^referer(?=:[^\n]*[./](?:xdf\.cn)):.*@ab2p-unblock-elem@Ti
+s@^referer(?=:[^\n]*[./](?:xcar\.com\.cn)):.*@ab2p-unblock-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-elem-R328
-s@^referer(?=:[^\n]*[./](?:xingk\.cc)):.*@ab2p-unblock-elem@Ti
+s@^referer(?=:[^\n]*[./](?:xdf\.cn)):.*@ab2p-unblock-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-elem-R329
-s@^referer(?=:[^\n]*[./](?:xoyo\.com)):.*@ab2p-unblock-elem@Ti
+s@^referer(?=:[^\n]*[./](?:xingk\.cc)):.*@ab2p-unblock-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-elem-R330
-s@^referer(?=:[^\n]*[./](?:ybjk\.com)):.*@ab2p-unblock-elem@Ti
+s@^referer(?=:[^\n]*[./](?:xoyo\.com)):.*@ab2p-unblock-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-elem-R331
-s@^referer(?=:[^\n]*[./](?:ygo-sem\.cn)):.*@ab2p-unblock-elem@Ti
+s@^referer(?=:[^\n]*[./](?:ybjk\.com)):.*@ab2p-unblock-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-elem-R332
+s@^referer(?=:[^\n]*[./](?:ygo-sem\.cn)):.*@ab2p-unblock-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-unblock-elem-R333
 s@^referer(?=:[^\n]*[./](?:youku\.com)):.*@ab2p-unblock-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-elem-R70
@@ -3142,57 +3148,60 @@ CLIENT-HEADER-TAGGER: ab2p-unblock-request-R313
 s@^referer(?=:[^\n]*[./](?:ttx\.cn)):.*@ab2p-unblock-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-request-R314
+s@^referer(?=:[^\n]*[./](?:tudou\.com|youku\.com)):.*@ab2p-unblock-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-unblock-request-R315
 s@^referer(?=:[^\n]*[./](?:tvb\.com)):.*@ab2p-unblock-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-unblock-request-R316
+CLIENT-HEADER-TAGGER: ab2p-unblock-request-R317
 s@^referer(?=:[^\n]*[./](?:tw\.buy\.yahoo\.com)):.*@ab2p-unblock-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-unblock-request-R317
+CLIENT-HEADER-TAGGER: ab2p-unblock-request-R318
 s@^referer(?=:[^\n]*[./](?:union\.163\.com)):.*@ab2p-unblock-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-unblock-request-R318
+CLIENT-HEADER-TAGGER: ab2p-unblock-request-R319
 s@^referer(?=:[^\n]*[./](?:v\.ifeng\.com)):.*@ab2p-unblock-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-unblock-request-R319
+CLIENT-HEADER-TAGGER: ab2p-unblock-request-R320
 s@^referer(?=:[^\n]*[./](?:veryeast\.cn)):.*@ab2p-unblock-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-unblock-request-R320
+CLIENT-HEADER-TAGGER: ab2p-unblock-request-R321
 s@^referer(?=:[^\n]*[./](?:video\.sina\.com\.cn)):.*@ab2p-unblock-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-unblock-request-R321
+CLIENT-HEADER-TAGGER: ab2p-unblock-request-R322
 s@^referer(?=:[^\n]*[./](?:videomega\.tv)):.*@ab2p-unblock-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-unblock-request-R322
+CLIENT-HEADER-TAGGER: ab2p-unblock-request-R323
 s@^referer(?=:[^\n]*[./](?:wb\.qq\.com)):.*@ab2p-unblock-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-unblock-request-R323
+CLIENT-HEADER-TAGGER: ab2p-unblock-request-R324
 s@^referer(?=:[^\n]*[./](?:webcars\.com\.cn)):.*@ab2p-unblock-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-unblock-request-R324
+CLIENT-HEADER-TAGGER: ab2p-unblock-request-R325
 s@^referer(?=:[^\n]*[./](?:weibo\.com))(?!:[^\n]*[./](?:widget\.weibo\.com)):.*@ab2p-unblock-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-unblock-request-R325
+CLIENT-HEADER-TAGGER: ab2p-unblock-request-R326
 s@^referer(?=:[^\n]*[./](?:www\.taobao\.com)):.*@ab2p-unblock-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-unblock-request-R326
+CLIENT-HEADER-TAGGER: ab2p-unblock-request-R327
 s@^referer(?=:[^\n]*[./](?:xcar\.com\.cn)):.*@ab2p-unblock-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-unblock-request-R327
+CLIENT-HEADER-TAGGER: ab2p-unblock-request-R328
 s@^referer(?=:[^\n]*[./](?:xdf\.cn)):.*@ab2p-unblock-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-unblock-request-R328
+CLIENT-HEADER-TAGGER: ab2p-unblock-request-R329
 s@^referer(?=:[^\n]*[./](?:xingk\.cc)):.*@ab2p-unblock-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-unblock-request-R329
+CLIENT-HEADER-TAGGER: ab2p-unblock-request-R330
 s@^referer(?=:[^\n]*[./](?:xoyo\.com)):.*@ab2p-unblock-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-unblock-request-R330
+CLIENT-HEADER-TAGGER: ab2p-unblock-request-R331
 s@^referer(?=:[^\n]*[./](?:ybjk\.com)):.*@ab2p-unblock-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-unblock-request-R331
+CLIENT-HEADER-TAGGER: ab2p-unblock-request-R332
 s@^referer(?=:[^\n]*[./](?:ygo-sem\.cn)):.*@ab2p-unblock-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-unblock-request-R332
+CLIENT-HEADER-TAGGER: ab2p-unblock-request-R333
 s@^referer(?=:[^\n]*[./](?:youku\.com)):.*@ab2p-unblock-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-request-R70
@@ -3216,10 +3225,10 @@ s@^x-requested-with(?=:\s*(?:xmlhttprequest)):.*@ab2p-unblock-request@Ti
 CLIENT-HEADER-TAGGER: ab2p-unblock-request-Xx-when-R294
 s@^referer(?=:[^\n]*[./](?:on\.cc)):.*@ab2p-unblock-request-Xx@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-unblock-request-Xx-when-R315
+CLIENT-HEADER-TAGGER: ab2p-unblock-request-Xx-when-R316
 s@^referer(?=:[^\n]*[./](?:tw\.autos\.yahoo\.com|tw\.buy\.yahoo\.com)):.*@ab2p-unblock-request-Xx@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-unblock-request-Xx-when-R318
+CLIENT-HEADER-TAGGER: ab2p-unblock-request-Xx-when-R319
 s@^referer(?=:[^\n]*[./](?:v\.ifeng\.com)):.*@ab2p-unblock-request-Xx@Ti
 
 SERVER-HEADER-TAGGER: ab2p-unblock-request-nC
