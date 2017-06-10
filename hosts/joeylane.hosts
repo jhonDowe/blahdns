@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75971 ad serving and malware domains.
+# Currently blocking 75972 ad serving and malware domains.
 #
-# Date Generated: Jun 07 2017
+# Date Generated: Jun 09 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -41220,6 +41220,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 flttracksecure.com
 127.0.0.1 flu.secureintl.com
 127.0.0.1 flu23.com
+127.0.0.1 fludgwererqo.at
 127.0.0.1 fluentmobile.com
 127.0.0.1 fluoxetine.1.p2l.info
 127.0.0.1 flurry.com
@@ -62793,7 +62794,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 trendnews.com
 127.0.0.1 trends.revcontent.com
 127.0.0.1 tresalacarta.2cnt.net
-127.0.0.1 treskainc.com
 127.0.0.1 treventuresonline.com
 127.0.0.1 trf.intuitwebsites.com
 127.0.0.1 trg.peer39.net
@@ -69097,6 +69097,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wrigley.122.2o7.net
 127.0.0.1 writingassociates.com
 127.0.0.1 wroclawski.com.pl
+127.0.0.1 ws-ea.amazon-adsystem.com
 127.0.0.1 ws-eu.amazon-adsystem.com
 127.0.0.1 ws-na.amazon-adsystem.com
 127.0.0.1 ws.00zasdf.pw
