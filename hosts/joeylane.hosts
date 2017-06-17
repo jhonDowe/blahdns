@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75973 ad serving and malware domains.
+# Currently blocking 75976 ad serving and malware domains.
 #
-# Date Generated: Jun 12 2017
+# Date Generated: Jun 17 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -730,7 +730,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 1src.us.intellitxt.com
 127.0.0.1 1st-fuss.com
 127.0.0.1 1st-media.com
-127.0.0.1 1st.technology
 127.0.0.1 1stfind.com
 127.0.0.1 1stmovieclub.com
 127.0.0.1 1stmovieclub.net
@@ -25742,6 +25741,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 altogames.com
 127.0.0.1 altx.hornyspace.com
 127.0.0.1 aluriasoftware.com
+127.0.0.1 alvoportas.com.br
 127.0.0.1 alwaysbestprices.com
 127.0.0.1 alwaysforfriend.land.ru
 127.0.0.1 alwaysgirls.com
@@ -35350,6 +35350,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 compteur.com
 127.0.0.1 compteur.francite.com
 127.0.0.1 compu3.com
+127.0.0.1 compufixshop.com
 127.0.0.1 compulenta.ru.intellitxt.com
 127.0.0.1 computer-offer.com
 127.0.0.1 computer-offer.net
@@ -44611,7 +44612,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 idm.hit.gemius.pl
 127.0.0.1 idm.us.intellitxt.com
 127.0.0.1 idontlikeyouinthatway.us.intellitxt.com
-127.0.0.1 idot.cz
 127.0.0.1 idpix.media6degrees.com
 127.0.0.1 idregie.com
 127.0.0.1 idritracker.com
@@ -50153,6 +50153,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 motortrend.us.intellitxt.com
 127.0.0.1 motorvis.ivwbox.de
 127.0.0.1 motorward.us.intellitxt.com
+127.0.0.1 motosal.net
 127.0.0.1 motradon.ivwbox.de
 127.0.0.1 mottnow.adk2x.com
 127.0.0.1 mouads.com
@@ -70686,6 +70687,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.compactads.com
 127.0.0.1 www.compete.com
 127.0.0.1 www.competeinc.com
+127.0.0.1 www.compufixshop.com
 127.0.0.1 www.computer-offer.com
 127.0.0.1 www.computer-offer.net
 127.0.0.1 www.computers-electronics-rewardpath.com
@@ -73364,6 +73366,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.radiate.com
 127.0.0.1 www.rampidads.com
 127.0.0.1 www.randall-mccabe.us
+127.0.0.1 www.randki-sex.com
 127.0.0.1 www.random-logic.com
 127.0.0.1 www.randppro-cuts.com
 127.0.0.1 www.rank-guru.com
