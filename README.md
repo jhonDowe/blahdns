@@ -6,16 +6,17 @@ Block unwanted Ads, Malware, Phisihing sites, No Cencorship, Fast, Secure!!
 Default blocked content: English, Russia, China, German, Tracker, Malwaresites, Phishingsites, Ransome
 <hr>
 
-<p>Privacy Protection</p><p>
+<b>Privacy Protection</b>
+<p>
 We have no interest in logging DNS queries.</p>
 
-<p> Donate </p>
+<b> Donate </b>
 Paypal: ookangzheng@yahoo.com
 <br>
-<p> Notes </p>
+<b> Notes </b>
 45.32.81.2 (LA, US) [No longer maintaince]
 <br>
-<p> How can I flush my DNS </p>
+<b> How can I flush my DNS </b>
 <ul>
 <li> Windows --> CMD --> ipconfig /flushdns </li>
 <li> MAC --> killall -HUP mDNSResponder </li>
