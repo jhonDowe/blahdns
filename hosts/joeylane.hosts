@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75976 ad serving and malware domains.
+# Currently blocking 75975 ad serving and malware domains.
 #
-# Date Generated: Jun 17 2017
+# Date Generated: Jun 20 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -50428,7 +50428,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 mx.ero-advertising.com
 127.0.0.1 mx.iesnare.com
 127.0.0.1 mx.iovation.com
-127.0.0.1 mx.yandex.ru
 127.0.0.1 mx01.openinternetexchange.com
 127.0.0.1 mx01.openinternetexchange.net
 127.0.0.1 mx01.webwise.com

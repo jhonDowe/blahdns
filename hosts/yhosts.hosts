@@ -1,5 +1,5 @@
 
-#version=20170617 911
+#version=20170620 938
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -55,8 +55,9 @@
 127.0.0.1 cbs.wondershare.com
 127.0.0.1 macplatform.wondershare.com
 127.0.0.1 platform.wondershare.com
+127.0.0.1 e-p4p.163.com
+127.0.0.1 nex.163.com
 127.0.0.1 nos.netease.com
-127.0.0.1 cms-bucket.nosdn.127.net
 127.0.0.1 log.yex.youdao.com
 127.0.0.1 gorgon.youdao.com
 127.0.0.1 impservice.dictapp.youdao.com
@@ -361,11 +362,15 @@
 127.0.0.1 fych.uranus.sogou.com
 127.0.0.1 gxe.husky.sogou.com
 127.0.0.1 inte.sogou.com
+127.0.0.1 jsnp.golden1.sogou.com
+127.0.0.1 ktivn.uranus.sogou.com
 127.0.0.1 osc.uranus.sogou.com
 127.0.0.1 p.inte.sogou.com
 127.0.0.1 ping.acc.sogou.com
 127.0.0.1 pjyu.golden1.sogou.com
 127.0.0.1 psfq.gou.sogou.com
+127.0.0.1 qhl.bealge.sogou.com
+127.0.0.1 qxm.pluto.sogou.com
 127.0.0.1 rd.e.sogou.com
 127.0.0.1 service.epro.sogou.com
 127.0.0.1 union.sogou.com
@@ -374,6 +379,7 @@
 127.0.0.1 adstream.123.sogoucdn.com
 127.0.0.1 art.theta.sogoucdn.com
 127.0.0.1 bite.theta.sogoucdn.com
+127.0.0.1 inte.theta.sogoucdn.com
 127.0.0.1 moka.inte.sogoucdn.com
 127.0.0.1 png.lu.sogoucdn.com
 127.0.0.1 theta.sogoucdn.com
@@ -415,7 +421,6 @@
 127.0.0.1 tui.taobao.com
 127.0.0.1 tyh.taobao.com
 127.0.0.1 jx.tmall.com
-127.0.0.1 c-nfa.jd.com
 127.0.0.1 ccc.x.jd.com
 127.0.0.1 click.jr.jd.com
 127.0.0.1 img.x.jd.com
@@ -1274,7 +1279,6 @@
 127.0.0.1 click.qianqian.com
 127.0.0.1 ad.qingting.fm
 127.0.0.1 s.qtad.qingting.fm
-127.0.0.1 od.qingting.fm
 127.0.0.1 ad.ximalaya.com
 127.0.0.1 adse.ximalaya.com
 127.0.0.1 adeventtracker.spotify.com
@@ -2363,6 +2367,7 @@
 127.0.0.1 ysm.hauchi.com.tw
 127.0.0.1 r.pixgold.com
 127.0.0.1 ad.evozi.com
+127.0.0.1 m.huananb.com
 127.0.0.1 shi.tsrc8.com
 127.0.0.1 ke.qzdag.com
 127.0.0.1 m.ddg1277.com
@@ -2466,6 +2471,8 @@
 127.0.0.1 www.mountex.cn
 127.0.0.1 www.yiranxian.cn
 127.0.0.1 tmc.biquge.com
+127.0.0.1 e.clubske.com
+127.0.0.1 m.clubske.com
 127.0.0.1 e.inccnd.com
 127.0.0.1 m.inccnd.com
 127.0.0.1 sha.qjjtc.com
@@ -2478,6 +2485,7 @@
 127.0.0.1 m.resetgey.com
 127.0.0.1 zhong.3gmtr.com
 127.0.0.1 di.zymro.com
+127.0.0.1 e.ksdsuzhou.com
 127.0.0.1 m.jbyy010.com
 127.0.0.1 e.jbyy010.com
 127.0.0.1 xian.axkxy.com
@@ -2628,6 +2636,7 @@
 127.0.0.1 gmtw.wzflourish.com
 127.0.0.1 s.175bar.com
 127.0.0.1 js.csxjys.com
+127.0.0.1 js412.wangdaizao.com
 127.0.0.1 u.diginavi.net
 127.0.0.1 kn.awyys.com
 127.0.0.1 js439.lytubaobao.com
@@ -2783,6 +2792,7 @@
 127.0.0.1 syd.wayize.cn
 127.0.0.1 tks1y9.bairuile.cn
 127.0.0.1 wowo.kilospeak.com
+127.0.0.1 wo.rbywg.com
 127.0.0.1 m.gdyyyg.net
 127.0.0.1 img.hzkcbs.com
 127.0.0.1 js.hzkcbs.com
@@ -2849,6 +2859,7 @@
 127.0.0.1 iiehdh.wap.xxbiquge.com
 127.0.0.1 tsdhgdhe.wap.xxbiquge.com
 127.0.0.1 udhvgs.wap.xxbiquge.com
+127.0.0.1 m.jifeidandar.com
 127.0.0.1 tian.awkjs.com
 127.0.0.1 e.yidulive.net
 127.0.0.1 alibaba.zhihei.com
@@ -3150,6 +3161,7 @@
 127.0.0.1 p.heib7.top
 127.0.0.1 p.heib6.top
 127.0.0.1 mts.sdtieta.com
+127.0.0.1 ds-pv.iqu-operation.com
 127.0.0.1 www.boxercrazy.org
 127.0.0.1 dm76.dingon.com.cn
 127.0.0.1 images.tygc5.com
@@ -3537,6 +3549,7 @@
 127.0.0.1 sg.keytui.com
 127.0.0.1 a.mianbao99.com
 127.0.0.1 m.qcw.com
+127.0.0.1 m.ksdsuzhou.com
 127.0.0.1 js257.rrsubway.com
 127.0.0.1 m.xigeng0375.com
 127.0.0.1 v1.0594529.com
