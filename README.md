@@ -1,5 +1,5 @@
 <h1> Ads block with BlahDNS </h1>
-<h2>Ipv4: 45.32.81.2 (Los Angeles, US), 217.61.0.97 (Frankfut, Germany) </h2>
+<h2>Ipv4: 217.61.0.97 (Frankfut, Germany) , 45.77.14.27(Tokyo, JP)</h2>
 <br>
 Block unwanted Ads, Malware, Phisihing sites, No Cencorship, Fast, Secure!!
 <br>
@@ -8,10 +8,13 @@ Default blocked content: English, Russia, China, German, Tracker, Malwaresites, 
 
 <p>Privacy Protection</p><p>
 We have no interest in logging DNS queries.</p>
-<p>
-It's important to us, that using our DNS resolver does not slow down using the internet. You don't have to trade in better privacy protection for speed. 
-</p>
 
+<p> Donate </p>
+Paypal: ookangzheng@yahoo.com
+<br>
+<p> Notes </p>
+45.32.81.2 (LA, US) [No longer maintaince]
+<br>
 <p> How can I flush my DNS </p>
 <ul>
 <li> Windows --> CMD --> ipconfig /flushdns </li>
