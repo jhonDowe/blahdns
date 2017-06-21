@@ -8,7 +8,7 @@ Default blocked content: English, Russia, China, German, Tracker, Malwaresites, 
 
 <b>Privacy Protection</b>
 <p>
-We have no interest in logging DNS queries.</p>
+We have no interest in logging DNS queries, we work as resolver, just forward the request to Google DNS or OpenDNS</p>
 
 <b> Donate </b>
 Paypal: ookangzheng@yahoo.com
