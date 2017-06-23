@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75975 ad serving and malware domains.
+# Currently blocking 75974 ad serving and malware domains.
 #
-# Date Generated: Jun 20 2017
+# Date Generated: Jun 22 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -42919,6 +42919,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gmads.net
 127.0.0.1 gmagictrk.com
 127.0.0.1 gmail.com.org
+127.0.0.1 gmailsecurityteam.com
 127.0.0.1 gmchevyapprentice.112.2o7.net
 127.0.0.1 gmdtrk.com
 127.0.0.1 gmgmacfs.112.2o7.net
@@ -74566,7 +74567,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.weblemon.pl
 127.0.0.1 www.weblogtracker.net
 127.0.0.1 www.webmoblink.com
-127.0.0.1 www.webos.in
 127.0.0.1 www.webpagescripts.net
 127.0.0.1 www.webpaypal.com
 127.0.0.1 www.webprowire.com
@@ -75949,7 +75949,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 zr0.net
 127.0.0.1 zs.dhl.de
 127.0.0.1 zs.ffshrine.org
-127.0.0.1 zs.technogatti.com
 127.0.0.1 zs.zeroredirect1.com
 127.0.0.1 zs0s5xfe.com
 127.0.0.1 zs1.zeroredirect1.com
