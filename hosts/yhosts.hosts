@@ -1,5 +1,5 @@
 
-#version=20170620 938
+#version=201706261544
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -581,7 +581,7 @@
 127.0.0.1 script.crazyegg.com
 127.0.0.1 search.moviecarpet.com
 127.0.0.1 static.hotjar.com
-127.0.0.1 aka.ms
+127.0.0.1 ffb.feihuo.com
 127.0.0.1 cps.yaoqing.com
 127.0.0.1 wm.makeding.com
 127.0.0.1 go.fcwr8.com
@@ -708,15 +708,17 @@
 127.0.0.1 930.dragonparking.com
 127.0.0.1 track.dragonparking.com
 127.0.0.1 cdn.dragonstatic.com
+127.0.0.1 cpro.9xu.com
+127.0.0.1 dl.9xu.com
+127.0.0.1 js.union-wifi.com
+127.0.0.1 rcv.union-wifi.com
+127.0.0.1 ad.jsnbrynb.com
+127.0.0.1 apppic.yingyongbei.com
 127.0.0.1 809.ok365.com
 127.0.0.1 818.ok365.com
 127.0.0.1 cloudcdn.dopa.com.cn
 127.0.0.1 pd.ok365.com
 127.0.0.1 www.ok365.com
-127.0.0.1 cpro.9xu.com
-127.0.0.1 dl.9xu.com
-127.0.0.1 js.union-wifi.com
-127.0.0.1 rcv.union-wifi.com
 127.0.0.1 engine.tuia.cn
 127.0.0.1 res.ipingke.com
 127.0.0.1 ggle.lywf.me
@@ -2367,6 +2369,8 @@
 127.0.0.1 ysm.hauchi.com.tw
 127.0.0.1 r.pixgold.com
 127.0.0.1 ad.evozi.com
+127.0.0.1 xi.xztms.com
+127.0.0.1 hen.smxay.com
 127.0.0.1 m.huananb.com
 127.0.0.1 shi.tsrc8.com
 127.0.0.1 ke.qzdag.com
@@ -2470,6 +2474,9 @@
 127.0.0.1 b.7788xs.net
 127.0.0.1 www.mountex.cn
 127.0.0.1 www.yiranxian.cn
+127.0.0.1 m.aqiudaohang.com
+127.0.0.1 m.mzp0o0.com
+127.0.0.1 ulow.mingyangzhizun.com
 127.0.0.1 tmc.biquge.com
 127.0.0.1 e.clubske.com
 127.0.0.1 m.clubske.com
@@ -2634,6 +2641,11 @@
 127.0.0.1 m.tangoutianxia.com
 127.0.0.1 m.cgskqg.com
 127.0.0.1 gmtw.wzflourish.com
+127.0.0.1 img8.lanseshuba.com
+127.0.0.1 lw7b6aa2re8.m.lanseshuba.com
+127.0.0.1 m2ka6betm.m.lanseshuba.com
+127.0.0.1 e.wevvt.com
+127.0.0.1 ywdp.baojijiecheng.com
 127.0.0.1 s.175bar.com
 127.0.0.1 js.csxjys.com
 127.0.0.1 js412.wangdaizao.com
@@ -2695,7 +2707,6 @@
 127.0.0.1 miss.stn88.com
 127.0.0.1 cdns.cqwgy.com
 127.0.0.1 sese.chmae.com
-127.0.0.1 ad.jsnbrynb.com
 127.0.0.1 img.tcdxt.com
 127.0.0.1 lkf1.m.sanhao3.com
 127.0.0.1 b.ndtzx.com
@@ -2759,6 +2770,10 @@
 127.0.0.1 zzc.shumilou.co
 127.0.0.1 c.m.shumilou.co
 127.0.0.1 s.m.shumilou.co
+127.0.0.1 ayc.m.shumilou.co
+127.0.0.1 c68.asdjqoz.shumilou.co
+127.0.0.1 s56.iuqsdf.shumilou.co
+127.0.0.1 s.htjsk.com
 127.0.0.1 e.ddg1277.com
 127.0.0.1 sy.sxjxhg.com
 127.0.0.1 e.qbyy010.com
@@ -2797,6 +2812,11 @@
 127.0.0.1 img.hzkcbs.com
 127.0.0.1 js.hzkcbs.com
 127.0.0.1 lz.hzkcbs.com
+127.0.0.1 ddc.m.txt99.cc
+127.0.0.1 dds.m.txt99.cc
+127.0.0.1 kkc.m.txt99.cc
+127.0.0.1 ccc.m.txt99.org
+127.0.0.1 keryt.jnservo.com
 127.0.0.1 a.m.uuxs.net
 127.0.0.1 ss2p.uuxs.net
 127.0.0.1 xia.xiazailou.la
@@ -2868,8 +2888,10 @@
 127.0.0.1 widnd.dajiadou6.com
 127.0.0.1 www.qrsw.net
 127.0.0.1 www.day66.com
+127.0.0.1 d1r2c3w.m.d8qu.com
 127.0.0.1 drc.d8qu.com
 127.0.0.1 drcc.d8qu.com
+127.0.0.1 drsw.m.d8qu.com
 127.0.0.1 kdv.d8qu.com
 127.0.0.1 e.kafka8.com
 127.0.0.1 m.kafka8.com
@@ -3156,6 +3178,13 @@
 127.0.0.1 b.meiliyue.top
 127.0.0.1 apk.idate520.com
 127.0.0.1 yundingjiayuan.com
+127.0.0.1 57.jtydbz.com
+127.0.0.1 j.bjyikao.org
+127.0.0.1 s1.mqsyz.com
+127.0.0.1 s1.ykgqs.com
+127.0.0.1 www.5757lm.com
+127.0.0.1 js85.ibcda.org
+127.0.0.1 ip.hivps.xyz
 127.0.0.1 js.brfrb.cn
 127.0.0.1 c.queene.cn
 127.0.0.1 p.heib7.top
@@ -3382,6 +3411,10 @@
 127.0.0.1 a.tukeai.com
 127.0.0.1 tj.u17t.com
 127.0.0.1 s.cdn.u17t.com
+127.0.0.1 img1.rzcyx.com
+127.0.0.1 img2.rzcyx.com
+127.0.0.1 img3.rzcyx.com
+127.0.0.1 in.htjsk.com
 127.0.0.1 js.lieqitianxia.cn
 127.0.0.1 cc.xaepgyy.com
 127.0.0.1 e.gythsg.com
@@ -3478,6 +3511,8 @@
 127.0.0.1 m.966886.org
 127.0.0.1 vip.968228.org
 127.0.0.1 m78.xhydrs.cn
+127.0.0.1 s.huayi65.com
+127.0.0.1 im1.56zzw.com
 127.0.0.1 m.hfsteel.net
 127.0.0.1 www.6kwan.com
 127.0.0.1 i.xyqsnc.com
@@ -6339,7 +6374,6 @@
 127.0.0.1 b.aol.com
 127.0.0.1 o.sa.aol.com
 127.0.0.1 cdn.komentary.aol.com
-127.0.0.1 o.aolcdn.com
 127.0.0.1 cdn.at.atwola.com
 127.0.0.1 cdn.atwola.com
 127.0.0.1 ad-stir.com
