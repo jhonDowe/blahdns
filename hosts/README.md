@@ -4,3 +4,4 @@ Source
 3. https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
 6. https://raw.githubusercontent.com/michaeltrimm/hosts-blocking/master/_hosts.txt
 7. https://raw.githubusercontent.com/joeylane/hosts/master/hosts
+8. https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
