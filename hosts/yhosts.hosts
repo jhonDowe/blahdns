@@ -1,5 +1,5 @@
 
-#version=201706261544
+#version=201706281012
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -358,7 +358,10 @@
 127.0.0.1 x1.go.sohu.com
 127.0.0.1 txt.go.sohu.com
 127.0.0.1 zz.m.sohu.com
+127.0.0.1 dsp.brand.sogou.com
 127.0.0.1 dspcm.brand.sogou.com
+127.0.0.1 eff.inte.sogou.com
+127.0.0.1 eff.lu.sogou.com
 127.0.0.1 fych.uranus.sogou.com
 127.0.0.1 gxe.husky.sogou.com
 127.0.0.1 inte.sogou.com
@@ -373,12 +376,15 @@
 127.0.0.1 qxm.pluto.sogou.com
 127.0.0.1 rd.e.sogou.com
 127.0.0.1 service.epro.sogou.com
+127.0.0.1 sw.mobile.sogou.com
 127.0.0.1 union.sogou.com
 127.0.0.1 wuliao.epro.sogou.com
 127.0.0.1 xtruh.uranus.sogou.com
 127.0.0.1 adstream.123.sogoucdn.com
 127.0.0.1 art.theta.sogoucdn.com
 127.0.0.1 bite.theta.sogoucdn.com
+127.0.0.1 cdn.lu.sogoucdn.com
+127.0.0.1 gif.lu.sogoucdn.com
 127.0.0.1 inte.theta.sogoucdn.com
 127.0.0.1 moka.inte.sogoucdn.com
 127.0.0.1 png.lu.sogoucdn.com
@@ -436,7 +442,6 @@
 127.0.0.1 jifendownload.2345.cn
 127.0.0.1 openbox.mobilem.360.cn
 127.0.0.1 hot.m.shouji.360tpcdn.com
-127.0.0.1 down.360safe.com
 127.0.0.1 ini.update.360safe.com
 127.0.0.1 inst.360safe.com
 127.0.0.1 pdown.stat.360safe.com
@@ -582,6 +587,8 @@
 127.0.0.1 search.moviecarpet.com
 127.0.0.1 static.hotjar.com
 127.0.0.1 ffb.feihuo.com
+127.0.0.1 download.fuyuncc.com
+127.0.0.1 13023.url.7wkw.com
 127.0.0.1 cps.yaoqing.com
 127.0.0.1 wm.makeding.com
 127.0.0.1 go.fcwr8.com
@@ -712,6 +719,8 @@
 127.0.0.1 dl.9xu.com
 127.0.0.1 js.union-wifi.com
 127.0.0.1 rcv.union-wifi.com
+127.0.0.1 ssp.dmpdsp.com
+127.0.0.1 ssp1.dmpdsp.com
 127.0.0.1 ad.jsnbrynb.com
 127.0.0.1 apppic.yingyongbei.com
 127.0.0.1 809.ok365.com
@@ -1014,6 +1023,7 @@
 127.0.0.1 cr.m.liebao.cn
 127.0.0.1 j.wan.liebao.cn
 127.0.0.1 mad.m.maxthon.cn
+127.0.0.1 allnews.uodoo.com
 127.0.0.1 image.uczzd.cn
 127.0.0.1 m.uczzd.cn
 127.0.0.1 iflow.uczzd.cn
@@ -2369,6 +2379,9 @@
 127.0.0.1 ysm.hauchi.com.tw
 127.0.0.1 r.pixgold.com
 127.0.0.1 ad.evozi.com
+127.0.0.1 www.xxeden.com
+127.0.0.1 huan.yxhxs.com
+127.0.0.1 m.hmyangshengji.com
 127.0.0.1 xi.xztms.com
 127.0.0.1 hen.smxay.com
 127.0.0.1 m.huananb.com
@@ -2869,6 +2882,7 @@
 127.0.0.1 m.xul478.com
 127.0.0.1 m.papajia55.com
 127.0.0.1 m.runiman.com
+127.0.0.1 www.cnzhqs.com
 127.0.0.1 e.feifish66.com
 127.0.0.1 e.maibahe300cc.com
 127.0.0.1 e.cnzzlink.com
@@ -2879,6 +2893,7 @@
 127.0.0.1 iiehdh.wap.xxbiquge.com
 127.0.0.1 tsdhgdhe.wap.xxbiquge.com
 127.0.0.1 udhvgs.wap.xxbiquge.com
+127.0.0.1 m.netko0o.com
 127.0.0.1 m.jifeidandar.com
 127.0.0.1 tian.awkjs.com
 127.0.0.1 e.yidulive.net
@@ -2893,6 +2908,8 @@
 127.0.0.1 drcc.d8qu.com
 127.0.0.1 drsw.m.d8qu.com
 127.0.0.1 kdv.d8qu.com
+127.0.0.1 m.jnsdkjzs.com
+127.0.0.1 e.jnsdkjzs.com
 127.0.0.1 e.kafka8.com
 127.0.0.1 m.kafka8.com
 127.0.0.1 s.xm9178.com
@@ -3132,6 +3149,7 @@
 127.0.0.1 b.175bar.com
 127.0.0.1 www.pasco.cc
 127.0.0.1 cloud.zyiis.net
+127.0.0.1 dspmy.ge95.com
 127.0.0.1 imges.wu65.com
 127.0.0.1 jumping.nyyryy.com
 127.0.0.1 js.jianbaimei.com
@@ -3415,6 +3433,8 @@
 127.0.0.1 img2.rzcyx.com
 127.0.0.1 img3.rzcyx.com
 127.0.0.1 in.htjsk.com
+127.0.0.1 in.nwwap.com
+127.0.0.1 s.nwwap.com
 127.0.0.1 js.lieqitianxia.cn
 127.0.0.1 cc.xaepgyy.com
 127.0.0.1 e.gythsg.com
@@ -3736,6 +3756,7 @@
 127.0.0.1 image.139y.com
 127.0.0.1 malacca.inveno.com
 127.0.0.1 ssplog.geekwide.cn
+127.0.0.1 m.96mob.com
 127.0.0.1 c.tkd777.cn
 127.0.0.1 s.3333309.cn
 127.0.0.1 js.lpshl.com
@@ -3912,6 +3933,10 @@
 127.0.0.1 jsjs.nthyn.com
 127.0.0.1 img.xiacaidd.com
 127.0.0.1 img.gaore.com
+127.0.0.1 888.jiuwanwang.com
+127.0.0.1 c1.6728812.com
+127.0.0.1 p1.6728812.com
+127.0.0.1 a1.99909988.com
 127.0.0.1 dd.70yst.com
 127.0.0.1 www.70lm.com
 127.0.0.1 afesd.zjytyz.com
@@ -4596,8 +4621,6 @@
 127.0.0.1 msnclick.wrating.com
 127.0.0.1 s.wrating.com
 127.0.0.1 sohu.wrating.com
-127.0.0.1 click.aliyun.com
-127.0.0.1 promotion.aliyun.com
 127.0.0.1 adscdn.baidu.com
 127.0.0.1 api.cpu.baidu.com
 127.0.0.1 baichuan.baidu.com
@@ -4786,7 +4809,6 @@
 127.0.0.1 alpha.brand.sogou.com
 127.0.0.1 brand.sogou.com
 127.0.0.1 cpc.brand.sogou.com
-127.0.0.1 dsp.brand.sogou.com
 127.0.0.1 lk.brand.sogou.com
 127.0.0.1 sy.brand.sogou.com
 127.0.0.1 wb.brand.sogou.com
@@ -4795,7 +4817,6 @@
 127.0.0.1 a1click.cpc.sogou.com
 127.0.0.1 cpc.sogou.com
 127.0.0.1 mini.cpc.sogou.com
-127.0.0.1 eff.inte.sogou.com
 127.0.0.1 vps.inte.sogou.com
 127.0.0.1 irnvf.lu.sogou.com
 127.0.0.1 kthxd.lu.sogou.com
@@ -5348,6 +5369,7 @@
 127.0.0.1 js.cnxad.com
 127.0.0.1 x.cnxad.com
 127.0.0.1 js.star8.net
+127.0.0.1 api.cloudmobi.net
 127.0.0.1 ark.cocounion.com
 127.0.0.1 config.cocounion.com
 127.0.0.1 m.cocounion.com
