@@ -1,5 +1,5 @@
 
-#version=201706281012
+#version=201706292250
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -150,14 +150,19 @@
 127.0.0.1 adn.insight.ucweb.com
 127.0.0.1 adtrack.ucweb.com
 127.0.0.1 puds.ucweb.com
+127.0.0.1 up1.tj.u2.ucweb.com
+127.0.0.1 up4.ucweb.com
 127.0.0.1 wap3.ucweb.com
 127.0.0.1 alissl.ucdl.pp.uc.cn
 127.0.0.1 api.mp.uc.cn
 127.0.0.1 applog.uc.cn
+127.0.0.1 puds.test.uae.uc.cn
 127.0.0.1 track.uc.cn
 127.0.0.1 log.cs.pp.cn
 127.0.0.1 server.m.pp.cn
 127.0.0.1 huichuan.sm.cn
+127.0.0.1 u.uc123.com
+127.0.0.1 u.ucfly.com
 127.0.0.1 c.wrating.com
 127.0.0.1 cookiemapping.wrating.com
 127.0.0.1 sina.wrating.com
@@ -358,10 +363,12 @@
 127.0.0.1 x1.go.sohu.com
 127.0.0.1 txt.go.sohu.com
 127.0.0.1 zz.m.sohu.com
+127.0.0.1 cjroq.bealge.sogou.com
 127.0.0.1 dsp.brand.sogou.com
 127.0.0.1 dspcm.brand.sogou.com
 127.0.0.1 eff.inte.sogou.com
 127.0.0.1 eff.lu.sogou.com
+127.0.0.1 ejzr.golden1.sogou.com
 127.0.0.1 fych.uranus.sogou.com
 127.0.0.1 gxe.husky.sogou.com
 127.0.0.1 inte.sogou.com
@@ -369,12 +376,14 @@
 127.0.0.1 ktivn.uranus.sogou.com
 127.0.0.1 osc.uranus.sogou.com
 127.0.0.1 p.inte.sogou.com
+127.0.0.1 pcxzo.pluto.sogou.com
 127.0.0.1 ping.acc.sogou.com
 127.0.0.1 pjyu.golden1.sogou.com
 127.0.0.1 psfq.gou.sogou.com
 127.0.0.1 qhl.bealge.sogou.com
 127.0.0.1 qxm.pluto.sogou.com
 127.0.0.1 rd.e.sogou.com
+127.0.0.1 rmoeu.mercury.sogou.com
 127.0.0.1 service.epro.sogou.com
 127.0.0.1 sw.mobile.sogou.com
 127.0.0.1 union.sogou.com
@@ -589,6 +598,10 @@
 127.0.0.1 ffb.feihuo.com
 127.0.0.1 download.fuyuncc.com
 127.0.0.1 13023.url.7wkw.com
+127.0.0.1 img.ercfh.com
+127.0.0.1 xz.ercfh.com
+127.0.0.1 m.zzxbn.com
+127.0.0.1 ntamobapps.com
 127.0.0.1 cps.yaoqing.com
 127.0.0.1 wm.makeding.com
 127.0.0.1 go.fcwr8.com
@@ -1907,6 +1920,8 @@
 127.0.0.1 dc.csdn.net
 127.0.0.1 dc2.csdn.net
 127.0.0.1 img.ads.csdn.net
+127.0.0.1 mpb1.iteye.com
+127.0.0.1 mpb2.iteye.com
 127.0.0.1 ad.dedecms.com
 127.0.0.1 stat.dedecms.com
 127.0.0.1 js.ea3w.com
@@ -2380,6 +2395,7 @@
 127.0.0.1 r.pixgold.com
 127.0.0.1 ad.evozi.com
 127.0.0.1 www.xxeden.com
+127.0.0.1 zhe.sytsr.com
 127.0.0.1 huan.yxhxs.com
 127.0.0.1 m.hmyangshengji.com
 127.0.0.1 xi.xztms.com
@@ -2855,6 +2871,7 @@
 127.0.0.1 www.thyysj.com
 127.0.0.1 wxmmh.net
 127.0.0.1 s.m.xqingdou.com
+127.0.0.1 www.dgfggy.com
 127.0.0.1 b.aowugame.com
 127.0.0.1 b.flyreading.cn
 127.0.0.1 www.jndczg.com
@@ -3488,6 +3505,7 @@
 127.0.0.1 cdn1.res.nx5.com
 127.0.0.1 api.anti.wauee.com
 127.0.0.1 code.gutun.net
+127.0.0.1 aec.shjk123.net
 127.0.0.1 www.legozu.com
 127.0.0.1 www.k3bos.com
 127.0.0.1 img.qdscgj.com
@@ -5081,6 +5099,7 @@
 127.0.0.1 stat.adirects.com
 127.0.0.1 www.admarket.mobi
 127.0.0.1 58749.admaster.com.cn
+127.0.0.1 79t2.admaster.com.cn
 127.0.0.1 8b4pea.c.admaster.com.cn
 127.0.0.1 8b6dfa.v.admaster.com.cn
 127.0.0.1 8chzga.v.admaster.com.cn
@@ -6467,7 +6486,9 @@
 127.0.0.1 ssp-rtb.sape.ru
 127.0.0.1 counter.yadro.ru
 127.0.0.1 mg.yadro.ru
+127.0.0.1 an.yandex.ru
 127.0.0.1 mc.yandex.ru
+127.0.0.1 st.yandexadexchange.net
 127.0.0.1 ad.dumedia.ru
 127.0.0.1 ad.mail.ru
 127.0.0.1 rtb.com.ru

@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75986 ad serving and malware domains.
+# Currently blocking 75987 ad serving and malware domains.
 #
-# Date Generated: Jun 28 2017
+# Date Generated: Jun 29 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -62669,6 +62669,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 trafficadept.com
 127.0.0.1 trafficads.com
 127.0.0.1 trafficads.s3-website-us-west-1.amazonaws.com
+127.0.0.1 trafficbalancerouting.com
 127.0.0.1 trafficbee.com
 127.0.0.1 trafficbroker.com
 127.0.0.1 trafficcaptain.go2cloud.org
