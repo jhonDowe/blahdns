@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75987 ad serving and malware domains.
+# Currently blocking 75979 ad serving and malware domains.
 #
-# Date Generated: Jun 29 2017
+# Date Generated: Jul 01 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -20766,7 +20766,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.neowin.net
 127.0.0.1 ads.nerve.com
 127.0.0.1 ads.netbul.com
-127.0.0.1 ads.netclusive.de
 127.0.0.1 ads.netcommunities.com
 127.0.0.1 ads.netcraft.com
 127.0.0.1 ads.nethaber.com
@@ -26742,6 +26741,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 apple.com-supportcenter.pro
 127.0.0.1 apple.com-supportcenter.website
 127.0.0.1 apple.com-webbrowsing-security.bid
+127.0.0.1 apple.com-webbrowsing-security.download
 127.0.0.1 apple.com.clean-virus-mac.com
 127.0.0.1 apple.com.virus-mac.com
 127.0.0.1 applebarq.com
@@ -40403,7 +40403,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 eur.a1.yimg.com
 127.0.0.1 eurekacentral.go2cloud.org
 127.0.0.1 eurekster.com
-127.0.0.1 euro-linkindex.de
 127.0.0.1 euro-vertrieb.com
 127.0.0.1 euroad1.advantage.as
 127.0.0.1 euroathleticgreens.go2cloud.org
@@ -44749,7 +44748,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 imads.integral-marketing.com
 127.0.0.1 imads.rediff.com
 127.0.0.1 imadworks.rediff.com
-127.0.0.1 image-circul.tk
 127.0.0.1 image-map.com
 127.0.0.1 image.accendo.com
 127.0.0.1 image.adition.com
@@ -46085,8 +46083,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 joan-moronta.us
 127.0.0.1 joanna-cohen.us
 127.0.0.1 joanna-ruckman.us
-127.0.0.1 job-companybuild.tk
-127.0.0.1 job-compuse.tk
 127.0.0.1 job-online.petrovka.info
 127.0.0.1 jobclicks.net
 127.0.0.1 jobfeeds.coroflot.com
@@ -46842,7 +46838,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 la-chi.outbrain.com
 127.0.0.1 la.5.p2l.info
 127.0.0.1 la1w1.salesforceliveagent.com
-127.0.0.1 lab-cntest.tk
 127.0.0.1 lab.atdmt.com
 127.0.0.1 lab88inc.112.2o7.net
 127.0.0.1 labelfind01.webtrekk.net
@@ -51048,7 +51043,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 new-address.tk
 127.0.0.1 new-ads.eurogamer.net
 127.0.0.1 new-dating-2012.info
-127.0.0.1 new-softdriver.tk
 127.0.0.1 new-vid-zone-1.blogspot.com.au
 127.0.0.1 new.adition.com
 127.0.0.1 new.cetrk.com
@@ -54325,7 +54319,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 premiercreditcard.com
 127.0.0.1 premios.go2cloud.org
 127.0.0.1 premium-live-scan.com
-127.0.0.1 premium-offers.com
 127.0.0.1 premium-reward-club.com
 127.0.0.1 premium.ascensionweb.com
 127.0.0.1 premium.cz
@@ -55633,7 +55626,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 redtube.yoshatia.com
 127.0.0.1 reduxads.valuead.com
 127.0.0.1 reduxmedia.com
-127.0.0.1 reduxmediagroup.com
 127.0.0.1 redvase.bravenet.com
 127.0.0.1 redvertisment.com
 127.0.0.1 redzun.go2cloud.org
@@ -59800,7 +59792,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 stats.street-jeni.us
 127.0.0.1 stats.style.com
 127.0.0.1 stats.styletechnology.me
-127.0.0.1 stats.suite101.com
 127.0.0.1 stats.superstats.com
 127.0.0.1 stats.superstats.de
 127.0.0.1 stats.superstats.nl
@@ -68853,6 +68844,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 whoateallthepies.uk.intellitxt.com
 127.0.0.1 whoisonline.net
 127.0.0.1 wholebodyresearch.go2cloud.org
+127.0.0.1 wholesaletraffic.info
 127.0.0.1 whometrics.net
 127.0.0.1 whos.amung.us
 127.0.0.1 whoson.creativemark.co.uk
