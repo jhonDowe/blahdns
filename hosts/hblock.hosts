@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Sat Jul  1 05:24:55 UTC 2017
-# Blacklisted domains: 67953
+# Last updated:        Tue Jul  4 05:19:49 UTC 2017
+# Blacklisted domains: 67969
 
 # <header>
 127.0.0.1       localhost 
@@ -119,6 +119,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 0q02snbw71s.smallbutterfly1.xyz
 0.0.0.0 0qizz.super-promo.hoxo.info
 0.0.0.0 0stats.com
+0.0.0.0 0stcd.pl
 0.0.0.0 0swvd0ui6d0w75es.lazycat1.xyz
 0.0.0.0 0unomaha.myjino.ru
 0.0.0.0 0utl00k.netne.net
@@ -1809,7 +1810,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 7sexiu.com
 0.0.0.0 7softwaredreams.com
 0.0.0.0 7speed.info
-0.0.0.0 7tools.eu.pl
+0.0.0.0 7tools.eu
 0.0.0.0 7videos.info
 0.0.0.0 7vws1j1j.com
 0.0.0.0 7x.cc
@@ -11914,6 +11915,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 bhpds.com
 0.0.0.0 bhpfirelex.pl
 0.0.0.0 bhq6bimdfwwo857xdurp.ru
+0.0.0.0 bhtfriends.org
 0.0.0.0 bhtotheventos.com.br
 0.0.0.0 bhuiyansmm.edu.bd
 0.0.0.0 bhungarni.com
@@ -14256,6 +14258,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 caveki.com
 0.0.0.0 cavelearning.com
 0.0.0.0 cavemancircus.us.intellitxt.com
+0.0.0.0 caviankids.com.br
 0.0.0.0 cavite-ecosolutions.com
 0.0.0.0 cavs.pl
 0.0.0.0 caybloomearge.hopto.org
@@ -17577,6 +17580,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 cowbears.nl
 0.0.0.0 cowboy.contextuads.com
 0.0.0.0 cowcotland.fr.intellitxt.com
+0.0.0.0 cowork.fi
 0.0.0.0 cowosi.com
 0.0.0.0 coxhsi.112.2o7.net
 0.0.0.0 coxnet.112.2o7.net
@@ -20850,6 +20854,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 e-m.fr
 0.0.0.0 e-marchante.com
 0.0.0.0 e-marketing.entelchile.net
+0.0.0.0 e-markowi.pl
 0.0.0.0 e-matelco.com
 0.0.0.0 e-movies24.com
 0.0.0.0 e-multiplus.96.lt
@@ -32362,6 +32367,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 jake361.com
 0.0.0.0 jakeludington.us.intellitxt.com
 0.0.0.0 jakesengineering.usa.cc
+0.0.0.0 jakie-iq.pl
 0.0.0.0 jakier.bid
 0.0.0.0 jakklong.com
 0.0.0.0 jaley-ceramicos.com
@@ -33643,6 +33649,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 kidzonecare.co.za
 0.0.0.0 kie.com.co
 0.0.0.0 kiedy-umrzesz.pl
+0.0.0.0 kiedytwojdzien.com.pl
 0.0.0.0 kiffigrowshop.com
 0.0.0.0 kiinomaniak.pl
 0.0.0.0 kikmessengerforpcs.com
@@ -41974,6 +41981,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 oneil-clan.com
 0.0.0.0 onelinkconnection.com
 0.0.0.0 onelovehacks.com
+0.0.0.0 oneluckyvisitor.org
 0.0.0.0 onemotionmotor.com
 0.0.0.0 onenetworkdirect.com
 0.0.0.0 oneontamartialarts.com
@@ -45470,6 +45478,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 prefix.hit.gemius.pl
 0.0.0.0 prefix.payhelping.com
 0.0.0.0 pregnc.com
+0.0.0.0 preland.softmonetize.com
 0.0.0.0 prellex.net
 0.0.0.0 premiacaosicoob.com
 0.0.0.0 premier-one.net
@@ -49055,6 +49064,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 sanferminenpamplona.com
 0.0.0.0 sangeetathombre.com
 0.0.0.0 sanggarpelangi.com
+0.0.0.0 sani-tryb.pl
 0.0.0.0 saniceramics.com
 0.0.0.0 sanjeevaniayurvedics.com
 0.0.0.0 sanjivanihospitalandresearchcenter.org
@@ -50103,6 +50113,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 semiconductry.top
 0.0.0.0 semiyun.com
 0.0.0.0 semokachels.nl
+0.0.0.0 senciotech.com
 0.0.0.0 send.microad.jp
 0.0.0.0 send29931.cn
 0.0.0.0 sendagiftasia.com
@@ -50833,6 +50844,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 shop-itwth-us.website
 0.0.0.0 shop-lecanardgourmand.ch
 0.0.0.0 shop-setting-pages.fulba.com
+0.0.0.0 shop-style.pl
 0.0.0.0 shop.brandservice.bg
 0.0.0.0 shop.heirloomwoodenbowls.com
 0.0.0.0 shop.kauffes.de
@@ -51139,6 +51151,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 silentexploits.com
 0.0.0.0 silenthubs.com
 0.0.0.0 silicoglobal.com
+0.0.0.0 siliconclasses.in
 0.0.0.0 siliconebands.ca
 0.0.0.0 siliconera.us.intellitxt.com
 0.0.0.0 siliconrinfotech.com
@@ -51791,6 +51804,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 snapsnax.com
 0.0.0.0 snare.iesnare.com
 0.0.0.0 sndclouds.com
+0.0.0.0 sneakerstore.com.pl
 0.0.0.0 sneakyboy.com
 0.0.0.0 snickersapp.com
 0.0.0.0 sniff.visistat.com
@@ -51805,6 +51819,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 snorked.com
 0.0.0.0 snow-mirror.com
 0.0.0.0 snowdog1997.de
+0.0.0.0 snproductions.net
 0.0.0.0 snrav.cn
 0.0.0.0 snrp.uglyas.com
 0.0.0.0 snt-krivskoe.ru
@@ -51856,7 +51871,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 socialwarshack.org
 0.0.0.0 socialwebhacks.com
 0.0.0.0 societ9x.beget.tech
-0.0.0.0 societemagique.com
 0.0.0.0 societymix.com
 0.0.0.0 sociomods.com
 0.0.0.0 socius-mc.com
@@ -59224,7 +59238,9 @@ ff02::3         ip6-allhosts
 0.0.0.0 video.flashtalking.com
 0.0.0.0 video.get4games.com
 0.0.0.0 video.iptegy.com
+0.0.0.0 video.loudgames.com
 0.0.0.0 video.od.visiblemeasures.com
+0.0.0.0 video.theparentingvillage.com
 0.0.0.0 video.unrulymedia.com
 0.0.0.0 video1.adprimemedia.com
 0.0.0.0 videobay.tv
@@ -61337,7 +61353,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 wmsjournal.wu.ac.th
 0.0.0.0 wmtanhua.com
 0.0.0.0 wmte3.onlinenewgreecetrips.xyz
-0.0.0.0 wmunigeria.org
 0.0.0.0 wmvvideo.com
 0.0.0.0 wna.com.au
 0.0.0.0 wnivihwmolew.us
@@ -67529,6 +67544,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 zaonutrition.co.za
 0.0.0.0 zap64892-1.plesk05.zap-hosting.com
 0.0.0.0 zapadserver1.com
+0.0.0.0 zapatos.net.pl
 0.0.0.0 zapeljivka.si
 0.0.0.0 zapisany.pl
 0.0.0.0 zapisujemy24.pl

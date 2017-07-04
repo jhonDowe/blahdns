@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75979 ad serving and malware domains.
+# Currently blocking 75983 ad serving and malware domains.
 #
-# Date Generated: Jul 01 2017
+# Date Generated: Jul 03 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -52342,6 +52342,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 onefeed.co.uk
 127.0.0.1 onefm.count.brat-online.ro
 127.0.0.1 onelouder.com
+127.0.0.1 oneluckyvisitor.org
 127.0.0.1 onenetworkdirect.com
 127.0.0.1 onenetworkdirect.net
 127.0.0.1 oneopenclose.click
@@ -54316,6 +54317,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 preferredpublishers.go2cloud.org
 127.0.0.1 prefix.hit.gemius.pl
 127.0.0.1 preisver.ivwbox.de
+127.0.0.1 preland.softmonetize.com
 127.0.0.1 premiercreditcard.com
 127.0.0.1 premios.go2cloud.org
 127.0.0.1 premium-live-scan.com
@@ -64211,10 +64213,12 @@ ff02::2 ip6-allrouters
 127.0.0.1 video.dmtracker.com
 127.0.0.1 video.entertaintastic.com
 127.0.0.1 video.flashtalking.com
+127.0.0.1 video.loudgames.com
 127.0.0.1 video.moatads.com
 127.0.0.1 video.od.visiblemeasures.com
 127.0.0.1 video.oms.eu
 127.0.0.1 video.pinion.gg
+127.0.0.1 video.theparentingvillage.com
 127.0.0.1 video.unrulymedia.com
 127.0.0.1 video1.adprimemedia.com
 127.0.0.1 video1.fastclick.net
