@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75983 ad serving and malware domains.
+# Currently blocking 76005 ad serving and malware domains.
 #
-# Date Generated: Jul 03 2017
+# Date Generated: Jul 06 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1895,6 +1895,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 7vws1j1j.com
 127.0.0.1 7x.cc
 127.0.0.1 7x7.ruwe.net
+127.0.0.1 7xc4n.com
 127.0.0.1 7y7.us
 127.0.0.1 7yt26.voluumtrk.com
 127.0.0.1 8.6.87.194.dynamic.dol.ru
@@ -18490,6 +18491,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adcomplete.com
 127.0.0.1 adconfig.infolife.mobi
 127.0.0.1 adconion.com
+127.0.0.1 adconscious.com
 127.0.0.1 adcontent.gamespy.com
 127.0.0.1 adcontent.reedbusiness.com
 127.0.0.1 adcontent.saymedia.com
@@ -26528,6 +26530,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.mobileapptracking.com
 127.0.0.1 api.mobpartner.mobi
 127.0.0.1 api.mobula.sdk.duapps.com
+127.0.0.1 api.murdoog.com
 127.0.0.1 api.nanigans.com
 127.0.0.1 api.native.ai
 127.0.0.1 api.naturaltracking.com
@@ -26601,6 +26604,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 api1.intellicontact.com
 127.0.0.1 api1.thesearchagency.net
 127.0.0.1 api15.cmdragracing.com
+127.0.0.1 api2.murdoog.com
 127.0.0.1 api2.playhaven.com
 127.0.0.1 api2.testrequest.info
 127.0.0.1 api2.thesearchagency.net
@@ -26620,6 +26624,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 apiae.hopscore.com
 127.0.0.1 apibeta.zeti.com
 127.0.0.1 apicit.net
+127.0.0.1 apis.murdoog.com
 127.0.0.1 apis.sharethrough.com
 127.0.0.1 apiservices.krxd.net
 127.0.0.1 apiskywebbercom-a.akamaihd.net
@@ -26705,6 +26710,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 app3.letmacwork.world
 127.0.0.1 app3.rutarget.ru
 127.0.0.1 app3.vinsight.de
+127.0.0.1 app4.letslowbefast.site
 127.0.0.1 app4.letslowbefast.today
 127.0.0.1 app4us.info
 127.0.0.1 appads.com
@@ -33420,6 +33426,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.chargeplatform.com
 127.0.0.1 cdn.chitika.net
 127.0.0.1 cdn.chuknu.sokrati.com
+127.0.0.1 cdn.classicdanube.info
 127.0.0.1 cdn.clic2pub.com
 127.0.0.1 cdn.clickfuse.com
 127.0.0.1 cdn.clicktale.net
@@ -34291,6 +34298,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cisales.com
 127.0.0.1 ciscosystemsinc.tt.omtrdc.net
 127.0.0.1 ciscowebex.112.2o7.net
+127.0.0.1 citepucevasuxuqesu.ga
 127.0.0.1 cithingy.info
 127.0.0.1 citi.bridgetrack.com
 127.0.0.1 citi.bridgetrack.com.21936.9128.302br.net
@@ -35183,6 +35191,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 code.intext.billboard.cz
 127.0.0.1 code.iwadserver.com
 127.0.0.1 code.kissmetrics.com
+127.0.0.1 code.murdoog.com
 127.0.0.1 code.poptm.com
 127.0.0.1 code.richtraffic.ru
 127.0.0.1 code.rtbsystem.com
@@ -35636,6 +35645,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 core.bluefly.com
 127.0.0.1 core.insightexpressai.com
 127.0.0.1 core.naturalmotion.com
+127.0.0.1 core.royalads.net
 127.0.0.1 core.videoegg.com
 127.0.0.1 core.yorkvillemarketing.com
 127.0.0.1 core.zontera.com
@@ -37986,6 +37996,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 data.marketgid.com
 127.0.0.1 data.mb8e17f12.website
 127.0.0.1 data.mobclix.com
+127.0.0.1 data.murdoog.com
 127.0.0.1 data.nal.usda.gov
 127.0.0.1 data.namesakeoscilloscopemarquis.com
 127.0.0.1 data.neuroxmedia.com
@@ -38554,6 +38565,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 diazepam.razma.net
 127.0.0.1 diazepam.shengen.ru
 127.0.0.1 dibmarketing.go2cloud.org
+127.0.0.1 dichvuvesinhhanoi.com
 127.0.0.1 dickssgmobile.btttag.com
 127.0.0.1 dicl9.voluumtrk.com
 127.0.0.1 didacticro.count.brat-online.ro
@@ -47709,7 +47721,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 logs-01.loggly.com
 127.0.0.1 logs.51cto.com
 127.0.0.1 logs.aiya.com.cn
-127.0.0.1 logs.cafewell.com
 127.0.0.1 logs.comics.com
 127.0.0.1 logs.dashlane.com
 127.0.0.1 logs.eresmas.com
@@ -48354,6 +48365,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 maccleanersecurity.com
 127.0.0.1 macdailynews.us.intellitxt.com
 127.0.0.1 macdamaged.tech
+127.0.0.1 macfix.life
 127.0.0.1 macfixingsoftware.space
 127.0.0.1 macgamefiles.us.intellitxt.com
 127.0.0.1 machine.cu.ma
@@ -49153,6 +49165,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mediamind.com
 127.0.0.1 median.hu
 127.0.0.1 medianyx.go2cloud.org
+127.0.0.1 mediaoffers.click
 127.0.0.1 mediaplazza.com
 127.0.0.1 mediaplex.com
 127.0.0.1 mediapst-images.adbureau.net
@@ -50402,6 +50415,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 munky.com
 127.0.0.1 murbil.hostei.com
 127.0.0.1 murcia-ban.es
+127.0.0.1 murdoog.com
 127.0.0.1 murphy.ixn.local.vmsn.de
 127.0.0.1 muscle-relaxers.1.p2l.info
 127.0.0.1 muscleandfitnesshers.us.intellitxt.com
@@ -54315,6 +54329,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 predictivesearch.com
 127.0.0.1 preferences.truste.com
 127.0.0.1 preferredpublishers.go2cloud.org
+127.0.0.1 prefersurvey.net
 127.0.0.1 prefix.hit.gemius.pl
 127.0.0.1 preisver.ivwbox.de
 127.0.0.1 preland.softmonetize.com
@@ -57473,6 +57488,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 securite.01net.com
 127.0.0.1 security-alert.zs2vm.top
 127.0.0.1 security.ivwbox.de
+127.0.0.1 security60-e.com
 127.0.0.1 securityandroidupdate.dinamikaprinting.com
 127.0.0.1 securityscan.us
 127.0.0.1 securitywebservices.com
@@ -60225,6 +60241,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 swfhostltd.com
 127.0.0.1 swift.com
 127.0.0.1 swimsuitnetwork.com
+127.0.0.1 swinon.site
 127.0.0.1 swissadsolutions.com
 127.0.0.1 swisscom.demdex.net
 127.0.0.1 swissinf.wemfbox.ch
@@ -61845,6 +61862,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 track.domainsponsor.com
 127.0.0.1 track.dotsly.com
 127.0.0.1 track.double.net
+127.0.0.1 track.dtnlyss.com
 127.0.0.1 track.dvdbox.com
 127.0.0.1 track.e7r.com.br
 127.0.0.1 track.easeus.com
@@ -62453,6 +62471,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tracking.moportals.com
 127.0.0.1 tracking.motleyfool.com
 127.0.0.1 tracking.msadcenter.msn.com
+127.0.0.1 tracking.murdoog.com
 127.0.0.1 tracking.musixmatch.com
 127.0.0.1 tracking.muzu.tv
 127.0.0.1 tracking.mycapture.com
@@ -64224,7 +64243,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 video1.fastclick.net
 127.0.0.1 videoads.theonion.com
 127.0.0.1 videobox.com
-127.0.0.1 videobug.net
 127.0.0.1 videoclick.ru
 127.0.0.1 videocodezone.us.intellitxt.com
 127.0.0.1 videocop.com
@@ -68303,6 +68321,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wahoha.com
 127.0.0.1 wahyufian.zoomshare.com
 127.0.0.1 waiads.com
+127.0.0.1 wait3sec.org
 127.0.0.1 waiwidgets-1246822334.eu-west-1.elb.amazonaws.com
 127.0.0.1 waldenfarms.com
 127.0.0.1 walgrns.112.2o7.net
@@ -72461,6 +72480,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.lpmxp2027.com
 127.0.0.1 www.luce.polimi.it
 127.0.0.1 www.lucky-day-uk.com
+127.0.0.1 www.luckyday.world
 127.0.0.1 www.lugiy.ru
 127.0.0.1 www.luisa-hayden.us
 127.0.0.1 www.luminate.com
@@ -75380,6 +75400,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 xfreelesbianmovies.com.powered-by.securewebsiteaccess.com
 127.0.0.1 xfuckbook.com
 127.0.0.1 xg4ken.com
+127.0.0.1 xgames-04.com
 127.0.0.1 xhealth.112.2o7.net
 127.0.0.1 xhealthmobiletools.112.2o7.net
 127.0.0.1 xhealthmobiltools.112.2o7.net
@@ -75410,6 +75431,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 xml.bravenet.com
 127.0.0.1 xml.click9.com
 127.0.0.1 xml.ecpvads.com
+127.0.0.1 xml.explorads.com
 127.0.0.1 xml.fusionxml.com
 127.0.0.1 xml.intelligenttrafficsystem.com
 127.0.0.1 xml.ioam.de
