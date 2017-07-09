@@ -1,5 +1,5 @@
 
-#version=201707072120
+#version=201707091703
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -78,6 +78,7 @@
 127.0.0.1 cpull.360.cn
 127.0.0.1 huodong.mobilem.360.cn
 127.0.0.1 p.s.360.cn
+127.0.0.1 tran.news.so.com
 127.0.0.1 afp.alicdn.com
 127.0.0.1 afpmm.alicdn.com
 127.0.0.1 asearch.alicdn.com
@@ -201,8 +202,23 @@
 127.0.0.1 cpro2.baidustatic.com
 127.0.0.1 dup.baidustatic.com
 127.0.0.1 ubmcmm.baidustatic.com
-127.0.0.1 appc.baidu.com
+127.0.0.1 afd.baidu.com
+127.0.0.1 als.baidu.com
 127.0.0.1 cpu.baidu.com
+127.0.0.1 hpd.baidu.com
+127.0.0.1 feed.baidu.com
+127.0.0.1 ss0.baidu.com
+127.0.0.1 ss1.baidu.com
+127.0.0.1 ss2.baidu.com
+127.0.0.1 f10.baidu.com
+127.0.0.1 f11.baidu.com
+127.0.0.1 f12.baidu.com
+127.0.0.1 gss0.bdstatic.com
+127.0.0.1 gss2.bdstatic.com
+127.0.0.1 ss0.bdstatic.com
+127.0.0.1 dcps.nuomi.com
+127.0.0.1 log.nuomi.com
+127.0.0.1 appc.baidu.com
 127.0.0.1 bj.bcebos.com
 127.0.0.1 wkclick.baidu.com
 127.0.0.1 tob-cms.bj.bcebos.com
@@ -354,7 +370,6 @@
 127.0.0.1 wbpctips.mobile.sina.cn
 127.0.0.1 2016.sina.cn
 127.0.0.1 images.sohu.com
-127.0.0.1 pv.sohu.com
 127.0.0.1 s0.mp.sohu.com
 127.0.0.1 i.go.sohu.com
 127.0.0.1 s.go.sohu.com
@@ -439,7 +454,6 @@
 127.0.0.1 click.jr.jd.com
 127.0.0.1 img.x.jd.com
 127.0.0.1 jrclick.jd.com
-127.0.0.1 re.jd.com
 127.0.0.1 re.m.jd.com
 127.0.0.1 stat.m.jd.com
 127.0.0.1 union.click.jd.com
@@ -1120,6 +1134,7 @@
 127.0.0.1 conf.funshion.com
 127.0.0.1 jobsfe.funshion.com
 127.0.0.1 pub.funshion.com
+127.0.0.1 vs.funshion.com
 127.0.0.1 rt.funshion.net
 127.0.0.1 stat.funshion.net
 127.0.0.1 fun.adx.admaster.com.cn
@@ -1169,6 +1184,8 @@
 127.0.0.1 vpptv.admaster.com.cn
 127.0.0.1 pptv.m.cn.miaozhen.com
 127.0.0.1 tpptv.ipdx.cn.miaozhen.com
+127.0.0.1 ads.aplus.pptv.com
+127.0.0.1 app.aplus.pptv.com
 127.0.0.1 as.aplus.pptv.com
 127.0.0.1 de.as.pptv.com
 127.0.0.1 img1.g.pptv.com
@@ -1369,8 +1386,8 @@
 127.0.0.1 ad.thepaper.cn
 127.0.0.1 imgad.thepaper.cn
 127.0.0.1 ad.toutiao.com
+127.0.0.1 temai.snssdk.com
 127.0.0.1 analytics.snssdk.com
-127.0.0.1 ib.snssdk.com
 127.0.0.1 pb3.pstatp.com
 127.0.0.1 wr.da.netease.com
 127.0.0.1 push.yuedu.163.com
@@ -1621,6 +1638,8 @@
 127.0.0.1 api.dsp.yhd.com
 127.0.0.1 click.yhd.com
 127.0.0.1 tracker.yhd.com
+127.0.0.1 www.yhd.com
+127.0.0.1 yhd.com
 127.0.0.1 bd1.52che.com
 127.0.0.1 bd2.52che.com
 127.0.0.1 activity.app.autohome.com.cn
@@ -2495,6 +2514,7 @@
 127.0.0.1 dadi.c0563.com
 127.0.0.1 m.haiwengji.net
 127.0.0.1 sj.uukanshu.com
+127.0.0.1 ne.cdgxq.com
 127.0.0.1 da.yxjad.com
 127.0.0.1 ge.zizcy.com
 127.0.0.1 guo.gyrtg.com
@@ -2517,6 +2537,7 @@
 127.0.0.1 ulow.mingyangzhizun.com
 127.0.0.1 tmc.biquge.com.tw
 127.0.0.1 tmc.biquge.com
+127.0.0.1 m.qloer.com
 127.0.0.1 e.clubske.com
 127.0.0.1 m.clubske.com
 127.0.0.1 e.inccnd.com
@@ -4231,6 +4252,7 @@
 127.0.0.1 jump.59jd.com
 127.0.0.1 tu.59jd.com
 127.0.0.1 xxlargepop.com
+127.0.0.1 serve.popads.net
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com
 127.0.0.1 crashlytics.163.com
@@ -5651,6 +5673,7 @@
 127.0.0.1 clk.pdb.madserving.com
 127.0.0.1 imp.madserving.com
 127.0.0.1 imp.pdb.madserving.com
+127.0.0.1 show-s.mediav.com
 127.0.0.1 3m.mediav.com
 127.0.0.1 ckmap.mediav.com
 127.0.0.1 click.mediav.com
@@ -5914,6 +5937,7 @@
 127.0.0.1 www.umiwi.com
 127.0.0.1 app.xdrig.com
 127.0.0.1 av1.xdrig.com
+127.0.0.1 me.xdrig.com
 127.0.0.1 pg.xdrig.com
 127.0.0.1 xdrig.com
 127.0.0.1 cc.xtgreat.com
@@ -6655,6 +6679,7 @@
 127.0.0.1 vg.aty.sohu.com
 127.0.0.1 vm.aty.sohu.com
 127.0.0.1 888.tv.sohu.com
+127.0.0.1 api.danmu.tv.sohu.com
 127.0.0.1 download.wan.sohu.com
 127.0.0.1 hui.sohu.com
 127.0.0.1 info.lm.tv.sohu.com
