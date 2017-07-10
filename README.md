@@ -15,9 +15,7 @@ We have no interest in logging DNS queries, we work as resolver, just forward th
 <b> Donate </b>
 Paypal: ookangzheng@yahoo.com
 <br>
-<b> Notes </b>
-45.32.81.2 (LA, US) [No longer maintaince]
-<br>
+
 <b> How can I flush my DNS </b>
 <ul>
 <li> Windows --> CMD --> ipconfig /flushdns </li>
