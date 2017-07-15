@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76005 ad serving and malware domains.
+# Currently blocking 76008 ad serving and malware domains.
 #
-# Date Generated: Jul 11 2017
+# Date Generated: Jul 14 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -18525,7 +18525,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 addash.co
 127.0.0.1 addbonus.com
 127.0.0.1 addbtest.timesink.com
-127.0.0.1 addealing.com
 127.0.0.1 addebris.link
 127.0.0.1 addelivery.thestreet.com
 127.0.0.1 addeppo.com
@@ -20051,6 +20050,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.docmorris.de
 127.0.0.1 ads.doctors.co.il
 127.0.0.1 ads.doktoronline.no
+127.0.0.1 ads.domain.com
 127.0.0.1 ads.domainbg.com
 127.0.0.1 ads.domainoptions.net
 127.0.0.1 ads.domeus.com
@@ -25560,6 +25560,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 alicia-hepp.us
 127.0.0.1 aliciakeys.sexybabesx.com
 127.0.0.1 alilandry.org
+127.0.0.1 alipromo.com
 127.0.0.1 alisa-green.us
 127.0.0.1 alisa-rake.us
 127.0.0.1 alisat.biz
@@ -47657,6 +47658,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 logger-06.vty.dailymotion.com
 127.0.0.1 logger.cash-media.de
 127.0.0.1 logger.co.kr
+127.0.0.1 logger.snackly.co
 127.0.0.1 logger.sociablelabs.com
 127.0.0.1 logger.tlvmedia.com
 127.0.0.1 logger.virgul.com
@@ -59787,6 +59789,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 stats.scholastic.com
 127.0.0.1 stats.searchles.com
 127.0.0.1 stats.searchsight.com
+127.0.0.1 stats.self.com
 127.0.0.1 stats.sextracker.com
 127.0.0.1 stats.sharenet.co.za
 127.0.0.1 stats.shopify.com
