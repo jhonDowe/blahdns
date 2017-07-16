@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 76008 ad serving and malware domains.
 #
-# Date Generated: Jul 14 2017
+# Date Generated: Jul 15 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -23244,7 +23244,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adserver.atari.net
 127.0.0.1 adserver.banneradministration.com
 127.0.0.1 adserver.barrapunto.com
-127.0.0.1 adserver.beggarspromo.com
 127.0.0.1 adserver.betandwin.de
 127.0.0.1 adserver.billiger-surfen.de
 127.0.0.1 adserver.billiger-telefonieren.de
@@ -42824,6 +42823,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gh.ffshrine.org
 127.0.0.1 ghacks.de.intellitxt.com
 127.0.0.1 ghalibaft.com
+127.0.0.1 ghanadetails.pw
 127.0.0.1 ghm_bulgaria.hit.gemius.pl
 127.0.0.1 ghmbg.hit.gemius.pl
 127.0.0.1 ghmme.hit.gemius.pl
@@ -45770,6 +45770,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 iusacomlive.112.2o7.net
 127.0.0.1 iut4u.voluumtrk.com
 127.0.0.1 iv.doubleclick.net
+127.0.0.1 ivansaru.418.com1.ru
 127.0.0.1 ivi.traflab.ru
 127.0.0.1 ivillage.us.intellitxt.com
 127.0.0.1 ivillageglobal.112.2o7.net
@@ -75635,7 +75636,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ym.bannerconnect.net
 127.0.0.1 ymail-activate1.bugs3.com
 127.0.0.1 yoc-performance.com
-127.0.0.1 yoc.mobi
 127.0.0.1 yoclub.waphall.com
 127.0.0.1 yoda.cybereps.com
 127.0.0.1 yodleeinc.tt.omtrdc.net
