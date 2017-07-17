@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76008 ad serving and malware domains.
+# Currently blocking 76010 ad serving and malware domains.
 #
-# Date Generated: Jul 15 2017
+# Date Generated: Jul 17 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -26749,6 +26749,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 apple.com-webbrowsing-security.bid
 127.0.0.1 apple.com-webbrowsing-security.download
 127.0.0.1 apple.com-webbrowsing-security.review
+127.0.0.1 apple.com-webbrowsing-security.science
 127.0.0.1 apple.com.clean-virus-mac.com
 127.0.0.1 apple.com.virus-mac.com
 127.0.0.1 applebarq.com
@@ -40497,7 +40498,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 evita.ivwbox.de
 127.0.0.1 evklj.voluumtrk.com
 127.0.0.1 evo5-com-netmining.netmining.com
-127.0.0.1 evobank.co
 127.0.0.1 evs-hosted-14facd241e1c08.s3.amazonaws.com
 127.0.0.1 evt.moatads.com
 127.0.0.1 evtrk.com
@@ -42823,7 +42823,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 gh.ffshrine.org
 127.0.0.1 ghacks.de.intellitxt.com
 127.0.0.1 ghalibaft.com
-127.0.0.1 ghanadetails.pw
 127.0.0.1 ghm_bulgaria.hit.gemius.pl
 127.0.0.1 ghmbg.hit.gemius.pl
 127.0.0.1 ghmme.hit.gemius.pl
@@ -46070,6 +46069,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 jixfo.voluumtrk.com
 127.0.0.1 jiztini.com
 127.0.0.1 jizzads.com
+127.0.0.1 jjwire.biz
 127.0.0.1 jk.chapm.com
 127.0.0.1 jk.revolvermaps.com
 127.0.0.1 jkearns.freestats.com
@@ -46840,6 +46840,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 l2.l.qq.com
 127.0.0.1 l2.zedo.com
 127.0.0.1 l3.zedo.com
+127.0.0.1 l3d1.pp.ru
 127.0.0.1 l3egp.voluumtrk.com
 127.0.0.1 l4.zedo.com
 127.0.0.1 l4vt1.voluumtrk.com
@@ -64230,6 +64231,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 video-stats.video.google.com
 127.0.0.1 video.adaptv.advertising.com
 127.0.0.1 video.begun.ru
+127.0.0.1 video.buzzintersection.com
 127.0.0.1 video.cld.startappexchange.com
 127.0.0.1 video.cynogage.com
 127.0.0.1 video.digidip.net
@@ -70700,6 +70702,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.codeads.com
 127.0.0.1 www.codez-knacken.de
 127.0.0.1 www.cogtree.com
+127.0.0.1 www.coilprofil.ro
 127.0.0.1 www.coinurl.com
 127.0.0.1 www.coinvisitor.com
 127.0.0.1 www.colette-connell.us
@@ -72785,7 +72788,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.musicmass.com
 127.0.0.1 www.mvav.com
 127.0.0.1 www.mvtracker.com
-127.0.0.1 www.mwebdesign.asia
 127.0.0.1 www.my-dirty-hobby.com
 127.0.0.1 www.my-etracker.com
 127.0.0.1 www.my-linker.com
