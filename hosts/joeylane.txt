@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76015 ad serving and malware domains.
+# Currently blocking 76018 ad serving and malware domains.
 #
-# Date Generated: Jul 23 2017
+# Date Generated: Jul 30 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -26751,6 +26751,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 apple.com-webbrowsing-security.download
 127.0.0.1 apple.com-webbrowsing-security.review
 127.0.0.1 apple.com-webbrowsing-security.science
+127.0.0.1 apple.com-webbrowsing-security.site
 127.0.0.1 apple.com.clean-virus-mac.com
 127.0.0.1 apple.com.virus-mac.com
 127.0.0.1 applebarq.com
@@ -28147,7 +28148,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 banner.europacasino.com
 127.0.0.1 banner.everestpoker.com
 127.0.0.1 banner.fairpoker.com
-127.0.0.1 banner.featuredusers.com
 127.0.0.1 banner.finn.no
 127.0.0.1 banner.finzoom.ro
 127.0.0.1 banner.fotor.com
@@ -35333,6 +35333,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 commonssearch.com
 127.0.0.1 commonwealth.riddler.com
 127.0.0.1 community.adlandpro.com
+127.0.0.1 comon.monlineserviceplc.com
 127.0.0.1 comonets.com
 127.0.0.1 compactbanner.com
 127.0.0.1 compagnie.science
@@ -46555,6 +46556,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 keygen.us
 127.0.0.1 keymedia.hu
 127.0.0.1 keynotedeviceanywhere.com
+127.0.0.1 keyoptimize.com
 127.0.0.1 keys.dmtracker.com
 127.0.0.1 keystat.com
 127.0.0.1 keytarget.adnet.lt
@@ -49250,7 +49252,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 meiluziai.info
 127.0.0.1 mein.monster.de
 127.0.0.1 melding-technology.com
-127.0.0.1 melecampany.com
 127.0.0.1 melisa-espino.us
 127.0.0.1 melisa-traynor.us
 127.0.0.1 melissa-kirksey.us
@@ -49635,6 +49636,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 metrics.zales.com
 127.0.0.1 metrics.zillow.com
 127.0.0.1 metrics2.pricegrabber.com
+127.0.0.1 metricskey.net
 127.0.0.1 metrika.yandex.by
 127.0.0.1 metrika.yandex.com
 127.0.0.1 metrika.yandex.com.tr
@@ -72247,6 +72249,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.keybinary.com
 127.0.0.1 www.keygen.us
 127.0.0.1 www.keyofhealth.com
+127.0.0.1 www.keyoptimize.com
 127.0.0.1 www.keywordblocks.com
 127.0.0.1 www.keywordmax.com
 127.0.0.1 www.kickassratios.com
@@ -72666,6 +72669,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.methode-binaire.com
 127.0.0.1 www.metricology.com
 127.0.0.1 www.metricsimage.com
+127.0.0.1 www.metricskey.net
 127.0.0.1 www.mfsuite.com
 127.0.0.1 www.mftracking.com
 127.0.0.1 www.mgcash.com
@@ -75554,7 +75558,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 yada.com
 127.0.0.1 yadro.ru
 127.0.0.1 yads.zedo.com
-127.0.0.1 yahoo-action.com
 127.0.0.1 yahoo-s.nuggad.net
 127.0.0.1 yahoo.effectivemeasure.net
 127.0.0.1 yahoo.ivwbox.de
