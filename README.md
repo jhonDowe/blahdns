@@ -1,7 +1,7 @@
 <h1> Ads block with BlahDNS </h1>
 
-                         <p>IP: 45.77.14.27 (Tokyo)</p>
-                         <p>IP: 217.61.0.97 (Frankfut)</p>
+IP: 45.77.14.27 (Tokyo)
+IP: 217.61.0.97 (Frankfut)
 <br>
 Block unwanted Ads, Malware, Phisihing sites, No Cencorship, Fast, Secure!!
 <br>
