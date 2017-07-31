@@ -1,5 +1,5 @@
 <h1> Ads block with BlahDNS </h1>
-<p>IP: 45.32.102.37 (Singapore)</p>
+
                          <p>IP: 45.77.14.27 (Tokyo)</p>
                          <p>IP: 217.61.0.97 (Frankfut)</p>
 <br>
