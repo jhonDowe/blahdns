@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76018 ad serving and malware domains.
+# Currently blocking 76033 ad serving and malware domains.
 #
-# Date Generated: Jul 30 2017
+# Date Generated: Aug 05 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -2727,6 +2727,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ab163949.adbutler-kaon.com
 127.0.0.1 ab3a-f9be-43ed-76ca.reporo.net
 127.0.0.1 ab44aa.r.axf8.net
+127.0.0.1 ab913aa797e78b3.com
 127.0.0.1 abacho.net
 127.0.0.1 abacus.geocities.com
 127.0.0.1 abacus.go2cloud.org
@@ -32904,6 +32905,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ca.origin.startappservice.com
 127.0.0.1 ca1.bluestreak.com
 127.0.0.1 ca305656.luckyorange.com
+127.0.0.1 ca4.revieworbit.com
 127.0.0.1 caartoonnetwork.com
 127.0.0.1 caasco.go2cloud.org
 127.0.0.1 cablevision.112.2o7.net
@@ -34823,6 +34825,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 clients.tbo.com
 127.0.0.1 clientstat.castup.net
 127.0.0.1 clik2008.popunder.ru
+127.0.0.1 cliksolution.com
 127.0.0.1 clipfish.ivwbox.de
 127.0.0.1 clips.coolerads.com
 127.0.0.1 clipserv.adclip.com
@@ -39303,7 +39306,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 dynamic1.anandtech.com
 127.0.0.1 dynamic1.dailytech.com
 127.0.0.1 dynamic2.anandtech.com
-127.0.0.1 dynamicyield.com
 127.0.0.1 dynamix.apsmediaagency.com
 127.0.0.1 dynamix.cpmtrafficker.com
 127.0.0.1 dynamix.trafficrevmaster.com
@@ -39315,6 +39317,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dz2fz0bgyq9tn.cloudfront.net
 127.0.0.1 dzccl.voluumtrk.com
 127.0.0.1 dzheker.com
+127.0.0.1 dzitech.net
 127.0.0.1 dzl.baidu.com
 127.0.0.1 dzxcq.com
 127.0.0.1 e-2dj6wfk4ehd5afq.stats.esomniture.com
@@ -40016,6 +40019,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 email.yeahmobi.com
 127.0.0.1 email666.com
 127.0.0.1 emailadvantagegroup.com
+127.0.0.1 emailadwebmailsecuredata.info
 127.0.0.1 emailcash.com.au
 127.0.0.1 emaildireto.com.br
 127.0.0.1 emaillifecoaching.com.au
@@ -41073,7 +41077,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 filtertest.2cnt.net
 127.0.0.1 fim.122.2o7.net
 127.0.0.1 fim.adnxs.com
-127.0.0.1 fimc.net
 127.0.0.1 fimserve.askmen.com
 127.0.0.1 fimserve.com
 127.0.0.1 fimserve.ign.com
@@ -42870,6 +42873,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 git01.dus.local.vmsn.de
 127.0.0.1 git01.dus.vmsn.de
 127.0.0.1 gitlab.con.local.vmsn.de
+127.0.0.1 giu9aab.bid
 127.0.0.1 giveaboost.go2cloud.org
 127.0.0.1 givemefreestuff.com
 127.0.0.1 givememyremote.us.intellitxt.com
@@ -45220,6 +45224,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 implt.tradedoubler.com
 127.0.0.1 impnl.tradedoubler.com
 127.0.0.1 impno.tradedoubler.com
+127.0.0.1 import.globalsources.com
 127.0.0.1 imppl.tradedoubler.com
 127.0.0.1 impr.superpages.com
 127.0.0.1 imprese.cz
@@ -45543,6 +45548,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 interyield.jmp9.cominteryield.jmp9.com
 127.0.0.1 interyield.td553.com
 127.0.0.1 interyield.td563.com
+127.0.0.1 interyield.td573.com
 127.0.0.1 interyieldw.jmp9.com
 127.0.0.1 interyieldww.jmp9.com
 127.0.0.1 interyieldwww.jmp9.com
@@ -46397,6 +46403,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 jvzoo.com
 127.0.0.1 jwebbsense.cjt1.net
 127.0.0.1 jwner.voluumtrk.com
+127.0.0.1 jworld.monlineserviceplc.com
 127.0.0.1 jwpltx.com
 127.0.0.1 jxliu.com
 127.0.0.1 jxzmo.voluumtrk.com
@@ -48995,6 +49002,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 media.popmarker.com
 127.0.0.1 media.popunder.com
 127.0.0.1 media.popuptraffic.com
+127.0.0.1 media.primalforce.net
 127.0.0.1 media.privatporevo.com
 127.0.0.1 media.pussycash.com
 127.0.0.1 media.rapid-pass.net
@@ -51191,6 +51199,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 nicappazaza.com
 127.0.0.1 nickde.oewabox.at
 127.0.0.1 nickleplatedads.com
+127.0.0.1 nicktung.com
 127.0.0.1 nickyhilton.sexybabesx.com
 127.0.0.1 nickysimon68.tk
 127.0.0.1 nicolekidman.sexybabesx.com
@@ -51380,6 +51389,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 noveslovo.com
 127.0.0.1 novostimira.biz
 127.0.0.1 now.eloqua.com
+127.0.0.1 nowcheck.seethisamazinguogradeswinmacawesome.win
 127.0.0.1 nowina.info
 127.0.0.1 nowinstallupgrade.clickforultimateandbest2updatingpc.top
 127.0.0.1 nowlucky.go2cloud.org
@@ -54305,6 +54315,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pqwaker.altervista.org
 127.0.0.1 pr-bh.ybp.yahoo.com
 127.0.0.1 pr-cy.ru
+127.0.0.1 pr-star.de
 127.0.0.1 pr-static.empflix.com
 127.0.0.1 pr-ten.de
 127.0.0.1 pr.20min.es
@@ -54345,6 +54356,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 premiercreditcard.com
 127.0.0.1 premios.go2cloud.org
 127.0.0.1 premium-live-scan.com
+127.0.0.1 premium-offers.com
 127.0.0.1 premium-reward-club.com
 127.0.0.1 premium.ascensionweb.com
 127.0.0.1 premium.cz
@@ -60100,6 +60112,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sugar.gameforge.com
 127.0.0.1 suggest.infospace.com
 127.0.0.1 sugoicounter.com
+127.0.0.1 suhprdfb.bid
 127.0.0.1 summitbusinessmedia.112.2o7.net
 127.0.0.1 sumo.com
 127.0.0.1 sumome.com
@@ -61478,6 +61491,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 toads.osdn.com
 127.0.0.1 todacell.com
 127.0.0.1 todayads.com
+127.0.0.1 todayresearch.com
 127.0.0.1 todayshow.us.intellitxt.com
 127.0.0.1 toddscarwash.com
 127.0.0.1 toggo.ivwbox.de
@@ -62817,6 +62831,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 treasure1.justclick.ru
 127.0.0.1 treasuredome.com
 127.0.0.1 treasuretrooper.com
+127.0.0.1 treatstartaugusth.info
 127.0.0.1 tredirect.com
 127.0.0.1 tree-pixel-log.s3.amazonaws.com
 127.0.0.1 trefogli8.adulttargettrack.pw
@@ -63870,7 +63885,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 users173.lolipop.jp
 127.0.0.1 usimg.adbureau.net
 127.0.0.1 uslbtest.cedexis.com
-127.0.0.1 usmsad.tom.com
 127.0.0.1 usnews.122.2o7.net
 127.0.0.1 usr.dropkickmedia.com
 127.0.0.1 usr.marketgid.com
@@ -70070,6 +70084,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.apmebf.com
 127.0.0.1 www.app-authority.com
 127.0.0.1 www.app4us.info
+127.0.0.1 www.appafile.com
 127.0.0.1 www.apparel-offer.com
 127.0.0.1 www.apparelncs.com
 127.0.0.1 www.appfindr.org
