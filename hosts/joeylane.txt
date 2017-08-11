@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76033 ad serving and malware domains.
+# Currently blocking 76107 ad serving and malware domains.
 #
-# Date Generated: Aug 05 2017
+# Date Generated: Aug 10 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1353,6 +1353,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 3415.hittail.com
 127.0.0.1 34245.hittail.com
 127.0.0.1 343.bitterstrawberry.com
+127.0.0.1 3459571470.log.optimizely.com
 127.0.0.1 3463.hittail.com
 127.0.0.1 34673.hittail.com
 127.0.0.1 3480025.log.optimizely.com
@@ -1376,6 +1377,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 360yield.com
 127.0.0.1 36222.seu.cleverreach.com
 127.0.0.1 3642305.fls.doubleclick.net
+127.0.0.1 3650.tm.zedo.com
 127.0.0.1 3689-7dbc-ddf7-a45f.reporo.net
 127.0.0.1 36igq.voluumtrk.com
 127.0.0.1 36site.com
@@ -1534,6 +1536,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 48qyx.voluumtrk.com
 127.0.0.1 49.6.87.194.dynamic.dol.ru
 127.0.0.1 4902-145639.link.iwanttodeliver.com
+127.0.0.1 4923503.fls.doubleclick.net
 127.0.0.1 49479.9362.302br.net
 127.0.0.1 49535.com
 127.0.0.1 4a6xw.voluumtrk.com
@@ -1582,6 +1585,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 4wav.com
 127.0.0.1 4web.cz
 127.0.0.1 4wheeldrives.com
+127.0.0.1 4wmp.nuggad.net
 127.0.0.1 4x3zy4ql-l8bu4n1j.netdna-ssl.com
 127.0.0.1 4x4review.us.intellitxt.com
 127.0.0.1 5.6.87.194.dynamic.dol.ru
@@ -1626,6 +1630,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 555y.com
 127.0.0.1 55624-3.popunder.loading-delivery1.com
 127.0.0.1 55788.9391.302br.net
+127.0.0.1 5582200.fls.doubleclick.net
 127.0.0.1 56.6.87.194.dynamic.dol.ru
 127.0.0.1 560183740bc38303d0000248.maestroad.checkm8.com
 127.0.0.1 5623.web-stats.org
@@ -2128,6 +2133,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 _thums.ero-advertising.com
 127.0.0.1 a-a-access.com
 127.0.0.1 a-ads.com
+127.0.0.1 a-blog.eu
 127.0.0.1 a-counter.com.ua
 127.0.0.1 a-counter.kiev.ua
 127.0.0.1 a-fast.com
@@ -2620,6 +2626,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a4mwn.voluumtrk.com
 127.0.0.1 a4nwz.voluumtrk.com
 127.0.0.1 a4ocm.voluumtrk.com
+127.0.0.1 a4p.adpartner.pro
 127.0.0.1 a4p.net
 127.0.0.1 a4rlj.voluumtrk.com
 127.0.0.1 a4shd.realshieldlinked.com
@@ -2833,6 +2840,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ac.mmstat.com
 127.0.0.1 ac.mz-web.de
 127.0.0.1 ac.openx.com
+127.0.0.1 ac.realvu.net
 127.0.0.1 ac.rnm.ca
 127.0.0.1 ac.tynt.com
 127.0.0.1 ac.ybinst0.ec.yimg.com
@@ -2989,6 +2997,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 acuityads.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 acustat.com
+127.0.0.1 acuty1adsrv.com
 127.0.0.1 acvs.mediaonenetwork.net
 127.0.0.1 acvsrv.mediaonenetwork.net
 127.0.0.1 acxiom.com
@@ -19374,6 +19383,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adready.com
 127.0.0.1 adready.net
 127.0.0.1 adreadytractions.com
+127.0.0.1 adreclaim.com
 127.0.0.1 adrecom.net
 127.0.0.1 adrecreate.com
 127.0.0.1 adrelevance.com
@@ -20152,6 +20162,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.exdynsrv.com
 127.0.0.1 ads.exhedra.com
 127.0.0.1 ads.exoclick.com
+127.0.0.1 ads.exosrv.com
 127.0.0.1 ads.expat-blog.biz
 127.0.0.1 ads.expatinbulgaria.com
 127.0.0.1 ads.expedia.com
@@ -20368,6 +20379,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.hexun.com
 127.0.0.1 ads.heyu.net
 127.0.0.1 ads.heyzap.com
+127.0.0.1 ads.hicomm.bg
 127.0.0.1 ads.hideyourarms.com
 127.0.0.1 ads.highdefdigest.com
 127.0.0.1 ads.hitbox.com
@@ -21375,6 +21387,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.smartclicks.net
 127.0.0.1 ads.smartdevicemedia.com
 127.0.0.1 ads.smartfeedads.com
+127.0.0.1 ads.smartolution.com
 127.0.0.1 ads.smartshoppingads.de
 127.0.0.1 ads.smartstream.tv
 127.0.0.1 ads.smowtion.com
@@ -23159,6 +23172,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adserver-4.ig.com.br
 127.0.0.1 adserver-5.ig.com.br
 127.0.0.1 adserver-a-frr.adtech.de
+127.0.0.1 adserver-as.adtech.advertising.com
 127.0.0.1 adserver-e7.com
 127.0.0.1 adserver-espnet.sportszone.net
 127.0.0.1 adserver-eu.adtech.advertising.com
@@ -24679,6 +24693,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 advertiserjob.com
 127.0.0.1 advertisers.doubleclick.net
 127.0.0.1 advertisers.federatedmedia.net
+127.0.0.1 advertiserurl.com
 127.0.0.1 advertiserwanted.com
 127.0.0.1 advertisespace.com
 127.0.0.1 advertiseyourgame.com
@@ -26033,6 +26048,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 analytics.newsinc.com
 127.0.0.1 analytics.newsvine.com
 127.0.0.1 analytics.onesearch.id
+127.0.0.1 analytics.ooyala.com
 127.0.0.1 analytics.openload.co
 127.0.0.1 analytics.optilead.co.uk
 127.0.0.1 analytics.percentmobile.com
@@ -26466,6 +26482,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.adyoulike.com
 127.0.0.1 api.affinesystems.com
 127.0.0.1 api.airpush.com
+127.0.0.1 api.amplitude.com
 127.0.0.1 api.analytics.omgpop.com
 127.0.0.1 api.appfireworks.com
 127.0.0.1 api.applifier.com
@@ -26488,6 +26505,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.chartboost.com
 127.0.0.1 api.cheatsheet.me
 127.0.0.1 api.choicestream.com
+127.0.0.1 api.circularhub.com
 127.0.0.1 api.citygridmedia.com
 127.0.0.1 api.conduit.com
 127.0.0.1 api.connatix.com
@@ -26519,6 +26537,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.intensifier.de
 127.0.0.1 api.iperceptions.com
 127.0.0.1 api.ipinfodb.com
+127.0.0.1 api.iris.tv
 127.0.0.1 api.jollywallet.com
 127.0.0.1 api.keen.io
 127.0.0.1 api.kiip.me
@@ -26905,6 +26924,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ardboers.ivwbox.de
 127.0.0.1 ardrone.swoop.com
 127.0.0.1 are-ter.com
+127.0.0.1 are.clevernt.com
 127.0.0.1 areasins.com
 127.0.0.1 areasnap.com
 127.0.0.1 arecio.work
@@ -27390,6 +27410,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 avsads.com
 127.0.0.1 avscanonline.com
 127.0.0.1 avt.hit.gemius.pl
+127.0.0.1 avzadsrv.com
 127.0.0.1 aw.masterstats.com
 127.0.0.1 awaps.yandex.ru
 127.0.0.1 award.sitekeuring.net
@@ -28347,6 +28368,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 banners.addynamix.com
 127.0.0.1 banners.adfox.ru
 127.0.0.1 banners.adgoto.com
+127.0.0.1 banners.adnetmedia.lt
 127.0.0.1 banners.adultfriendfinder.com
 127.0.0.1 banners.adultrevenueservice.com
 127.0.0.1 banners.advancewebhosting.com
@@ -29533,6 +29555,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 blitzbg.adocean.pl
 127.0.0.1 blkget6.com
 127.0.0.1 blm.bz
+127.0.0.1 blobar.org
 127.0.0.1 block.sw1block.com
 127.0.0.1 blockbuster.112.2o7.net
 127.0.0.1 blockbustercom.112.2o7.net
@@ -33359,6 +33382,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.adrta.com
 127.0.0.1 cdn.adrtx.net
 127.0.0.1 cdn.ads.ookla.com
+127.0.0.1 cdn.adsafeprotected.com
 127.0.0.1 cdn.adscpm.net
 127.0.0.1 cdn.adservingsolutionsinc.com
 127.0.0.1 cdn.adshexa.com
@@ -33675,6 +33699,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.putono5.com
 127.0.0.1 cdn.qbaka.net
 127.0.0.1 cdn.qservz.com
+127.0.0.1 cdn.quantummetric.com
 127.0.0.1 cdn.radiatewheel.info
 127.0.0.1 cdn.ramctrlgate.com
 127.0.0.1 cdn.redlightcenter.com
@@ -33934,6 +33959,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdns.brsrvr.com
 127.0.0.1 cdns.mydirtyhobby.com
 127.0.0.1 cdns.privatamateure.com
+127.0.0.1 cdnssl.clicktale.net
 127.0.0.1 cdnstats-a.akamaihd.net
 127.0.0.1 cdnt.meteorsolutions.com
 127.0.0.1 cdnt.yottos.com
@@ -35055,6 +35081,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cms.abmr.net
 127.0.0.1 cms.ad2click.nl
 127.0.0.1 cms.analytics.yahoo.com
+127.0.0.1 cms.c1exchange.com
 127.0.0.1 cms.grandcloud.cn
 127.0.0.1 cms.myspacecdn.com
 127.0.0.1 cms.quantserve.com
@@ -35245,20 +35272,24 @@ ff02::2 ip6-allrouters
 127.0.0.1 coldfusion.affiliateshop.com
 127.0.0.1 colette-connell.us
 127.0.0.1 colle.ovh
+127.0.0.1 collect-us-east-1.tealiumiq.com
 127.0.0.1 collect.evisitanalyst.com
 127.0.0.1 collect.finanzen.net
 127.0.0.1 collect.igodigital.com
 127.0.0.1 collect.m-pathy.com
 127.0.0.1 collect.rewardstyle.com
 127.0.0.1 collect.sas.com
+127.0.0.1 collect.tealiumiq.com
 127.0.0.1 collection.acromas.com
 127.0.0.1 collection.theaa.com
 127.0.0.1 collective-media.net.49479.9362.302br.net
 127.0.0.1 collectiveads.net
+127.0.0.1 collector-1054.tvsquared.com
 127.0.0.1 collector-184.tvsquared.com
 127.0.0.1 collector-195.tvsquared.com
 127.0.0.1 collector-428.tvsquared.com
 127.0.0.1 collector-cdn.github.com
+127.0.0.1 collector-pxel3l4xih.perimeterx.net
 127.0.0.1 collector-test.staging.mb-internal.com
 127.0.0.1 collector.deepmetrix.com
 127.0.0.1 collector.githubapp.com
@@ -35336,7 +35367,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 commonssearch.com
 127.0.0.1 commonwealth.riddler.com
 127.0.0.1 community.adlandpro.com
-127.0.0.1 comon.monlineserviceplc.com
 127.0.0.1 comonets.com
 127.0.0.1 compactbanner.com
 127.0.0.1 compagnie.science
@@ -37253,6 +37283,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 creativeby1.unicast.com.17582.9103.302br.net
 127.0.0.1 creativeby2.unicast.com
 127.0.0.1 creativecdn.com
+127.0.0.1 creatives.ancoraplatform.com
 127.0.0.1 creatives.as4x.tmcs.net
 127.0.0.1 creatives.doubleclick.net
 127.0.0.1 creatives.inmotionhosting.com
@@ -37281,7 +37312,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cri.d1.sc.omtrdc.net
 127.0.0.1 cribdare2no.com
 127.0.0.1 crimg.sv.publicus.com
-127.0.0.1 crimunalbot001.ga
 127.0.0.1 crispads.com
 127.0.0.1 crispadvertising.com
 127.0.0.1 crispmedia.com
@@ -37699,6 +37729,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 d1rgnfh960lz2b.cloudfront.net
 127.0.0.1 d1tprjo2w7krrh.cloudfront.net
 127.0.0.1 d1uwd25yvxu96k.cloudfront.net
+127.0.0.1 d1v9u0bgi1uimx.cloudfront.net
 127.0.0.1 d1vbm0eveofcle.cloudfront.net
 127.0.0.1 d1wscoizcbxzhp.cloudfront.net
 127.0.0.1 d1xfq2052q7thw.cloudfront.net
@@ -37713,6 +37744,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 d23guct4biwna6.cloudfront.net
 127.0.0.1 d23nyyb6dc29z6.cloudfront.net
 127.0.0.1 d23p9gffjvre9v.cloudfront.net
+127.0.0.1 d24n15hnbwhuhn.cloudfront.net
 127.0.0.1 d25ruj6ht8bs1.cloudfront.net
 127.0.0.1 d26b395fwzu5fz.cloudfront.net
 127.0.0.1 d26dzd2k67we08.cloudfront.net
@@ -37728,6 +37760,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 d2bgg7rjywcwsy.cloudfront.net
 127.0.0.1 d2bj2texxib1qg.cloudfront.net
 127.0.0.1 d2bw638ufki166.cloudfront.net
+127.0.0.1 d2c8v52ll5s99u.cloudfront.net
 127.0.0.1 d2cgumzzqhgmdu.cloudfront.net
 127.0.0.1 d2d2lbvq8xirbs.cloudfront.net
 127.0.0.1 d2dq2ahtl5zl1z.cloudfront.net
@@ -37753,6 +37786,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 d2ry9vue95px0b.cloudfront.net
 127.0.0.1 d2so4705rl485y.cloudfront.net
 127.0.0.1 d2tgev5wuprbqq.cloudfront.net
+127.0.0.1 d2tgfbvjf3q6hn.cloudfront.net
 127.0.0.1 d2tnimpzlb191i.cloudfront.net
 127.0.0.1 d2ubicnllnnszy.cloudfront.net
 127.0.0.1 d2uevgmgh16uk4.cloudfront.net
@@ -38267,6 +38301,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 def.5.p2l.info
 127.0.0.1 defencelab.com
 127.0.0.1 defender-scan.com
+127.0.0.1 defender-win-status-report.info
 127.0.0.1 defendyourpc.com
 127.0.0.1 defenza.com
 127.0.0.1 definitelyfind.com
@@ -38735,6 +38770,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dist.belnk.com
 127.0.0.1 dist.isearch.com
 127.0.0.1 distillery.wistia.com
+127.0.0.1 distractify-d.openx.net
 127.0.0.1 distrelec-02.webtrekk.net
 127.0.0.1 distribution.cimedia.com
 127.0.0.1 disy2s34euyqm.cloudfront.net
@@ -38915,7 +38951,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 dompark.dadapro.com
 127.0.0.1 domseo.com.edgesuite.net
 127.0.0.1 domwpm.stream
-127.0.0.1 donaldhoyes.tk
 127.0.0.1 done.witchcraftcash.com
 127.0.0.1 donkeymails.com
 127.0.0.1 donna-borst.us
@@ -39496,6 +39531,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 eads.com
 127.0.0.1 eads.nl
 127.0.0.1 eads.org
+127.0.0.1 eadsrv.com
 127.0.0.1 eaeacom.112.2o7.net
 127.0.0.1 eafl3.voluumtrk.com
 127.0.0.1 eagamesuk.112.2o7.net
@@ -40019,7 +40055,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 email.yeahmobi.com
 127.0.0.1 email666.com
 127.0.0.1 emailadvantagegroup.com
-127.0.0.1 emailadwebmailsecuredata.info
 127.0.0.1 emailcash.com.au
 127.0.0.1 emaildireto.com.br
 127.0.0.1 emaillifecoaching.com.au
@@ -40084,6 +40119,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 enews.bfast.com
 127.0.0.1 enewsletters.ziffdavisinternet.com
 127.0.0.1 enfintrouver.com
+127.0.0.1 eng.findadvertise.com
 127.0.0.1 eng.trkcnv.com
 127.0.0.1 engage.com
 127.0.0.1 engage.everyone.net
@@ -40488,7 +40524,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 evepdbrazossports.112.2o7.net
 127.0.0.1 evepdcharleston.112.2o7.net
 127.0.0.1 evepdeagledev.112.2o7.net
-127.0.0.1 everbless.biz
 127.0.0.1 evergage.com
 127.0.0.1 everstring.com
 127.0.0.1 everydayhealth.demdex.net
@@ -40641,6 +40676,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 external.dmtracker.com
 127.0.0.1 externaldb.switchadhub.com
 127.0.0.1 extntechnologies.us.intellitxt.com
+127.0.0.1 extra.eboundservices.com
 127.0.0.1 extra.wavecdn.net
 127.0.0.1 extra33.com
 127.0.0.1 extractorandburner.com
@@ -40828,6 +40864,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fast.nbcots.demdex.net
 127.0.0.1 fast.nbcu.demdex.net
 127.0.0.1 fast.nfl.demdex.net
+127.0.0.1 fast.nrjgroup.demdex.net
 127.0.0.1 fast.philly.demdex.net
 127.0.0.1 fast.postmedia.demdex.net
 127.0.0.1 fast.px.demdex.net
@@ -41350,6 +41387,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 forum.rotator.hadj7.adjuggler.net
 127.0.0.1 forum.yeahmobi.com
 127.0.0.1 forum.yesup.net
+127.0.0.1 forumcomm-d.openx.net
 127.0.0.1 forumediainc.us.intellitxt.com
 127.0.0.1 forums.adspaces.ero-advertising.com
 127.0.0.1 forums.data2.ero-advertising.com
@@ -42334,7 +42372,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 gamrfeed.vgchartz.com.9.302br.net
 127.0.0.1 gan.doubleclick.net
 127.0.0.1 gan.wavecdn.net
-127.0.0.1 ganhedwakar.tk
 127.0.0.1 gannett.demdex.net
 127.0.0.1 gannett.gcion.com
 127.0.0.1 gannettbroadcast.us.intellitxt.com
@@ -42366,6 +42403,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gateway.adgatemedia.com
 127.0.0.1 gateway.blamads.com
 127.0.0.1 gateway.fortunelounge.com
+127.0.0.1 gatewaymedia-d.openx.net
 127.0.0.1 gateways.s3.amazonaws.com
 127.0.0.1 gatewaytracker.com
 127.0.0.1 gather.hankyung.com
@@ -42511,6 +42549,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gders.hit.gemius.pl
 127.0.0.1 gdesk.hit.gemius.pl
 127.0.0.1 gdetr.hit.gemius.pl
+127.0.0.1 gdeua.hit.gemius.pl
 127.0.0.1 gdyn.cnn.com
 127.0.0.1 gdyn.cnngo.com
 127.0.0.1 gdyn.nascar.com
@@ -42597,6 +42636,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 geobytes.com
 127.0.0.1 geocities.bfast.com
 127.0.0.1 geocounter.net
+127.0.0.1 geoip-lookup.vice.com
 127.0.0.1 geoip.al.com
 127.0.0.1 geoip.cleveland.com
 127.0.0.1 geoip.edagames.com
@@ -42831,6 +42871,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ghalibaft.com
 127.0.0.1 ghm_bulgaria.hit.gemius.pl
 127.0.0.1 ghmbg.hit.gemius.pl
+127.0.0.1 ghmhu.hit.gemius.pl
 127.0.0.1 ghmme.hit.gemius.pl
 127.0.0.1 ghmpl.hit.gemius.pl
 127.0.0.1 ghmrs.hit.gemius.pl
@@ -42856,6 +42897,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gifttracker.com
 127.0.0.1 gifttree.track4.com
 127.0.0.1 gigwise.us.intellitxt.com
+127.0.0.1 gigya.com
 127.0.0.1 gili-lankanfushi-com.b.appier.net
 127.0.0.1 gillian-boissonneault.us
 127.0.0.1 gillian-leavens.us
@@ -43107,6 +43149,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gocarisoprodol.polybuild.ru
 127.0.0.1 goclick.com
 127.0.0.1 gocm.c.appier.net
+127.0.0.1 godaddy.sp1.convertro.com
 127.0.0.1 godrejproperties-com.b.appier.net
 127.0.0.1 goetheinstitut01.webtrekk.net
 127.0.0.1 gofem.oewabox.at
@@ -43173,7 +43216,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 gopacket.goforandroid.com
 127.0.0.1 gopath2.xyz
 127.0.0.1 gopopup.com
-127.0.0.1 gorainbowzone.tk
 127.0.0.1 goreal.at
 127.0.0.1 gorilla.go2cloud.org
 127.0.0.1 gorillanation.us.intellitxt.com
@@ -44030,6 +44072,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 home.vividvip.com
 127.0.0.1 home4bizstart.ru
 127.0.0.1 homedeco.com.bo
+127.0.0.1 homedepot.cm
 127.0.0.1 homedepot.tt.omtrdc.net
 127.0.0.1 homedepoy.com
 127.0.0.1 homedepto.com
@@ -44578,6 +44621,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 icentric.us.intellitxt.com
 127.0.0.1 icestorm.com
 127.0.0.1 ichef.us.intellitxt.com
+127.0.0.1 iclear.studentworkbook.pw
 127.0.0.1 icm.go2cloud.org
 127.0.0.1 ico.freelogs.com
 127.0.0.1 icompass.insightexpressai.com
@@ -44797,6 +44841,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 image01.ctvdigital.com
 127.0.0.1 image1.cecash.com
 127.0.0.1 image2.pubmatic.com
+127.0.0.1 image5.pubmatic.com
 127.0.0.1 imageads.canoe.ca
 127.0.0.1 imageads.sexmoney.com
 127.0.0.1 imagec05.247realmedia.com
@@ -45383,6 +45428,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 infoworldmediagroup.112.2o7.net
 127.0.0.1 infrastrategy.122.2o7.net
 127.0.0.1 infratotalduicom.122.2o7.net
+127.0.0.1 ing-district.clicktale.net
 127.0.0.1 ingameads.gameloft.com
 127.0.0.1 ingdirectit.tt.omtrdc.net
 127.0.0.1 ingenicopads.kz
@@ -46403,7 +46449,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 jvzoo.com
 127.0.0.1 jwebbsense.cjt1.net
 127.0.0.1 jwner.voluumtrk.com
-127.0.0.1 jworld.monlineserviceplc.com
 127.0.0.1 jwpltx.com
 127.0.0.1 jxliu.com
 127.0.0.1 jxzmo.voluumtrk.com
@@ -47622,6 +47667,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 logc180.xiti.com
 127.0.0.1 logc181.xiti.com
 127.0.0.1 logc183.xiti.com
+127.0.0.1 logc187.xiti.com
 127.0.0.1 logc189.xiti.com
 127.0.0.1 logc19.xiti.com
 127.0.0.1 logc194.xiti.com
@@ -47979,6 +48025,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 lunaticjazz.com
 127.0.0.1 lunho.com
 127.0.0.1 lup5z.voluumtrk.com
+127.0.0.1 lurdinha.psc.br
 127.0.0.1 lustler.com
 127.0.0.1 luu.lightquartrate.com
 127.0.0.1 luvianetwork.hasoffers.com
@@ -48018,6 +48065,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 lynette-raber.us
 127.0.0.1 lynn-buzbee.us
 127.0.0.1 lynsey-mabon.us
+127.0.0.1 lynxfinder.com
 127.0.0.1 lynxtrack.com
 127.0.0.1 lyrics.us.intellitxt.com
 127.0.0.1 lysoft.go2cloud.org
@@ -48534,6 +48582,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 main.atdmt.com
 127.0.0.1 main.clicksor.com
 127.0.0.1 main.exoclick.com
+127.0.0.1 main.exosrv.com
 127.0.0.1 main.rampidads.com
 127.0.0.1 main.vodonet.net
 127.0.0.1 mainentrypoint.com
@@ -49182,6 +49231,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mediametrics.mpsa.com
 127.0.0.1 mediamgr.ugo.com
 127.0.0.1 mediamind.com
+127.0.0.1 mediamond.nuggad.net
 127.0.0.1 median.hu
 127.0.0.1 medianyx.go2cloud.org
 127.0.0.1 mediaoffers.click
@@ -50413,7 +50463,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 mtvu.112.2o7.net
 127.0.0.1 mu-in-f167.1e100.net
 127.0.0.1 muas4.voluumtrk.com
-127.0.0.1 muazymaur.tk
 127.0.0.1 muchmarketing.go2cloud.org
 127.0.0.1 mudfall.com
 127.0.0.1 mudmonster.org
@@ -50658,6 +50707,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mytraf.info
 127.0.0.1 mytraf.ru
 127.0.0.1 mytraff.com
+127.0.0.1 mytrafficads.com
 127.0.0.1 mytrafficbuilder.info
 127.0.0.1 mytrannycams.com
 127.0.0.1 myusersonline.com
@@ -50708,6 +50758,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 n180adserv.com
 127.0.0.1 n2.adshostnet.com
 127.0.0.1 n2.smartyads.com
+127.0.0.1 n214adserv.com
 127.0.0.1 n21o1.voluumtrk.com
 127.0.0.1 n24mobse.nuggad.net
 127.0.0.1 n24se.nuggad.net
@@ -51201,7 +51252,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 nickleplatedads.com
 127.0.0.1 nicktung.com
 127.0.0.1 nickyhilton.sexybabesx.com
-127.0.0.1 nickysimon68.tk
 127.0.0.1 nicolekidman.sexybabesx.com
 127.0.0.1 nicolerichie.sexybabesx.com
 127.0.0.1 nicolette-brier.us
@@ -52515,6 +52565,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 openload.info
 127.0.0.1 openmarket.com
 127.0.0.1 openoverflow.com
+127.0.0.1 opensharecount.com
 127.0.0.1 opensoftwareupdate.com
 127.0.0.1 opensoftwareupdater.com
 127.0.0.1 openstat.com
@@ -52611,6 +52662,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 opt.cdxnopt.com
 127.0.0.1 opt.hit.gemius.pl
 127.0.0.1 opt.leadbolt.com
+127.0.0.1 opt.ximad.com
 127.0.0.1 opticalnetworks.com
 127.0.0.1 optiker-michelmann.de
 127.0.0.1 optilogus.com
@@ -52622,6 +52674,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 optimize.indieclick.com
 127.0.0.1 optimize.innity.com
 127.0.0.1 optimize.webtrends.com
+127.0.0.1 optimized-by-adv.rubiconproject.com
+127.0.0.1 optimized-by.4wnetwork.com
 127.0.0.1 optimized-by.rubiconproject.com
 127.0.0.1 optimized-by.vitalads.net
 127.0.0.1 optimized.by.vitalads.net
@@ -52891,6 +52945,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ox-d.secure-clicks.org
 127.0.0.1 ox-d.sidereel.com
 127.0.0.1 ox-d.sinclair.servedbyopenx.com
+127.0.0.1 ox-d.sltrib.servedbyopenx.com
 127.0.0.1 ox-d.southwest.com
 127.0.0.1 ox-d.thechive.servedbyopenx.com
 127.0.0.1 ox-d.tmn.servedbyopenx.com
@@ -53124,6 +53179,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pages2.marketo.com
 127.0.0.1 pagesense.com
 127.0.0.1 pagespeed.report.qq.com
+127.0.0.1 pagestat.mmi.bemobile.ua
 127.0.0.1 pagetracking.popmarker.com
 127.0.0.1 pageurl-brx.btrll.com
 127.0.0.1 pageurl.btrll.com
@@ -54002,6 +54058,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 playinvaders.com
 127.0.0.1 playlink.pl
 127.0.0.1 playminigolf.com
+127.0.0.1 playmobileads.com
 127.0.0.1 playnow.guru
 127.0.0.1 playon.domplayer.com
 127.0.0.1 playon.play3w.com
@@ -55554,6 +55611,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 realonlineshop.ugc.bazaarvoice.com
 127.0.0.1 realperson70.net
 127.0.0.1 realtechnetwork.com
+127.0.0.1 realtime.deximedia.com
 127.0.0.1 realtime.services.disqus.com
 127.0.0.1 realtimeads.com
 127.0.0.1 realtouchbannerwidget.aebn.net
@@ -56481,6 +56539,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 s.admulti.com
 127.0.0.1 s.adroll.com
 127.0.0.1 s.ads.t-online.de
+127.0.0.1 s.advertiserurl.com
 127.0.0.1 s.agava.ru
 127.0.0.1 s.amazon-adsystem.com
 127.0.0.1 s.amazon-cornerstone.com
@@ -56828,6 +56887,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 s51.sitemeter.com
 127.0.0.1 s54.cnzz.com
 127.0.0.1 s55.cnzz.com
+127.0.0.1 s6-pixel.c1exchange.com
 127.0.0.1 s6.lebenna.com
 127.0.0.1 s6.netlogstatic.com
 127.0.0.1 s6.shinystat.com
@@ -57940,7 +58000,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sexzoznamka.eu
 127.0.0.1 seznam.hit.gemius.pl
 127.0.0.1 sf.vserv.mobi
-127.0.0.1 sface549.tk
 127.0.0.1 sfads.osdn.com
 127.0.0.1 sfl.downloadfilesnow.info
 127.0.0.1 sfl.erw.downloadfilesnow.info
@@ -58387,6 +58446,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 slowmac.tech
 127.0.0.1 slowmacfaster.trade
 127.0.0.1 sls.go2cloud.org
+127.0.0.1 slt.hit.gemius.pl
 127.0.0.1 sltravelcom.112.2o7.net
 127.0.0.1 sm.banner-link.com.br
 127.0.0.1 sm.domob.cn
@@ -58586,6 +58646,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 softwares.timesink.com
 127.0.0.1 softwareupdaterlp.com
 127.0.0.1 sohh.us.intellitxt.com
+127.0.0.1 soka-adserver.c1exchange.com
 127.0.0.1 sokrates.adtech.de
 127.0.0.1 sokrates.adtech.fr
 127.0.0.1 sokrates.adtech.us
@@ -58950,6 +59011,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sshtunnel.at
 127.0.0.1 ssi.go2cloud.org
 127.0.0.1 ssl-6582datamanager.de
+127.0.0.1 ssl-cd.com
 127.0.0.1 ssl-compass.oewabox.at
 127.0.0.1 ssl-default.2cnt.net
 127.0.0.1 ssl-error.2cnt.net
@@ -59386,6 +59448,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 static.everyplay.com
 127.0.0.1 static.exaccess.ru
 127.0.0.1 static.exoclick.com
+127.0.0.1 static.exosrv.com
 127.0.0.1 static.fastpic.ru
 127.0.0.1 static.firehunt.com
 127.0.0.1 static.firstmobilecash.com
@@ -60350,6 +60413,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 syndication.dtcn.com
 127.0.0.1 syndication.exdynsrv.com
 127.0.0.1 syndication.exoclick.com
+127.0.0.1 syndication.exosrv.com
 127.0.0.1 syndication.globaltraffico.com
 127.0.0.1 syndication.jobthread.com
 127.0.0.1 syndication.jsadapi.com
@@ -60594,6 +60658,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tag.1rx.io
 127.0.0.1 tag.adip.ly
 127.0.0.1 tag.admeld.com
+127.0.0.1 tag.adtrendmedia.net
 127.0.0.1 tag.apxlv.com
 127.0.0.1 tag.aticdn.net
 127.0.0.1 tag.beanstock.co
@@ -60664,6 +60729,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tags.mediaforge.com
 127.0.0.1 tags.msnbc.com
 127.0.0.1 tags.news.com.au
+127.0.0.1 tags.onscroll.com
 127.0.0.1 tags.pixnet.net
 127.0.0.1 tags.pubgears.com
 127.0.0.1 tags.qservz.com
@@ -62537,6 +62603,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tracking.rangeonlinemedia.com
 127.0.0.1 tracking.rce.veeseo.com
 127.0.0.1 tracking.resumecompanion.com
+127.0.0.1 tracking.retargeting.biz
 127.0.0.1 tracking.revimedia.com
 127.0.0.1 tracking.roispy.com
 127.0.0.1 tracking.rtl.de
@@ -62682,6 +62749,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 traffic.buyservices.com
 127.0.0.1 traffic.cimedia.com
 127.0.0.1 traffic.firstmobilelink.com
+127.0.0.1 traffic.focuusing.com
 127.0.0.1 traffic.getmyads.com
 127.0.0.1 traffic.index.hu
 127.0.0.1 traffic.liveuniversenetwork.com
@@ -62871,6 +62939,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 triggeredmail.appspot.com
 127.0.0.1 triggers.wfxtriggers.com
 127.0.0.1 triggertag.gorillanation.com
+127.0.0.1 trinitymirror-d.openx.net
 127.0.0.1 trinitymirror.112.2o7.net
 127.0.0.1 triphasil.1.p2l.info
 127.0.0.1 triphasil.3.p2l.info
@@ -64235,6 +64304,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 vibrantmedia.com
 127.0.0.1 vice-ads-cdn.vice.com
 127.0.0.1 vice-ads.s3.amazonaws.com
+127.0.0.1 vice-d.openx.net
+127.0.0.1 vice-web-statics-cdn.vice.com
 127.0.0.1 vicecom.ivwbox.de
 127.0.0.1 vicodin-online.petrovka.info
 127.0.0.1 vicodin-store.shengen.ru
@@ -68844,6 +68915,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wesell.co.il
 127.0.0.1 west.05tz2e9.com
 127.0.0.1 west.adlink.de
+127.0.0.1 westbriton.uk.intellitxt.com
 127.0.0.1 westeins.2cnt.net
 127.0.0.1 westeros.go2cloud.org
 127.0.0.1 westjet.112.2o7.net
@@ -68990,7 +69062,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 williamhill.es
 127.0.0.1 willie.ixn.local.vmsn.de
 127.0.0.1 willysy.com
-127.0.0.1 wilworld.monlineserviceplc.com
 127.0.0.1 win-spy.com
 127.0.0.1 win.bannersbucket.xyz
 127.0.0.1 win.openvn.com
@@ -69116,6 +69187,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 worldnowboston.112.2o7.net
 127.0.0.1 worldprofitassociates.com
 127.0.0.1 worldsite.ws
+127.0.0.1 worldstarhiphop-d.openx.net
 127.0.0.1 worldtravelguide.uk.intellitxt.com
 127.0.0.1 worldusa.com
 127.0.0.1 worldwide-cash.net
@@ -69153,6 +69225,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wroclawski.com.pl
 127.0.0.1 ws-ea.amazon-adsystem.com
 127.0.0.1 ws-eu.amazon-adsystem.com
+127.0.0.1 ws-gateway.com
 127.0.0.1 ws-na.amazon-adsystem.com
 127.0.0.1 ws.00zasdf.pw
 127.0.0.1 ws.abbp1.pw
@@ -71101,7 +71174,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.downseek.com
 127.0.0.1 www.dpbolvw.net
 127.0.0.1 www.dprtb.com
-127.0.0.1 www.dracotec.org
 127.0.0.1 www.dragonballzhomeland.com
 127.0.0.1 www.drimads.com
 127.0.0.1 www.drivotracker.com
@@ -71157,6 +71229,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.ebayadvertising.com
 127.0.0.1 www.ebaybanner.com
 127.0.0.1 www.ebonybymail.com
+127.0.0.1 www.eboundservices.com
 127.0.0.1 www.ebtmarketing.com
 127.0.0.1 www.eclkmpbn.com
 127.0.0.1 www.eclkmpsa.com
@@ -73973,6 +74046,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.srver110.xyz
 127.0.0.1 www.srvpub.com
 127.0.0.1 www.ssangyong.co.il
+127.0.0.1 www.ssl-cd.com
 127.0.0.1 www.stacia-jose.us
 127.0.0.1 www.stacia-ware.us
 127.0.0.1 www.stamplive.com
@@ -74287,6 +74361,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.tqlkg.com
 127.0.0.1 www.tr100.net
 127.0.0.1 www.tr553.com
+127.0.0.1 www.tracc.it
 127.0.0.1 www.tracemyip.org
 127.0.0.1 www.traceworks.com
 127.0.0.1 www.traci-sirianni.us
@@ -74659,7 +74734,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.webwise.com
 127.0.0.1 www.webwise.net
 127.0.0.1 www.webwise.org
-127.0.0.1 www.wecontrol-com.tk
 127.0.0.1 www.wee.co.il
 127.0.0.1 www.weebecash.com
 127.0.0.1 www.weedoit.fr
