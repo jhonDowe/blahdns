@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76221 ad serving and malware domains.
+# Currently blocking 76223 ad serving and malware domains.
 #
-# Date Generated: Aug 12 2017
+# Date Generated: Aug 14 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -40867,6 +40867,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 farmius.org
 127.0.0.1 farmville2.visits.lt
 127.0.0.1 fashion-tube.be
+127.0.0.1 fashioncargo.pt
 127.0.0.1 fashiontrafficdemo.go2cloud.org
 127.0.0.1 fast-adv.it
 127.0.0.1 fast-route.com
@@ -42942,7 +42943,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gifttracker.com
 127.0.0.1 gifttree.track4.com
 127.0.0.1 gigwise.us.intellitxt.com
-127.0.0.1 gigya.com
+127.0.0.1 gigya.com.invalid
 127.0.0.1 gili-lankanfushi-com.b.appier.net
 127.0.0.1 gillian-boissonneault.us
 127.0.0.1 gillian-leavens.us
@@ -47477,6 +47478,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 lisa-giannini.us
 127.0.0.1 lisa-petitt.us
 127.0.0.1 lisa-scherrer.us
+127.0.0.1 lisovfoxcom.418.com1.ru
 127.0.0.1 lissette-hendershot.us
 127.0.0.1 lissette-tarkington.us
 127.0.0.1 list.ilius.net
