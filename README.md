@@ -5,8 +5,13 @@
 - IP: 45.77.77.130 (New York)
 - IP: 217.61.0.97 (Frankfut)
 
-*Block unwanted Ads, Malware, Phisihing sites, Fake news, Spam*
-<hr>
+*Block unwanted Ads, Malware, Phisihing, tracker, Porn*
+- Blocked Region
+    1. China (tracker, ads, pop, phishing, some Antivirus services[baidu, 360 antivirus])
+    2. English
+    3. Russia
+    4. German
+    5. Poland
 
 ## Privacy Protection
 
