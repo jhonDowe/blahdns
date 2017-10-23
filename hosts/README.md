@@ -6,7 +6,10 @@
 8. http://someonewhocares.org/hosts/zero/hosts
 9. https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 10. https://mirror1.malwaredomains.com/files/justdomains 
-11. https://raw.githubusercontent.com/neoFelhz/neohosts/master/nadhost 
+11. https://raw.githubusercontent.com/neoFelhz/neohosts/data/nadhost
+12. https://hosts-file.net/hphosts-partial.txt
+13. http://winhelp2002.mvps.org/hosts.txt
+14. https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts
 
 ### Discontinue
 1. https://raw.githubusercontent.com/joeylane/hosts/master/hosts
