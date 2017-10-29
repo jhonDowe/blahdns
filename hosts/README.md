@@ -88,5 +88,3 @@
 
     # redirections for phished sites (rlwpx.free.fr/WPFF)
     #'http://rlwpx.free.fr/WPFF/hblc.7z'
-)
-
