@@ -17,9 +17,6 @@
 
 We have no interest in logging DNS queries, we work as resolver, just forward the request to Google DNS or OpenDNS
 
-## By me a coffee :D 
-Paypal: ookangzheng@yahoo.com 
-
 ### How can I flush my DNS 
 
 * Windows --> CMD --> ipconfig /flushdns 
