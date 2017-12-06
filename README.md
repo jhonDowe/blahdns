@@ -4,16 +4,15 @@
 - IP: 45.77.14.27 (Tokyo)
 - IP: 217.61.0.97 (Frankfut)
 
-*Block unwanted Ads, Malware, Phisihing, tracker, scam sites .. etc
-> Blocked Region Ads or tracker 
+* Block unwanted Ads, Malware, Phisihing, tracker, scam sites .. etc
 >
-> 1. China (tracker, ads, pop, phishing, some Antivirus services[baidu, 360 antivirus])
-> 2. English
-> 3. Russia
+> 1. English common EasyPrivacy + EasyList
+> 2. China (tracker, ads, phishing, xiaomi, baidu, sohu.. etc)
 
 ## Privacy Protection
 
-We have no interest in logging DNS queries, we work as resolver, just forward the request to Google DNS or OpenDNS
+> We have no interest in logging DNS queries, we work as resolver
+> I decided change the upper dns server to Quad9 DNS  (2017-12-06)
 
 ### How can I flush my DNS 
 
