@@ -1,7 +1,7 @@
 # Ads block by DNS service
 
 ## DNS Server (Ipv4)
-- IP: 45.77.14.27 (Tokyo)
+- IP: 172.104.76.252 (Tokyo)
 - IP: 217.61.0.97 (Frankfut)
 
 * Block unwanted Ads, Malware, Phisihing, tracker, scam sites .. etc
