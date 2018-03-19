@@ -8,13 +8,17 @@
 
 > 1. EasyPrivacy + EasyList
 > 2. Chinese (trackers, ads, phishing)
-> 3. Access OpenNIC mordern domain http://blahdns.oss/ http://blahdns.pirate/ or http://nx.bit/
+> 3. Access OpenNIC modern domain http://blahdns.oss/ or http://nx.bit/
 
 ## Privacy Protection
 
 > We have no interest in logging DNS queries
-> keeping your ISP from seeing which websites you visit.
-> If you encouter any problem, please open an issue.
+> Keeping your ISP from seeing which websites you visit.
+> If you encouterd any problem, please open an issue.
+
+## Open source JavaScript e-learning for cyber nomads
+### Wizardamigos 
+> http://wizardamigos.com or http://wizardamigos.oss/ (OpenNIC)
 
 ### How can I flush my DNS 
 
