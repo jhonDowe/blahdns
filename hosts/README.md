@@ -2,17 +2,15 @@
 1. https://github.com/vokins/yhosts/raw/master/hosts
 2. https://hblock.molinero.xyz/hosts
 3. https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
-6. https://raw.githubusercontent.com/michaeltrimm/hosts-blocking/master/_hosts.txt
-8. http://someonewhocares.org/hosts/zero/hosts
-9. https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-10. https://mirror1.malwaredomains.com/files/justdomains 
-11. https://raw.githubusercontent.com/neoFelhz/neohosts/data/nadhost
-12. https://hosts-file.net/hphosts-partial.txt
-13. http://winhelp2002.mvps.org/hosts.txt
-14. https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts
+6. https://raw.githubusercontent.com/joeylane/hosts/master/hosts
+8. https://neko-dev.github.io/neohosts/full/hosts
+9. https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
+
 
 ### Discontinue
 1. https://raw.githubusercontent.com/joeylane/hosts/master/hosts
+2. https://raw.githubusercontent.com/michaeltrimm/hosts-blocking/master/_hosts.txt
+3. https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 
 ## HIGHLY RECOMMENDED LISTS
 
