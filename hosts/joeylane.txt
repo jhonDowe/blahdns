@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74296 ad serving and malware domains.
+# Currently blocking 74303 ad serving and malware domains.
 #
-# Date Generated: Mar 18 2018
+# Date Generated: Mar 21 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -33358,6 +33358,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 checker.dumedia.ru
 127.0.0.1 checker.gameleads.ru
 127.0.0.1 checkin101.com
+127.0.0.1 checkingfree.thebig-centeralplacecontentprepared.review
 127.0.0.1 checkintocash.data.7bpeople.com
 127.0.0.1 checkm8.com
 127.0.0.1 checkmystats.com.au
@@ -44738,6 +44739,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 janetjackson.sexybabesx.com
 127.0.0.1 janezk.50webs.co
 127.0.0.1 jangasm.org
+127.0.0.1 janrain.com
 127.0.0.1 japan.inmobi.com
 127.0.0.1 japanese-girl-xxx.com
 127.0.0.1 japanesevehicles.us
@@ -48151,6 +48153,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mg.dt07.net
 127.0.0.1 mg.marketgid.com
 127.0.0.1 mg.mgid.com
+127.0.0.1 mg2connext.com
 127.0.0.1 mgage.com
 127.0.0.1 mgallery.megapornbucks.com
 127.0.0.1 mgbhr.voluumtrk.com
@@ -50035,6 +50038,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 o.zeroredirect1.com
 127.0.0.1 o.zeroredirect2.com
 127.0.0.1 o0.winfuture.de
+127.0.0.1 o0bc.com
 127.0.0.1 o1.inviziads.com
 127.0.0.1 o1.qnsr.com
 127.0.0.1 o11cr.voluumtrk.com
@@ -50992,6 +50996,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 optiprofits.go2cloud.org
 127.0.0.1 optlynx.com
 127.0.0.1 optmd.com
+127.0.0.1 optmstr.com
 127.0.0.1 optout.2cnt.net
 127.0.0.1 optout.ad1.adfarm1.adition.com
 127.0.0.1 optout.ad2.adfarm1.adition.com
@@ -54524,6 +54529,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rpt.anchorfree.net
 127.0.0.1 rpt.cedexis.com
 127.0.0.1 rpt.footlocker.com
+127.0.0.1 rpxnow.com
 127.0.0.1 rpylvksecants.review
 127.0.0.1 rq.adfox.ru
 127.0.0.1 rq.adtrackdirect.com
@@ -66324,6 +66330,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wan.duba.net
 127.0.0.1 wangluoruanjian.com
 127.0.0.1 wangmeng.baidu.com
+127.0.0.1 wantmobi.bid
 127.0.0.1 wap-click.com
 127.0.0.1 wap.advertising.com
 127.0.0.1 wap.casee.cn

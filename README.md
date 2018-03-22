@@ -7,10 +7,10 @@
 * Block unwanted Ads, Malware, Phisihing, tracker, etc.
 > 1. EasyPrivacy + EasyList
 > 2. Chinese (trackers, ads, phishing)
-> 3. Access OpenNIC modern domain [http://blahdns.oss/](http://blahdns.oss/) or (http://nx.bit/)[http://nx.bit/]
-> For more details, please see on [Hosts](https://github.com/ookangzheng/blahdns/tree/master/hosts)
+> 3. Access OpenNIC modern domain [http://blahdns.oss/](http://blahdns.oss/) or [http://nx.bit/](http://nx.bit/)
+> For more details, please visit [Hosts](https://github.com/ookangzheng/blahdns/tree/master/hosts)
 
-## Privacy Protection
+## Disclaimer
 > We have no interest in logging DNS queries
 > Keeping your ISP from seeing which websites you visit.
 > If you encouterd any problem, please open an issue.
@@ -19,12 +19,13 @@
 1. https://github.com/anudeepND/whitelist (File containing commonly whitelisted domains for Pi-Hole.)
 2. https://github.com/deathbybandaid/piholeparser (Pi-Hole Compatible lists)
 3. https://github.com/mitchellkrogza/Ultimate.Hosts.Blacklist (Ultimate.Hosts.Blacklist)
+4. https://github.com/collinbarrett/FilterLists (Awesome filterlist)
 
 ## Open source JavaScript e-learning for cyber nomads
 ### Wizardamigos 
 > [http://wizardamigos.com](http://wizardamigos.com) or [http://wizardamigos.oss/](http://wizardamigos.oss/) (OpenNIC)
 
-### How can I flush my DNS 
+## How can I flush my DNS 
 * Windows --> CMD --> ipconfig /flushdns 
 * MAC --> killall -HUP mDNSResponder 
 * Linux --> sudo systemctl restart NetworkManager or sudo rcnscd restart 
