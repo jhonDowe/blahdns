@@ -1,7 +1,7 @@
 # Ads block by DNS service
 
 ## DNS Server (Ipv4)
-- IP: 172.105.230.150 (JP)
+- IP: 172.105.201.28 (JP)
 - IP: 217.61.0.97 (DE)
 
 * Block unwanted Ads, Malware, Phisihing, tracker, etc.
