@@ -1,6 +1,6 @@
 ## Hosts
-* [Latest hosts]()
-* [Content farm host]()
+* [Latest hosts](https://github.com/ookangzheng/blahdns/blob/master/hosts/gravity.list)
+* [Content farm host](https://github.com/ookangzheng/blahdns/blob/master/hosts/contentfarms.host)
 
 
 ## Source
