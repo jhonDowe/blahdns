@@ -20,6 +20,7 @@
 2. https://github.com/deathbybandaid/piholeparser (Pi-Hole Compatible lists)
 3. https://github.com/mitchellkrogza/Ultimate.Hosts.Blacklist (Ultimate.Hosts.Blacklist)
 4. https://github.com/collinbarrett/FilterLists (Awesome filterlist)
+5. https://github.com/ZeroDot1/CoinBlockerLists (Awesome prevent mining list)
 
 ## Open source JavaScript e-learning for cyber nomads
 ### Wizardamigos 
