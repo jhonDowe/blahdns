@@ -33,3 +33,5 @@ ssl.bblck.me
 easylist-downloads.adblockplus.org
 get.sogou.com
 s.youtube.com
+zerodot1.github.io
+neohosts.netlify.com

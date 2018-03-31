@@ -178,3 +178,7 @@ suggestqueries.google.com
 onesievideobufferonly
 mqtt-mini.facebook.com
 portal.fb.com
+adservice.google.com.tw
+adservice.google.com
+app-measurement.com
+gp.sogouzhuyin.com
