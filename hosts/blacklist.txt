@@ -131,8 +131,6 @@ igxoetjrttsuh
 vktchjdhlhrd
 visjpfziqlzy
 wyrytqxjb
-external.xx.fbcdn.net
-api.facebook.com
 trk.pinterest.com
 mtrace.qq.com
 btrace.qq.com
@@ -146,14 +144,12 @@ sk.andrcool.com
 userdata.andrcool.com
 jdd01.198game.net
 941novel.com
-avgigi.com
 love100girl.com
 mb9999.sexy-more.com
 sitetag.us
 www.ploveq.com
 www.rtalabel.org
 w2.fk-av.com
-pics.dmm.co.jp
 fk-book.com
 17hi99.com
 i.picpar.com
@@ -176,7 +172,6 @@ a.ydstatic.com.cdn20.com
 ytimg-edge-static.l.google.com
 suggestqueries.google.com
 onesievideobufferonly
-mqtt-mini.facebook.com
 portal.fb.com
 adservice.google.com.tw
 adservice.google.com
