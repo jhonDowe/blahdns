@@ -1,358 +1,190 @@
-0.0.0.0 www.makeding.com
-:: www.makeding.com
-0.0.0.0   makeding.com
-::   makeding.com
-0.0.0.0   vm.makeding.com
-::   vm.makeding.com
-0.0.0.0   www.bingdianhuanyuan.cn
-::   www.bingdianhuanyuan.cn
-0.0.0.0   xia.bingdianhuanyuan.cn
-::   xia.bingdianhuanyuan.cn
-0.0.0.0   bingdianhuanyuan.cn
-::   bingdianhuanyuan.cn
-0.0.0.0   huishenghuiying.com.cn
-::   huishenghuiying.com.cn
-0.0.0.0   www.huishenghuiying.com.cn
-::   www.huishenghuiying.com.cn
-0.0.0.0   xia.huishenghuiying.com.cn
-::   xia.huishenghuiying.com.cn
-0.0.0.0   coreldrawchina.com
-::   coreldrawchina.com
-0.0.0.0   xia.coreldrawchina.com
-::   xia.coreldrawchina.com
-0.0.0.0   www.coreldrawchina.com
-::   www.coreldrawchina.com
-0.0.0.0   shankejingling.com
-::   shankejingling.com
-0.0.0.0   www.shankejingling.com
-::   www.shankejingling.com
-0.0.0.0   xia.shankejingling.com
-::   xia.shankejingling.com
-0.0.0.0   mairuan.com
-::   mairuan.com
-0.0.0.0   www.mairuan.com
-::   www.mairuan.com
-0.0.0.0   xia.mairuan.com
-::   xia.mairuan.com
-0.0.0.0   logoshejishi.com
-::   logoshejishi.com
-0.0.0.0   www.logoshejishi.com
-::   www.logoshejishi.com
-0.0.0.0   xia.logoshejishi.com
-::   xia.logoshejishi.com
-0.0.0.0   keyshot.cc
-::   keyshot.cc
-0.0.0.0   xia.keyshot.cc
-::   xia.keyshot.cc
-0.0.0.0   www.keyshot.cc
-::   www.keyshot.cc
-0.0.0.0   flstudiochina.com
-::   flstudiochina.com
-0.0.0.0   www.flstudiochina.com
-::   www.flstudiochina.com
-0.0.0.0   xia.flstudiochina.com
-::   xia.flstudiochina.com
-0.0.0.0   ediuschina.com
-::   ediuschina.com
-0.0.0.0   www.ediuschina.com
-::   www.ediuschina.com
-0.0.0.0   xia.ediuschina.com
-::   xia.ediuschina.com
-0.0.0.0   vegaschina.cn
-::   vegaschina.cn
-0.0.0.0   www.vegaschina.cn
-::   www.vegaschina.cn
-0.0.0.0   xia.vegaschina.cn
-::   xia.vegaschina.cn
-0.0.0.0   guitarpro.cc
-::   guitarpro.cc
-0.0.0.0   www.guitarpro.cc
-::   www.guitarpro.cc
-0.0.0.0   xia.guitarpro.cc
-::   xia.guitarpro.cc
-0.0.0.0   www.xmindchina.cn
-::   www.xmindchina.cn
-0.0.0.0   xia.xmindchina.cn
-::   xia.xmindchina.cn
-0.0.0.0   xmindchina.cn
-::   xmindchina.cn
-0.0.0.0   xmindchina.net
-::   xmindchina.net
-0.0.0.0   www.xmindchina.net
-::   www.xmindchina.net
-0.0.0.0   xia.xmindchina.net
-::   xia.xmindchina.net
-0.0.0.0   mindmanager.cc
-::   mindmanager.cc
-0.0.0.0   www.mindmanager.cc
-::   www.mindmanager.cc
-0.0.0.0   xia.mindmanager.cc
-::   xia.mindmanager.cc
-0.0.0.0   kingdeecn.cn
-::   kingdeecn.cn
-0.0.0.0   www.kingdeecn.cn
-::   www.kingdeecn.cn
-0.0.0.0   xia.kingdeecn.cn
-::   xia.kingdeecn.cn
-0.0.0.0   xshellcn.com
-::   xshellcn.com
-0.0.0.0   www.xshellcn.com
-::   www.xshellcn.com
-0.0.0.0   xia.xshellcn.com
-::   xia.xshellcn.com
-0.0.0.0   imindmap.cc
-::   imindmap.cc
-0.0.0.0   www.imindmap.cc
-::   www.imindmap.cc
-0.0.0.0   xia.imindmap.cc
-::   xia.imindmap.cc
-0.0.0.0   abbyychina.com
-::   abbyychina.com
-0.0.0.0   www.abbyychina.com
-::   www.abbyychina.com
-0.0.0.0   xia.abbyychina.com
-::   xia.abbyychina.com
-0.0.0.0   bartender.cc
-::   bartender.cc
-0.0.0.0   www.bartender.cc
-::   www.bartender.cc
-0.0.0.0   xia.bartender.cc
-::   xia.bartender.cc
-0.0.0.0   jihehuaban.com.cn
-::   jihehuaban.com.cn
-0.0.0.0   www.jihehuaban.com.cn
-::   www.jihehuaban.com.cn
-0.0.0.0   xia.jihehuaban.com.cn
-::   xia.jihehuaban.com.cn
-0.0.0.0   mathtype.cn
-::   mathtype.cn
-0.0.0.0   www.mathtype.cn
-::   www.mathtype.cn
-0.0.0.0   xia.mathtype.cn
-::   xia.mathtype.cn
-0.0.0.0   chemdraw.com.cn
-::   chemdraw.com.cn
-0.0.0.0   www.chemdraw.com.cn
-::   www.chemdraw.com.cn
-0.0.0.0   xia.chemdraw.com.cn
-::   xia.chemdraw.com.cn
-0.0.0.0   mycleanmymac.com
-::   mycleanmymac.com
-0.0.0.0   www.mycleanmymac.com
-::   www.mycleanmymac.com
-0.0.0.0   xia.mycleanmymac.com
-::   xia.mycleanmymac.com
-0.0.0.0   ntfsformac.cn
-::   ntfsformac.cn
-0.0.0.0   www.ntfsformac.cn
-::   www.ntfsformac.cn
-0.0.0.0   xia.ntfsformac.cn
-::   xia.ntfsformac.cn
-0.0.0.0   parallelsdesktop.cn
-::   parallelsdesktop.cn
-0.0.0.0   www.parallelsdesktop.cn
-::   www.parallelsdesktop.cn
-0.0.0.0   xia.parallelsdesktop.cn
-::   xia.parallelsdesktop.cn
-0.0.0.0   beyondcompare.cc
-::   beyondcompare.cc
-0.0.0.0   www.beyondcompare.cc
-::   www.beyondcompare.cc
-0.0.0.0   xia.beyondcompare.cc
-::   xia.beyondcompare.cc
-0.0.0.0   easyrecoverychina.com
-::   easyrecoverychina.com
-0.0.0.0   www.easyrecoverychina.com
-::   www.easyrecoverychina.com
-0.0.0.0   xia.easyrecoverychina.com
-::   xia.easyrecoverychina.com
-0.0.0.0   bingdianhuanyuan.cn
-::   bingdianhuanyuan.cn
-0.0.0.0   www.bingdianhuanyuan.cn
-::   www.bingdianhuanyuan.cn
-0.0.0.0   xia.bingdianhuanyuan.cn
-::   xia.bingdianhuanyuan.cn
-0.0.0.0   hypersnap.mairuan.com
-::   hypersnap.mairuan.com
-0.0.0.0   www.iconworkshop.cn
-::   www.iconworkshop.cn
-0.0.0.0   iconworkshop.cn
-::   iconworkshop.cn
-0.0.0.0   www.pdfexpert.cc
-::   www.pdfexpert.cc
-0.0.0.0   xiazai.pdfexpert.cc
-::   xiazai.pdfexpert.cc
-0.0.0.0   www.zhzzx.com
-::   www.zhzzx.com
-0.0.0.0   yihuifu.cn
-::   yihuifu.cn
-0.0.0.0   www.4009997658.com
-::   www.4009997658.com
-0.0.0.0   4009997658.com
-::   4009997658.com
-0.0.0.0   mairuanwang.com
-::   mairuanwang.com
-0.0.0.0   www.mairuanwang.com
-::   www.mairuanwang.com
-0.0.0.0   mairuan.com
-::   mairuan.com
-0.0.0.0   mairuan.cn
-::   mairuan.cn
-0.0.0.0   mairuan.net
-::   mairuan.net
-0.0.0.0   mairuan.com.cn
-::   mairuan.com.cn
-0.0.0.0 servedby.adsfactor.net
-:: servedby.adsfactor.net
-0.0.0.0 js.kiwihk.net
-:: js.kiwihk.net
-0.0.0.0 qtozvx0zyb5y-ribw.gpqp2-62tq.com
-:: qtozvx0zyb5y-ribw.gpqp2-62tq.com
-0.0.0.0 kmyf1qp2b3emdxggcf3vlmux.5r84yw9h38.com
-:: kmyf1qp2b3emdxggcf3vlmux.5r84yw9h38.com
-0.0.0.0 nw9bvxxh7k-eicybwn.yx01wmlj.com
-:: nw9bvxxh7k-eicybwn.yx01wmlj.com
-0.0.0.0 ccvxt0uo3gjzdli-9dc.kxh7wpar3p7gir0.com
-:: ccvxt0uo3gjzdli-9dc.kxh7wpar3p7gir0.com
-0.0.0.0 8b2tvohskqeiu.amagh-sjxktsoc0j1gcyp.com
-:: 8b2tvohskqeiu.amagh-sjxktsoc0j1gcyp.com
-0.0.0.0 cyrxlxm3bz3uw3kx5nz.0wjzi-g6.com
-:: cyrxlxm3bz3uw3kx5nz.0wjzi-g6.com
-0.0.0.0 1dtefw-j2e56avv548q.lhybtvks8jlc9c-2r4njcf.com
-:: 1dtefw-j2e56avv548q.lhybtvks8jlc9c-2r4njcf.com
-0.0.0.0 8algj89wzcm6lr24.ww4pf-brv.com
-:: 8algj89wzcm6lr24.ww4pf-brv.com
-0.0.0.0 5khc61y45h6sts4n0nd.8-qxd-ei.com
-:: 5khc61y45h6sts4n0nd.8-qxd-ei.com
-0.0.0.0 ytw.adsbro.com
-:: ytw.adsbro.com
-0.0.0.0 cdn.innity.net
-:: cdn.innity.net
-0.0.0.0 beap.gemini.yahoo.com
-:: beap.gemini.yahoo.com
-0.0.0.0 cdn.adsfactor.net
-:: cdn.adsfactor.net
-0.0.0.0 img.scupio.com
-:: img.scupio.com
-0.0.0.0 218.adsbro.com
-:: 218.adsbro.com
-0.0.0.0 discuz.gtimg.cn
-:: discuz.gtimg.cn
-0.0.0.0 www.googletagservices.com
-:: www.googletagservices.com
-0.0.0.0 www.statcounter.com
-:: www.statcounter.com
-0.0.0.0 js-agent.newrelic.com
-:: js-agent.newrelic.com
-0.0.0.0 msg.71.am
-:: msg.71.am
-0.0.0.0 www.gobein.com
-:: www.gobein.com
-0.0.0.0 masdk.3g.qq.com
-:: masdk.3g.qq.com
-0.0.0.0 internal.airbnb.com
-:: internal.airbnb.com
-0.0.0.0 arts.google.com
-:: arts.google.com
-0.0.0.0 xcxnobhcjy
-:: xcxnobhcjy
-0.0.0.0 igxoetjrttsuh
-:: igxoetjrttsuh
-0.0.0.0 vktchjdhlhrd
-:: vktchjdhlhrd
-0.0.0.0 visjpfziqlzy
-:: visjpfziqlzy
-0.0.0.0 wyrytqxjb
-:: wyrytqxjb
-0.0.0.0 trk.pinterest.com
-:: trk.pinterest.com
-0.0.0.0 mtrace.qq.com
-:: mtrace.qq.com
-0.0.0.0 btrace.qq.com
-:: btrace.qq.com
-0.0.0.0 stat.3g.music.qq.com
-:: stat.3g.music.qq.com
-0.0.0.0 sdkcloud.e.360.cn
-:: sdkcloud.e.360.cn
-0.0.0.0 l.ad4.com.cn
-:: l.ad4.com.cn
-0.0.0.0 ad4.com.cn
-:: ad4.com.cn
-0.0.0.0 gather.andrcool.com
-:: gather.andrcool.com
-0.0.0.0 iupd.andrcool.com
-:: iupd.andrcool.com
-0.0.0.0 sk.andrcool.com
-:: sk.andrcool.com
-0.0.0.0 userdata.andrcool.com
-:: userdata.andrcool.com
-0.0.0.0 jdd01.198game.net
-:: jdd01.198game.net
-0.0.0.0 941novel.com
-:: 941novel.com
-0.0.0.0 love100girl.com
-:: love100girl.com
-0.0.0.0 mb9999.sexy-more.com
-:: mb9999.sexy-more.com
-0.0.0.0 sitetag.us
-:: sitetag.us
-0.0.0.0 www.ploveq.com
-:: www.ploveq.com
-0.0.0.0 www.rtalabel.org
-:: www.rtalabel.org
-0.0.0.0 w2.fk-av.com
-:: w2.fk-av.com
-0.0.0.0 fk-book.com
-:: fk-book.com
-0.0.0.0 17hi99.com
-:: 17hi99.com
-0.0.0.0 i.picpar.com
-:: i.picpar.com
-0.0.0.0 s.w.org
-:: s.w.org
-0.0.0.0 www.pornzee.com
-:: www.pornzee.com
-0.0.0.0 prt.sleepnova.org
-:: prt.sleepnova.org
-0.0.0.0 event.ksosoft.com
-:: event.ksosoft.com
-0.0.0.0 api.tinyhoneybee.com
-:: api.tinyhoneybee.com
-0.0.0.0 scheme.mobpowertech.com
-:: scheme.mobpowertech.com
-0.0.0.0 cdn-adn.rayjump.com
-:: cdn-adn.rayjump.com
-0.0.0.0 sg-tk.mobpowertech.com
-:: sg-tk.mobpowertech.com
-0.0.0.0 tracking.acekoala.com
-:: tracking.acekoala.com
-0.0.0.0 app.smartmailcloud.com
-:: app.smartmailcloud.com
-0.0.0.0 mobileapp.metro.taipei
-:: mobileapp.metro.taipei
-0.0.0.0 umengjmacs.m.taobao.com
-:: umengjmacs.m.taobao.com
-0.0.0.0 openjmacs.m.taobao.com
-:: openjmacs.m.taobao.com
-0.0.0.0 oimagec8.ydstatic.com
-:: oimagec8.ydstatic.com
-0.0.0.0 a.ydstatic.com.cdn20.com
-:: a.ydstatic.com.cdn20.com
-0.0.0.0 163.xdwscache.ourglb0.com
-:: 163.xdwscache.ourglb0.com
-0.0.0.0 ytimg-edge-static.l.google.com
-:: ytimg-edge-static.l.google.com
-0.0.0.0 suggestqueries.google.com
-:: suggestqueries.google.com
-0.0.0.0 onesievideobufferonly
-:: onesievideobufferonly
-0.0.0.0 portal.fb.com
-:: portal.fb.com
-0.0.0.0 adservice.google.com.tw
-:: adservice.google.com.tw
-0.0.0.0 adservice.google.com
-:: adservice.google.com
-0.0.0.0 app-measurement.com
-:: app-measurement.com
-0.0.0.0 gp.sogouzhuyin.com
-:: gp.sogouzhuyin.com
+www.makeding.com
+  makeding.com
+  vm.makeding.com
+  www.bingdianhuanyuan.cn
+  xia.bingdianhuanyuan.cn
+  bingdianhuanyuan.cn
+  huishenghuiying.com.cn
+  www.huishenghuiying.com.cn
+  xia.huishenghuiying.com.cn
+  coreldrawchina.com
+  xia.coreldrawchina.com
+  www.coreldrawchina.com
+  shankejingling.com
+  www.shankejingling.com
+  xia.shankejingling.com
+  mairuan.com
+  www.mairuan.com
+  xia.mairuan.com
+  logoshejishi.com
+  www.logoshejishi.com
+  xia.logoshejishi.com
+  keyshot.cc
+  xia.keyshot.cc
+  www.keyshot.cc
+  flstudiochina.com
+  www.flstudiochina.com
+  xia.flstudiochina.com
+  ediuschina.com
+  www.ediuschina.com
+  xia.ediuschina.com
+  vegaschina.cn
+  www.vegaschina.cn
+  xia.vegaschina.cn
+  guitarpro.cc
+  www.guitarpro.cc
+  xia.guitarpro.cc
+  www.xmindchina.cn
+  xia.xmindchina.cn
+  xmindchina.cn
+  xmindchina.net
+  www.xmindchina.net
+  xia.xmindchina.net
+  mindmanager.cc
+  www.mindmanager.cc
+  xia.mindmanager.cc
+  kingdeecn.cn
+  www.kingdeecn.cn
+  xia.kingdeecn.cn
+  xshellcn.com
+  www.xshellcn.com
+  xia.xshellcn.com
+  imindmap.cc
+  www.imindmap.cc
+  xia.imindmap.cc
+  abbyychina.com
+  www.abbyychina.com
+  xia.abbyychina.com
+  bartender.cc
+  www.bartender.cc
+  xia.bartender.cc
+  jihehuaban.com.cn
+  www.jihehuaban.com.cn
+  xia.jihehuaban.com.cn
+  mathtype.cn
+  www.mathtype.cn
+  xia.mathtype.cn
+  chemdraw.com.cn
+  www.chemdraw.com.cn
+  xia.chemdraw.com.cn
+  mycleanmymac.com
+  www.mycleanmymac.com
+  xia.mycleanmymac.com
+  ntfsformac.cn
+  www.ntfsformac.cn
+  xia.ntfsformac.cn
+  parallelsdesktop.cn
+  www.parallelsdesktop.cn
+  xia.parallelsdesktop.cn
+  beyondcompare.cc
+  www.beyondcompare.cc
+  xia.beyondcompare.cc
+  easyrecoverychina.com
+  www.easyrecoverychina.com
+  xia.easyrecoverychina.com
+  bingdianhuanyuan.cn
+  www.bingdianhuanyuan.cn
+  xia.bingdianhuanyuan.cn
+  hypersnap.mairuan.com
+  www.iconworkshop.cn
+  iconworkshop.cn
+  www.pdfexpert.cc
+  xiazai.pdfexpert.cc
+  www.zhzzx.com
+  yihuifu.cn
+  www.4009997658.com
+  4009997658.com
+  mairuanwang.com
+  www.mairuanwang.com
+  mairuan.com
+  mairuan.cn
+  mairuan.net
+  mairuan.com.cn
+servedby.adsfactor.net
+js.kiwihk.net
+qtozvx0zyb5y-ribw.gpqp2-62tq.com
+kmyf1qp2b3emdxggcf3vlmux.5r84yw9h38.com
+nw9bvxxh7k-eicybwn.yx01wmlj.com
+ccvxt0uo3gjzdli-9dc.kxh7wpar3p7gir0.com
+8b2tvohskqeiu.amagh-sjxktsoc0j1gcyp.com
+cyrxlxm3bz3uw3kx5nz.0wjzi-g6.com
+1dtefw-j2e56avv548q.lhybtvks8jlc9c-2r4njcf.com
+8algj89wzcm6lr24.ww4pf-brv.com
+5khc61y45h6sts4n0nd.8-qxd-ei.com
+ytw.adsbro.com
+cdn.innity.net
+beap.gemini.yahoo.com
+cdn.adsfactor.net
+img.scupio.com
+218.adsbro.com
+discuz.gtimg.cn
+www.googletagservices.com
+www.statcounter.com
+js-agent.newrelic.com
+msg.71.am
+www.gobein.com
+masdk.3g.qq.com
+internal.airbnb.com
+arts.google.com
+xcxnobhcjy
+igxoetjrttsuh
+vktchjdhlhrd
+visjpfziqlzy
+wyrytqxjb
+trk.pinterest.com
+mtrace.qq.com
+btrace.qq.com
+stat.3g.music.qq.com
+sdkcloud.e.360.cn
+l.ad4.com.cn
+ad4.com.cn
+gather.andrcool.com
+iupd.andrcool.com
+sk.andrcool.com
+userdata.andrcool.com
+jdd01.198game.net
+941novel.com
+love100girl.com
+mb9999.sexy-more.com
+sitetag.us
+www.ploveq.com
+www.rtalabel.org
+w2.fk-av.com
+fk-book.com
+17hi99.com
+i.picpar.com
+www.pornzee.com
+prt.sleepnova.org
+event.ksosoft.com
+api.tinyhoneybee.com
+scheme.mobpowertech.com
+cdn-adn.rayjump.com
+sg-tk.mobpowertech.com
+tracking.acekoala.com
+app.smartmailcloud.com
+mobileapp.metro.taipei
+umengjmacs.m.taobao.com
+openjmacs.m.taobao.com
+oimagec8.ydstatic.com
+a.ydstatic.com.cdn20.com
+163.xdwscache.ourglb0.com
+ytimg-edge-static.l.google.com
+suggestqueries.google.com
+onesievideobufferonly
+portal.fb.com
+adservice.google.com.tw
+adservice.google.com
+app-measurement.com
+gp.sogouzhuyin.com
+360.cn
+pixel.facebook.com
+api.facebook.com
+register.fur
+twtpe8prm01.emea.media.global.loc
+twtpe8prm01.americas.media.global.loc
+twtpe8prm01.int.media.global.loc
+twtpe8prm01.latam.media.global.loc
+reg.for.free
+twtpe8prm01.global.loc
+twtpe8prm01.ap.media.global.loc
+twtpe8prm01.dentsu.com.tw

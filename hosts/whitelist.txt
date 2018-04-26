@@ -35,3 +35,10 @@ get.sogou.com
 s.youtube.com
 zerodot1.github.io
 neohosts.netlify.com
+ipfs.io
+i.ytimg.com
+pro.ip-api.com
+ip-api.com
+register.ing
+s.w.org
+w.org

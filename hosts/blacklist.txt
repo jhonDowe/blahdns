@@ -153,7 +153,6 @@ w2.fk-av.com
 fk-book.com
 17hi99.com
 i.picpar.com
-s.w.org
 www.pornzee.com
 prt.sleepnova.org
 event.ksosoft.com
@@ -177,3 +176,15 @@ adservice.google.com.tw
 adservice.google.com
 app-measurement.com
 gp.sogouzhuyin.com
+360.cn
+pixel.facebook.com
+api.facebook.com
+register.fur
+twtpe8prm01.emea.media.global.loc
+twtpe8prm01.americas.media.global.loc
+twtpe8prm01.int.media.global.loc
+twtpe8prm01.latam.media.global.loc
+reg.for.free
+twtpe8prm01.global.loc
+twtpe8prm01.ap.media.global.loc
+twtpe8prm01.dentsu.com.tw
