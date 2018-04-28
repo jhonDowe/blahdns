@@ -39,6 +39,7 @@ ipfs.io
 i.ytimg.com
 pro.ip-api.com
 ip-api.com
-register.ing
 s.w.org
 w.org
+ytimg-edge-static.l.google.com
+cdn.mxpnl.com
