@@ -46,3 +46,5 @@ cdn.mxpnl.com
 metok.sys.miui.com
 data.mistat.xiaomi.com
 api.jr.mi.com
+analytics.google.com
+t.cn

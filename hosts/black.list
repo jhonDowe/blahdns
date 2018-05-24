@@ -158,9 +158,10 @@
 0.0.0.0 adservice.google.com
 0.0.0.0 app-measurement.com
 0.0.0.0 gp.sogouzhuyin.com
-0.0.0.0 register.fur
-0.0.0.0 reg.for.free
 0.0.0.0 register.ingcdn.g.wan.douyu.com
 0.0.0.0 g.wan.douyu.com
 0.0.0.0 wifi.ggsafe.com
 0.0.0.0 v3m.youzu.com
+0.0.0.0 join-latest.skype.com
+0.0.0.0 http
+0.0.0.0 udp
