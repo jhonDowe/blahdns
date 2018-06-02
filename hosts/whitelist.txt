@@ -48,3 +48,4 @@ data.mistat.xiaomi.com
 api.jr.mi.com
 analytics.google.com
 t.cn
+dns.opennic.glue
