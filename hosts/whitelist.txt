@@ -49,3 +49,8 @@ api.jr.mi.com
 analytics.google.com
 t.cn
 dns.opennic.glue
+ajax.cloudflare.com
+fast.wistia.com
+wistia.com
+pipedream.wistia.com
+distillery.wistia.com
