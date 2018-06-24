@@ -1,7 +1,7 @@
 # Ads block by DNS service
 
 ## DNS Server (Ipv4)
-- IP: 45.63.124.65 (JP)
+- IP: 45.63.124.65 (JP), Dns-over-https(DOH) availble! (https://doh.datt.pw/) 
 - IP: 217.61.0.97 (DE)
 
 * Block unwanted Ads, Malware, Phisihing, tracker, etc.
