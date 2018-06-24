@@ -4,6 +4,8 @@
 - IP: 45.63.124.65 (JP), Dns-over-https(DOH) availble! (https://doh.blahdns.com/) 
 - IP: 217.61.0.97 (DE)
 
+* DOH via Mozilla Nightly tutorial [https://www.ookangzheng.com/mozilla-nightly-enable-dns-over-https/](Check it out)
+
 * Block unwanted Ads, Malware, Phisihing, tracker, etc.
 > 1. EasyPrivacy + EasyList
 > 2. Chinese (trackers, ads, phishing)
