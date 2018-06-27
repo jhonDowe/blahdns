@@ -32,7 +32,6 @@ adblock.gjtech.net
 ssl.bblck.me
 easylist-downloads.adblockplus.org
 get.sogou.com
-s.youtube.com
 zerodot1.github.io
 neohosts.netlify.com
 ipfs.io
@@ -44,7 +43,6 @@ w.org
 ytimg-edge-static.l.google.com
 cdn.mxpnl.com
 metok.sys.miui.com
-data.mistat.xiaomi.com
 api.jr.mi.com
 analytics.google.com
 t.cn
@@ -54,3 +52,16 @@ fast.wistia.com
 wistia.com
 pipedream.wistia.com
 distillery.wistia.com
+filters.adtidy.org
+input.shouji.sogou.com
+360.cn
+data.flurry.com
+resolver.gslb.mi-idc.com
+www.highcharts.com
+stats.wp.com
+pixel.wp.com
+www.google-analytics.com
+piwik.org
+csi.gstatic.com
+www.googletagmanager.com
+ssl.google-analytics.com
