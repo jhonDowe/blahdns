@@ -1,3 +1,11 @@
+.			            86400	  NS	  ns2.opennic.glue.
+ns2.opennic.glue.	7200		A	    161.97.219.84
+ns2.opennic.glue.	7200		AAAA	2001:470:4212:10:0:100:53:10
+
+.			            86400		NS	  ns3.opennic.glue.
+ns3.opennic.glue.	7200		A	    104.168.144.17
+ns3.opennic.glue.	7200		AAAA	2001:470:8269::53
+
 .                        3600000      NS    A.ROOT-SERVERS.NET.
 A.ROOT-SERVERS.NET.      3600000      A     198.41.0.4
 A.ROOT-SERVERS.NET.      3600000      AAAA  2001:503:ba3e::2:30
@@ -73,11 +81,3 @@ L.ROOT-SERVERS.NET.      3600000      AAAA  2001:500:9f::42
 .                        3600000      NS    M.ROOT-SERVERS.NET.
 M.ROOT-SERVERS.NET.      3600000      A     202.12.27.33
 M.ROOT-SERVERS.NET.      3600000      AAAA  2001:dc3::35
-
-.			            86400	  NS	  ns2.opennic.glue.
-ns2.opennic.glue.	7200		A	    161.97.219.84
-ns2.opennic.glue.	7200		AAAA	2001:470:4212:10:0:100:53:10
-
-.			            86400		NS	  ns3.opennic.glue.
-ns3.opennic.glue.	7200		A	    104.168.144.17
-ns3.opennic.glue.	7200		AAAA	2001:470:8269::53
