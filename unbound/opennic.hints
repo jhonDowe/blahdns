@@ -27,5 +27,3 @@ ns11.opennic.glue.	7200	IN	A	45.55.97.204
 ns11.opennic.glue.	7200	IN	AAAA	2604:a880:800:a1::14c1:1
 ns12.opennic.glue.	7200	IN	A	79.124.7.81
 ns12.opennic.glue.	7200	IN	AAAA	2a01:8740:1:ff13::ae67
-
-
