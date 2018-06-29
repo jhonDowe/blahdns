@@ -2,8 +2,10 @@
 ## DNS Server (Ipv4)
 - Dns-over-HTTPS https://doh.blahdns.com/dns-query 
   > sdns://AgcAAAAAAAAAAAAPZG9oLmJsYWhkbnMuY29tCi9kbnMtcXVlcnk
-- IP: 198.13.63.197 (JP),  
+- IP: 108.61.201.119(JP)  
+  > Due to some reason, we will change IP ramdonly
 - IP: 217.61.0.97 (DE)
+
 
 * DOH via Mozilla Nightly tutorial [Check it out](https://www.ookangzheng.com/mozilla-nightly-enable-dns-over-https/)
 
