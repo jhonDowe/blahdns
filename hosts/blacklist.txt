@@ -198,7 +198,6 @@ stat.flashget.com
 ulogs.umengcloud.com
 mangaapi.manhuaren.com
 analytics.seattleclouds.com
-data.flurry.com
 pingback.issuu.com
 geomobileservices-pa.googleapis.com
 stat.y.qq.com
