@@ -10,7 +10,6 @@ neko-dev.github.io
 hblock.molinero.xyz
 analytics.twitter.com
 click.linksynergy.com
-1hosts.cf
 udarem.com
 api-secure.solvemedia.com
 slack-redir.net
@@ -79,3 +78,5 @@ s.ytimg.com
 graph.facebook.com
 www.yapilo.com
 www.yapilo.top
+ssl.gstatic.com
+yt3.ggpht.com
