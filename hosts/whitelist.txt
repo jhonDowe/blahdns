@@ -64,7 +64,6 @@ csi.gstatic.com
 www.googletagmanager.com
 trk.cp20.com
 englishclass101.com
-edge-mqtt.facebook.com
 mp.weixin.qq.com
 y.qq.com
 mazu.3g.qq.com
@@ -80,3 +79,7 @@ www.yapilo.com
 www.yapilo.top
 ssl.gstatic.com
 yt3.ggpht.com
+mqtt-mini.facebook.com
+control.kochava.com
+api.facebook.com
+mangaapi.manhuaren.com

@@ -186,16 +186,12 @@ android.rqd.qq.com
 adserver.yahoo.com
 ulogs.umeng.com
 resolver.msg.xiaomi.net
-mqtt-mini.facebook.com
 teredo.ipv6.microsoft.com
-api.facebook.com
-b-api.facebook.com
 www.googleadservices.com.okz.local
 ad.doubleclick.net.okz.local
 i1.ytimg.com
 stat.flashget.com
 ulogs.umengcloud.com
-mangaapi.manhuaren.com
 analytics.seattleclouds.com
 pingback.issuu.com
 geomobileservices-pa.googleapis.com
@@ -210,3 +206,9 @@ log.o.bike
 log.tbs.qq.com
 analysis.tratao.com
 alog.umengcloud.com
+edge-mqtt.facebook.com
+ad.sitemaji.com
+analytics.query.yahoo.com
+ad.duga.jp
+ad.dmm.com
+c.data.mob.com
