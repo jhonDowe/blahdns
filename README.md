@@ -1,22 +1,25 @@
 
 ## DNS Server (Ipv4)
-- Dns-over-HTTPS https://doh.blahdns.com/dns-query 
+- Dns-over-HTTPS 
+  > https://doh.blahdns.com/dns-query 
+  > https://doh.datt.pw/dns-query (backup)
   > sdns://AgcAAAAAAAAAAAAPZG9oLmJsYWhkbnMuY29tCi9kbnMtcXVlcnk
-- IP: 108.61.201.119(JP)  
-  > Due to some reason, we will change IP ramdonly
+  
+- IP: 108.61.201.119(JP)
+  > Protocol: udp/tcp 53, DoH, Dns over TLS (tls_auth_name: "dns.blahdns.com")
+  > Due to some reason, we will change IP randomly
 - IP: 217.61.0.97 (DE)
-
+  > Protocol: udp/tcp 53
+  
+* Available access OpenNIC TLD [http://blahdns.oss/](http://blahdns.oss/) or [http://nx.bit/](http://nx.bit/)
 
 * DOH via Mozilla Nightly tutorial [Check it out](https://www.ookangzheng.com/mozilla-nightly-enable-dns-over-https/)
 
 * Block unwanted Ads, Malware, Phisihing, tracker, etc.
-> 1. Access OpenNIC modern domain [http://blahdns.oss/](http://blahdns.oss/) or [http://nx.bit/](http://nx.bit/)
-
 
 ## Disclaimer
 > We have no interest in logging DNS queries
-> Keeping your ISP from seeing which websites you visit.
-> If you encouterd any problem, please open an issue.
+> If you encouterd any problem, please submit an issue.
 
 ## Related awesome projects
 1. https://github.com/anudeepND/whitelist (File containing commonly whitelisted domains for Pi-Hole.)
