@@ -1,15 +1,17 @@
 
-## DNS Server (Ipv4)
-- Dns-over-HTTPS 
-  > https://doh.blahdns.com/dns-query 
-  > https://doh.datt.pw/dns-query (backup)
-  > sdns://AgcAAAAAAAAAAAAPZG9oLmJsYWhkbnMuY29tCi9kbnMtcXVlcnk
-  
+## Server information
+
 - IP: 108.61.201.119(JP)
-  > Protocol: udp/tcp 53, DoH, Dns over TLS (tls_auth_name: "dns.blahdns.com")
-  > Due to some reason, we will change IP randomly
+  > * IPv6: 2001:19f0:7001:1ded:5400:01ff:fe90:945b
+  > * Protocol: udp/tcp 53, 
+  > * Dns over HTTPS: https://doh.blahdns.com/dns-query. https://doh.datt.pw/dns-query, sdns://AgcAAAAAAAAAAAAPZG9oLmJsYWhkbnMuY29tCi9kbnMtcXVlcnk
+  > * Dns over TLS (tls_auth_name: jp.dns.blahdns.com, port 853)
+  > * Due to some reason, we will change IP randomly
 - IP: 217.61.0.97 (DE)
-  > Protocol: udp/tcp 53
+  > * IPv6: 2a03:a140:10:2461::1
+  > * Protocol: udp/tcp 53
+  > * DNS over TLS (tls_auth_name: de.dns.blahdns.com, port 853)
+  > * Due to some reason, we will change IP randomly
   
 * Available access OpenNIC TLD [http://blahdns.oss/](http://blahdns.oss/) or [http://nx.bit/](http://nx.bit/)
 
