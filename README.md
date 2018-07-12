@@ -1,4 +1,4 @@
-## Server information
+# Server information
 
 - Tokyo, Japan
   > * IP: 108.61.201.119
