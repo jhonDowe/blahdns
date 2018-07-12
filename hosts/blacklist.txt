@@ -101,7 +101,6 @@ mairuan.cn
 mairuan.net
 mairuan.com.cn
 servedby.adsfactor.net
-js.kiwihk.net
 nw9bvxxh7k-eicybwn.yx01wmlj.com
 ytw.adsbro.com
 cdn.innity.net
@@ -179,7 +178,6 @@ innovid.com
 2mdn.net
 s0.2mdn.net
 s.innovid.com
-ad.youtube.com
 rtd.tubemogul.com
 securepubads.g.doubleclick.net
 android.rqd.qq.com
@@ -212,3 +210,5 @@ analytics.query.yahoo.com
 ad.duga.jp
 ad.dmm.com
 c.data.mob.com
+ad.youtube.com
+ads.youtube.com

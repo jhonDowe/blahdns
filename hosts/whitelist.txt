@@ -83,3 +83,6 @@ mqtt-mini.facebook.com
 control.kochava.com
 api.facebook.com
 mangaapi.manhuaren.com
+s2.youtube.com
+s.youtube.com
+js.kiwihk.net
