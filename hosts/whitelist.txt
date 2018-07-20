@@ -53,7 +53,6 @@ pipedream.wistia.com
 distillery.wistia.com
 filters.adtidy.org
 input.shouji.sogou.com
-360.cn
 resolver.gslb.mi-idc.com
 www.highcharts.com
 stats.wp.com
@@ -74,7 +73,6 @@ cdn.krxd.net
 udm.scorecardresearch.com
 b.scorecardresearch.com
 s.ytimg.com
-graph.facebook.com
 www.yapilo.com
 www.yapilo.top
 ssl.gstatic.com
@@ -86,3 +84,12 @@ mangaapi.manhuaren.com
 s2.youtube.com
 s.youtube.com
 js.kiwihk.net
+youtubei.googleapis.com
+pixel.staticworld.net
+vendorlist.consensu.org
+players.brightcove.net
+secure.runescape.com
+i1.ytimg.com
+cdn.onesignal.com
+download.zhushou.sogou.com
+cdn.jsdelivr.net

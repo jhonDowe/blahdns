@@ -187,7 +187,6 @@ resolver.msg.xiaomi.net
 teredo.ipv6.microsoft.com
 www.googleadservices.com.okz.local
 ad.doubleclick.net.okz.local
-i1.ytimg.com
 stat.flashget.com
 ulogs.umengcloud.com
 analytics.seattleclouds.com
@@ -212,3 +211,11 @@ ad.dmm.com
 c.data.mob.com
 ad.youtube.com
 ads.youtube.com
+b-graph.facebook.com
+b-api.facebook.com
+portal.fb.com
+graph.facebook.com
+log.sina.cn
+www.17hi99.com
+www-google-analytics.l.google.com
+adui.tg.meitu.com
