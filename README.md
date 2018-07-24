@@ -12,7 +12,7 @@
   > *IP: 217.61.0.97
   > * IPv6: 2a03:a140:10:2461::1
   > * Protocol: udp/tcp 53
-  > * DoH: https://de.blahdns.com/dns-query
+  > * DoH: https://doh.de.blahdns.com/dns-query
   > * DoT (tls_auth_name: dns.jp.blahdns.com, port 853)
   > * Due to some reason, we will change IP randomly
   
