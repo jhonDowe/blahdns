@@ -28,6 +28,12 @@
 > We have no interest in logging DNS queries
 > If you encouterd any problem, please submit an issue.
 
+## Software that I used and huge thanks to those OSS who made blahdns possible
+> [Knot-resolver] (https://github.com/CZ-NIC/knot-resolver)
+> [dnsdist] (http://dnsdist.org)
+> [Unbound DNS] (https://nlnetlabs.nl/projects/unbound)
+> https://github.com/m13253/dns-over-https
+
 ## Related awesome projects
 1. https://github.com/anudeepND/whitelist (File containing commonly whitelisted domains for Pi-Hole.)
 2. https://github.com/deathbybandaid/piholeparser (Pi-Hole Compatible lists)
