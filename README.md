@@ -16,6 +16,8 @@
   > * DoT (tls_auth_name: dns.jp.blahdns.com, port 853)
   > * Due to some reason, we will change IP randomly
   
+* Different between encrypted DNS vs naked DNS request [https://imgur.com/a/3JP9kn0](https://imgur.com/a/3JP9kn0)
+
 * Available access OpenNIC TLD [http://nx.bit/](http://nx.bit/) or [http://nf.bit/](http://nf.bit/)
 
 * DoH via Mozilla Nightly tutorial [Check it out](https://www.ookangzheng.com/mozilla-nightly-enable-dns-over-https/)
