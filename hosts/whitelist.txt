@@ -65,7 +65,6 @@ trk.cp20.com
 englishclass101.com
 mp.weixin.qq.com
 y.qq.com
-mazu.3g.qq.com
 y.gtimg.cn
 secure-drm.imrworldwide.com
 app.adjust.com
@@ -83,7 +82,6 @@ api.facebook.com
 mangaapi.manhuaren.com
 s2.youtube.com
 s.youtube.com
-js.kiwihk.net
 youtubei.googleapis.com
 pixel.staticworld.net
 vendorlist.consensu.org
@@ -93,3 +91,11 @@ i1.ytimg.com
 cdn.onesignal.com
 download.zhushou.sogou.com
 cdn.jsdelivr.net
+buff.ly
+pixel.facebook.com
+b-api.facebook.com
+geomobileservices-pa.googleapis.com
+edge-mqtt.facebook.com
+graph.facebook.com
+idx.m.hub.sandai.net
+hub5pn.wap.sandai.net

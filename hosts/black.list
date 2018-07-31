@@ -191,7 +191,6 @@ stat.flashget.com
 ulogs.umengcloud.com
 analytics.seattleclouds.com
 pingback.issuu.com
-geomobileservices-pa.googleapis.com
 stat.y.qq.com
 reports.radiotime.com
 ssl.google-analytics.com
@@ -203,7 +202,6 @@ log.o.bike
 log.tbs.qq.com
 analysis.tratao.com
 alog.umengcloud.com
-edge-mqtt.facebook.com
 ad.sitemaji.com
 analytics.query.yahoo.com
 ad.duga.jp
@@ -211,11 +209,11 @@ ad.dmm.com
 c.data.mob.com
 ad.youtube.com
 ads.youtube.com
-b-graph.facebook.com
-b-api.facebook.com
 portal.fb.com
-graph.facebook.com
 log.sina.cn
 www.17hi99.com
 www-google-analytics.l.google.com
 adui.tg.meitu.com
+mazu.3g.qq.com
+isure.stream.qqmusic.qq.com
+s0.doubleclick.net
