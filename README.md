@@ -15,14 +15,15 @@
   > * DoH: https://doh.de.blahdns.com/dns-query
   > * DoT (tls_auth_name: dns.jp.blahdns.com, port 853)
   > * Due to some reason, we will change IP randomly
-  
+* Block unwanted Ads, Malware, Phisihing, Tracker, etc.
+* Real-time monitored server status [https://dnsprivacy.org/jenkins/job/dnsprivacy-monitoring/](https://dnsprivacy.org/jenkins/job/dnsprivacy-monitoring/)
 * Different between encrypted DNS vs naked DNS request [https://imgur.com/a/3JP9kn0](https://imgur.com/a/3JP9kn0)
 
 * Temporary shutdown access to OpenNIC TLD [http://nx.bit/](http://nx.bit/) or [http://nf.bit/](http://nf.bit/)
 
 * DoH via Mozilla Nightly tutorial [Check it out](https://www.ookangzheng.com/mozilla-nightly-enable-dns-over-https/)
 
-* Block unwanted Ads, Malware, Phisihing, Tracker, etc.
+
 
 ## Disclaimer
 > We have no interest in logging DNS queries
