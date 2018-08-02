@@ -2,8 +2,8 @@
 <html>
 <title>Blahdns</title>
 <meta charset="UTF-8">
-<meta name="keywords" content="Ads block for free with privacy included">
-<meta name="description" content="DNS, Adblock, dns-over-https, dns-over-tls, malware, phishing, scam">
+<meta name="keywords" content="Ads block via DNS for free with privacy included - No logs">
+<meta name="description" content="DNS, Adblock, dns-over-https, dns-over-tls, malware, phishing, no-logs">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="w3.css">
 <link rel="stylesheet" href="black.css">
@@ -14,7 +14,7 @@
  <style>
      .bmc-button img{width: 27px !important;margin-bottom: 1px !important;box-shadow: none !important;border: none !important;vertical-align: middle !important;}.bmc-button{line-height: 36px !important;height:37px !important;text-decoration: none !important;display:inline-flex !important;color:#ffffff !important;background-color:#FF813F !important;border-radius: 3px !important;border: 1px solid transparent !important;padding: 0px 9px !important;font-size: 17px !important;letter-spacing:-0.08px !important;;box-shadow: 0px 1px 2px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;margin: 0 auto !important;font-family:'Lato', sans-serif !important;-webkit-box-sizing: border-box !important;box-sizing: border-box !important;-o-transition: 0.3s all linear !important;-webkit-transition: 0.3s all linear !important;-moz-transition: 0.3s all linear !important;-ms-transition: 0.3s all linear !important;transition: 0.3s all linear !important;}.bmc-button:hover, .bmc-button:active, .bmc-button:focus {-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;text-decoration: none !important;box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;opacity: 0.85 !important;color:#ffffff !important;}
      .myPadding{
-         padding: 8%;
+         padding: 5%;
          max-width: 1920px;
      }
     </style>
@@ -41,8 +41,11 @@
 </header>
 
 <div class="w3-row myPadding">
-
+<h3 class="w3-text-red w3-center">This is an experimental service, only on a "best effort" basis. <br>
+        I'm not responsible for any down-time 
+    </h3>
 <div class="w3-row-padding w3-center">
+    
 <div class="w3-third">
   <div class="w3-card w3-container" style="min-height:460px">
   <h3>Block ads and tracker</h3><br>
@@ -60,19 +63,21 @@
   <h3>Keep your anonymity</h3><br>
   <div> <img src="img-privacy.png" style="width: 180px" alt=""> </div>
   <p>DNS requests are encrypted, which protects you from possible request interception and subsequent eavesdropping and/or alteration.</p>
-  <p>Every DNS request comes with DNSSEC</p>
   </div>
 </div>
 
 <div class="w3-third">
   <div class="w3-card w3-container" style="min-height:460px">
-  <h3>No logs</h3><br>
+  <h3>Respect your privacy</h3>
+  <br>
   <div>
           <img src="img-free.png" style="width: 200px" alt="">
       </div>
-  <p>We also support OpenNIC TLD</p>
-  <p>No logs</p>
-  <p>Always free to use</p>
+  
+  <p>No logging</p>
+  <p>DNSSEC</p>
+  <p>DNS over HTTPS</p>
+  <p>DNS over TLS</p>
   </div>
 </div>
 </div>
@@ -132,7 +137,7 @@
     </li>
     <li>
         <h3>Dns-over-HTTPS</h3>
-        <p>https://de.blahdns.com/dns-query</p>
+        <p>https://doh.de.blahdns.com/dns-query</p>
       <h3>Dns-over-TLS</h3>
       <p>tls_auth_name: dns.de.blahdns.com
       <br>
@@ -190,8 +195,7 @@ For troubleshooting go <a href="https://getdnsapi.net/query/">HERE</a>
 <button onclick="myAccFunc('Demo3')" class="w3-padding-16 w3-pale-red w3-button w3-block w3-left-align">What is DNS</button>
 <div id="Demo3" class="w3-hide">
   <div class="w3-container">
-    <p class="w3-left-align">Accordion with Images:</p>
-    <img src="https://2r4s9p1yi1fa2jd7j43zph8r-wpengine.netdna-ssl.com/files/2018/05/02_06.png" style="width:50%;" class="w3-animate-zoom">
+    
     <p class="w3-left-align">The Domain Name System (DNS) is the phonebook of the Internet. Humans access information online through domain names, like nytimes.com or espn.com. Web browsers interact through Internet Protocol (IP) addresses. DNS translates domain names to IP addresses so browsers can load Internet resources.</p>
     <p class="w3-left-align"> Each device connected to the Internet has a unique IP address which other machines use to find the device. DNS servers eliminate the need for humans to memorize IP addresses such as 192.168.1.1 (in IPv4), or more complex newer alphanumeric IP addresses such as 2400:cb00:2048:1::c629:d7a2 (in IPv6).</p>
 
@@ -339,41 +343,6 @@ function myAccFunc(id) {
     }
 }
 
-// Slideshows
-var slideIndex = 1;
-
-function plusDivs(n) {
-slideIndex = slideIndex + n;
-showDivs(slideIndex);
-}
-
-function showDivs(n) {
-  var x = document.getElementsByClassName("mySlides");
-  if (n > x.length) {slideIndex = 1}    
-  if (n < 1) {slideIndex = x.length} ;
-  for (i = 0; i < x.length; i++) {
-     x[i].style.display = "none";  
-  }
-  x[slideIndex-1].style.display = "block";  
-}
-
-showDivs(1);
-
-// Progress Bars
-function move() {
-  var elem = document.getElementById("myBar");   
-  var width = 5;
-  var id = setInterval(frame, 10);
-  function frame() {
-    if (width == 100) {
-      clearInterval(id);
-    } else {
-      width++; 
-      elem.style.width = width + '%'; 
-      elem.innerHTML = width * 1  + '%';
-    }
-  }
-}
 </script>
 
 </body>
