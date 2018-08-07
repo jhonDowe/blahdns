@@ -217,3 +217,5 @@ adui.tg.meitu.com
 mazu.3g.qq.com
 isure.stream.qqmusic.qq.com
 s0.doubleclick.net
+sa1.tuisong.baidu.com
+tracker.dm258.cn
