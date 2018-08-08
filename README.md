@@ -40,7 +40,8 @@
 2. https://github.com/deathbybandaid/piholeparser (Pi-Hole Compatible lists)
 3. https://github.com/mitchellkrogza/Ultimate.Hosts.Blacklist (Ultimate.Hosts.Blacklist)
 4. https://github.com/collinbarrett/FilterLists (Awesome filterlist)
-5. https://github.com/ZeroDot1/CoinBlockerLists (Awesome prevent mining list)
+5. https://v.firebog.net/hosts/lists.php?type=nocross
+6. https://firebog.net/
 
 
 ## How can I flush my DNS 
