@@ -1,696 +1,403 @@
-## https://gist.github.com/opus-x/3e673a9d5db2a214df05929a4eee6a57
-# spotify servers (statistics & tracking)
+#######################################
+# BLOCK THE FOLLOWING SPOTIFY SERVERS #
+#######################################
+0.0.0.0 adeventtracker.spotify.com
+0.0.0.0 ads-akp.spotify.com
+0.0.0.0 audio-ak.spotify.com
+0.0.0.0 audio-akp.spotify.com
+0.0.0.0 analytics.spotify.com
+0.0.0.0 assets.spotify.com
+0.0.0.0 audio-cf.spotify.com
+0.0.0.0 audio-fa.scdn.co # do not block while using chromecast
+0.0.0.0 audio-fa.spotify.com
+0.0.0.0 audio-fab.spotify.com
+0.0.0.0 audio-fac-spotify.com
+0.0.0.0 audio-gc.scdn.co
+0.0.0.0 audio-gc.spotify.com
+0.0.0.0 crashdump.spotify.com
+0.0.0.0 crashdump.ciqe-gslb.spotify.com
+0.0.0.0 heads-ak.spotify.com
+0.0.0.0 heads-akp.spotify.com
+0.0.0.0 heads-cf.spotify.com
+0.0.0.0 heads-fa.scdn.co
+0.0.0.0 heads-fa.spotify.com
+0.0.0.0 heads-fab.spotify.com
+0.0.0.0 heads-fac.spotify.com
+0.0.0.0 links.spotify.com
+0.0.0.0 log.spotify.com
+0.0.0.0 log2.spotify.com
+0.0.0.0 mp3ad.scdn.co
+0.0.0.0 partner-service.spotify.com
+0.0.0.0 partner-service-testing.spotify.com
+0.0.0.0 payment-callback.spotify.com
+0.0.0.0 pci.spotify.com
+0.0.0.0 pixel.spotify.com
+0.0.0.0 upgrade.scdn.co # optional
+0.0.0.0 upgrade.spotify.com # optional
+0.0.0.0 video-fa.scdn.co
+0.0.0.0 video-fa.cdn.spotify.com
+0.0.0.0 video-fa-b.cdn.spotify.com
 
+########################################
+# BELOW ARE EXTERNAL ADS AND ANALYTICS #
+########################################
+# block adjust ads
+0.0.0.0 adjust.com
+#0.0.0.0 app.adjust.com <- do not block
+0.0.0.0 atom.adjust.com
+0.0.0.0 events.adjust.com
+0.0.0.0 ulink.adjust.com
+0.0.0.0 view.adjust.com
 
+# block admob ads
+0.0.0.0 a.admob.com
+0.0.0.0 ac1.vip.sc9.admob.com
+0.0.0.0 ac208.sc9.admob.com
+0.0.0.0 admob.biz
+0.0.0.0 admob.co.kr
+0.0.0.0 admob.co.nz
+0.0.0.0 admob.co.uk
+0.0.0.0 admob.com
+0.0.0.0 admob.de
+0.0.0.0 admob.dk
+0.0.0.0 admob.es
+0.0.0.0 admob.fi
+0.0.0.0 admob.fr
+0.0.0.0 admob.gr
+0.0.0.0 admob.it
+0.0.0.0 admob.jp
+0.0.0.0 admob.kr
+0.0.0.0 admob.mobi
+0.0.0.0 admob.no
+0.0.0.0 admob.pt
+0.0.0.0 admob.sg
+0.0.0.0 admob.tk
+0.0.0.0 admob.tw
+0.0.0.0 ads.admob.com
+0.0.0.0 analytics.admob.com
+0.0.0.0 api.admob.com
+0.0.0.0 api.admob.xiaomi.com
+0.0.0.0 b.admob.com
+0.0.0.0 broadcast.admob.com
+0.0.0.0 c.admob.com
+0.0.0.0 c1.vip.sc9.admob.com
+0.0.0.0 clk1.vip.sc9.admob.com
+0.0.0.0 clk2.vip.sc9.admob.com
+0.0.0.0 clk3.vip.sc9.admob.com
+0.0.0.0 cpm.admob.com
+0.0.0.0 cpm1.admob.com
+0.0.0.0 cpm1.vip.sc9.admob.com
+0.0.0.0 cpm2.admob.com
+0.0.0.0 cpm2.vip.sc9.admob.com
+0.0.0.0 cpm3.admob.com
+0.0.0.0 cpm3.vip.sc9.admob.com
+0.0.0.0 d.admob.com
+0.0.0.0 dep.admob.com
+0.0.0.0 dev1.vip.sc9.admob.com
+0.0.0.0 developer.admob.com
+0.0.0.0 e.admob.com
+0.0.0.0 eng.admob.com
+0.0.0.0 f.admob.com
+0.0.0.0 g.admob.com
+0.0.0.0 games.admob.com
+0.0.0.0 ge-0-0-1-edge1.sc9.admob.com
+0.0.0.0 ge-0-0-43-crs1.sc9.admob.com
+0.0.0.0 gw.admob.com
+0.0.0.0 h.admob.com
+0.0.0.0 i.admob.com
+0.0.0.0 j.admob.com
+0.0.0.0 jp.admob.com
+0.0.0.0 k.admob.com
+0.0.0.0 l.admob.com
+0.0.0.0 m.admob.com
+0.0.0.0 media.admob.com
+0.0.0.0 metrics.admob.com
+0.0.0.0 mm.admob.com
+0.0.0.0 mm1.vip.sc1.admob.com
+0.0.0.0 mm1.vip.sc9.admob.com
+0.0.0.0 mm104.sc9.admob.com
+0.0.0.0 mmv.admob.com
+0.0.0.0 n.admob.com
+0.0.0.0 network.admob.com
+0.0.0.0 o.admob.com
+0.0.0.0 p.admob.com
+0.0.0.0 p1.vip.sc9.admob.com
+0.0.0.0 paix1.sc1.admob.com
+0.0.0.0 pixel.admobclick.com
+0.0.0.0 pt.admob.com
+0.0.0.0 q.admob.com
+0.0.0.0 r.admob.com
+0.0.0.0 r2.vip.sc9.admob.com
+0.0.0.0 rmd.admob.com
+0.0.0.0 s.admob.com
+0.0.0.0 sc1.admob.com
+0.0.0.0 sc9.admob.com
+0.0.0.0 smtp.admob.com
+0.0.0.0 smtp2.admob.com
+0.0.0.0 t.admob.com
+0.0.0.0 tap1.vip.sc9.admob.com
+0.0.0.0 tic1.vip.sc9.admob.com
+0.0.0.0 tracking.admobsphere.com
+0.0.0.0 tx102.sc9.admob.com
+0.0.0.0 tx103.sc9.admob.com
+0.0.0.0 u.admob.com
+0.0.0.0 ukr.admob.com
+0.0.0.0 v.admob.com
+0.0.0.0 vip.sc9.admob.com
+0.0.0.0 w.admob.com
+0.0.0.0 wap.admob.com
+0.0.0.0 waps.admob.com
+0.0.0.0 wendy.admob.com
+0.0.0.0 www.admob.com
+0.0.0.0 www.admob.com.akadns.net
+0.0.0.0 www1.vip.sc9.admob.com
+0.0.0.0 x.admob.com
+0.0.0.0 y.admob.com
+0.0.0.0 z.admob.com
+0.0.0.0 zhcn.admob.com
 
-   # Ad triggering:
-    heads-ak.spotify.com.edgesuite.net 
-    heads-akp.spotify.com.edgesuite.net 
-    heads4-ak.spotify.com.edgesuite.net 
-    heads4-akp.spotify.com.edgesuite.net 
-
-    #Audio ads:
-    audio-ak.spotify.com.edgesuite.net 
-    audio-ake.spotify.com.edgesuite.net 
-    audio-akp.spotify.com.edgesuite.net 
-    audio4-ak.spotify.com.edgesuite.net 
-    audio4-akp.spotify.com.edgesuite.net 
-
-    #Video ads:
-    video-fa.scdn.co 
-    video-fa.cdn.spotify.com 
-    video-fa-b.cdn.spotify.com 
-
-
-adeventtracker.spotify.com                  # tracks advertisments triggered and played (should be blocked)
-analytics.spotify.com                       # google analytics (should be blocked just like analytics.google.com)
-
-# spotify servers (bynder, agile marketing)
-assets.spotify.com # marketing assets (should be blocked)
-
-=========================
-SPOTIFY TELEMETRY SYSTEMS
-=========================
-# spotify servers (amazon cloudfront)
-crashdump.spotify.com                       # crash logs (should be blocked)
-crashdump.ciqe-gslb.spotify.com             # crash logs (should be blocked)
-
-=============================
-SPOTIFY ADVERTISEMENT NETWORK
-=============================
-# akamai technologies audio ads (geo dependent), akp point to different networks, ak to hosts
-audio-ak.spotify.com                        # audio ads (should be blocked)
-audio-akp.spotify.com                       # audio ads (should be blocked)
-heads-ak.spotify.com                        # should trigger (audio) ads (should be blocked)
-heads-akp.spotify.com # should trigger (audio) ads (should be blocked)
-
-# akamai technologies video ads
-event.spotxchange.com                       # trigger ads, links to ams01.event.spotxchange.com (should be blocked)
-search.spotxchange.com                      # search ads, links to ams01.event.spotxchange.com (should be blocked)
-sync.search.spotxchange.com # syncs ads, links to ams01.event.spotxchange.com (should be blocked)
-
-00.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-01.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-02.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-03.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-04.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-05.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-06.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-07.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-08.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-09.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-10.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-11.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-12.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-13.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-14.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-15.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-16.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-17.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-18.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-19.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-1a.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-1b.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-1c.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-1d.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-1e.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-1f.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-20.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-21.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-22.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-23.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-24.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-25.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-26.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-27.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-28.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-29.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-2a.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-2b.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-2c.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-2d.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-2e.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-2f.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-30.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-31.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-32.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-33.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-34.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-35.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-36.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-37.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-38.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-39.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-3a.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-3b.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-3c.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-3d.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-3e.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-3f.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-40.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-41.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-42.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-43.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-44.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-45.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-46.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-47.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-48.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-49.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-4a.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-4b.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-4c.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-4d.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-4e.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-4f.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-50.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-51.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-52.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-53.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-54.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-55.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-56.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-64.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-6d.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-6e.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-6f.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-70.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-71.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-72.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-73.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-74.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-75.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-76.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-77.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-78.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-79.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-7a.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-7b.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-7c.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-7d.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-7e.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-7f.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-80.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-81.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-82.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-83.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-84.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-85.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-86.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-87.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-88.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-89.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-8a.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-8b.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-8c.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-8d.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-8e.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-8f.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-90.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-91.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-92.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-93.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-94.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-95.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-96.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-97.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-98.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-99.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-9a.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-9b.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-9c.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-9d.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-9e.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-9f.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-a0.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-a1.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-a2.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-a3.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-a4.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-a5.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-a6.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-a7.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-a8.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-a9.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-aa.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-ab.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-ac.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-ad.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-ae.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-af.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-b0.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-b1.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-b2.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-b3.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-b4.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-b5.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-b6.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-b7.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-b8.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-b9.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-ba.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-bb.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-bc.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-bd.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-be.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-bf.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-c0.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-c1.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-c2.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-c3.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-c4.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-c5.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-c6.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-c7.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-c8.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-c9.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-ca.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-cb.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-cc.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-cd.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-ce.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-cf.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-d0.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-d1.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-d2.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-d3.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-d4.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-d5.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-d6.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-d7.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-d8.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-d9.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-da.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-db.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-dc.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-dd.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-de.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-df.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-e0.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-e1.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-e2.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-e3.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-e4.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-e5.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-e6.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-e7.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-e8.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-e9.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-ea.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-eb.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-ec.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-ed.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-ee.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-ef.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-f0.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-f1.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-f2.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-f3.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-f4.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-f5.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-f6.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-f7.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-f8.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-f9.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-fc.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-fd.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-fe.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-ff.video-ak.cdn.spotify.com                 # video ads (should be blocked)
-
-# amazon cloudfront advertisements
-audio-cf.spotify.com                        # audio (should be blocked)
-heads-cf.spotify.com                        # should trigger ads (should be blocked)
-
-# fastly advertisements
-ads-akp.spotify.com
-heads-fa.scdn.co                            # should trigger ads (should be blocked, links to beta.spotify.map.fastly.net
-heads-fa.spotify.com                        # should trigger ads (should be blocked)
-heads-fab.spotify.com                       # should trigger ads (should be blocked)
-heads-fac.spotify.com                       # should trigger ads (should be blocked)
-mp3ad.scdn.co                               # mp3 ads (should be blocked, links to beta.spotify.map.fastly.net)
-prod.spotify-heads.map.fastlylb.net # should trigger ads (should be blocked)
-
-# adjust ads
-adjust.com
-app.adjust.com
-atom.adjust.com
-events.adjust.com
-ulink.adjust.com
-view.adjust.com
-
-# admob ads
-a.admob.com
-ac1.vip.sc9.admob.com
-ac208.sc9.admob.com
-admob.biz
-admob.co.kr
-admob.co.nz
-admob.co.uk
-admob.com
-admob.de
-admob.dk
-admob.es
-admob.fi
-admob.fr
-admob.gr
-admob.it
-admob.jp
-admob.kr
-admob.mobi
-admob.no
-admob.pt
-admob.sg
-admob.tk
-admob.tw
-ads.admob.com
-analytics.admob.com
-api.admob.com
-api.admob.xiaomi.com
-b.admob.com
-broadcast.admob.com
-c.admob.com
-c1.vip.sc9.admob.com
-clk1.vip.sc9.admob.com
-clk2.vip.sc9.admob.com
-clk3.vip.sc9.admob.com
-cpm.admob.com
-cpm1.admob.com
-cpm1.vip.sc9.admob.com
-cpm2.admob.com
-cpm2.vip.sc9.admob.com
-cpm3.admob.com
-cpm3.vip.sc9.admob.com
-d.admob.com
-dep.admob.com
-dev1.vip.sc9.admob.com
-developer.admob.com
-e.admob.com
-eng.admob.com
-f.admob.com
-g.admob.com
-games.admob.com
-ge-0-0-1-edge1.sc9.admob.com
-ge-0-0-43-crs1.sc9.admob.com
-gw.admob.com
-h.admob.com
-i.admob.com
-j.admob.com
-jp.admob.com
-k.admob.com
-l.admob.com
-m.admob.com
-media.admob.com
-metrics.admob.com
-mm.admob.com
-mm1.vip.sc1.admob.com
-mm1.vip.sc9.admob.com
-mm104.sc9.admob.com
-mmv.admob.com
-n.admob.com
-network.admob.com
-o.admob.com
-p.admob.com
-p1.vip.sc9.admob.com
-paix1.sc1.admob.com
-pixel.admobclick.com
-pt.admob.com
-q.admob.com
-r.admob.com
-r2.vip.sc9.admob.com
-rmd.admob.com
-s.admob.com
-sc1.admob.com
-sc9.admob.com
-smtp.admob.com
-smtp2.admob.com
-t.admob.com
-tap1.vip.sc9.admob.com
-tic1.vip.sc9.admob.com
-tracking.admobsphere.com
-tx102.sc9.admob.com
-tx103.sc9.admob.com
-u.admob.com
-ukr.admob.com
-v.admob.com
-vip.sc9.admob.com
-w.admob.com
-wap.admob.com
-waps.admob.com
-wendy.admob.com
-www.admob.com
-www.admob.com.akadns.net
-www1.vip.sc9.admob.com
-x.admob.com
-y.admob.com
-z.admob.com
-zhcn.admob.com
-
-# akamai technologies
-a1294.w20.akamai.net
-a1843.g.akamai.net
-a50.g2.akamai.net
-bsams.eyeblaster.akadns.net
-e7876.dscg.akamaiedge.net
-e8218.dscb1.akamaiedge.net
-
-# amazon
-na.gmtdmp.com
-d2gi7ultltnc2u.cloudfront.net
-lb1-217593028.us-east-1.elb.amazonaws.com
-rp-lb-766892831.us-east-1.elb.amazonaws.com
-server-54-230-216-203.mrs50.r.cloudfront.net
-
-# aol
-adserver.adtechus.com
+# block aol
+0.0.0.0 adserver.adtechus.com
 
 # appnexus
-a.adk2x.com
-adnxs.com
-adnxs.comadplexmedia.adk2x.com
-ams1-ib.adnxs.com
-ib.adnxs.com
+0.0.0.0 a.adk2x.com
+0.0.0.0 adnxs.com
+0.0.0.0 adnxs.comadplexmedia.adk2x.com
+0.0.0.0 ams1-ib.adnxs.com
+0.0.0.0 ib.adnxs.com
 
-# ayden payments
-live.adyen.com
+# block ayden payments
+0.0.0.0 live.adyen.com
 
-# bounce exchange (anonymous)
-bounceexchange.com
+# block bounce exchange (anonymous)
+0.0.0.0 bounceexchange.com
 
-# comscore analytics
-admetrix.comscore.com
-api.comscore.com
-aser.comscore.com
-cdr.comscore.com
-cer.comscore.com
-comscore.net
-comscore.org
-comscoredatagems.com
-comscoredatamine.com
-comscoredirect.net
-comscorenetworks.net
-ia1.comscore.com
-ia2.comscore.com
-iad.comscore.com
-im.comscore.com
-images.comscore.com
-labs.comscore.com
-mail2.comscore.com
-marketer.comscore.com
-mx0.comscore.com
-mx1.comscore.com
-mx2.comscore.com
-my.comscore.com
-mycomscore.com
-mymetrix.comscore.com
-myresearch.comscore.com
-ord.comscore.com
-postbuy.comscore.com
-proclarity.comscore.com
-qat.comscore.com
-siterecruit.comscore.com
-svn.comscore.com
-www.comscore.com
-www.mycomscore.net
+# block comscore analytics
+0.0.0.0 admetrix.comscore.com
+0.0.0.0 api.comscore.com
+0.0.0.0 aser.comscore.com
+0.0.0.0 cdr.comscore.com
+0.0.0.0 cer.comscore.com
+0.0.0.0 comscore.net
+0.0.0.0 comscore.org
+0.0.0.0 comscoredatagems.com
+0.0.0.0 comscoredatamine.com
+0.0.0.0 comscoredirect.net
+0.0.0.0 comscorenetworks.net
+0.0.0.0 ia1.comscore.com
+0.0.0.0 ia2.comscore.com
+0.0.0.0 iad.comscore.com
+0.0.0.0 im.comscore.com
+0.0.0.0 images.comscore.com
+0.0.0.0 labs.comscore.com
+0.0.0.0 mail2.comscore.com
+0.0.0.0 marketer.comscore.com
+0.0.0.0 mx0.comscore.com
+0.0.0.0 mx1.comscore.com
+0.0.0.0 mx2.comscore.com
+0.0.0.0 my.comscore.com
+0.0.0.0 mycomscore.com
+0.0.0.0 mymetrix.comscore.com
+0.0.0.0 myresearch.comscore.com
+0.0.0.0 ord.comscore.com
+0.0.0.0 postbuy.comscore.com
+0.0.0.0 proclarity.comscore.com
+0.0.0.0 qat.comscore.com
+0.0.0.0 siterecruit.comscore.com
+0.0.0.0 svn.comscore.com
+0.0.0.0 www.comscore.com
+0.0.0.0 www.mycomscore.net
 
-# crashlytics
-crashlytics.163.com
-crashlytics.com
-crashlytics.twimg.com
-e.crashlytics.com
-reports.crashlytics.com
-settings-crashlytics-1410998606.us-east-1.elb.amazonaws.com
-settings-crashlytics-b-103974621.us-east-1.elb.amazonaws.com
-settings.crashlytics.com
+# block crashlytics
+0.0.0.0 crashlytics.163.com
+0.0.0.0 crashlytics.com
+0.0.0.0 crashlytics.twimg.com
+0.0.0.0 e.crashlytics.com
+0.0.0.0 reports.crashlytics.com
+0.0.0.0 settings-crashlytics-1410998606.us-east-1.elb.amazonaws.com
+0.0.0.0 settings-crashlytics-b-103974621.us-east-1.elb.amazonaws.com
+0.0.0.0 settings.crashlytics.com
 
-# data protected
-combine.urbanairship.com
+# block data protected
+0.0.0.0 combine.urbanairship.com
 
-# drawbridge
-ads-west-colo.adsymptotic.com
+# block drawbridge
+0.0.0.0 ads-west-colo.adsymptotic.com
 
-# google ads
-ad.doubleclick.net
-adclick.g.doublecklick.net
-ade.googlesyndication.com
-adservice.google.com
-doubleclick.net
-ee-in-f95.1.e100.net
-gcdn.2mdn.net
-googleads.g.doubleclick.net
-googleads4.g.doubleclick.net
-googleadservices.com
-s0.2mdn.net
-pagead.l.doubleclick.net
-pagead-googlehosted.l.google.com
-pagead2.googlesyndication.com
-pagead46.l.doubleclick.net
-partner.googleadservices.com
-partnerad.l.doubleclick.net
-pubads.g.doubleclick.net
-s0-2mdn-net.l.google.com
-s0.2mdn.net
-securepubads.g.doubleclick.net
-tpc.googlesyndication.com
-video-ad-stats.googlesyndication.com
-www.googleadservices.com
+# block geotrust
+0.0.0.0 gtssl2-ocsp.geotrust.com
 
-# integral ad science
-anycast.pixel.adsafeprotected.com
+# block integral ad science
+0.0.0.0 anycast.pixel.adsafeprotected.com
 
-# intercom ads
-api-iam.intercom.io
-api-ping.intercom.io
-api.intercom.io
-developers.intercom.io
-engineering.intercom.io
-funky.staging.intercom.io
-intercom.io
-internal.intercom.io
-leadvisualdesigner.intercom.io
-mobile-sdk-api.intercom.io
-muster-sandbox.intercom.io
-nexus-testing.intercom.io
-nexus-websocket-a.intercom.io
-nexus.intercom.io
-orientation.internal.intercom.io
-status.intercom.io
-store.intercom.io
-terraform-modules-test.intercom.io
-via.intercom.io
-w.intercom.io
-widget.intercom.io
-woody.intercom.io
-www.intercom.io
+# block intercom ads
+0.0.0.0 api-iam.intercom.io
+0.0.0.0 api-ping.intercom.io
+0.0.0.0 api.intercom.io
+0.0.0.0 developers.intercom.io
+0.0.0.0 engineering.intercom.io
+0.0.0.0 funky.staging.intercom.io
+0.0.0.0 intercom.io
+0.0.0.0 internal.intercom.io
+0.0.0.0 leadvisualdesigner.intercom.io
+0.0.0.0 mobile-sdk-api.intercom.io
+0.0.0.0 muster-sandbox.intercom.io
+0.0.0.0 nexus-testing.intercom.io
+0.0.0.0 nexus-websocket-a.intercom.io
+0.0.0.0 nexus.intercom.io
+0.0.0.0 orientation.internal.intercom.io
+0.0.0.0 status.intercom.io
+0.0.0.0 store.intercom.io
+0.0.0.0 terraform-modules-test.intercom.io
+0.0.0.0 via.intercom.io
+0.0.0.0 w.intercom.io
+0.0.0.0 widget.intercom.io
+0.0.0.0 woody.intercom.io
+0.0.0.0 www.intercom.io
 
-# iterable
-links.iterable.com
+# block kantar operations
+0.0.0.0 core.insightexpressai.com
 
-# kantar operations
-core.insightexpressai.com
+# block leanlab
+0.0.0.0 track.leanlab.co
 
-# leanlab
-track.leanlab.co (tracking pixel)
+# block longtail ad solutions (jwplayer also used for ads)
+0.0.0.0 content.bitsontherun.com
+0.0.0.0 v.jwpcdn.com
 
-# longtail ad solutions (jwplayer also used for ads)
-content.bitsontherun.com
-v.jwpcdn.com
+# block media innovation group
+0.0.0.0 eu-gmtdmp.gd1.mookie1.com
 
-# media innovation group
-eu-gmtdmp.gd1.mookie1.com
+block # media match
+0.0.0.0 media-match.com
 
-# media match
-media-match.com
+# block mobileapptracking ads (now tune)
+0.0.0.0 ab.tune.com
+0.0.0.0 academy.tune.com
+0.0.0.0 beta.tune.com
+0.0.0.0 click.api.cp.tune.com
+0.0.0.0 configuration.ma.tune.com
+0.0.0.0 corp.tune.com
+0.0.0.0 cp.tune.com
+0.0.0.0 dev.lab.tune.com
+0.0.0.0 event.api.cp.tune.com
+0.0.0.0 lab.tune.com
+0.0.0.0 labs.tune.com
+0.0.0.0 ma.tune.com
+0.0.0.0 mkt.tune.com
+0.0.0.0 multiverse.tune.com
+0.0.0.0 ops-prod.us-west-2.k8s.ops.tune.com
+0.0.0.0 playlist.ma.tune.com
+0.0.0.0 request.api.cp.tune.com
+0.0.0.0 stage.tune.com
+0.0.0.0 support.tune.com
+0.0.0.0 tune.com
+0.0.0.0 ui.cp.tune.com
+0.0.0.0 updates.tune.com
+0.0.0.0 www.cp.tune.com
+0.0.0.0 www.ui.cp.tune.com
 
-# mobileapptracking ads (now tune)
-ab.tune.com
-academy.tune.com
-beta.tune.com
-click.api.cp.tune.com
-configuration.ma.tune.com
-corp.tune.com
-cp.tune.com
-dev.lab.tune.com
-event.api.cp.tune.com
-lab.tune.com
-labs.tune.com
-ma.tune.com
-mkt.tune.com
-multiverse.tune.com
-ops-prod.us-west-2.k8s.ops.tune.com
-playlist.ma.tune.com
-request.api.cp.tune.com
-stage.tune.com
-support.tune.com
-tune.com
-ui.cp.tune.com
-updates.tune.com
-www.cp.tune.com
-www.ui.cp.tune.com
+# block mixpanel analytics
+0.0.0.0 api.mixpanel.com
+0.0.0.0 decide.mixpanel.com
+0.0.0.0 mixpanel.com
+0.0.0.0 switchboard.mixpanel.com
+0.0.0.0 www.mixpanel.com
 
-# mixpanel analytics
-api.mixpanel.com
-decide.mixpanel.com
-mixpanel.com
-switchboard.mixpanel.com
-www.mixpanel.com
+# block moatads / moatanalytics
+0.0.0.0 adgrx.moatads.com
+0.0.0.0 afs.moatads.com
+0.0.0.0 apx.moatads.com
+0.0.0.0 bd.moatads.com
+0.0.0.0 c-evt.moatads.com
+0.0.0.0 dbg52463.moatads.com
+0.0.0.0 ejs.moatads.com
+0.0.0.0 evt.moatads.com
+0.0.0.0 fs.moatads.com
+0.0.0.0 geo.moatads.com
+0.0.0.0 jm.moatads.com
+0.0.0.0 js.moatads.com
+0.0.0.0 json.moatads.com
+0.0.0.0 jsonp.moatads.com
+0.0.0.0 logtest.moatads.com
+0.0.0.0 moat.pxl.ace.advertising.com
+0.0.0.0 moatads.com
+0.0.0.0 moatads.com.edgekey.net
+0.0.0.0 pixel.moatads.com
+0.0.0.0 pool3.moatads.com
+0.0.0.0 pool5.moatads.com
+0.0.0.0 post.update.moatads.com
+0.0.0.0 px.moatads.com
+0.0.0.0 quantcast584928381.s.moatpixel.com
+0.0.0.0 r.254a.comjs.moatads.com
+0.0.0.0 s-jsonp.moatads.com
+0.0.0.0 s.moatads.com
+0.0.0.0 s.update.moatads.com
+0.0.0.0 sejs.moatads.com
+0.0.0.0 svast.moatads.com
+0.0.0.0 svastx.moatads.com
+0.0.0.0 t.update.moatads.com
+0.0.0.0 tribpubdfp745347008913.s.moatpixel.com
+0.0.0.0 u.moatads.com
+0.0.0.0 update.moatads.com
+0.0.0.0 upv4.moatads.com
+0.0.0.0 v3.moatads.com
+0.0.0.0 v4.moatads.com
+0.0.0.0 vast.moatads.com
+0.0.0.0 vastx.moatads.com
+0.0.0.0 vpb0.moatads.com
+0.0.0.0 vu.moatads.com
+0.0.0.0 wildcard.moatads.com.edgekey.net
+0.0.0.0 www.moatads.com
+0.0.0.0 www.upv4.moatads.com
+0.0.0.0 y.moatads.com
+0.0.0.0 yj.moatads.com
+0.0.0.0 yt.moatads.com
+0.0.0.0 yts.moatads.com
+0.0.0.0 z.moatads.com
 
-# moatads / moatanalytics
-adgrx.moatads.com
-afs.moatads.com
-apx.moatads.com
-bd.moatads.com
-c-evt.moatads.com
-dbg52463.moatads.com
-ejs.moatads.com
-evt.moatads.com
-fs.moatads.com
-geo.moatads.com
-jm.moatads.com
-js.moatads.com
-json.moatads.com
-jsonp.moatads.com
-logtest.moatads.com
-moat.pxl.ace.advertising.com
-moatads.com
-moatads.com.edgekey.net
-pixel.moatads.com
-pool3.moatads.com
-pool5.moatads.com
-post.update.moatads.com
-px.moatads.com
-quantcast584928381.s.moatpixel.com
-r.254a.comjs.moatads.com
-s-jsonp.moatads.com
-s.moatads.com
-s.update.moatads.com
-sejs.moatads.com
-svast.moatads.com
-svastx.moatads.com
-t.update.moatads.com
-tribpubdfp745347008913.s.moatpixel.com
-u.moatads.com
-update.moatads.com
-upv4.moatads.com
-v3.moatads.com
-v4.moatads.com
-vast.moatads.com
-vastx.moatads.com
-vpb0.moatads.com
-vu.moatads.com
-wildcard.moatads.com.edgekey.net
-www.moatads.com
-www.upv4.moatads.com
-y.moatads.com
-yj.moatads.com
-yt.moatads.com
-yts.moatads.com
-z.moatads.com
+# block myvisualiq
+0.0.0.0 t.myvisualiq.net
+0.0.0.0 vt.myvisualiq.net
 
-# block myvisualiq tracker (used in web player)
-t.myvisualiq.net
-vt.myvisualiq.net
+# block omaze
+0.0.0.0 omaze.com
+0.0.0.0 www.omaze.com
 
-# omaze
-omaze.com
-www.omaze.com
+# block pubmatic
+0.0.0.0 ads.pubmatic.com
+0.0.0.0 gads.pubmatic.com
+0.0.0.0 gads22000.pubmatic.com
+0.0.0.0 showads33000.pubmatic.com
 
-# pubmatic
-ads.pubmatic.com
-gads.pubmatic.com
-gads22000.pubmatic.com
-showads33000.pubmatic.com
+# block scorecardresearch
+0.0.0.0 b.scorecardresearch.com
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 udm.scorecardresearch.com
 
-# ravenjs (debugging etc)
-cdn.ravenjs.com
+# block sizmek technologies
+0.0.0.0 bs.serving-sys.com
+0.0.0.0 ds.serving-sys.com
 
-# scorecardresearch
-b.scorecardresearch.com
-sb.scorecardresearch.com
-udm.scorecardresearch.com
+# block telia (i doubt it will be used directly)
+0.0.0.0 cs126.wpc.teliasoneracdn.net
+0.0.0.0 cs283.wpc.teliasoneracdn.net
 
-# sizmek technologies
-bs.serving-sys.com
-ds.serving-sys.com
+# block the whiz marketing
+0.0.0.0 seen-on-screen.thewhizmarketing.com
 
-# telia
-cs126.wpc.teliasoneracdn.net
-cs283.wpc.teliasoneracdn.net
+# block verizon (i doubt it will be used directly)
+0.0.0.0 cs126.wpc.edgecastcdn.net
+0.0.0.0 cs934.wac.thetacdn.net
 
-# the whiz marketing
-seen-on-screen.thewhizmarketing.com
+# block voicefive
+0.0.0.0 ar.voicefive.com
+0.0.0.0 sb.voicefive.com
 
-# verizon
-cs126.wpc.edgecastcdn.net
-cs934.wac.thetacdn.net
+# block yahoo adflurry
+0.0.0.0 ads.flurry.com
+0.0.0.0 media-router-flurry7.prod.media.wg1.b.yahoo.com
 
-# voicefive
-ar.voicefive.com
-sb.voicefive.com
-
-# yahoo adflurry
-ads.flurry.com
-media-router-flurry7.prod.media.wg1.b.yahoo.com
-
-# zwizz army knife (anonymous)
-api.zwizzarmyknife.com
+# block zwizz army knife (anonymous)
+0.0.0.0 api.zwizzarmyknife.com
 
