@@ -58,7 +58,6 @@ www.highcharts.com
 stats.wp.com
 pixel.wp.com
 www.google-analytics.com
-piwik.org
 csi.gstatic.com
 www.googletagmanager.com
 trk.cp20.com
@@ -96,6 +95,17 @@ pixel.facebook.com
 b-api.facebook.com
 geomobileservices-pa.googleapis.com
 edge-mqtt.facebook.com
-graph.facebook.com
 idx.m.hub.sandai.net
 hub5pn.wap.sandai.net
+android.clients.google.com
+myself-bbs.com
+googleadapis.l.google.com
+ssl.google-analytics.com
+csdnimg.cn
+clients1.google.com
+android.l.google.com
+graph.facebook.com
+b-graph.facebook.com
+e8218.dscb1.akamaiedge.net
+cf.shopee.tw
+mobileapp.metro.taipei
