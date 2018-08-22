@@ -109,3 +109,9 @@ b-graph.facebook.com
 e8218.dscb1.akamaiedge.net
 cf.shopee.tw
 mobileapp.metro.taipei
+audio-fa.scdn.co
+spclient.wg.spotify.com
+upgrade.scdn.co
+upgrade.spotify.com
+beta.spotify.map.fastly.net
+prt.sleepnova.org
