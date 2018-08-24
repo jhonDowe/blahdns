@@ -3,7 +3,7 @@
 - Tokyo, Japan
   > * IP: 108.61.201.119
   > * IPv6: 2001:19f0:7001:1ded:5400:01ff:fe90:945b
-  > * Protocol: udp/tcp 53
+  > * Port: 53, 443, 853
   > * DoH: https://doh.blahdns.com/dns-query or  https://doh.datt.pw/dns-query
   > * DoT (tls_auth_name: dns.de.blahdns.com, port 853)
   > * Due to some reason, we will change IP randomly
@@ -11,7 +11,7 @@
 - Frankfut, Germany
   > * IP: 217.61.0.97
   > * IPv6: 2a03:a140:10:2461::1
-  > * Protocol: udp/tcp 53
+  > * Port: 53, 443, 853
   > * DoH: https://doh.de.blahdns.com/dns-query
   > * DoT (tls_auth_name: dns.jp.blahdns.com, port 853)
   > * Due to some reason, we will change IP randomly
@@ -19,11 +19,7 @@
 * Real-time monitored server status [https://dnsprivacy.org/jenkins/job/dnsprivacy-monitoring/](https://dnsprivacy.org/jenkins/job/dnsprivacy-monitoring/)
 * Different between encrypted DNS vs naked DNS request [https://imgur.com/a/3JP9kn0](https://imgur.com/a/3JP9kn0)
 
-* Temporary shutdown access to OpenNIC TLD [http://nx.bit/](http://nx.bit/) or [http://nf.bit/](http://nf.bit/)
-
 * DoH via Mozilla Nightly tutorial [Check it out](https://www.ookangzheng.com/mozilla-nightly-enable-dns-over-https/)
-
-
 
 ## Disclaimer
 > We have no interest in logging DNS queries
@@ -42,6 +38,7 @@
 4. https://github.com/collinbarrett/FilterLists (Awesome filterlist)
 5. https://v.firebog.net/hosts/lists.php?type=nocross
 6. https://firebog.net/
+7. https://github.com/oznu/dns-zone-blacklist
 
 
 ## How can I flush my DNS 
