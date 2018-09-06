@@ -115,3 +115,8 @@ upgrade.scdn.co
 upgrade.spotify.com
 beta.spotify.map.fastly.net
 prt.sleepnova.org
+fonts.gstatic.com
+www.meizu.com
+www.163.com
+connect.facebook.net
+cdn.flurry.com

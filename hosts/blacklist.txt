@@ -142,7 +142,6 @@ scheme.mobpowertech.com
 cdn-adn.rayjump.com
 sg-tk.mobpowertech.com
 tracking.acekoala.com
-app.smartmailcloud.com
 umengjmacs.m.taobao.com
 openjmacs.m.taobao.com
 oimagec8.ydstatic.com
@@ -239,3 +238,5 @@ syndication.exosrv.com
 ani-master.com
 exhentai.org
 adservice.google.com.tw
+adservice.google.co.id
+adservice.google.com.tw.domain.name
