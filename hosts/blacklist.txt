@@ -154,7 +154,6 @@ register.ingcdn.g.wan.douyu.com
 g.wan.douyu.com
 wifi.ggsafe.com
 v3m.youzu.com
-join-latest.skype.com
 www.yapilo.pw
 static.mobike.com
 rlicsmay
@@ -240,3 +239,5 @@ exhentai.org
 adservice.google.com.tw
 adservice.google.co.id
 adservice.google.com.tw.domain.name
+y.gtimg.cn
+mobileanalytics.us-east-1.amazonaws.com

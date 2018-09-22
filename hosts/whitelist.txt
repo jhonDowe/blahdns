@@ -64,7 +64,6 @@ trk.cp20.com
 englishclass101.com
 mp.weixin.qq.com
 y.qq.com
-y.gtimg.cn
 secure-drm.imrworldwide.com
 app.adjust.com
 cdn.krxd.net
@@ -120,3 +119,12 @@ www.meizu.com
 www.163.com
 connect.facebook.net
 cdn.flurry.com
+telegra.ph
+vwin.com
+www.vwin.com
+mandrillapp.com
+clients6.google.com
+version.hybrid.api.here.com
+join-latest.skype.com
+secure.skypeassets.com
+opstatics.com
