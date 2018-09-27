@@ -103,8 +103,6 @@ ssl.google-analytics.com
 csdnimg.cn
 clients1.google.com
 android.l.google.com
-graph.facebook.com
-b-graph.facebook.com
 e8218.dscb1.akamaiedge.net
 cf.shopee.tw
 mobileapp.metro.taipei
@@ -128,3 +126,5 @@ version.hybrid.api.here.com
 join-latest.skype.com
 secure.skypeassets.com
 opstatics.com
+graph.facebook.com
+gitee.com
