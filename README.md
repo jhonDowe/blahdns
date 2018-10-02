@@ -1,20 +1,20 @@
 # Server information
 
 - Tokyo, Japan
-  > * IP: 108.61.201.119
+  > * IP: 108.61.201.119 
   > * IPv6: 2001:19f0:7001:1ded:5400:01ff:fe90:945b
-  > * Port: 53, 443, 853
-  > * DoH: https://doh.blahdns.com/dns-query or  https://doh.datt.pw/dns-query
-  > * DoT (tls_auth_name: dns.de.blahdns.com, port 853)
+  > * DoH: https://doh.blahdns.com/dns-query or https://doh.datt.pw/dns-query
+  > * DoT (tls_auth_name: dns.jp.blahdns.com, port 853)
+  > * DNSCrypt - DNSStamp: sdns://AQMAAAAAAAAAEzEwOC42MS4yMDEuMTE5OjUzNTMg1BpboarYrZaVwzxQUbEA4zek86I6-hRKhHWOaJUaHhsbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t (BETA)
   > * Due to some reason, we will change IP randomly
 
 - Frankfut, Germany
   > * IP: 217.61.0.97
   > * IPv6: 2a03:a140:10:2461::1
-  > * Port: 53, 443, 853
   > * DoH: https://doh.de.blahdns.com/dns-query
-  > * DoT (tls_auth_name: dns.jp.blahdns.com, port 853)
+  > * DoT (tls_auth_name: dns.de.blahdns.com, port 853)
   > * Due to some reason, we will change IP randomly
+  
 * Block unwanted Ads, Malware, Phisihing, Tracker, etc.
 * Real-time monitored server status [https://dnsprivacy.org/jenkins/job/dnsprivacy-monitoring/](https://dnsprivacy.org/jenkins/job/dnsprivacy-monitoring/)
 * Different between encrypted DNS vs naked DNS request [https://imgur.com/a/3JP9kn0](https://imgur.com/a/3JP9kn0)
@@ -27,9 +27,9 @@
 
 ## Software that I used and huge thanks to those OSS who made blahdns possible
 1. [Knot-resolver] (https://github.com/CZ-NIC/knot-resolver)
-2. [dnsdist] (http://dnsdist.org)
-3. [Unbound DNS] (https://nlnetlabs.nl/projects/unbound)
-4. [Dns-over-HTTPS] (https://github.com/m13253/dns-over-https)
+2. [Unbound DNS] (https://nlnetlabs.nl/projects/unbound)
+3. [Dns-over-HTTPS] (https://github.com/m13253/dns-over-https)
+4. [DNSCrypt](http://dnscrypt.info/)
 
 ## Related awesome projects
 1. https://github.com/anudeepND/whitelist (File containing commonly whitelisted domains for Pi-Hole.)
