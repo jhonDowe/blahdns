@@ -1,8 +1,8 @@
 ## Disclaimer
-> We have no interest in logging DNS queries
-> If you encouterd any problem, please submit an issue
-> This is an experimental service, I'm not responsible for any down-time 
-> Due to some reason, we will change IP randomly
+* This is an experimental service, I'm not responsible for any down-time 
+* We have no interest in logging DNS queries
+* If you encouterd any problem, please submit an issue
+* Due to some reason, we will change IP randomly
 
 ## Server information
 - Tokyo, Japan
@@ -36,6 +36,8 @@ sdns://AQMAAAAAAAAAG1syYTAzOmExNDA6MTA6MjQ2MTo6MV06ODQ0MyDImNtJLgiBNj_Yofc1UYbQM
 5. [DNSPrivacy.org](https://dnsprivacy.org)
 
 ## Others
+* DNSCrypt-proxy config sample file [https://github.com/ookangzheng/blahdns/blob/master/dnscrypt/dnscrypt-proxy.toml]
+* DNS-over-TLS Stubby client sample config file [https://github.com/ookangzheng/blahdns/blob/master/stubby/stubby.yml]
 * Server status [https://dnsprivacy.org/jenkins/job/dnsprivacy-monitoring/](https://dnsprivacy.org/jenkins/job/dnsprivacy-monitoring/)
 * Different between encrypted DNS vs naked DNS request [https://imgur.com/a/3JP9kn0](https://imgur.com/a/3JP9kn0)
 * DoH via Mozilla Nightly tutorial [Check it out](https://www.ookangzheng.com/mozilla-nightly-enable-dns-over-https/)
