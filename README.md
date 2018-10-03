@@ -5,7 +5,9 @@
   > * IPv6: 2001:19f0:7001:1ded:5400:01ff:fe90:945b
   > * DoH: https://doh.blahdns.com/dns-query or https://doh.datt.pw/dns-query
   > * DoT (tls_auth_name: dns.jp.blahdns.com, port 853)
-  > * DNSCrypt - DNSStamp: sdns://AQMAAAAAAAAAEzEwOC42MS4yMDEuMTE5OjUzNTMg1BpboarYrZaVwzxQUbEA4zek86I6-hRKhHWOaJUaHhsbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t (BETA)
+  > * IPv4 DNSCrypt: sdns://AQMAAAAAAAAAEzEwOC42MS4yMDEuMTE5OjUzNTMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t (BETA)
+  > * IPv6 DNSCrypt:
+sdns://AQMAAAAAAAAALlsyMDAxOjE5ZjA6NzAwMToxZGVkOjU0MDA6MDFmZjpmZTkwOjk0NWJdOjUzNTMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
   > * Due to some reason, we will change IP randomly
 
 - Frankfut, Germany
@@ -26,9 +28,9 @@
 > If you encouterd any problem, please submit an issue.
 
 ## Software that I used and huge thanks to those OSS who made blahdns possible
-1. [Knot-resolver] (https://github.com/CZ-NIC/knot-resolver)
-2. [Unbound DNS] (https://nlnetlabs.nl/projects/unbound)
-3. [Dns-over-HTTPS] (https://github.com/m13253/dns-over-https)
+1. [Knot-resolver](https://github.com/CZ-NIC/knot-resolver)
+2. [Unbound DNS](https://nlnetlabs.nl/projects/unbound)
+3. [Dns-over-HTTPS](https://github.com/m13253/dns-over-https)
 4. [DNSCrypt](http://dnscrypt.info/)
 
 ## Related awesome projects
