@@ -28,6 +28,10 @@ data.mistat.xiaomi.com
 api.jr.mi.com
 resolver.msg.xiaomi.ne
 
+cdn.ravenjs.com
+cdn.jsdelivr.net
+csdnimg.cn
+
 ```
 
 ---
@@ -38,8 +42,11 @@ resolver.msg.xiaomi.ne
 // APP tracker
 api.branch.io
 api.segment.io
+cdn.segment.com
 onesignal.com
 api.mixpanel.com
+go.ero-advertising.com
+www.eroadvertising.com
 
 // Panda.tv
 aplay.wan.panda.tv
