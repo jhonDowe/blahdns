@@ -242,3 +242,12 @@ adservice.google.com.tw.domain.name
 y.gtimg.cn
 mobileanalytics.us-east-1.amazonaws.com
 wqerveybrstyhcerveantbe.com
+analytics.rayjump.com
+b-graph.facebook.com
+b-api.facebook.com
+mqtt.c10r.facebook.com
+instagram.c10r.facebook.com
+api.facebook.com
+l.facebook.com
+z-m.c10r.facebook.com
+feedfree.jomodns.com

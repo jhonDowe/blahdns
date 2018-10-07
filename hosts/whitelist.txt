@@ -76,7 +76,6 @@ ssl.gstatic.com
 yt3.ggpht.com
 mqtt-mini.facebook.com
 control.kochava.com
-api.facebook.com
 mangaapi.manhuaren.com
 s2.youtube.com
 s.youtube.com
@@ -91,7 +90,6 @@ download.zhushou.sogou.com
 cdn.jsdelivr.net
 buff.ly
 pixel.facebook.com
-b-api.facebook.com
 geomobileservices-pa.googleapis.com
 edge-mqtt.facebook.com
 idx.m.hub.sandai.net
@@ -126,5 +124,12 @@ version.hybrid.api.here.com
 join-latest.skype.com
 secure.skypeassets.com
 opstatics.com
-graph.facebook.com
 gitee.com
+eepurrl.om
+eepurl.com
+www.tencent.com
+graph.facebook.com
+mqtt-mini.c10r.facebook.com
+static.xx.fbcdn.net
+star-mini.c10r.facebook.com
+cdn.ravenjs.com
