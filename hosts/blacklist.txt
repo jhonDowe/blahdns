@@ -77,7 +77,6 @@ adserver.yahoo.com
 ulogs.umeng.com
 resolver.msg.xiaomi.net
 teredo.ipv6.microsoft.com
-ad.doubleclick.net.okz.local
 ulogs.umengcloud.com
 analytics.seattleclouds.com
 pingback.issuu.com
@@ -116,7 +115,6 @@ sa.tuisong.baidu.com
 av758.com
 www.youjizz.com
 ssl.google-analytics.com.domain.name
-www.googleadservices.com.domain.name
 main.exoclick.com
 exoclick.com
 sexy-more.com
@@ -130,7 +128,6 @@ exhentai.org
 adservice.google.com.tw
 adservice.google.co.id
 adservice.google.com.tw.domain.name
-y.gtimg.cn
 mobileanalytics.us-east-1.amazonaws.com
 wqerveybrstyhcerveantbe.com
 analytics.rayjump.com
@@ -145,3 +142,13 @@ ad.angel-live.com
 pixel.facebook.com
 applog.uc.cn
 ad.doublemax.net
+i1.ytimg.com
+ytimg.l.google.com
+googlesyndication.com
+i9.ytimg.com
+ads.adorca.com
+c.deployads.com
+adver12.clickmon.co.kr
+sdkcloud.e.360.cn
+redirector.googlevideo.com
+clients6.google.com

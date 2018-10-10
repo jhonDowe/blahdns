@@ -80,7 +80,6 @@ pixel.staticworld.net
 vendorlist.consensu.org
 players.brightcove.net
 secure.runescape.com
-i1.ytimg.com
 cdn.onesignal.com
 cdn.jsdelivr.net
 buff.ly
@@ -92,7 +91,6 @@ android.clients.google.com
 googleadapis.l.google.com
 ssl.google-analytics.com
 csdnimg.cn
-clients1.google.com
 android.l.google.com
 e8218.dscb1.akamaiedge.net
 cf.shopee.tw
@@ -107,7 +105,6 @@ cdn.flurry.com
 vwin.com
 www.vwin.com
 mandrillapp.com
-clients6.google.com
 version.hybrid.api.here.com
 join-latest.skype.com
 secure.skypeassets.com
@@ -121,3 +118,16 @@ bam.nr-data.net
 docs.newrelic.com
 newrelic.com
 discuss.newrelic.com
+www.thepiratebay.org
+www.thepiratebay.se
+www.baidu.com
+www.a.shifen.com
+transfer.sh
+perfops.net
+rum.perfops.net
+api.perfops.net
+clients.l.google.com
+clients2.google.com
+clients1.google.com
+clients4.google.com
+y.gtimg.cn
