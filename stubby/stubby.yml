@@ -16,8 +16,8 @@ upstream_recursive_servers:
   - address_data: 108.61.201.119
     tls_auth_name: "dns.jp.blahdns.com"
 
-  - address_data: 217.61.0.97
-    tls_auth_name: "dns.de.blahdns.com"
+  # - address_data: 217.61.0.97
+  #   tls_auth_name: "dns.de.blahdns.com"
 
   # - address_data: 146.185.167.43
   #   tls_auth_name: "dot.securedns.eu"

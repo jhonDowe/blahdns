@@ -3,9 +3,9 @@
 <title>Blahdns</title>
 <meta charset="UTF-8">
 <meta name="keywords" content="Ads block via DNS for free with privacy included - No logs">
-<meta name="description" content="DNS, Adblock, dns-over-https, dns-over-tls, malware, phishing, no-logs">
+<meta name="description" content="DNS, Adblock, dnscrypt, doh, dot, dns-over-https, dns-over-tls, no-logs, dnssec">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="w3.css">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="black.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -17,6 +17,13 @@
          padding: 5%;
          max-width: 1920px;
      }
+    textarea {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
+    width: 100%;
+    }
     </style>
      
 
@@ -108,12 +115,19 @@
     </li>
     <li >
         <h3>Dns-over-HTTPS</h3>
-        <p>https://doh.blahdns.com/dns-query</p>
+        <p> <textarea readonly rows="1" cols="50" maxlength="50"> https://doh.blahdns.com/dns-query</textarea></p>
         <h3>Dns-over-TLS</h3>
-        <p>tls_auth_name: dns.jp.blahdns.com <br>
+        <p> <textarea readonly rows="1" cols="50" maxlength="50"> tls_auth_name: dns.jp.blahdns.com </textarea>
+        <br>
         port: 853
         </p>
-       
+        <h3>DNSCrypt</h3>
+        <p>IPv4 - DNSStamp: <br> 
+        <textarea readonly rows="4" cols="50" maxlength="50">sdns://AQMAAAAAAAAAEzEwOC42MS4yMDEuMTE5Ojg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t</textarea>
+        </p>
+        <p>IPv6 - DNSStamp: <br> 
+        <textarea readonly rows="4" cols="50" maxlength="50">sdns://AQMAAAAAAAAALlsyMDAxOjE5ZjA6NzAwMToxZGVkOjU0MDA6MDFmZjpmZTkwOjk0NWJdOjg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t</textarea>
+        </p>
     </li>
   </ul>
 
@@ -137,12 +151,21 @@
     </li>
     <li>
         <h3>Dns-over-HTTPS</h3>
-        <p>https://doh.de.blahdns.com/dns-query</p>
+        <p>
+            <textarea readonly rows="1" cols="50" maxlength="50"> https://doh.de.blahdns.com/dns-query </textarea>
+        </p>
       <h3>Dns-over-TLS</h3>
-      <p>tls_auth_name: dns.de.blahdns.com
+      <p>
+          <textarea readonly rows="1" cols="50" maxlength="50"> tls_auth_name: dns.de.blahdns.com </textarea>
       <br>
       port: 853
       </p>
+      <h3>DNSCrypt</h3>
+        <p>IPv4 - DNSStamp: <br> 
+        <textarea readonly rows="4" cols="50" maxlength="50">sdns://AQMAAAAAAAAAEDIxNy42MS4wLjk3Ojg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t</textarea></p>
+        <p>IPv6 - DNSStamp: <br> 
+        <textarea readonly rows="4" cols="50" maxlength="50">sdns://AQMAAAAAAAAAG1syYTAzOmExNDA6MTA6MjQ2MTo6MV06ODQ0MyDImNtJLgiBNj_Yofc1UYbQM0iAE_MsSp_yvTScBtxTFBsyLmRuc2NyeXB0LWNlcnQuYmxhaGRucy5jb20</textarea>
+        </p>
     </li>
   </ul>
 
@@ -155,7 +178,64 @@
     
 <h2 class="w3-center" style="text-shadow:1px 1px 0 #444">News</h2>
 
+<button onclick="myAccFunc('Demo00')" class="w3-padding-16 w3-button w3-block w3-left-align w3-sand">DNS client </button>
+
+<div id="Demo00" class="w3-hide">
+
+    <div class="w3-left-align">
+    <div class="w3-row">
+        <div class="w3-col m4 l3">
+    
+    <h3>DNSCrypt</h3>
+      <ul>
+        <li><a href="https://simplednscrypt.org/" >Simple DNSCrypt (Windows)</a></li>
+        <li><a href="https://github.com/jedisct1/dnscrypt-proxy/releasesy" >dnscrypt-proxy (macOS, Linux)</a></li>
+        <li><a href="https://itunes.apple.com/us/app/dnscloak-dnscrypt-client/id1330471557?mt=8" >DNSCloak (iOS)</a></li>
+      </ul>
+    </div>
+    
+    <div class="w3-col m4 l3">
+    <h3>Dns-over-TLS</h3>
+      <ul>
+        <li><a href="https://dnsprivacy.org/wiki/display/DP/DNS+Privacy+Daemon+-+Stubby">Stubby</a></li>
+        <li><a href="https://www.nlnetlabs.nl/projects/unbound/about/"> Unbound</a></li>
+      </ul>
+    </div>
+    
+    <div class="w3-col m4 l3">
+    <h3>Dns-over-HTTPS</h3>
+      <ul>
+        <li> <a href="https://simplednscrypt.org/" >Simple DNSCrypt (Windows)</a></li>
+        <li><a href="https://github.com/jedisct1/dnscrypt-proxy/releasesy" >dnscrypt-proxy (macOS, Linux)</a></li>
+        <li><a href="https://itunes.apple.com/us/app/dnscloak-dnscrypt-client/id1330471557?mt=8" >DNSCloak (iOS)</a></li>
+        <li><a href="https://github.com/Jigsaw-Code/Intra">Intra (Android)</a></li>
+        <li><a href="https://www.mozilla.org/en-US/firefox/nightly/all/">Mozilla Firefox(nightly desktop version)</a></li>
+      </ul>
+     </div>
+     </div>
+</div>
+</div>
+
+<button onclick="myAccFunc('Demo0')" class="w3-padding-16 w3-button w3-block w3-left-align w3-blue">More tools </button>
+
+<div id="Demo0" class="w3-hide">
+  <div class="w3-container w3-white">
+    <p class="w3-left-align"> 
+    DNSSEC validate <br>
+    1. DNSSEC validation: <a href="http://dnssec-or-not.com/" target="_blank">Test 1</a> | 
+    <a href="https://dnssec.vs.uni-due.de/" target="_blank"> Test 2 </a> <br>
+    2. Is your internet up-to-date: <a href="http://internet.nl/connection/" target="_blank">Go</a> <br>
+    3. DNSSEC resolver algorithm test: <a href="https://rootcanary.org/test.html" target="_blank">Go</a> <br>
+    4. IPv6 and DNSSEC test: <a href="http://www.982.cz/en/t/run/" target="_blank">Go</a><br>
+    5. DNSTrace: <a href="https://dnsdumpster.com/">Go</a><br>
+    6. Check my DNS: <a href="https://cmdns.dev.dns-oarc.net/">Go</a><br>
+    7. DNS randomness: <a href="https://www.dns-oarc.net/oarc/services/dnsentropy">Go</a><br>
+    </p>
+  </div>
+</div>
+
 <button onclick="myAccFunc('Demo1')" class="w3-padding-16 w3-button w3-block w3-left-align w3-red">What is Dns over https (DoH)</button>
+
 <div id="Demo1" class="w3-hide">
   <div class="w3-container w3-white">
     <p class="w3-left-align"> DNS over HTTPS (DoH)<br>
@@ -169,13 +249,16 @@
     <p class="w3-left-align"><i class="fa fa-bookmark-o" aria-hidden="true"></i> alternative: https://doh.datt.pw/dns-query </p>
   </div>
 </div>
+
 <button onclick="myAccFunc('Demo2')" class="w3-padding-16 w3-yellow w3-button w3-block w3-left-align">What is Dns-over-TLS</button>
+
 <div id="Demo2" class="w3-hide">
+<div class="w3-container w3-white">
   <p class="w3-left-align">
       Encrypted DNS - DNS over TLS <br>
 DNS over TLS support is available on all our services through port 853. <br> 
 DNS over TLS encrypts and authenticates all your DNS traffic to protect your privacy and prevent DNS hijacking and sniffing.<br>
-Client software support: Stubby, Unbound <br>
+Client software support: <a href="https://dnsprivacy.org/wiki/display/DP/DNS+Privacy+Daemon+-+Stubby">Stubby</a> | <a href="https://www.nlnetlabs.nl/projects/unbound/about/"> Unbound</a> <br>
 How to get SPKI &nbsp;
 <br>
 <code>
@@ -192,6 +275,8 @@ OR
 For troubleshooting go <a href="https://getdnsapi.net/query/">HERE</a>
   </p>
 </div>
+</div>
+
 <button onclick="myAccFunc('Demo3')" class="w3-padding-16 w3-pale-red w3-button w3-block w3-left-align">What is DNS</button>
 <div id="Demo3" class="w3-hide">
   <div class="w3-container">
