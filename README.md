@@ -36,7 +36,8 @@ sdns://AQMAAAAAAAAAG1syYTAzOmExNDA6MTA6MjQ2MTo6MV06ODQ0MyDImNtJLgiBNj_Yofc1UYbQM
 4. [DNSCrypt](http://dnscrypt.info/)
 5. [DNSPrivacy.org](https://dnsprivacy.org)
 
-## Others
+## Other
+* Server status [Check status](https://stats.blahdns.com)
 * DNSCrypt-proxy sample [config file](https://github.com/ookangzheng/blahdns/blob/master/dnscrypt/dnscrypt-proxy.toml)
 * DNS-over-TLS Stubby client sample [config file](https://github.com/ookangzheng/blahdns/blob/master/stubby/stubby.yml)
 * Server status [https://dnsprivacy.org/jenkins/job/dnsprivacy-monitoring/](https://dnsprivacy.org/jenkins/job/dnsprivacy-monitoring/)
