@@ -27,6 +27,7 @@ sdns://AQMAAAAAAAAAG1syYTAzOmExNDA6MTA6MjQ2MTo6MV06ODQ0MyDImNtJLgiBNj_Yofc1UYbQM
 * Block Tracker, Ads, Malware sites.
 * DNSSEC ready
 * No logs
+* OpenNIC TLD
 
 ## Huge thanks to those OSS and ORG
 1. [Knot-resolver](https://github.com/CZ-NIC/knot-resolver)
