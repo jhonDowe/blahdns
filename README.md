@@ -1,8 +1,14 @@
 ## Disclaimer
-* This is an experimental service, I'm not responsible for any down-time 
-* We have no interest in logging DNS queries
-* If you encouterd any problem, please submit an issue
-* Due to some reason, we will change IP randomly
+* This is an experimental service, I'm not responsible for any down-time. 
+* This service is only for PERSONAL use, not for big organization / company use (FAIR-USE).
+* I'll blocked/limit some IPs if request too many quries per second.
+* Currently, I'm master student. I dont have job yet but I enjoy spending time on server and learn something new. So the server this service is not for heavy use, please use it wisely. thanks for your co-operation.
+* We have no interest in logging DNS queries.
+* If you encouterd any problem, please submit an issue.
+* Due to some reason, we will change IP randomly.
+
+## ANNOUNCMENT
+* I planned to close port 53 around at the end of this year, so be sure you change your connection either to DoT, Doh, DNSCrypt.
 
 ## Server information
 - Tokyo, Japan
@@ -10,18 +16,18 @@
   > * IPv6: 2001:19f0:7001:1ded:5400:01ff:fe90:945b
   > * DoH: https://doh.blahdns.com/dns-query or https://doh.datt.pw/dns-query
   > * DoT (tls_auth_name: dns.jp.blahdns.com, port 853)
-  > * IPv4 DNSCrypt: sdns://AQMAAAAAAAAAEzEwOC42MS4yMDEuMTE5Ojg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t (BETA)
+  > * IPv4 DNSCrypt: sdns://AQMAAAAAAAAAEzEwOC42MS4yMDEuMTE5Ojg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
   > * IPv6 DNSCrypt:
-sdns://AQMAAAAAAAAALlsyMDAxOjE5ZjA6NzAwMToxZGVkOjU0MDA6MDFmZjpmZTkwOjk0NWJdOjg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t (BETA)
+sdns://AQMAAAAAAAAALlsyMDAxOjE5ZjA6NzAwMToxZGVkOjU0MDA6MDFmZjpmZTkwOjk0NWJdOjg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
 
 - Frankfut, Germany
   > * IP: 217.61.0.97
   > * IPv6: 2a03:a140:10:2461::1
   > * DoH: https://doh.de.blahdns.com/dns-query
   > * DoT (tls_auth_name: dns.de.blahdns.com, port 853)
-  > * IPv4 DNSCrypt: sdns://AQMAAAAAAAAAEDIxNy42MS4wLjk3Ojg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t (BETA)
+  > * IPv4 DNSCrypt: sdns://AQMAAAAAAAAAEDIxNy42MS4wLjk3Ojg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t 
   > * IPv6 DNSCrypt:
-sdns://AQMAAAAAAAAAG1syYTAzOmExNDA6MTA6MjQ2MTo6MV06ODQ0MyDImNtJLgiBNj_Yofc1UYbQM0iAE_MsSp_yvTScBtxTFBsyLmRuc2NyeXB0LWNlcnQuYmxhaGRucy5jb20 (BETA)
+sdns://AQMAAAAAAAAAG1syYTAzOmExNDA6MTA6MjQ2MTo6MV06ODQ0MyDImNtJLgiBNj_Yofc1UYbQM0iAE_MsSp_yvTScBtxTFBsyLmRuc2NyeXB0LWNlcnQuYmxhaGRucy5jb20
 
 ## Our features
 * Block Tracker, Ads, Malware sites.
