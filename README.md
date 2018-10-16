@@ -1,8 +1,7 @@
 ## Disclaimer
 * This is an experimental service, I'm not responsible for any down-time. 
-* This service is only for PERSONAL use, not for big organization / company use (FAIR-USE).
+* This service is FREE for PERSONAL use, this service is not for heavy use, please use it wisely. thanks for your co-operation.
 * I'll blocked/limit some IPs if request too many quries per second.
-* Currently, I'm master student. I dont have job yet but I enjoy spending time on server and learn something new. So the server this service is not for heavy use, please use it wisely. thanks for your co-operation.
 * We have no interest in logging DNS queries.
 * If you encouterd any problem, please submit an issue.
 * Due to some reason, we will change IP randomly.
