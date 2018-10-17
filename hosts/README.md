@@ -22,6 +22,9 @@
 ## Whitelist 
 
 ```
+// Tinder app sms verification
+etl.tindersparks.com
+
 // Xiaomi payment 
 metok.sys.miui.com
 data.mistat.xiaomi.com
