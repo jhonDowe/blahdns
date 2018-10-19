@@ -1,20 +1,19 @@
-## Disclaimer
-* This is an experimental service, I'm not responsible for any down-time. 
-* This service is FREE for PERSONAL use, this service is not for heavy use, please use it wisely. thanks for your co-operation.
-* I'll blocked/limit some IPs if request too many quries per second.
-* We have no interest in logging DNS queries.
-* If you encouterd any problem, please submit an issue.
-* Due to some reason, we will change IP randomly.
-
-## ANNOUNCMENT
-* I planned to close port 53 around at the end of this year, so be sure you change your connection either to DoT, Doh, DNSCrypt.
-
 ## Our features
 * Block Tracker, Ads, Malware sites.
 * DNSSEC ready
 * No logs
 * OpenNIC TLD
 
+## Disclaimer
+* This is an experimental service, I'm not responsible for any down-time, be sure you have agree with our [POLICY](https://github.com/ookangzheng/blahdns/blob/master/README.md#policy) before start to use. 
+* This service is for PERSONAL use, this service is not for heavy use, use it wisely.
+* Will block/limit some IPs if do too many quries per second.
+* Those servers have limited resources (Vultr 5 USD/month, That's all I can support)
+* Donation are welcome.
+* Due to some reason, we will change IP randomly.
+
+## ANNOUNCMENT
+* I planned to close port 53 around at the end of this year, so be sure you change your connection either to DoT, Doh, DNSCrypt.
 ## Server architecture
 ```bash
 . Let's Encrypt SSL
@@ -70,6 +69,11 @@
 5. [Unbound DNS](https://nlnetlabs.nl/projects/unbound)
 5. [DNSPrivacy.org](https://dnsprivacy.org)
 
+## Policy
+> Use at your own risk. Under no circumstances will the operator be held responsible or liable in any way for any claims, damages, losses, expenses, costs or liabilities whatsoever (including, without limitation, any direct or indirect damages for loss of profits, business interruption or loss of information) resulting or arising directly or indirectly from accessing or otherwise using this service (Blahdns server).
+> The operator does not guarantee in any way the access, availability and continuity of the functioning of this service. 
+> By using this website and service you consent to the disclaimer and agree to its terms and conditions.
+
 ## Donate
 > A coffee :D，Thanks!
 
@@ -77,5 +81,4 @@
 |
 <a href='https://ko-fi.com/P5P4GPQ8' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi4.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-## Policy
-> Use at your own risk. Under no circumstances will the operator be held responsible or liable in any way for any claims, damages, losses, expenses, costs or liabilities whatsoever (including, without limitation, any direct or indirect damages for loss of profits, business interruption or loss of information) resulting or arising directly or indirectly from accessing or otherwise using this service (Blahdns server). The operator does not guarantee in any way the access, availability and continuity of the functioning of this service. By using this website and service you consent to the disclaimer and agree to its terms and conditions.
+
