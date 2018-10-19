@@ -19,7 +19,7 @@
 . Let's Encrypt SSL
 . knot-resolver (DNS Resolver)
 |   |-- rpz.blacklist (DNS Firewall, return NXDDOMAIN)
-|   |-- dnsdist (DNS loadbalance, drop ANY, limited TXT, PTR, A, AAAA qps/IP)
+|   |-- dnsdist (DNS loadbalance, drop ANY, limited TXT, PTR, SOA, MX, etc. qps/IP)
 |   |   |-- dnsdist (DNS-over-TLS)
 |   |   |-- DNSCrypt (DNScrypt v2)
 |   |   |-- m13253/dns-over-https (DNS-over-HTTPS)
