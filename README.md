@@ -24,6 +24,17 @@
 |   |   |-- m13253/dns-over-https (DNS-over-HTTPS)
 |   |   |-- |-- Caddy (DNS-over-HTTPS proxy)
 `-- OpenNIC forwarder
+
+```bash
+. Let's Encrypt SSL
+. Unbound (DNS Resolver)
+|   |-- rpz.blacklist (DNS Firewall, return NXDDOMAIN)
+|   |-- knot-resolver (DNS forwarder)
+|   |   |-- knot-resolver (DNS-over-TLS)
+|   |   |-- DNSCrypt (DNScrypt-wrapper)
+|   |   |-- m13253/dns-over-https (DNS-over-HTTPS)
+|   |   |-- |-- Caddy (DNS-over-HTTPS proxy)
+`-- OpenNIC forwarder
 ```
 ## Server information
 - Tokyo, Japan
