@@ -136,3 +136,13 @@ azurewebsites.net
 ytimg.l.google.com
 f1.media.brightcove.com
 clients6.google.com
+vjs.zencdn.net
+instagram.c10r.facebook.com
+i1.ytimg.com
+etl.tindersparks.com
+bkssl.bdimg.com
+baike.jomodns.com
+sslshare.jomodns.com
+hiphotos.jomodns.com
+id.google.com
+redirector.googlevideo.com

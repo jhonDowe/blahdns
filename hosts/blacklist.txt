@@ -134,7 +134,6 @@ analytics.rayjump.com
 b-graph.facebook.com
 b-api.facebook.com
 mqtt.c10r.facebook.com
-instagram.c10r.facebook.com
 api.facebook.com
 mqtt-mini.c10r.facebook.com
 ad.angel-live.com
@@ -146,5 +145,5 @@ ads.adorca.com
 c.deployads.com
 adver12.clickmon.co.kr
 sdkcloud.e.360.cn
-redirector.googlevideo.com
 tsp-cdn.paganiniplus.com
+js.kiwihk.net
