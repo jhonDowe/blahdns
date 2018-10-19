@@ -6,8 +6,8 @@
 
 ## Disclaimer
 * This is an experimental service, I'm not responsible for any down-time, be sure you have agree with our [POLICY](https://github.com/ookangzheng/blahdns/blob/master/README.md#policy) before start to use. 
-* This service is for PERSONAL use, this service is not for heavy use, use it wisely.
-* Will block/limit some IPs if do too many quries per second.
+* This service is for PERSONAL use, big traffic are not welcome.
+* Will block/limit some IPs, if IP/32,/64 do huge query per second.
 * Those servers have limited resources (Vultr 5 USD/month, That's all I can support)
 * Donation are welcome.
 * Due to some reason, we will change IP randomly.
@@ -19,7 +19,7 @@
 . Let's Encrypt SSL
 . knot-resolver (DNS Resolver)
 |   |-- rpz.blacklist (DNS Firewall, return NXDDOMAIN)
-|   |-- dnsdist (DNS loadbalance, 1.3.2, drop ANY, limited TXT, PTR, A, AAAA qps/IP)
+|   |-- dnsdist (DNS loadbalance, drop ANY, limited TXT, PTR, A, AAAA qps/IP)
 |   |   |-- dnsdist (DNS-over-TLS)
 |   |   |-- DNSCrypt (DNScrypt v2)
 |   |   |-- m13253/dns-over-https (DNS-over-HTTPS)
@@ -28,8 +28,7 @@
 ```
 ## Server information
 - Tokyo, Japan
-  * IP: 108.61.201.119 
-  * IPv6: 2001:19f0:7001:1ded:5400:01ff:fe90:945b
+  * IP: 108.61.201.119, 2001:19f0:7001:1ded:5400:01ff:fe90:945b
   * DNS-over-HTTPS: https://doh.blahdns.com/dns-query
     * sdns://AgMAAAAAAAAADjEwOC42MS4yMDEuMTE5AA9kb2guYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
   * DNS-over-TLS: tls_auth_name: dns.jp.blahdns.com, port 853
@@ -38,8 +37,7 @@
     * IPv6:sdns://AQMAAAAAAAAALlsyMDAxOjE5ZjA6NzAwMToxZGVkOjU0MDA6MDFmZjpmZTkwOjk0NWJdOjg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
 
 - Frankfut, Germany
-  * IP: 217.61.0.97
-  * IPv6: 2a03:a140:10:2461::1
+  * IP: 217.61.0.97, 2a03:a140:10:2461::1
   * DNS-over-HTTPS: https://doh.de.blahdns.com/dns-query
     * sdns://AgMAAAAAAAAACzIxNy42MS4wLjk3ABJkb2guZGUuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
   * DNS-over-TLS: tls_auth_name: dns.de.blahdns.com, port 853
