@@ -7,8 +7,7 @@
 ## Disclaimer
 * This is an experimental service, I'm not responsible for any down-time, be sure you have agree with our [POLICY](https://github.com/ookangzheng/blahdns/blob/master/README.md#policy) before start to use. 
 * This service is for PERSONAL use, big traffic are not welcome.
-* Will block/limit some IPs, if IP/32,/64 do huge query per second.
-* Those servers have limited resources (Vultr 5 USD/month, That's all I can support)
+* Will block/limit some IPs, if IP/32/64 do huge query per second.
 * Donation are welcome.
 * Due to some reason, we will change IP randomly.
 
@@ -19,9 +18,9 @@
 . Let's Encrypt SSL
 . knot-resolver (DNS Resolver)
 |   |-- rpz.blacklist (DNS Firewall, return NXDDOMAIN)
-|   |-- dnsdist (DNS loadbalance, drop ANY, limited TXT, PTR, SOA, MX, etc. qps/IP)
+|   |-- dnsdist (DNS loadbalance)
 |   |   |-- dnsdist (DNS-over-TLS)
-|   |   |-- DNSCrypt (DNScrypt v2)
+|   |   |-- DNSCrypt (DNScrypt-wrapper)
 |   |   |-- m13253/dns-over-https (DNS-over-HTTPS)
 |   |   |-- |-- Caddy (DNS-over-HTTPS proxy)
 `-- OpenNIC forwarder
