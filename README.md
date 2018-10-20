@@ -7,7 +7,6 @@
 ## Disclaimer
 * This is an experimental service, I'm not responsible for any down-time, be sure you have agree with our [POLICY](https://github.com/ookangzheng/blahdns/blob/master/README.md#policy) before start to use. 
 * This service is for PERSONAL use, big traffic are not welcome.
-* Will block/limit some IPs, if IP/32/64 do huge query per second.
 * Donation are welcome.
 * Due to some reason, we will change IP randomly.
 
@@ -24,7 +23,7 @@
 |   |   |-- m13253/dns-over-https (DNS-over-HTTPS)
 |   |   |-- |-- Caddy (DNS-over-HTTPS proxy)
 `-- OpenNIC forwarder
-
+```
 ```bash
 . Let's Encrypt SSL
 . Unbound (DNS Resolver)
