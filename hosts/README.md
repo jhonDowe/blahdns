@@ -8,7 +8,7 @@
 ### All-in-one
 https://github.com/Akamaru/Pi-Hole-Lists/raw/master/youtube.txt
 https://hblock.molinero.xyz/hosts
-https://http://sbc.io/hosts/alternates/fakenews/hosts
+http://sbc.io/hosts/alternates/fakenews/hosts
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
 https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 https://hosts.nfz.moe/full/hosts
@@ -66,11 +66,13 @@ csdnimg.cn
 
 # Amazon Web Services (Kowabit)
 s3.amazonaws.com
+
 # Google Content (Andy Short)
 clients2.google.com
 clients3.google.com
 clients4.google.com
 clients5.google.com
+
 # Link Shortners (Openphish, Hostsfile.org)
 www.bit.ly
 bit.ly
@@ -78,29 +80,48 @@ ow.ly
 j.mp
 goo.gl
 tinyurl.com
+
 # Microsoft Connectivity Checker (Mahakala)
 msftncsi.com
 www.msftncsi.com
+
 # EA / Origin (Mahakala, Andy Short, Cameleon & others)
 ea.com
 cdn.optimizely.com (Used by Origin for content delivery)
+
 Blocked by Mahakala
 res.cloudinary.com (Used by Facebook for image uploads)
 gravatar.com
 rover.ebay.com
 imgs.xkcd.com
+
 # Blocked by Andy Short
 netflix.com
 alluremedia.com.au (Used by Gizmodo sites)
 tomshardware.com
+
 # Blocked by Reddestdream
 ocsp.apple.com (Used by Apple devices for certificate validation)
+
 # Blocked by various lists
 s.shopify.com
 keystone.mwbsys.com (Malwarebytes server)
 dl.dropbox.com
 api.ipify.org
 
+bbs.pcbeta.com
+cdn.pcbeta.attachment.inimc.com
+cdn.pcbeta.css.inimc.com
+cdn.pcbeta.static.inimc.com
+group.pcbeta.com
+i.pcbeta.com
+m.pcbeta.com
+mac.pcbeta.com
+pcbeta.com
+static.template.pcbeta.com
+uc.pcbeta.com
+web.pcbeta.com
+www.pcbeta.com
 ```
 
 ---
