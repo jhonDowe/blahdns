@@ -13,7 +13,7 @@
 ## Announcement
 * I planned to close port 53 around at the end of this year, so be sure you change your connection either to DoT, Doh, DNSCrypt.
 ## Server architecture
-```
+
 ```bash
 . Let's Encrypt SSL
 . Unbound (DNS Resolver)
