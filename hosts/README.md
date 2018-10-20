@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 ### Suspicious
 https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
 https://v.firebog.net/hosts/static/w3kbl.txt
-# https://ransomwaretracker.abuse.ch/blocklist/
+-- https://ransomwaretracker.abuse.ch/blocklist/
 https://ransomwaretracker.abuse.ch/downloads/RW_URLBL.txt
 https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts
@@ -64,24 +64,24 @@ cdn.ravenjs.com
 cdn.jsdelivr.net
 csdnimg.cn
 
-Amazon Web Services (Kowabit)
+# Amazon Web Services (Kowabit)
 s3.amazonaws.com
-Google Content (Andy Short)
+# Google Content (Andy Short)
 clients2.google.com
 clients3.google.com
 clients4.google.com
 clients5.google.com
-Link Shortners (Openphish, Hostsfile.org)
+# Link Shortners (Openphish, Hostsfile.org)
 www.bit.ly
 bit.ly
 ow.ly
 j.mp
 goo.gl
 tinyurl.com
-Microsoft Connectivity Checker (Mahakala)
+# Microsoft Connectivity Checker (Mahakala)
 msftncsi.com
 www.msftncsi.com
-EA / Origin (Mahakala, Andy Short, Cameleon & others)
+# EA / Origin (Mahakala, Andy Short, Cameleon & others)
 ea.com
 cdn.optimizely.com (Used by Origin for content delivery)
 Blocked by Mahakala
@@ -89,13 +89,13 @@ res.cloudinary.com (Used by Facebook for image uploads)
 gravatar.com
 rover.ebay.com
 imgs.xkcd.com
-Blocked by Andy Short
+# Blocked by Andy Short
 netflix.com
 alluremedia.com.au (Used by Gizmodo sites)
 tomshardware.com
-Blocked by Reddestdream
+# Blocked by Reddestdream
 ocsp.apple.com (Used by Apple devices for certificate validation)
-Blocked by various lists
+# Blocked by various lists
 s.shopify.com
 keystone.mwbsys.com (Malwarebytes server)
 dl.dropbox.com
