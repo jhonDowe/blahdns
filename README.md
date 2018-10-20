@@ -13,16 +13,6 @@
 ## Announcement
 * I planned to close port 53 around at the end of this year, so be sure you change your connection either to DoT, Doh, DNSCrypt.
 ## Server architecture
-```bash
-. Let's Encrypt SSL
-. knot-resolver (DNS Resolver)
-|   |-- rpz.blacklist (DNS Firewall, return NXDDOMAIN)
-|   |-- dnsdist (DNS loadbalance)
-|   |   |-- dnsdist (DNS-over-TLS)
-|   |   |-- DNSCrypt (DNScrypt-wrapper)
-|   |   |-- m13253/dns-over-https (DNS-over-HTTPS)
-|   |   |-- |-- Caddy (DNS-over-HTTPS proxy)
-`-- OpenNIC forwarder
 ```
 ```bash
 . Let's Encrypt SSL
