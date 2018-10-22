@@ -6,6 +6,7 @@
 
 ## Source
 ### All-in-one
+https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/hosts (blu)
 https://github.com/Akamaru/Pi-Hole-Lists/raw/master/youtube.txt
 https://hblock.molinero.xyz/hosts
 http://sbc.io/hosts/alternates/fakenews/hosts
