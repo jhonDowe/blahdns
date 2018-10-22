@@ -22,6 +22,9 @@ https://v.firebog.net/hosts/static/w3kbl.txt
 https://ransomwaretracker.abuse.ch/downloads/RW_URLBL.txt
 https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts
+https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt
+https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt  
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
 
 ### Malware
 https://mirror1.malwaredomains.com/files/justdomains
@@ -74,6 +77,7 @@ clients4.google.com
 clients5.google.com
 
 # Link Shortners (Openphish, Hostsfile.org)
+ppt.cc
 www.bit.ly
 bit.ly
 ow.ly
