@@ -54,6 +54,78 @@ https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/CK's-Spo
 ## Whitelist 
 
 ```
+// check internet online status
+dns.msftncsi.com -- Microsoft check wifi online
+
+// CDN
+cdn3.optimizely.com
+unpkg.com
+cdn.jsdelivr.net
+cdnjs.cloudflare.co
+
+// Baidu
+www.baidu.com
+www.a.shifen.com
+www.wshifen.com
+
+// Google
+yt3.ggpht.com
+youtubei.googleapis.com
+ytimg-edge-static.l.google.com
+s.youtube.com
+android.l.google.com
+android.clients.google.com
+googleapis.l.google.com
+play.googleapis.com
+www.gstatic.com
+csi.gstatic.com
+dl.google.com
+www3.l.google.com
+clients1.google.com ~ clients6.google.com
+encrypted-tbn0.gstatic.com
+ssl.gstatic.com
+fonts.gstatic.com
+i.ytimg.com
+ytimg-edge-static.l.google.com
+photos-ugc.l.googleusercontent.com
+accounts.google.com
+www.googleapis.com
+redirector.googlevideo.com
+
+// Facebook
+
+scontent-ort2-2.xx.fbcdn.net
+scontent-nrt1-1.xx.fbcdn.net
+fb.me
+fb.com
+fbcdn-profile-a.akamaihd.net
+connect.facebook.net.edgekey.net
+connect.facebook.net
+static.ak.connect.facebook.com
+s-static.ak.facebook.com
+apps.facebook.com
+ct-m-fbx.fbsbx.com
+z-m.facebook.com
+z-m.c10r.facebook.com
+l.facebook.com
+m.facebookcom
+instagram.c10r.facebook.com
+static.xx.fbcdn.net
+cdn.fbsbx.com
+edge-chat.facebook.com
+0-edge-chat.facebook.com
+1-edge-chat.facebook.com
+2-edge-chat.facebook.com
+3-edge-chat.facebook.com
+4-edge-chat.facebook.com
+5-edge-chat.facebook.com
+6-edge-chat.facebook.com
+external.xx.fbcdn.net
+scontent.xx.fbcdn.net 
+edge-mqtt.facebook.com -- get online connection
+star.c10r.facebook.com
+mqtt.c10r.facebook.com
+mqtt-mini.facebook.com
 // Tinder app sms verification
 etl.tindersparks.com
 
@@ -133,6 +205,17 @@ www.pcbeta.com
 ## Blacklist
 
 ```
+discuz.gtimg.cn
+hao.360.cn
+ip.ia22.com
+l.ad4.com.cn
+log.sina.cn
+log.tbs.qq.com
+main.exoclick.com
+mathtype.cn
+sa.tuisong.baidu.com
+sa1.tuisong.baidu.com
+
 // APP tracker
 api.branch.io
 api.segment.io
