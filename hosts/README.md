@@ -55,7 +55,9 @@ https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/CK's-Spo
 ## Whitelist 
 
 ```
+// 
 app.adjust.com 
+ipfs.io
 
 // Spotify
 beta.spotify.map.fastly.net
@@ -65,21 +67,20 @@ redirector.gvt1.com
 audio-fa.scdn.co # do not block while using chromecast
 spclient.wg.spotify.com (break windows client)
 ap.spotify.com
-# api-spotify.com
-# api-partner.spotify.com
-# api-tv.spotify.com
-# apresolve.spotify.com
-# audio-sp.spotify.com
-# audio-sp-
-# dealer.spotify.com
-# dealer-ssl.spotify.com
-# gslb.spotify.com
-# open.scdn.co
-# open.spotify.com
-# play.spotify.com
-# spclient.spotify.com
-# sto3.spotify.com
-# wg.spotify.com
+api-spotify.com
+api-partner.spotify.com
+api-tv.spotify.com
+apresolve.spotify.com
+audio-sp.spotify.com
+dealer.spotify.com
+dealer-ssl.spotify.com
+gslb.spotify.com
+open.scdn.co
+open.spotify.com
+play.spotify.com
+spclient.spotify.com
+sto3.spotify.com
+wg.spotify.com
 
 // check internet online status
 dns.msftncsi.com -- Microsoft check wifi online
@@ -92,6 +93,9 @@ cdnjs.cloudflare.co
 ipinfo.io
 cdn.ravenjs.com
 links.iterable.com
+cdn.flurry.com
+cdn.ravenjs.com
+fast.wistia.com
 
 // Baidu
 www.baidu.com
@@ -123,7 +127,7 @@ www.googleapis.com
 redirector.googlevideo.com
 
 // Facebook
-
+graph.facebook.com
 scontent-ort2-2.xx.fbcdn.net
 scontent-nrt1-1.xx.fbcdn.net
 fb.me
@@ -156,6 +160,11 @@ edge-mqtt.facebook.com -- get online connection
 star.c10r.facebook.com
 mqtt.c10r.facebook.com
 mqtt-mini.facebook.com
+b-api.facebook.com -- facebook lite / messenger lite login required
+b-graph.facebook.com -- facebook lite / messenger lite login required
+
+lookaside.facebook.com
+
 // Tinder app sms verification
 etl.tindersparks.com
 
