@@ -1,3 +1,7 @@
+## Announcement
+* Blahdns Germany Server Migration announcement, Start: October 28, 2018 8:00:00 AM CEST
+* I planned to close port 53 around at the end of this year, so be sure you change your connection either to DoT, Doh, DNSCrypt.
+
 ## Our features
 * Block Tracker, Ads, Malware sites.
 * DNSSEC ready
@@ -10,8 +14,7 @@
 * Donation are welcome.
 * Due to some reason, we will change IP randomly.
 
-## Announcement
-* I planned to close port 53 around at the end of this year, so be sure you change your connection either to DoT, Doh, DNSCrypt.
+
 ## Server architecture
 
 ```bash
