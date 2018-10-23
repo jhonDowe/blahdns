@@ -127,14 +127,18 @@ www.googleapis.com
 redirector.googlevideo.com
 
 // Facebook
-graph.facebook.com
+b-api.facebook.com -- facebook lite / messenger lite login required
+b-graph.facebook.com -- facebook lite / messenger lite login required
+rupload.facebook.com -- tested on mobile messenger while sending voice clip
+api.facebook.com -- needed while viewing previous voice clip on mobile messenger
+# graph.facebook.com -- not sure yet
 scontent-ort2-2.xx.fbcdn.net
 scontent-nrt1-1.xx.fbcdn.net
 fb.me
 fb.com
 fbcdn-profile-a.akamaihd.net
-connect.facebook.net.edgekey.net
-connect.facebook.net
+#connect.facebook.net.edgekey.net
+#connect.facebook.net
 static.ak.connect.facebook.com
 s-static.ak.facebook.com
 apps.facebook.com
@@ -160,8 +164,7 @@ edge-mqtt.facebook.com -- get online connection
 star.c10r.facebook.com
 mqtt.c10r.facebook.com
 mqtt-mini.facebook.com
-b-api.facebook.com -- facebook lite / messenger lite login required
-b-graph.facebook.com -- facebook lite / messenger lite login required
+
 
 lookaside.facebook.com
 
