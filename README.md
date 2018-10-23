@@ -1,5 +1,5 @@
 ## Announcement
-* Blahdns Germany Server Migration announcement, Start: October 28, 2018 8:00:00 AM CEST
+* Blahdns Germany Server Migration announcement, Start: October 28, 2018 8:00:00 AM CEST, follow this [issue](https://github.com/ookangzheng/blahdns/issues/5)
 * I planned to close port 53 around at the end of this year, so be sure you change your connection either to DoT, Doh, DNSCrypt.
 
 ## Our features
