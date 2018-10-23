@@ -247,6 +247,9 @@ www.pcbeta.com
 ## Blacklist
 
 ```
+
+zer0day.ch -- Malicious -- redirected
+
 discuz.gtimg.cn
 hao.360.cn
 ip.ia22.com
