@@ -55,6 +55,32 @@ https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/CK's-Spo
 ## Whitelist 
 
 ```
+app.adjust.com 
+
+// Spotify
+beta.spotify.map.fastly.net
+geo3.ggpht.com
+googlehosted.l.googleusercontent.com
+redirector.gvt1.com
+audio-fa.scdn.co # do not block while using chromecast
+spclient.wg.spotify.com (break windows client)
+ap.spotify.com
+# api-spotify.com
+# api-partner.spotify.com
+# api-tv.spotify.com
+# apresolve.spotify.com
+# audio-sp.spotify.com
+# audio-sp-
+# dealer.spotify.com
+# dealer-ssl.spotify.com
+# gslb.spotify.com
+# open.scdn.co
+# open.spotify.com
+# play.spotify.com
+# spclient.spotify.com
+# sto3.spotify.com
+# wg.spotify.com
+
 // check internet online status
 dns.msftncsi.com -- Microsoft check wifi online
 
@@ -63,6 +89,9 @@ cdn3.optimizely.com
 unpkg.com
 cdn.jsdelivr.net
 cdnjs.cloudflare.co
+ipinfo.io
+cdn.ravenjs.com
+links.iterable.com
 
 // Baidu
 www.baidu.com
