@@ -145,7 +145,8 @@ apps.facebook.com
 ct-m-fbx.fbsbx.com
 z-m.facebook.com
 z-m.c10r.facebook.com
-l.facebook.com
+l.facebook.com -- desktop -> link shim #https://www.quora.com/Why-are-l-facebook-com-and-lm-facebook-com-appearing-as-a-new-traffic-source-on-analytics
+lm.facebook.com -- mobile -> link shim
 m.facebookcom
 instagram.c10r.facebook.com
 static.xx.fbcdn.net
@@ -164,8 +165,6 @@ edge-mqtt.facebook.com -- get online connection
 star.c10r.facebook.com
 mqtt.c10r.facebook.com
 mqtt-mini.facebook.com
-
-
 lookaside.facebook.com
 
 // Tinder app sms verification
@@ -247,7 +246,6 @@ www.pcbeta.com
 ## Blacklist
 
 ```
-
 zer0day.ch -- Malicious -- redirected
 
 discuz.gtimg.cn
@@ -286,4 +284,3 @@ wifi.ggsafe.com
 // 游族的公司投放页游广告
 v3m.youzu.com
 ```
-
