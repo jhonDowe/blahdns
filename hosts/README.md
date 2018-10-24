@@ -7,7 +7,6 @@
 ## Source
 ### All-in-one
 https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/hosts (blu)
-https://github.com/Akamaru/Pi-Hole-Lists/raw/master/youtube.txt
 https://hblock.molinero.xyz/hosts
 http://sbc.io/hosts/alternates/fakenews/hosts
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
@@ -19,7 +18,7 @@ https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 ### Suspicious
 https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
 https://v.firebog.net/hosts/static/w3kbl.txt
--- https://ransomwaretracker.abuse.ch/blocklist/
+#https://ransomwaretracker.abuse.ch/blocklist/
 https://ransomwaretracker.abuse.ch/downloads/RW_URLBL.txt
 https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts
@@ -48,7 +47,7 @@ https://v.firebog.net/hosts/AdguardDNS.txt
 https://hosts-file.net/ad_servers.txt
 
 ### Igonre - not working
-https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/CK's-Spotify-HOSTS-FilterList.txt
+#https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/CK's-Spotify-HOSTS-FilterList.txt
 
 ----
 
