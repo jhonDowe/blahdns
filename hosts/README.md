@@ -99,6 +99,7 @@ cdn.ravenjs.com
 fast.wistia.com
 cdn.ravenjs.com
 csdnimg.cn
+cdn.auth0.com
 js-agent.newrelic.com
 
 // Baidu
