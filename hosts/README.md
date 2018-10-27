@@ -57,6 +57,7 @@ https://hosts-file.net/ad_servers.txt
 // 
 app.adjust.com 
 ipfs.io
+behance.net
 
 // Spotify
 beta.spotify.map.fastly.net
@@ -85,16 +86,20 @@ wg.spotify.com
 dns.msftncsi.com -- Microsoft check wifi online
 
 // CDN
+cdn.mxpnl.com
 cdn3.optimizely.com
 unpkg.com
 cdn.jsdelivr.net
-cdnjs.cloudflare.co
+cdnjs.cloudflare.com
 ipinfo.io
 cdn.ravenjs.com
 links.iterable.com
 cdn.flurry.com
 cdn.ravenjs.com
 fast.wistia.com
+cdn.ravenjs.com
+csdnimg.cn
+js-agent.newrelic.com
 
 // Baidu
 www.baidu.com
@@ -174,10 +179,6 @@ metok.sys.miui.com
 data.mistat.xiaomi.com
 api.jr.mi.com
 resolver.msg.xiaomi.ne
-
-cdn.ravenjs.com
-cdn.jsdelivr.net
-csdnimg.cn
 
 # Amazon Web Services (Kowabit)
 s3.amazonaws.com
