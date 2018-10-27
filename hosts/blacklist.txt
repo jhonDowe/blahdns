@@ -1,0 +1,39 @@
+## Blacklist maintance by @ookangzheng
+# Malicious -- redirected
+zer0day.ch 
+
+discuz.gtimg.cn
+hao.360.cn
+ip.ia22.com
+l.ad4.com.cn
+log.sina.cn
+log.tbs.qq.com
+main.exoclick.com
+mathtype.cn
+sa.tuisong.baidu.com
+sa1.tuisong.baidu.com
+
+# APP tracker
+api.branch.io
+api.segment.io
+cdn.segment.com
+onesignal.com
+api.mixpanel.com
+go.ero-advertising.com
+www.eroadvertising.com
+
+# Panda.tv
+aplay.wan.panda.tv
+caesar.wan.panda.tv
+play.wan.panda.tv
+wan.panda.tv
+
+# 斗鱼
+g.wan.douyu.com
+cdn.g.wan.douyu.com
+
+# ggsafe.com
+wifi.ggsafe.com
+
+# 游族的公司投放页游广告
+v3m.youzu.com

@@ -1,0 +1,194 @@
+### This is custom whitelist maintaince by @ookangzheng
+app.adjust.com 
+ipfs.io
+behance.net
+
+## Spotify
+beta.spotify.map.fastly.net
+geo3.ggpht.com
+googlehosted.l.googleusercontent.com
+redirector.gvt1.com
+audio-fa.scdn.co # do not block while using chromecast
+## break windows client
+spclient.wg.spotify.com 
+ap.spotify.com
+api-spotify.com
+api-partner.spotify.com
+api-tv.spotify.com
+apresolve.spotify.com
+audio-sp.spotify.com
+dealer.spotify.com
+dealer-ssl.spotify.com
+gslb.spotify.com
+open.scdn.co
+open.spotify.com
+play.spotify.com
+spclient.spotify.com
+sto3.spotify.com
+wg.spotify.com
+
+## Check internet online status
+dns.msftncsi.com -- Microsoft check wifi online
+
+## CDN
+cdn.mxpnl.com
+cdn3.optimizely.com
+unpkg.com
+cdn.jsdelivr.net
+cdnjs.cloudflare.com
+ipinfo.io
+cdn.ravenjs.com
+links.iterable.com
+cdn.flurry.com
+cdn.ravenjs.com
+fast.wistia.com
+cdn.ravenjs.com
+csdnimg.cn
+cdn.auth0.com
+js-agent.newrelic.com
+
+## Baidu
+www.baidu.com
+www.a.shifen.com
+www.wshifen.com
+
+## Google
+yt3.ggpht.com
+youtubei.googleapis.com
+ytimg-edge-static.l.google.com
+s.youtube.com
+android.l.google.com
+android.clients.google.com
+googleapis.l.google.com
+play.googleapis.com
+www.gstatic.com
+csi.gstatic.com
+dl.google.com
+www3.l.google.com
+clients1.google.com ~ clients6.google.com
+encrypted-tbn0.gstatic.com
+ssl.gstatic.com
+fonts.gstatic.com
+i.ytimg.com
+ytimg-edge-static.l.google.com
+photos-ugc.l.googleusercontent.com
+accounts.google.com
+www.googleapis.com
+redirector.googlevideo.com
+
+## Facebook
+#b-api.facebook.com -- facebook lite / messenger lite login required
+#b-graph.facebook.com -- facebook lite / messenger lite login required
+#rupload.facebook.com -- tested on mobile messenger while sending voice clip
+#api.facebook.com -- needed while viewing previous voice clip on mobile messenger
+## graph.facebook.com -- not sure yet
+scontent-ort2-2.xx.fbcdn.net
+scontent-nrt1-1.xx.fbcdn.net
+fb.me
+fb.com
+fbcdn-profile-a.akamaihd.net
+#connect.facebook.net.edgekey.net
+#connect.facebook.net
+static.ak.connect.facebook.com
+s-static.ak.facebook.com
+apps.facebook.com
+ct-m-fbx.fbsbx.com
+z-m.facebook.com
+z-m.c10r.facebook.com
+l.facebook.com -- desktop -> link shim #https://www.quora.com/Why-are-l-facebook-com-and-lm-facebook-com-appearing-as-a-new-traffic-source-on-analytics
+lm.facebook.com -- mobile -> link shim
+m.facebookcom
+instagram.c10r.facebook.com
+static.xx.fbcdn.net
+cdn.fbsbx.com
+edge-chat.facebook.com
+0-edge-chat.facebook.com
+1-edge-chat.facebook.com
+2-edge-chat.facebook.com
+3-edge-chat.facebook.com
+4-edge-chat.facebook.com
+5-edge-chat.facebook.com
+6-edge-chat.facebook.com
+external.xx.fbcdn.net
+scontent.xx.fbcdn.net 
+#  get online connection
+edge-mqtt.facebook.com
+star.c10r.facebook.com
+mqtt.c10r.facebook.com
+mqtt-mini.facebook.com
+lookaside.facebook.com
+
+# Tinder app sms verification
+etl.tindersparks.com
+
+# Xiaomi payment 
+metok.sys.miui.com
+data.mistat.xiaomi.com
+api.jr.mi.com
+resolver.msg.xiaomi.ne
+
+# Amazon Web Services
+s3.amazonaws.com
+
+# Google Content Andy Short
+clients2.google.com
+clients3.google.com
+clients4.google.com
+clients5.google.com
+
+# Link Shortners Openphish, Hostsfile.org
+ppt.cc
+www.bit.ly
+bit.ly
+ow.ly
+j.mp
+goo.gl
+tinyurl.com
+
+# Microsoft Connectivity Checker Mahakala
+msftncsi.com
+www.msftncsi.com
+
+# EA / Origin Mahakala, Andy Short, Cameleon & others
+ea.com
+cdn.optimizely.com Used by Origin for content delivery
+
+Blocked by Mahakala
+# Used by Facebook for image uploads
+res.cloudinary.com 
+gravatar.com
+rover.ebay.com
+imgs.xkcd.com
+
+# Blocked by Andy Short
+netflix.com
+# Used by Gizmodo sites
+alluremedia.com.au 
+tomshardware.com
+
+# Blocked by Reddestdream
+# Used by Apple devices for certificate validation
+ocsp.apple.com 
+
+# Blocked by various lists
+s.shopify.com
+
+# Malwarebytes server
+keystone.mwbsys.com 
+dl.dropbox.com
+api.ipify.org
+
+# Unblock pcbeta.com
+bbs.pcbeta.com
+cdn.pcbeta.attachment.inimc.com
+cdn.pcbeta.css.inimc.com
+cdn.pcbeta.static.inimc.com
+group.pcbeta.com
+i.pcbeta.com
+m.pcbeta.com
+mac.pcbeta.com
+pcbeta.com
+static.template.pcbeta.com
+uc.pcbeta.com
+web.pcbeta.com
+www.pcbeta.com
