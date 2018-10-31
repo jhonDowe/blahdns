@@ -23,10 +23,10 @@
 . Unbound (DNS Resolver)
 |   |-- rpz.blacklist (DNS Firewall, return NXDDOMAIN)
 |   |-- knot-resolver (DNS forwarder)
-|   |   |-- knot-resolver (DNS-over-TLS)
+|   |   |-- haproxy (TLS, -- BETA Testing, support TLS 1.3)
 |   |   |-- DNSCrypt (DNScrypt-wrapper)
 |   |   |-- m13253/dns-over-https (DNS-over-HTTPS)
-|   |   |-- |-- Caddy (DNS-over-HTTPS proxy)
+|   |   |-- |-- haproxy (https, -- BETA Testing, support TLS 1.3)
 `-- OpenNIC forwarder
 ```
 ## Server information
