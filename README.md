@@ -1,6 +1,4 @@
 ## Announcement
-* Old germany server IP 217.61.0.97 will shutdown at October 30 2018
-* Blahdns Germany Server Migration announcement, Start: October 28, 2018 8:00:00 AM CEST, follow this [issue](https://github.com/ookangzheng/blahdns/issues/5)
 * I planned to close port 53 around at the end of this year, so be sure you change your connection either to DoT, Doh, DNSCrypt.
 
 ## Our features
@@ -72,6 +70,10 @@ sdns://AQMAAAAAAAAALlsyMDAxOjE5ZjA6NzAwMToxZGVkOjU0MDA6MDFmZjpmZTkwOjk0NWJdOjg0N
 4. [DNSCrypt](http://dnscrypt.info/)
 5. [Unbound DNS](https://nlnetlabs.nl/projects/unbound)
 5. [DNSPrivacy.org](https://dnsprivacy.org)
+
+## Expired announcements
+* Old germany server IP 217.61.0.97 will shutdown at October 30 2018
+* Blahdns Germany Server Migration announcement, Start: October 28, 2018 8:00:00 AM CEST, follow this [issue](https://github.com/ookangzheng/blahdns/issues/5)
 
 ## Policy
 * Use at your own risk. Under no circumstances will the operator be held responsible or liable in any way for any claims, damages, losses, expenses, costs or liabilities whatsoever (including, without limitation, any direct or indirect damages for loss of profits, business interruption or loss of information) resulting or arising directly or indirectly from accessing or otherwise using this service (Blahdns server).
