@@ -37,3 +37,24 @@ wifi.ggsafe.com
 
 # 游族的公司投放页游广告
 v3m.youzu.com
+
+# Unlisted
+adver7.clickmon.co.kr
+adver11.clickmon.co.kr
+e5019.e2.akamaiedge.net
+wahaha.work
+notify.zhushou.sogou.com
+i10c.net
+ad2iction.com
+adcl.pchome.com.tw
+ads.yap.yahoo.com
+appier.net
+appsflyer.com
+gemini.yahoo.com
+dable.io
+doublemax.net
+s.zimedia.com.tw
+popin.cc
+r.search.yahoo.com
+securegfm.com
+tenmax.io

@@ -118,6 +118,7 @@ mqtt.c10r.facebook.com
 mqtt-mini.facebook.com
 lookaside.facebook.com
 
+
 # Tinder app sms verification
 etl.tindersparks.com
 
@@ -192,3 +193,27 @@ static.template.pcbeta.com
 uc.pcbeta.com
 web.pcbeta.com
 www.pcbeta.com
+
+# Unlisted
+appcloud.ironbeast.io
+behance.net
+suggestqueries.google.com
+ipv6.he.net
+js.stripe.com
+q.stripe.com
+assets.adobedtm.com
+whatismyipaddress.com
+www.researchgate.net
+researchgate.net
+g00.msn.com
+www.sdad.guru
+c.msn.com
+widget.uservoice.com
+jsfiddle.net
+crbcdn.jsfiddle.net
+xd.adobelanding.com
+c.evidon.com
+l.betrad.com
+unbouncepages.com
+builder-assets.unbounce.com
+d9hhrg4mnvzow.cloudfront.net
