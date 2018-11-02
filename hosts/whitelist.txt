@@ -1,7 +1,10 @@
 ### This is custom whitelist maintaince by @ookangzheng
+
 app.adjust.com 
 ipfs.io
 behance.net
+# https://www.reddit.com/r/privacytoolsIO/comments/6j22nd/disable_firefox_detect_captive_portal_in/
+detectportal.firefox.com  
 
 ## Spotify
 beta.spotify.map.fastly.net
