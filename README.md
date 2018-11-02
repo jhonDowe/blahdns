@@ -21,8 +21,8 @@
 . Unbound (DNS Resolver)
 |   |-- rpz.blacklist (DNS Firewall, return NXDDOMAIN)
 |   |-- knot-resolver (DNS forwarder)
-|   |   |-- haproxy (TLS, -- BETA Testing, support TLS 1.3)
 |   |   |-- DNSCrypt (DNScrypt-wrapper)
+|   |   |-- haproxy (TLS, -- BETA Testing, support TLS 1.3)
 |   |   |-- m13253/dns-over-https (DNS-over-HTTPS)
 |   |   |-- |-- haproxy (https, -- BETA Testing, support TLS 1.3)
 `-- OpenNIC forwarder
@@ -32,7 +32,7 @@
   * IP: 108.61.201.119, 2001:19f0:7001:1ded:5400:01ff:fe90:945b
   * DNS-over-HTTPS: https://doh.blahdns.com/dns-query
     * sdns://AgMAAAAAAAAADjEwOC42MS4yMDEuMTE5AA9kb2guYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
-  * DNS-over-TLS: dns.jp.blahdns.com, port 853
+  * DNS-over-TLS: dns.jp.blahdns.com, port 853, 443
   * DNSCrypt:
     * IPv4:  sdns://AQMAAAAAAAAAEzEwOC42MS4yMDEuMTE5Ojg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
     * IPv6:
@@ -42,7 +42,7 @@ sdns://AQMAAAAAAAAALlsyMDAxOjE5ZjA6NzAwMToxZGVkOjU0MDA6MDFmZjpmZTkwOjk0NWJdOjg0N
   * IP: 159.69.198.101, 2a01:4f8:1c1c:6b4b::1
   * DNS-over-HTTPS: https://doh-de.blahdns.com/dns-query
     * sdns://AgMAAAAAAAAADjE1OS42OS4xOTguMTAxABJkb2gtZGUuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
-  * DNS-over-TLS: dot-de.blahdns.com, port 853
+  * DNS-over-TLS: dot-de.blahdns.com, port 853, 443
   * DNSCrypt:
     * IPv4:    sdns://AQMAAAAAAAAAEzE1OS42OS4xOTguMTAxOjg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t 
     * IPv6: sdns://AQMAAAAAAAAAHFsyYTAxOjRmODoxYzFjOjZiNGI6OjFdOjg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
