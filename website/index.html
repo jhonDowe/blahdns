@@ -3,8 +3,10 @@
 <title>Blahdns - Dns service support TLS HTTPS DNSCrypt </title>
 <meta charset="UTF-8">
 <meta name="keywords" content="Ads block via DNS for free with privacy included - No logs">
-<meta name="description" content="DNS, Adblock, dnscrypt, doh, dot, dns-over-https, dns-over-tls, no-logs, dnssec">
+<meta name="description" content="DNS, Adblock, dnscrypt, doh, dot, dns-over-https, dns-over-tls, no-logs, dnssec, ookangzheng">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="author" content="ookangzheng">
+
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="black.css">
 <!--<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext">-->
@@ -59,10 +61,10 @@
 
     <ul class="w3-left-align">
         <li class="w3-text-red">I planned close PORT 53 service at the end of this year, Pls migrate to either Doh, Dot, Dnscrypt service.</li>
-        
+        <li class="w3-text-red">DNS-over-TLS now support port 443(bypass firewall), 853 by default.</li>
     
-        <li><a href="http://stats.blahdns.com" target="_blank">Server status</a></li>
-        <li>If you encounter problem, please submit it on <a href="https://github.com/ookangzheng/blahdns">Github</a> </li>
+        <li><a href="http://stats.blahdns.com" target="_blank"><strong>Server status</strong></a></li>
+        <li>If you encounter problem, please submit it on <a href="https://github.com/ookangzheng/blahdns" target="_blank">Github</a> </li>
         <li>This is an experimental service, only on a "best effort" basis. </li>
         <li>I'm not responsible for any down-time </li>
         <li>This service is for PERSONAL use, use it wisely. not for big traffic. </li>
@@ -138,10 +140,13 @@
         <p> 
         tls_auth_name: <br>
         <textarea readonly rows="1" cols="50" maxlength="50">dns.jp.blahdns.com</textarea>
-        <br>
-        port: 853
+       
+        port: 853, 443
         </p>
         <h3>DNSCrypt</h3>
+        
+        port: 8443
+        
         <p>IPv4 - DNSStamp: <br> 
         <textarea readonly rows="4" cols="50" maxlength="50">sdns://AQMAAAAAAAAAEzEwOC42MS4yMDEuMTE5Ojg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t</textarea>
         </p>
@@ -174,10 +179,12 @@
       <p>
           tls_auth_name:<br>
           <textarea readonly rows="1" cols="50" maxlength="50">dot-de.blahdns.com</textarea>
-      <br>
-      port: 853
+      
+      port: 853, 443
       </p>
       <h3>DNSCrypt</h3>
+       
+        port: 8443
         <p>IPv4 - DNSStamp: <br> 
         <textarea readonly rows="4" cols="50" maxlength="50">sdns://AQMAAAAAAAAAEzE1OS42OS4xOTguMTAxOjg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t</textarea></p>
         <p>IPv6 - DNSStamp: <br> 
@@ -205,28 +212,28 @@
     
     <h3>DNSCrypt</h3>
       <ul>
-        <li><a href="https://simplednscrypt.org/" >Simple DNSCrypt (Windows)</a></li>
-        <li><a href="https://github.com/jedisct1/dnscrypt-proxy/releasesy" >dnscrypt-proxy (macOS, Linux)</a></li>
-        <li><a href="https://itunes.apple.com/us/app/dnscloak-dnscrypt-client/id1330471557?mt=8" >DNSCloak (iOS)</a></li>
+        <li><a href="https://simplednscrypt.org/" target="_blank">Simple DNSCrypt (Windows)</a></li>
+        <li><a href="https://github.com/jedisct1/dnscrypt-proxy/releasesy" target="_blank">dnscrypt-proxy (macOS, Linux)</a></li>
+        <li><a href="https://itunes.apple.com/us/app/dnscloak-dnscrypt-client/id1330471557?mt=8" target="_blank">DNSCloak (iOS)</a></li>
       </ul>
     </div>
     
     <div class="w3-col m4 l3">
     <h3>Dns-over-TLS</h3>
       <ul>
-        <li><a href="https://dnsprivacy.org/wiki/display/DP/DNS+Privacy+Daemon+-+Stubby">Stubby</a></li>
-        <li><a href="https://www.nlnetlabs.nl/projects/unbound/about/"> Unbound</a></li>
+        <li><a href="https://dnsprivacy.org/wiki/display/DP/DNS+Privacy+Daemon+-+Stubby" target="_blank">Stubby</a></li>
+        <li><a href="https://www.nlnetlabs.nl/projects/unbound/about/" target="_blank"> Unbound</a></li>
       </ul>
     </div>
     
     <div class="w3-col m4 l3">
     <h3>Dns-over-HTTPS</h3>
       <ul>
-        <li> <a href="https://simplednscrypt.org/" >Simple DNSCrypt (Windows)</a></li>
-        <li><a href="https://github.com/jedisct1/dnscrypt-proxy/releasesy" >dnscrypt-proxy (macOS, Linux)</a></li>
-        <li><a href="https://itunes.apple.com/us/app/dnscloak-dnscrypt-client/id1330471557?mt=8" >DNSCloak (iOS)</a></li>
-        <li><a href="https://github.com/Jigsaw-Code/Intra">Intra (Android)</a></li>
-        <li><a href="https://www.mozilla.org/en-US/firefox/nightly/all/">Mozilla Firefox(nightly desktop version)</a></li>
+        <li> <a href="https://simplednscrypt.org/" target="_blank">Simple DNSCrypt (Windows)</a></li>
+        <li><a href="https://github.com/jedisct1/dnscrypt-proxy/releasesy" target="_blank" >dnscrypt-proxy (macOS, Linux)</a></li>
+        <li><a href="https://itunes.apple.com/us/app/dnscloak-dnscrypt-client/id1330471557?mt=8" target="_blank">DNSCloak (iOS)</a></li>
+        <li><a href="https://github.com/Jigsaw-Code/Intra" target="_blank">Intra (Android)</a></li>
+        <li><a href="https://www.mozilla.org/en-US/firefox/nightly/all/" target="_blank">Mozilla Firefox(nightly desktop version)</a></li>
       </ul>
      </div>
      </div>
@@ -239,14 +246,13 @@
   <div class="w3-container w3-white">
     <p class="w3-left-align"> 
     DNSSEC validate <br>
-    1. DNSSEC validation: <a href="http://dnssec-or-not.com/" target="_blank">Test 1</a> | 
-    <a href="https://dnssec.vs.uni-due.de/" target="_blank"> Test 2 </a> <br>
+    1. DNSSEC validation: <a href="http://dnssec-or-not.com/" target="_blank">Test 1</a> | <a href="https://dnssec.vs.uni-due.de/" target="_blank"> Test 2 </a> <br>
     2. Is your internet up-to-date: <a href="http://internet.nl/connection/" target="_blank">Go</a> <br>
     3. DNSSEC resolver algorithm test: <a href="https://rootcanary.org/test.html" target="_blank">Go</a> <br>
     4. IPv6 and DNSSEC test: <a href="http://www.982.cz/en/t/run/" target="_blank">Go</a><br>
-    5. DNSTrace: <a href="https://dnsdumpster.com/">Go</a><br>
-    6. Check my DNS: <a href="https://cmdns.dev.dns-oarc.net/">Go</a><br>
-    7. DNS randomness: <a href="https://www.dns-oarc.net/oarc/services/dnsentropy">Go</a><br>
+    5. DNSTrace: <a href="https://dnsdumpster.com/" target="_blank">Go</a><br>
+    6. Check my DNS: <a href="https://cmdns.dev.dns-oarc.net/" target="_blank">Go</a><br>
+    7. DNS randomness: <a href="https://www.dns-oarc.net/oarc/services/dnsentropy" target="_blank">Go</a><br>
     </p>
   </div>
 </div>
@@ -260,10 +266,7 @@
     <br>
     It prevents DNS hijacking and ISPs from sniffing your traffic. We built an anycast network for our DoH service to give you a good performance.
     </p>
-    <p class="w3-left-align">
-        Qualys SSL Labs SSL: A+ rating - <a href="https://www.ssllabs.com/ssltest/analyze.html?d=doh.blahdns.com">latest report</a>
-    </p>
-    <p class="w3-left-align"><i class="fa fa-bookmark-o" aria-hidden="true"></i> alternative: https://doh.datt.pw/dns-query </p>
+
   </div>
 </div>
 
@@ -273,11 +276,13 @@
 <div class="w3-container w3-white">
   <p class="w3-left-align">
       Encrypted DNS - DNS over TLS <br>
-DNS over TLS support is available on all our services through port 853. <br> 
+DNS over TLS support is available on all our services through port 853 (standard port, some service may support 443). <br> 
 DNS over TLS encrypts and authenticates all your DNS traffic to protect your privacy and prevent DNS hijacking and sniffing.<br>
-Client software support: <a href="https://dnsprivacy.org/wiki/display/DP/DNS+Privacy+Daemon+-+Stubby">Stubby</a> | <a href="https://www.nlnetlabs.nl/projects/unbound/about/"> Unbound</a> <br>
-How to get SPKI &nbsp;
+Client software support: <a href="https://dnsprivacy.org/wiki/display/DP/DNS+Privacy+Daemon+-+Stubby">Stubby</a> | <a href="https://www.nlnetlabs.nl/projects/unbound/about/"> Unbound</a> 
 <br>
+<strong>How to get SPKI </strong> 
+<br>
+Be sure you already install package <i>gnutls-utils</i> <br>
 <code>
     gnutls-cli --print-cert -p 853 108.61.201.119
 </code>
@@ -306,57 +311,57 @@ For troubleshooting go <a href="https://getdnsapi.net/query/">HERE</a>
 
 </div>
 
-<div class="w3-container">
+<!--<div class="w3-container">-->
     
 
-<h2 class="w3-center" style="text-shadow:1px 1px 0 #444">How to setup</h2>
-<div class="w3-border">
-<div class="w3-bar w3-theme">
-  <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openCity(event,'Mac')">Mac</button>
-  <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openCity(event,'Windows')">Windows</button>
-  <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openCity(event,'Router')">Router</button>
-</div>
+<!--<h2 class="w3-center" style="text-shadow:1px 1px 0 #444">How to setup</h2>-->
+<!--<div class="w3-border">-->
+<!--<div class="w3-bar w3-theme">-->
+<!--  <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openCity(event,'Mac')">Mac</button>-->
+<!--  <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openCity(event,'Windows')">Windows</button>-->
+<!--  <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openCity(event,'Router')">Router</button>-->
+<!--</div>-->
 
-<div id="Mac" class="w3-container city w3-animate-opacity">
+<!--<div id="Mac" class="w3-container city w3-animate-opacity">-->
 
-  <ul >
-     <li>1. Open System Preferences</li>
-     <li>2. Search for DNS Servers and select it from the dropdown.</li>
-     <li>3. Click the + button to add a DNS Server and enter IPv4/6</li>
-     <li>4. Click Ok, then click Apply.</li>
-     <li>5. You’re all set! Your device now has faster, more private DNS servers ✌️✌️</li>
-  </ul>
+<!--  <ul >-->
+<!--     <li>1. Open System Preferences</li>-->
+<!--     <li>2. Search for DNS Servers and select it from the dropdown.</li>-->
+<!--     <li>3. Click the + button to add a DNS Server and enter IPv4/6</li>-->
+<!--     <li>4. Click Ok, then click Apply.</li>-->
+<!--     <li>5. You’re all set! Your device now has faster, more private DNS servers ✌️✌️</li>-->
+<!--  </ul>-->
 
-</div>
+<!--</div>-->
 
-<div id="Windows" class="w3-container city w3-animate-opacity">
+<!--<div id="Windows" class="w3-container city w3-animate-opacity">-->
 
-  <ul >
-     <li>1. Click on the Start menu, then click on Control Panel.</li>
-     <li>2. Click on Network and Internet.</li>
-     <li>3. Click on Change Adapter Settings.</li>
-     <li>4. Right click on the Wi-Fi network you are connected to, then click <strong>Properties </strong>.</li>
-     <li>5. Select Internet Protocol Version 4 (or Version 6 if desired).</li>
-     <li>6. Click Properties.</li>
-     <li>7. Click Use The Following DNS Server Addresses.</li>
-     <li>8. Replace those addresses with the Blahdns addresses</li>
-     <li>9. You’re all set! Your device now has faster, more private DNS servers ✌️✌️</li>
-  </ul>
-</div>
+<!--  <ul >-->
+<!--     <li>1. Click on the Start menu, then click on Control Panel.</li>-->
+<!--     <li>2. Click on Network and Internet.</li>-->
+<!--     <li>3. Click on Change Adapter Settings.</li>-->
+<!--     <li>4. Right click on the Wi-Fi network you are connected to, then click <strong>Properties </strong>.</li>-->
+<!--     <li>5. Select Internet Protocol Version 4 (or Version 6 if desired).</li>-->
+<!--     <li>6. Click Properties.</li>-->
+<!--     <li>7. Click Use The Following DNS Server Addresses.</li>-->
+<!--     <li>8. Replace those addresses with the Blahdns addresses</li>-->
+<!--     <li>9. You’re all set! Your device now has faster, more private DNS servers ✌️✌️</li>-->
+<!--  </ul>-->
+<!--</div>-->
 
-<div id="Router" class="w3-container city w3-animate-opacity">
+<!--<div id="Router" class="w3-container city w3-animate-opacity">-->
 
-  <ul >
-     <li>1. Enter your router’s gateway IP address in your browser, exp. 192.168.1.1</li>
-     <li>2. In your router’s configuration page, locate the DNS server settings. (DHCP/WAN)</li>
-     <li>3. Replace those addresses with the Blahdns addresses</li>
-     <li>4. Save your settings, then restart your router.</li>
-     <li>5. You’re all set! Your device now has faster, more private DNS servers ✌️✌️</li>
-  </ul>
-</div>
-</div>
+<!--  <ul >-->
+<!--     <li>1. Enter your router’s gateway IP address in your browser, exp. 192.168.1.1</li>-->
+<!--     <li>2. In your router’s configuration page, locate the DNS server settings. (DHCP/WAN)</li>-->
+<!--     <li>3. Replace those addresses with the Blahdns addresses</li>-->
+<!--     <li>4. Save your settings, then restart your router.</li>-->
+<!--     <li>5. You’re all set! Your device now has faster, more private DNS servers ✌️✌️</li>-->
+<!--  </ul>-->
+<!--</div>-->
+<!--</div>-->
 
-</div>
+<!--</div>-->
 
 </div>
 <!-- End padding -->
