@@ -1,5 +1,6 @@
 ## Announcement
 * I planned to close port 53 around at the end of this year, so be sure you change your connection either to DoT, Doh, DNSCrypt.
+* DNS-over-TLS now support port 443(bypass firewall), 853 by default.
 
 ## Our features
 * Block Tracker, Ads, Malware sites.
@@ -8,8 +9,9 @@
 * OpenNIC TLD
 
 ## Disclaimer
-* This is an experimental service, I'm not responsible for any down-time, be sure you have agree with our [POLICY](https://github.com/ookangzheng/blahdns/blob/master/README.md#policy) before start to use. 
-* This service is for PERSONAL use, big traffic are not welcome.
+* This is an experimental service, I'm not responsible for any down-time.
+* Be sure you have agree with our [POLICY](https://github.com/ookangzheng/blahdns/blob/master/README.md#policy) before start to use. 
+* This service is for PERSONAL use, huge traffic for PTR, ANY, SOA crawling are not welcome.
 * Donation are welcome.
 * Due to some reason, we will change IP randomly.
 
@@ -27,13 +29,14 @@
 |   |   |-- |-- haproxy (https, -- BETA Testing, support TLS 1.3)
 `-- OpenNIC forwarder
 ```
+
 ## Server information
 - Tokyo, Japan
   * IP: 108.61.201.119, 2001:19f0:7001:1ded:5400:01ff:fe90:945b
   * DNS-over-HTTPS: https://doh.blahdns.com/dns-query
     * sdns://AgMAAAAAAAAADjEwOC42MS4yMDEuMTE5AA9kb2guYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
   * DNS-over-TLS: dns.jp.blahdns.com, port 853, 443
-  * DNSCrypt:
+  * DNSCrypt, port 8443:
     * IPv4:  sdns://AQMAAAAAAAAAEzEwOC42MS4yMDEuMTE5Ojg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
     * IPv6:
 sdns://AQMAAAAAAAAALlsyMDAxOjE5ZjA6NzAwMToxZGVkOjU0MDA6MDFmZjpmZTkwOjk0NWJdOjg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
@@ -43,7 +46,7 @@ sdns://AQMAAAAAAAAALlsyMDAxOjE5ZjA6NzAwMToxZGVkOjU0MDA6MDFmZjpmZTkwOjk0NWJdOjg0N
   * DNS-over-HTTPS: https://doh-de.blahdns.com/dns-query
     * sdns://AgMAAAAAAAAADjE1OS42OS4xOTguMTAxABJkb2gtZGUuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
   * DNS-over-TLS: dot-de.blahdns.com, port 853, 443
-  * DNSCrypt:
+  * DNSCrypt, port 8443:
     * IPv4:    sdns://AQMAAAAAAAAAEzE1OS42OS4xOTguMTAxOjg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t 
     * IPv6: sdns://AQMAAAAAAAAAHFsyYTAxOjRmODoxYzFjOjZiNGI6OjFdOjg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
 
