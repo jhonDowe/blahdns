@@ -2,7 +2,10 @@
 
 app.adjust.com 
 ipfs.io
-behance.net
+api.fast.com
+ichnaea-web.netflix.com
+blog.csdn.net
+
 # https://www.reddit.com/r/privacytoolsIO/comments/6j22nd/disable_firefox_detect_captive_portal_in/
 detectportal.firefox.com  
 
@@ -68,7 +71,8 @@ www.gstatic.com
 csi.gstatic.com
 dl.google.com
 www3.l.google.com
-clients1.google.com ~ clients6.google.com
+clients1.google.com
+clients6.google.com
 encrypted-tbn0.gstatic.com
 ssl.gstatic.com
 fonts.gstatic.com
@@ -80,11 +84,11 @@ www.googleapis.com
 redirector.googlevideo.com
 
 ## Facebook
-#b-api.facebook.com -- facebook lite / messenger lite login required
-#b-graph.facebook.com -- facebook lite / messenger lite login required
-#rupload.facebook.com -- tested on mobile messenger while sending voice clip
-#api.facebook.com -- needed while viewing previous voice clip on mobile messenger
-## graph.facebook.com -- not sure yet
+b-api.facebook.com #facebook lite / messenger lite login required
+b-graph.facebook.com #facebook lite / messenger lite login required
+rupload.facebook.com #tested on mobile messenger while sending voice clip
+api.facebook.com #needed while viewing previous voice clip on mobile messenger
+graph.facebook.com #it may break login and developer tool
 scontent-ort2-2.xx.fbcdn.net
 scontent-nrt1-1.xx.fbcdn.net
 fb.me
@@ -98,8 +102,8 @@ apps.facebook.com
 ct-m-fbx.fbsbx.com
 z-m.facebook.com
 z-m.c10r.facebook.com
-l.facebook.com -- desktop -> link shim #https://www.quora.com/Why-are-l-facebook-com-and-lm-facebook-com-appearing-as-a-new-traffic-source-on-analytics
-lm.facebook.com -- mobile -> link shim
+l.facebook.com #https://www.quora.com/Why-are-l-facebook-com-and-lm-facebook-com-appearing-as-a-new-traffic-source-on-analytics
+lm.facebook.com
 m.facebookcom
 instagram.c10r.facebook.com
 static.xx.fbcdn.net
@@ -114,8 +118,7 @@ edge-chat.facebook.com
 6-edge-chat.facebook.com
 external.xx.fbcdn.net
 scontent.xx.fbcdn.net 
-#  get online connection
-edge-mqtt.facebook.com
+edge-mqtt.facebook.com # get online and showing messenger current online status
 star.c10r.facebook.com
 mqtt.c10r.facebook.com
 mqtt-mini.facebook.com
@@ -148,6 +151,7 @@ ow.ly
 j.mp
 goo.gl
 tinyurl.com
+lihi.cc
 
 # Microsoft Connectivity Checker Mahakala
 msftncsi.com
@@ -155,7 +159,7 @@ www.msftncsi.com
 
 # EA / Origin Mahakala, Andy Short, Cameleon & others
 ea.com
-cdn.optimizely.com Used by Origin for content delivery
+cdn.optimizely.com # Used by Origin for content delivery
 
 Blocked by Mahakala
 # Used by Facebook for image uploads
@@ -198,6 +202,7 @@ web.pcbeta.com
 www.pcbeta.com
 
 # Unlisted
+ns1.com
 appcloud.ironbeast.io
 behance.net
 suggestqueries.google.com
