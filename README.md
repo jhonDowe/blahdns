@@ -10,11 +10,10 @@
 
 ## Disclaimer
 * This is an experimental service, I'm not responsible for any down-time.
-* Be sure you have agree with our [POLICY](https://github.com/ookangzheng/blahdns/blob/master/README.md#policy) before start to use. 
+* Be sure you have agree with our [POLICY](https://github.com/ookangzheng/blahdns/#policy) before start to use. 
 * This service is for PERSONAL use, huge traffic for PTR, ANY, SOA crawling are not welcome.
 * Donation are welcome.
 * Due to some reason, we will change IP randomly.
-
 
 ## Server architecture
 
