@@ -1,7 +1,7 @@
 ## Hosts
 
-* [Latest hosts](https://github.com/ookangzheng/blahdns/blob/master/hosts/gravity.list)
-* [Content farm host](https://github.com/ookangzheng/blahdns/blob/master/hosts/contentfarms.host)
+* [Latest RPZ](https://github.com/ookangzheng/blahdns/blob/master/hosts/rpz.blacklist?raw=true)
+* [Content farm host](https://github.com/ookangzheng/blahdns/blob/master/hosts/contentfarms.host?raw=true)
 
 
 ## Source
