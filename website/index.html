@@ -9,8 +9,7 @@
 
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="black.css">
-<!--<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext">-->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<!--<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">-->
 <body>
     
  <style>
@@ -58,7 +57,8 @@
   <div class="w3-indigo w3-center">
     <h3>Announcements</h3>
   </div>
-
+     No logs | OpenNIC TLDs | DNSSEC ready | Filtered ads, tracker, malware 
+     
     <ul class="w3-left-align">
         <li class="w3-text-red">I planned close PORT 53 service at the end of this year, Pls migrate to either Doh, Dot, Dnscrypt service.</li>
         <li class="w3-text-red">DNS-over-TLS now support port 443(bypass firewall), 853 by default.</li>
@@ -70,44 +70,8 @@
         <li>This service is for PERSONAL use, use it wisely. not for big traffic. </li>
         <li class="w3-text-red"><del>Old Germany server: 217.61.0.97 will be delete at October 30, 2018 </del></li>
         <li class="w3-text-red"><del>Germany DNS Server migratation announcement, follow <a href="https://github.com/ookangzheng/blahdns/issues/5">Github issue </a>, will Start at October 28, 2018 8:00:00 AM CEST </del> </li>
-    
     </ul>
-    
-<div class="w3-third">
-  <div class="w3-card w3-container" style="min-height:460px">
-  <h3>Block ads and tracker</h3><br>
-      <div>
-          <img src="img-ad.png" style="width: 200px" alt="">
-      </div>
-      <p>How to block ads on router level? <br> The answer is DNS ad blocking. </p>
-      <p>It can be set up literally on any platform — PC, Mac, Android, iOS, etc. </p> 
-    
-  </div>
-</div>
 
-<div class="w3-third">
-  <div class="w3-card w3-container" style="min-height:460px">
-  <h3>Keep your anonymity</h3><br>
-  <div> <img src="img-privacy.png" style="width: 180px" alt=""> </div>
-  <p>DNS requests are encrypted, which protects you from possible request interception and subsequent eavesdropping and/or alteration.</p>
-  </div>
-</div>
-
-<div class="w3-third">
-  <div class="w3-card w3-container" style="min-height:460px">
-  <h3>Respect your privacy</h3>
-  <br>
-      <div>
-          <img src="img-free.png" style="width: 200px" alt="">
-      </div>
-  
-  <p>
-  Logfree <br> 
-  DNSSEC <br> 
-  OpenNIC TLD <br>
-  </p>
-  </div>
-</div>
 </div>
 
 <div class="w3-container">
@@ -133,17 +97,17 @@
 2001:19f0:7001:1ded:5400:01ff:fe90:945b</textarea>
     </li>
     <li >
-        <h3>Dns-over-HTTPS</h3>
+        <h3>DNS-over-HTTPS</h3>
         <textarea readonly rows="3" cols="50" maxlength="50">https://doh.blahdns.com/dns-query sdns://AgMAAAAAAAAADjEwOC42MS4yMDEuMTE5AA9kb2guYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
         </textarea>
-        <h3>Dns-over-TLS</h3>
+        <h3>DNS-over-TLS</h3>
         <p> 
         tls_auth_name: <br>
         <textarea readonly rows="1" cols="50" maxlength="50">dns.jp.blahdns.com</textarea>
        
         port: 853, 443
         </p>
-        <h3>DNSCrypt</h3>
+        <h3>DNSCrypt v2</h3>
         
         port: 8443
         
@@ -172,17 +136,17 @@
 2a01:4f8:1c1c:6b4b::1</textarea>
     </li>
     <li>
-        <h3>Dns-over-HTTPS</h3>
+        <h3>DNS-over-HTTPS</h3>
             <textarea readonly rows="3" cols="50" maxlength="50">https://doh-de.blahdns.com/dns-query sdns://AgMAAAAAAAAADjE1OS42OS4xOTguMTAxABJkb2gtZGUuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
             </textarea>
-      <h3>Dns-over-TLS</h3>
+      <h3>DNS-over-TLS</h3>
       <p>
           tls_auth_name:<br>
           <textarea readonly rows="1" cols="50" maxlength="50">dot-de.blahdns.com</textarea>
       
       port: 853, 443
       </p>
-      <h3>DNSCrypt</h3>
+      <h3>DNSCrypt v2</h3>
        
         port: 8443
         <p>IPv4 - DNSStamp: <br> 
@@ -210,7 +174,7 @@
     <div class="w3-row">
         <div class="w3-col m4 l3">
     
-    <h3>DNSCrypt</h3>
+    <h3>DNSCrypt v2</h3>
       <ul>
         <li><a href="https://simplednscrypt.org/" target="_blank">Simple DNSCrypt (Windows)</a></li>
         <li><a href="https://github.com/jedisct1/dnscrypt-proxy/releasesy" target="_blank">dnscrypt-proxy (macOS, Linux)</a></li>
@@ -219,7 +183,7 @@
     </div>
     
     <div class="w3-col m4 l3">
-    <h3>Dns-over-TLS</h3>
+    <h3>DNS-over-TLS</h3>
       <ul>
         <li><a href="https://dnsprivacy.org/wiki/display/DP/DNS+Privacy+Daemon+-+Stubby" target="_blank">Stubby</a></li>
         <li><a href="https://www.nlnetlabs.nl/projects/unbound/about/" target="_blank"> Unbound</a></li>
@@ -227,7 +191,7 @@
     </div>
     
     <div class="w3-col m4 l3">
-    <h3>Dns-over-HTTPS</h3>
+    <h3>DNS-over-HTTPS</h3>
       <ul>
         <li> <a href="https://simplednscrypt.org/" target="_blank">Simple DNSCrypt (Windows)</a></li>
         <li><a href="https://github.com/jedisct1/dnscrypt-proxy/releasesy" target="_blank" >dnscrypt-proxy (macOS, Linux)</a></li>
@@ -261,10 +225,14 @@
 
 <div id="Demo1" class="w3-hide">
   <div class="w3-container w3-white">
-    <p class="w3-left-align"> DNS over HTTPS (DoH)<br>
-    DNS over HTTPS is a new protocol designed to encrypt and secure DNS traffic over HTTPS (or HTTP/2).
+    <p class="w3-left-align"> DNS over HTTPs (DoH)<br>
+    DNS over HTTPS is a new protocol designed to encrypt and secure DNS traffic over HTTPs.
     <br>
-    It prevents DNS hijacking and ISPs from sniffing your traffic. We built an anycast network for our DoH service to give you a good performance.
+    It prevents DNS hijacking and ISPs from sniffing your traffic.
+    <br>
+    You can use will Infra on Android Phone, Mozilla firefox nightly, Chrome coming soon.
+    <br>
+    DNSCrypt v2 client does support DoH, see dnscrypt <a href="https://github.com/ookangzheng/blahdns/blob/master/client-conf/dnscrypt/dnscrypt-proxy.toml"><strong>configuration example</strong></a> on Windows, Mac, Ios (DNSCloak)
     </p>
 
   </div>
@@ -275,10 +243,10 @@
 <div id="Demo2" class="w3-hide">
 <div class="w3-container w3-white">
   <p class="w3-left-align">
-      Encrypted DNS - DNS over TLS <br>
+Encrypted DNS - DNS over TLS <br>
 DNS over TLS support is available on all our services through port 853 (standard port, some service may support 443). <br> 
 DNS over TLS encrypts and authenticates all your DNS traffic to protect your privacy and prevent DNS hijacking and sniffing.<br>
-Client software support: <a href="https://dnsprivacy.org/wiki/display/DP/DNS+Privacy+Daemon+-+Stubby">Stubby</a> | <a href="https://www.nlnetlabs.nl/projects/unbound/about/"> Unbound</a> 
+Client software: <a href="https://dnsprivacy.org/wiki/display/DP/DNS+Privacy+Daemon+-+Stubby">Stubby</a> | <a href="https://www.nlnetlabs.nl/projects/unbound/about/"> Unbound</a> 
 <br>
 <strong>How to get SPKI </strong> 
 <br>
@@ -311,57 +279,33 @@ For troubleshooting go <a href="https://getdnsapi.net/query/">HERE</a>
 
 </div>
 
-<!--<div class="w3-container">-->
+<div class="w3-container">
     
 
-<!--<h2 class="w3-center" style="text-shadow:1px 1px 0 #444">How to setup</h2>-->
-<!--<div class="w3-border">-->
-<!--<div class="w3-bar w3-theme">-->
-<!--  <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openCity(event,'Mac')">Mac</button>-->
-<!--  <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openCity(event,'Windows')">Windows</button>-->
-<!--  <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openCity(event,'Router')">Router</button>-->
-<!--</div>-->
+<h2 class="w3-center" style="text-shadow:1px 1px 0 #444">FAQ</h2>
+<div class="w3-border">
+<div class="w3-bar w3-theme">
+  <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openCity(event,'TLS')">Common question</button>
+</div>
 
-<!--<div id="Mac" class="w3-container city w3-animate-opacity">-->
+<div id="TLS" class="w3-container city w3-animate-opacity">
 
-<!--  <ul >-->
-<!--     <li>1. Open System Preferences</li>-->
-<!--     <li>2. Search for DNS Servers and select it from the dropdown.</li>-->
-<!--     <li>3. Click the + button to add a DNS Server and enter IPv4/6</li>-->
-<!--     <li>4. Click Ok, then click Apply.</li>-->
-<!--     <li>5. You’re all set! Your device now has faster, more private DNS servers ✌️✌️</li>-->
-<!--  </ul>-->
+  <ul >
+     <li>Our DNS-over-TLS/HTTPs currently support TLS 1.3, 1.2, view <a href="https://www.ssllabs.com/ssltest/analyze.html?d=doh.blahdns.com&s=108.61.201.119">SSL report </a></li>
+     <li>We do block Ads, tracker, malware domains. We gather all domains from awseome projects who provide trackers, malware blacklist.</li>
+     <li>Do you deny any DNS type? Yes, We drop ANY and SOA types.</li>
+     <li>Why you building this porject? I started this project around 2016. During that time, with my private dns, I need an easy way to filter ads and tracker, so I rent a server and learn how to achive this.</li>
+     <li>Do you logs user data? No, all connection comes to server will automatic convert into 127.0.0.1 ip.</li>
+     <li>Do you monitor data request? If I want to will be yes, but I strongly believe in open internet world. User has its own privacy. That why I consider to shutdown port 53 UDP, and encourage user swith over DNS with encryption ready.</li>
+     <li>Why you dont like huge traffic? I'm still a student. and I run this service with my pocket money and spare time. Just as a hobby to learn somehting new. buying big server or Anti-DDOS service will cost lot.</li>
+  </ul>
 
-<!--</div>-->
+</div>
 
-<!--<div id="Windows" class="w3-container city w3-animate-opacity">-->
 
-<!--  <ul >-->
-<!--     <li>1. Click on the Start menu, then click on Control Panel.</li>-->
-<!--     <li>2. Click on Network and Internet.</li>-->
-<!--     <li>3. Click on Change Adapter Settings.</li>-->
-<!--     <li>4. Right click on the Wi-Fi network you are connected to, then click <strong>Properties </strong>.</li>-->
-<!--     <li>5. Select Internet Protocol Version 4 (or Version 6 if desired).</li>-->
-<!--     <li>6. Click Properties.</li>-->
-<!--     <li>7. Click Use The Following DNS Server Addresses.</li>-->
-<!--     <li>8. Replace those addresses with the Blahdns addresses</li>-->
-<!--     <li>9. You’re all set! Your device now has faster, more private DNS servers ✌️✌️</li>-->
-<!--  </ul>-->
-<!--</div>-->
+</div>
 
-<!--<div id="Router" class="w3-container city w3-animate-opacity">-->
-
-<!--  <ul >-->
-<!--     <li>1. Enter your router’s gateway IP address in your browser, exp. 192.168.1.1</li>-->
-<!--     <li>2. In your router’s configuration page, locate the DNS server settings. (DHCP/WAN)</li>-->
-<!--     <li>3. Replace those addresses with the Blahdns addresses</li>-->
-<!--     <li>4. Save your settings, then restart your router.</li>-->
-<!--     <li>5. You’re all set! Your device now has faster, more private DNS servers ✌️✌️</li>-->
-<!--  </ul>-->
-<!--</div>-->
-<!--</div>-->
-
-<!--</div>-->
+</div>
 
 </div>
 <!-- End padding -->
