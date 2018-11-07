@@ -57,13 +57,13 @@ sdns://AQMAAAAAAAAALlsyMDAxOjE5ZjA6NzAwMToxZGVkOjU0MDA6MDFmZjpmZTkwOjk0NWJdOjg0N
 * DoH via Mozilla Nightly tutorial [Check it out](https://www.ookangzheng.com/mozilla-nightly-enable-dns-over-https/)
 
 ## Related awesome projects
-1. https://github.com/deathbybandaid/piholeparser (Pi-Hole Compatible lists)
-2. https://github.com/mitchellkrogza/Ultimate.Hosts.Blacklist (Ultimate.Hosts.Blacklist)
+1. https://github.com/notracking/hosts-blocklists
+2. https://github.com/publicarray/dns-resolver-infra
 3. https://v.firebog.net/hosts/lists.php?type=nocross
 4. https://github.com/oznu/dns-zone-blacklist (nxdomain)
 5. https://github.com/anudeepND/blacklist/ (blacklist)
 6. https://github.com/anudeepND/whitelist (whitelist)
-6. https://github.com/anudeepND/youtubeadsblacklist
+6. https://github.com/privacytoolsIO/privacytools.io
 
 ## Huge thanks to those OSS and ORG
 1. [Knot-resolver](https://github.com/CZ-NIC/knot-resolver)
