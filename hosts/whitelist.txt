@@ -1,10 +1,62 @@
-### This is custom whitelist maintaince by @ookangzheng
+## This is custom whitelist maintaince by @ookangzheng
+## Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
+# May break site
+dl.dropbox.com
+api.ipify.org
 app.adjust.com 
 ipfs.io
 api.fast.com
 ichnaea-web.netflix.com
 blog.csdn.net
+cdn.jsdelivr.net
+s0.wp.com
+s2.wp.com
+www.wupload.com
+110415.libdd.com
+wwwstatic.megaupload.com
+cp76677.edgefcs.net
+sas.ooyala.com
+a.ooyala.com
+ak.c.ooyala.com
+www-tc.pbs.org
+playerstatic.entropymedia.com
+adcolo.com
+inapcache.boston.com
+lads.myspacecdn.com
+a.fsdn.com
+i.cmpnet.com
+attach2.mobile01.com
+dw.com.com
+m.bestofmedia.com
+o.aolcdn.com
+cdn.gigya.commes.122.2o7.net
+widgets.twimg.com
+zam.zamimg.com
+static.networkedblogs.com
+admin.brightcove.com
+p.jwpcdn.com
+safe.txmblr.com
+f.youku.com
+140cc.v.fwmrm.net
+viarnd.112.2o7.net
+cdn.gotraffic.net
+go.trouter.io
+release.theplatform.com
+z.cdn.turner.com
+# Facebook's pixel is required for clicking on notifications
+pixel.facebook.com
+# Twitch Chat
+mp.twitch.tv
+# Google Drive
+www.googleapis.com
+imasdk.googleapis.com
+# CircleCI uses pusher for actual functionality in their app
+stats.pusher.com
+ws.pusherapp.com
+js.pusher.com
+# NCSoft uses this
+mpsnare.iesnare.com
 
 # https://www.reddit.com/r/privacytoolsIO/comments/6j22nd/disable_firefox_detect_captive_portal_in/
 detectportal.firefox.com  
@@ -183,8 +235,6 @@ s.shopify.com
 
 # Malwarebytes server
 keystone.mwbsys.com 
-dl.dropbox.com
-api.ipify.org
 
 # Unblock pcbeta.com
 bbs.pcbeta.com
