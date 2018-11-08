@@ -1,7 +1,13 @@
-## This is custom whitelist maintaince by @ookangzheng
+## This whitelist maintaince by @ookangzheng
 ## Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
 # May break site
+use.fontawesome.com
+maxcdn.bootstrapcdn.com
+c.trello.com
+1hosts.cf
+app-measurement.com
+mobilenetworkscoring-pa.googleapis.com
 dl.dropbox.com
 api.ipify.org
 app.adjust.com 
