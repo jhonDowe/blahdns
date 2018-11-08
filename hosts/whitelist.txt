@@ -1,21 +1,27 @@
 ## This whitelist maintaince by @ookangzheng
 ## Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
+# Wifi portal login address
+captive.apple.com
+connectivitycheck.gstatic.com
+detectportal.firefox.com # https://www.reddit.com/r/privacytoolsIO/comments/6j22nd/disable_firefox_detect_captive_portal_in/
+msftconnecttest.com
+nmcheck.gnome.org
+
+    
 # May break site
 use.fontawesome.com
 maxcdn.bootstrapcdn.com
-c.trello.com
-1hosts.cf
-app-measurement.com
+c.trello.com # Trello content
+app-measurement.com # Google maps loding maps and other conetent
 mobilenetworkscoring-pa.googleapis.com
 dl.dropbox.com
 api.ipify.org
 app.adjust.com 
 ipfs.io
-api.fast.com
-ichnaea-web.netflix.com
-blog.csdn.net
-cdn.jsdelivr.net
+api.fast.com # Fast speedtest 
+ichnaea-web.netflix.com # Fast speedtest 
+blog.csdn.net # China forum 
 s0.wp.com
 s2.wp.com
 www.wupload.com
@@ -63,9 +69,6 @@ ws.pusherapp.com
 js.pusher.com
 # NCSoft uses this
 mpsnare.iesnare.com
-
-# https://www.reddit.com/r/privacytoolsIO/comments/6j22nd/disable_firefox_detect_captive_portal_in/
-detectportal.firefox.com  
 
 ## Spotify
 beta.spotify.map.fastly.net
@@ -160,7 +163,7 @@ apps.facebook.com
 ct-m-fbx.fbsbx.com
 z-m.facebook.com
 z-m.c10r.facebook.com
-l.facebook.com #https://www.quora.com/Why-are-l-facebook-com-and-lm-facebook-com-appearing-as-a-new-traffic-source-on-analytics
+l.facebook.com # https://www.quora.com/Why-are-l-facebook-com-and-lm-facebook-com-appearing-as-a-new-traffic-source-on-analytics
 lm.facebook.com
 m.facebookcom
 instagram.c10r.facebook.com
