@@ -1,4 +1,4 @@
-## This is custom whitelist maintaince by @ookangzheng
+## This blacklist maintaince by @ookangzheng
 ## Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
 # Malicious -- redirected
