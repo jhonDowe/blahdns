@@ -10,6 +10,9 @@ nmcheck.gnome.org
 
     
 # May break site
+instagram.c10r.facebook.com #instagram
+googlehosted.l.googleusercontent.com #google play
+android.l.google.com #google play
 photos-ugc.l.googleusercontent.com #google photo
 tools.l.google.com #google chrome update
 ytstatic.l.google.com #google chrome update
@@ -148,6 +151,8 @@ www.googleapis.com
 redirector.googlevideo.com
 
 ## Facebook
+snaptu-mini.facebook.com #facebook lite
+snaptu-mini.c10r.facebook.com #facebook lite
 b-api.facebook.com #facebook lite / messenger lite login required
 b-graph.facebook.com #facebook lite / messenger lite login required
 rupload.facebook.com #tested on mobile messenger while sending voice clip
