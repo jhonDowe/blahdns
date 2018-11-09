@@ -104,6 +104,9 @@ wg.spotify.com
 dns.msftncsi.com -- Microsoft check wifi online
 
 ## CDN
+s3.amazonaws.com
+s3-1.amazonaws.com
+cds.j3z9t3p6.hwcdn.net
 cdn.mxpnl.com
 cdn3.optimizely.com
 unpkg.com
@@ -126,6 +129,22 @@ www.a.shifen.com
 www.wshifen.com
 
 ## Google
+tools.l.google.com
+ytstatic.l.google.com
+plus.l.google.com
+blogger.l.google.com
+push.services.mozilla.com
+updates.push.services.mozilla.com
+token.services.mozilla.com
+secure.gravatar.com
+prod.disqus.map.fastlylb.net
+c.disquscdn.com.cdn.cloudflare.net
+snippets.cdn.mozilla.net
+meta.wikimedia.org
+maxmind.com
+ipapi.co
+blogspot.com
+blogspot.l.googleusercontent.com
 yt3.ggpht.com
 youtubei.googleapis.com
 ytimg-edge-static.l.google.com
@@ -269,6 +288,7 @@ web.pcbeta.com
 www.pcbeta.com
 
 # Unlisted
+s0.wp.com
 ns1.com
 appcloud.ironbeast.io
 behance.net
