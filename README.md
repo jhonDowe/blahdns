@@ -11,9 +11,9 @@
 ## Disclaimer
 * This is an experimental service, I'm not responsible for any down-time.
 * Be sure you have agree with our [POLICY](https://github.com/ookangzheng/blahdns/#policy) before start to use. 
-* This service is for PERSONAL use, huge traffic for PTR, ANY, SOA crawling are not welcome.
+* This service is for PERSONAL use, huge traffic for PTR, SOA, NS crawling are not welcome, will drop ANY by default.
 * Donation are welcome.
-* Due to some reason, we will change IP randomly.
+* Due to some reason, we will change IP randomly on Tokyo or Germany.
 
 ## Server architecture
 
