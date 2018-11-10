@@ -1,7 +1,9 @@
 ## This whitelist maintaince by @ookangzheng
 ## Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-# Wifi portal login address
+# Wifi portal or connectivity check
+msftncsi.com
+www.msftncsi.com
 captive.apple.com
 connectivitycheck.gstatic.com
 detectportal.firefox.com # https://www.reddit.com/r/privacytoolsIO/comments/6j22nd/disable_firefox_detect_captive_portal_in/
@@ -11,11 +13,6 @@ nmcheck.gnome.org
     
 # May break site
 instagram.c10r.facebook.com #instagram
-googlehosted.l.googleusercontent.com #google play
-android.l.google.com #google play
-photos-ugc.l.googleusercontent.com #google photo
-tools.l.google.com #google chrome update
-ytstatic.l.google.com #google chrome update
 use.fontawesome.com
 maxcdn.bootstrapcdn.com
 c.trello.com # Trello content
@@ -28,8 +25,6 @@ ipfs.io
 api.fast.com # Fast speedtest 
 ichnaea-web.netflix.com # Fast speedtest 
 blog.csdn.net # China forum 
-s0.wp.com
-s2.wp.com
 www.wupload.com
 110415.libdd.com
 wwwstatic.megaupload.com
@@ -129,18 +124,13 @@ www.a.shifen.com
 www.wshifen.com
 
 ## Google
-tools.l.google.com
-ytstatic.l.google.com
+googlehosted.l.googleusercontent.com #google play
+android.l.google.com #google play
+photos-ugc.l.googleusercontent.com #google photo
+tools.l.google.com #google chrome update
+ytstatic.l.google.com #google chrome update
 plus.l.google.com
 blogger.l.google.com
-push.services.mozilla.com
-updates.push.services.mozilla.com
-token.services.mozilla.com
-secure.gravatar.com
-prod.disqus.map.fastlylb.net
-c.disquscdn.com.cdn.cloudflare.net
-snippets.cdn.mozilla.net
-meta.wikimedia.org
 maxmind.com
 ipapi.co
 blogspot.com
@@ -158,6 +148,10 @@ csi.gstatic.com
 dl.google.com
 www3.l.google.com
 clients1.google.com
+clients2.google.com
+clients3.google.com
+clients4.google.com
+clients5.google.com
 clients6.google.com
 encrypted-tbn0.gstatic.com
 ssl.gstatic.com
@@ -168,6 +162,7 @@ photos-ugc.l.googleusercontent.com
 accounts.google.com
 www.googleapis.com
 redirector.googlevideo.com
+suggestqueries.google.com
 
 ## Facebook
 snaptu-mini.facebook.com #facebook lite
@@ -212,6 +207,12 @@ mqtt.c10r.facebook.com
 mqtt-mini.facebook.com
 lookaside.facebook.com
 
+# Mozilla
+push.services.mozilla.com
+updates.push.services.mozilla.com
+token.services.mozilla.com
+snippets.cdn.mozilla.net
+meta.wikimedia.org
 
 # Tinder app sms verification
 etl.tindersparks.com
@@ -224,12 +225,7 @@ resolver.msg.xiaomi.ne
 
 # Amazon Web Services
 s3.amazonaws.com
-
-# Google Content Andy Short
-clients2.google.com
-clients3.google.com
-clients4.google.com
-clients5.google.com
+s3-1.amazonaws.com
 
 # Link Shortners Openphish, Hostsfile.org
 ppt.cc
@@ -240,10 +236,6 @@ j.mp
 goo.gl
 tinyurl.com
 lihi.cc
-
-# Microsoft Connectivity Checker Mahakala
-msftncsi.com
-www.msftncsi.com
 
 # EA / Origin Mahakala, Andy Short, Cameleon & others
 ea.com
@@ -287,12 +279,16 @@ uc.pcbeta.com
 web.pcbeta.com
 www.pcbeta.com
 
-# Unlisted
+# Wordpress
 s0.wp.com
+s2.wp.com
+secure.gravatar.com
+prod.disqus.map.fastlylb.net
+c.disquscdn.com.cdn.cloudflare.net
+
+# Unlisted
 ns1.com
 appcloud.ironbeast.io
-behance.net
-suggestqueries.google.com
 ipv6.he.net
 js.stripe.com
 q.stripe.com
@@ -300,9 +296,6 @@ assets.adobedtm.com
 whatismyipaddress.com
 www.researchgate.net
 researchgate.net
-g00.msn.com
-www.sdad.guru
-c.msn.com
 widget.uservoice.com
 jsfiddle.net
 crbcdn.jsfiddle.net
@@ -312,3 +305,15 @@ l.betrad.com
 unbouncepages.com
 builder-assets.unbounce.com
 d9hhrg4mnvzow.cloudfront.net
+
+# Microsoft 
+g00.msn.com
+www.sdad.guru
+c.msn.com
+
+
+# Windows 10 update
+## https://docs.microsoft.com/en-us/windows/privacy/manage-windows-endpoints
+cs9.wac.phicdn.net #endpoints are used by the Verizon Content Delivery Network to perform Windows updates
+wac.edgecastcdn.net #endpoints are used by the Verizon Content Delivery Network to perform Windows updates
+cds.d2s7q6s2.hwcdn.net # endpoint is used by the Highwinds Content Delivery Network to perform Windows updates
