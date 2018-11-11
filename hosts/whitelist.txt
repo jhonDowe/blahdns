@@ -99,6 +99,7 @@ wg.spotify.com
 dns.msftncsi.com -- Microsoft check wifi online
 
 ## CDN
+www.algolia.com #codepen
 s3.amazonaws.com
 s3-1.amazonaws.com
 cds.j3z9t3p6.hwcdn.net
