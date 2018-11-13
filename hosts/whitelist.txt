@@ -331,3 +331,9 @@ g.ezoic.net # CNAME of www.techiediaries.com
 # Sogou Input Mobile
 img.shouji.sogou.com # image 
 dsp.brand.sogou.com # image
+
+# Paypal and cdn
+www.paypal.com
+www.glb.paypal.com
+www.paypal.com.edgekey.net
+e16973.a.akamaiedge.net
