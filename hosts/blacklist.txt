@@ -120,3 +120,7 @@ nexusrules.officeapps.live.com
 sb.scorecardresearch.com
 www.google-analytics.com
 config2.mparticle.com
+
+# Akamai DNS tools
+# https://developer.akamai.com/blog/2018/05/10/introducing-new-whoami-tool-dns-resolver-information
+whoami.akamai.net # will block and discontinue, pls use whoami.ds.akahelp.net
