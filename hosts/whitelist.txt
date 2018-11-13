@@ -337,3 +337,7 @@ www.paypal.com
 www.glb.paypal.com
 www.paypal.com.edgekey.net
 e16973.a.akamaiedge.net
+
+# Hubspot
+github.hubspot.com
+hubspot.com
