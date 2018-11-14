@@ -28,7 +28,6 @@ mobilenetworkscoring-pa.googleapis.com
 dl.dropbox.com
 api.ipify.org
 app.adjust.com 
-ipfs.io
 api.fast.com # Fast speedtest 
 ichnaea-web.netflix.com # Fast speedtest 
 blog.csdn.net # China forum 
@@ -65,7 +64,7 @@ go.trouter.io
 release.theplatform.com
 z.cdn.turner.com
 # Facebook's pixel is required for clicking on notifications
-pixel.facebook.com
+# pixel.facebook.com # still controversial
 # Twitch Chat
 mp.twitch.tv
 # Google Drive
@@ -90,7 +89,6 @@ ap.spotify.com
 api-spotify.com
 api-partner.spotify.com
 api-tv.spotify.com
-apresolve.spotify.com
 audio-sp.spotify.com
 dealer.spotify.com
 dealer-ssl.spotify.com
@@ -101,11 +99,14 @@ play.spotify.com
 spclient.spotify.com
 sto3.spotify.com
 wg.spotify.com
+apresolve.spotify.com
+weblb-wg.dual-gslb.spotify.com
 
 ## Check internet online status
 dns.msftncsi.com -- Microsoft check wifi online
 
-## CDN
+## CDN or toolskit
+maxmind.com
 www.algolia.com #codepen
 s3.amazonaws.com
 s3-1.amazonaws.com
@@ -133,6 +134,8 @@ www.a.shifen.com
 www.wshifen.com
 
 ## Google
+manifest.googlevideo.com # Youtube video won't show if blocked
+i9.ytimg.com # Youtube 
 googlehosted.l.googleusercontent.com #google play
 android.l.google.com #google play
 photos-ugc.l.googleusercontent.com #google photo
@@ -140,16 +143,14 @@ tools.l.google.com #google chrome update
 ytstatic.l.google.com #google chrome update
 plus.l.google.com
 blogger.l.google.com
-maxmind.com
-ipapi.co
 blogspot.com
 blogspot.l.googleusercontent.com
 yt3.ggpht.com
 youtubei.googleapis.com
 ytimg-edge-static.l.google.com
 s.youtube.com
-android.l.google.com
-android.clients.google.com
+android.clients.google.com  # Android play
+android.l.google.com # Android play
 googleapis.l.google.com
 play.googleapis.com
 www.gstatic.com
@@ -174,20 +175,20 @@ redirector.googlevideo.com
 suggestqueries.google.com
 
 ## Facebook
-snaptu-mini.facebook.com #facebook lite
-snaptu-mini.c10r.facebook.com #facebook lite
-b-api.facebook.com #facebook lite / messenger lite login required
-b-graph.facebook.com #facebook lite / messenger lite login required
-rupload.facebook.com #tested on mobile messenger while sending voice clip
-api.facebook.com #needed while viewing previous voice clip on mobile messenger
-graph.facebook.com #it may break login and developer tool
+snaptu-mini.facebook.com # facebook lite
+snaptu-mini.c10r.facebook.com # facebook lite
+b-api.facebook.com # facebook lite / messenger lite login required
+b-graph.facebook.com # facebook lite / messenger lite login required
+rupload.facebook.com # tested on mobile messenger while sending voice clip
+api.facebook.com # needed while viewing previous voice clip on mobile messenger
+# graph.facebook.com # it may break login and developer tool
 scontent-ort2-2.xx.fbcdn.net
 scontent-nrt1-1.xx.fbcdn.net
 fb.me
 fb.com
 fbcdn-profile-a.akamaihd.net
-#connect.facebook.net.edgekey.net
-#connect.facebook.net
+# connect.facebook.net.edgekey.net
+# connect.facebook.net
 static.ak.connect.facebook.com
 s-static.ak.facebook.com
 apps.facebook.com
@@ -235,6 +236,8 @@ resolver.msg.xiaomi.ne
 # Amazon Web Services
 s3.amazonaws.com
 s3-1.amazonaws.com
+c.media-amazon.com # IMDB
+fls-na.amazon.com # IMDB
 
 # Link Shortners Openphish, Hostsfile.org
 ppt.cc
@@ -295,32 +298,15 @@ secure.gravatar.com
 prod.disqus.map.fastlylb.net
 c.disquscdn.com.cdn.cloudflare.net
 
-# Unlisted
-ns1.com
-appcloud.ironbeast.io
-ipv6.he.net
-js.stripe.com
-q.stripe.com
-assets.adobedtm.com
-whatismyipaddress.com
-www.researchgate.net
-researchgate.net
-widget.uservoice.com
-jsfiddle.net
-crbcdn.jsfiddle.net
-xd.adobelanding.com
-c.evidon.com
-l.betrad.com
-unbouncepages.com
-builder-assets.unbounce.com
-d9hhrg4mnvzow.cloudfront.net
-
 # Microsoft 
 g00.msn.com
 www.sdad.guru
 c.msn.com
 
 # Windows 10 update
+wdcp.microsoft.com # Windows defender
+wdcpalt.microsoft.com # https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-antivirus/configure-network-connections-windows-defender-antivirus
+
 ## https://docs.microsoft.com/en-us/windows/privacy/manage-windows-endpoints
 cs9.wac.phicdn.net # endpoints are used by the Verizon Content Delivery Network to perform Windows updates
 wac.edgecastcdn.net # endpoints are used by the Verizon Content Delivery Network to perform Windows updates
@@ -341,3 +327,68 @@ e16973.a.akamaiedge.net
 # Hubspot
 github.hubspot.com
 hubspot.com
+
+# Apple
+itunes.apple.com
+appleid.apple.com
+captive.apple.com 
+gsp1.apple.com
+
+# Xbox live
+xbox.ipv6.microsoft.com 
+device.auth.xboxlive.com 
+www.msftncsi.com 
+title.mgt.xboxlive.com 
+xsts.auth.xboxlive.com 
+title.auth.xboxlive.com 
+ctldl.windowsupdate.com 
+attestation.xboxlive.com 
+xboxexperiencesprod.experimentation.xboxlive.com 
+xflight.xboxlive.com 
+cert.mgt.xboxlive.com 
+xkms.xboxlive.com 
+def-vef.xboxlive.com 
+notify.xboxlive.com 
+help.ui.xboxlive.com 
+licensing.xboxlive.com 
+eds.xboxlive.com 
+www.xboxlive.com 
+v10.vortex-win.data.microsoft.com 
+settings-win.data.microsoft.com
+clientconfig.passport.net
+
+# Times.com nydailys.com
+delivery.vidible.tv 
+img.vidible.tv 
+videos.vidible.tv 
+edge.api.brightcove.com 
+cdn.vidible.tv
+
+# CNN
+dynaimage.cdn.turner.com # ios CNN image will load
+
+# Unlisted
+ns1.com
+appcloud.ironbeast.io
+he.net
+ipv6.he.net
+js.stripe.com
+q.stripe.com
+assets.adobedtm.com
+whatismyipaddress.com
+www.researchgate.net
+researchgate.net
+widget.uservoice.com
+jsfiddle.net
+crbcdn.jsfiddle.net
+xd.adobelanding.com
+c.evidon.com
+l.betrad.com
+unbouncepages.com
+builder-assets.unbounce.com
+d9hhrg4mnvzow.cloudfront.net
+h-sdk.online-metrix.net
+cdn.cpnscdn.com #BJSapp
+api.target.com # target.com
+redsky.target.com # target.com
+profile.target.com # target.com
