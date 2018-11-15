@@ -80,7 +80,6 @@ mpsnare.iesnare.com
 ## Spotify
 beta.spotify.map.fastly.net
 geo3.ggpht.com
-googlehosted.l.googleusercontent.com
 redirector.gvt1.com
 audio-fa.scdn.co # do not block while using chromecast
 ## break windows client
@@ -366,6 +365,11 @@ cdn.vidible.tv
 
 # CNN
 dynaimage.cdn.turner.com # ios CNN image will load
+
+# OCSP-Servers 
+ocsp.verisign.com
+a652.dscb.akamai.net # CNAME of ocsp.comodoca.com
+ocsp.godaddy.com.akadns.net # ocsp.godaddy.com
 
 # Unlisted
 ns1.com
