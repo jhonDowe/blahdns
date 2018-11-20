@@ -396,3 +396,8 @@ cdn.cpnscdn.com #BJSapp
 api.target.com # target.com
 redsky.target.com # target.com
 profile.target.com # target.com
+
+# eBay classified apps
+de.ioam.de
+config.ioam.de
+api.ebay-kleinanzeigen.de
