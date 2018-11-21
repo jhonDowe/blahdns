@@ -401,3 +401,6 @@ profile.target.com # target.com
 de.ioam.de
 config.ioam.de
 api.ebay-kleinanzeigen.de
+
+# Allow only segment.com main site
+segment.com
