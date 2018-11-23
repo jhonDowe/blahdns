@@ -4,7 +4,7 @@
 
 ## Our features
 * Block Tracker, Ads, Malware sites.
-* No EDNS Client-Subnet
+* No EDNS Client-Subnet (May slow down your CDN)
 * DNSSEC ready
 * No logs
 * OpenNIC TLD
