@@ -317,12 +317,6 @@ g.ezoic.net # CNAME of www.techiediaries.com
 img.shouji.sogou.com # image 
 dsp.brand.sogou.com # image
 
-# Paypal and cdn
-www.paypal.com
-www.glb.paypal.com
-www.paypal.com.edgekey.net
-e16973.a.akamaiedge.net
-
 # Hubspot
 github.hubspot.com
 hubspot.com
@@ -371,6 +365,26 @@ ocsp.verisign.com
 a652.dscb.akamai.net # CNAME of ocsp.comodoca.com
 ocsp.godaddy.com.akadns.net # ocsp.godaddy.com
 
+# Payment
+## Paypal and cdn
+www.paypal.com
+www.glb.paypal.com
+www.paypal.com.edgekey.net
+e16973.a.akamaiedge.net
+## Stripe
+stripe.com
+
+# eBay classified apps
+de.ioam.de
+config.ioam.de
+api.ebay-kleinanzeigen.de
+
+# Allow only segment.com main site
+segment.com
+
+# Walmart email tracking shipping 
+rptrcks.walmart.com
+
 # Unlisted
 ns1.com
 appcloud.ironbeast.io
@@ -396,14 +410,3 @@ cdn.cpnscdn.com #BJSapp
 api.target.com # target.com
 redsky.target.com # target.com
 profile.target.com # target.com
-
-# eBay classified apps
-de.ioam.de
-config.ioam.de
-api.ebay-kleinanzeigen.de
-
-# Allow only segment.com main site
-segment.com
-
-# Walmart email tracking shipping 
-rptrcks.walmart.com
