@@ -1,9 +1,10 @@
 ## Announcement
-* I planned to close port 53 around at the end of this year, so be sure you change your connection either to DoT, Doh, DNSCrypt.
+* I planned to close port 53 around at the end of this year, so be sure you change your connection either to DoT, DoH, DNSCryptv2.
 * DNS-over-TLS now support port 443(bypass firewall), 853 by default.
 
 ## Our features
 * Block Tracker, Ads, Malware sites.
+* No EDNS Client-Subnet
 * DNSSEC ready
 * No logs
 * OpenNIC TLD
