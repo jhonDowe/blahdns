@@ -385,6 +385,13 @@ segment.com
 # Walmart email tracking shipping 
 rptrcks.walmart.com
 
+# Wix CDN
+tg1.premium.dc11.wix.com
+www17.wixdns.net
+tg1.premium.db4.wix.com
+balancer.wixdns.net
+tg1.premium.db4.wix.com
+
 # Unlisted
 ns1.com
 appcloud.ironbeast.io
