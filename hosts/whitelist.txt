@@ -404,3 +404,6 @@ api.ebay-kleinanzeigen.de
 
 # Allow only segment.com main site
 segment.com
+
+# Walmart email tracking shipping 
+rptrcks.walmart.com
