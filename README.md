@@ -64,7 +64,8 @@ sdns://AQMAAAAAAAAALlsyMDAxOjE5ZjA6NzAwMToxZGVkOjU0MDA6MDFmZjpmZTkwOjk0NWJdOjg0N
 4. https://github.com/oznu/dns-zone-blacklist (nxdomain)
 5. https://github.com/anudeepND/blacklist/ (blacklist)
 6. https://github.com/anudeepND/whitelist (whitelist)
-6. https://github.com/privacytoolsIO/privacytools.io
+7. https://github.com/privacytoolsIO/privacytools.io
+8. https://github.com/maravento/blackweb
 
 ## Huge thanks to those OSS and ORG
 1. [Knot-resolver](https://github.com/CZ-NIC/knot-resolver)
