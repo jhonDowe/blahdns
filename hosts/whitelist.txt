@@ -392,6 +392,12 @@ tg1.premium.db4.wix.com
 balancer.wixdns.net
 tg1.premium.db4.wix.com
 
+# VK.com
+vk.com
+pp.userapi.com
+userapi.com
+
+
 # Unlisted
 ns1.com
 appcloud.ironbeast.io
