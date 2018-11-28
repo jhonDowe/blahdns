@@ -35,6 +35,7 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 
 ### Tracker
+https://github.com/jawz101/MobileAdTrackers/blob/master/hosts
 https://v.firebog.net/hosts/Easyprivacy.txt
 https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
