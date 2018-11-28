@@ -397,6 +397,9 @@ vk.com
 pp.userapi.com
 userapi.com
 
+#tianya.cn
+static.tianyaui.com
+static.tianya.cn
 
 # Unlisted
 ns1.com
