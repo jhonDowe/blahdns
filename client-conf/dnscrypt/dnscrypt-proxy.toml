@@ -1,130 +1,25 @@
-server_names = ['blahdns-jp-dnscrypt-v4','blahdns-de-dnscrypt-v4','blahdns-jp-doh','blahdns-de-doh', 'google']
-
-## List of local addresses and ports to listen to. Can be IPv4 and/or IPv6.
-## Note: When using systemd socket activation, choose an empty set (i.e. [] ).
-
+server_names = ['blahdns-jp-dnscrypt-v4','blahdns-de-dnscrypt-v4','blahdns-jp-doh','blahdns-de-doh']
 listen_addresses = ['127.0.0.1:53', '[::1]:53']
-
-## Maximum number of simultaneous client connections to accept
-
 max_clients = 250
-
-## Always use TCP to connect to upstream servers.
-## This can be can be useful if you need to route everything through Tor.
-## Otherwise, leave this to `false`, as it doesn't improve security
-## (dnscrypt-proxy will always encrypt everything even using UDP), and can
-## only increase latency.
-
 force_tcp = false
-
-## How long a DNS query will wait for a response, in milliseconds
-
 timeout = 2000
-
-## Keepalive for HTTP (HTTPS, HTTP/2) queries, in seconds
-
 keepalive = 30
 
 ## Load-balancing strategy: 'p2' (default), 'ph', 'fastest' or 'random'
-
 lb_strategy = 'p2'
 
 ## Delay, in minutes, after which certificates are reloaded
-
 cert_refresh_delay = 240
-
-## DNSCrypt: Create a new, unique key for every single DNS query
-## This may improve privacy but can also have a significant impact on CPU usage
-## Only enable if you don't have a lot of network load
-
-# dnscrypt_ephemeral_keys = false
-
-## DoH: Disable TLS session tickets - increases privacy but also latency
-
-# tls_disable_session_tickets = false
-
-## DoH: Use a specific cipher suite instead of the server preference
-## 49199 = TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
-## 49195 = TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256
-## 52392 = TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305
-## 52393 = TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305
-##
-## On non-Intel CPUs such as MIPS routers and ARM systems (Android, Raspberry Pi...),
-## the following suite improves performance.
-## This may also help on Intel CPUs running 32-bit operating systems.
-##
-## Keep tls_cipher_suite empty if you have issues fetching sources or
-## connecting to some DoH servers. Google and Cloudflare are fine with it.
-
-# tls_cipher_suite = [52392, 49199]
-
-## Fallback resolver
-## This is a normal, non-encrypted DNS resolver, that will be only used
-## for one-shot queries when retrieving the initial resolvers list, and
-## only if the system DNS configuration doesn't work.
-## No user application queries will ever be leaked through this resolver,
-## and it will not be used after IP addresses of resolvers URLs have been found.
-## It will never be used if lists have already been cached, and if stamps
-## don't include host names without IP addresses.
-## It will not be used if the configured system DNS works.
-## A resolver supporting DNSSEC is recommended. This may become mandatory.
-##
-## People in China may need to use 114.114.114.114:53 here.
-## Other popular options include 8.8.8.8 and 1.1.1.1.
-
-fallback_resolver = '1.1.1.1:53,8.8.8.8:53'
-
-## Never let dnscrypt-proxy try to use the system DNS settings;
-## unconditionally use the fallback resolver.
-
+fallback_resolver = '9.9.9.9:53'
 ignore_system_dns = false
-
-## Maximum time (in seconds) to wait for network connectivity before
-## initializing the proxy.
-## Useful if the proxy is automatically started at boot, and network
-## connectivity is not guaranteed to be immediately available.
-## Use 0 to disable.
-
 netprobe_timeout = 30
-
-#########################
-#        Filters        #
-#########################
-
-## Immediately respond to IPv6-related queries with an empty response
-## This makes things faster when there is no IPv6 connectivity, but can
-## also cause reliability issues with some stub resolvers.
-## Do not enable if you added a validating resolver such as dnsmasq in front
-## of the proxy.
-
 block_ipv6 = false
 
-###########################
-#        DNS cache        #
-###########################
-
-## Enable a DNS cache to reduce latency and outgoing traffic
-
 cache = false
-
-## Cache size
-
 cache_size = 512
-
-## Minimum TTL for cached entries
-
 cache_min_ttl = 9
-
-## Maximum TTL for cached entries
-
 cache_max_ttl = 90
-
-## Minimum TTL for negatively cached entries
-
 cache_neg_min_ttl = 2
-
-## Maximum TTL for negatively cached entries
-
 cache_neg_max_ttl = 6
 
 [static]
@@ -146,6 +41,3 @@ stamp = 'sdns://AQMAAAAAAAAAEzE1OS42OS4xOTguMTAxOjg0NDMgyJjbSS4IgTY_2KH3NVGG0DNI
 
 [static.'blahdns-de-dnscrypt-v6']
 stamp = 'sdns://AQMAAAAAAAAAHFsyYTAxOjRmODoxYzFjOjZiNGI6OjFdOjg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t'
-
-[static.'google']
-stamp = 'sdns://AgUAAAAAAAAAAAAOZG5zLmdvb2dsZS5jb20NL2V4cGVyaW1lbnRhbA'
