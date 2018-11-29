@@ -401,6 +401,34 @@ userapi.com
 static.tianyaui.com
 static.tianya.cn
 
+# Homepage: https://www.kuketz-blog.de
+# URL: https://media.kuketz.de/lists/mobile_list.txt
+# Just main domain
+crashlytics.com
+matchinguu.com
+app-measurement.com
+mparticle.com
+apptimize.com
+pushwoosh.com
+hockeyapp.net
+liftoff.io
+wywy.com
+aatkit.com
+tracking.i2w.io
+clicktale.net
+decibelinsight.net
+fullstory.com
+hotjar.com
+inspectlet.com
+mouseflow.com
+quantummetric.com
+sessioncam.com
+smartlook.com
+userreplay.net
+yandex.ru
+logrocket.com 
+salemove.com
+
 # Unlisted
 ns1.com
 appcloud.ironbeast.io
