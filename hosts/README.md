@@ -6,7 +6,7 @@
 
 ## Source
 ### All-in-one
-https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/hosts (blu)
+
 https://hblock.molinero.xyz/hosts
 http://sbc.io/hosts/alternates/fakenews/hosts
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
@@ -46,3 +46,6 @@ https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
 https://adaway.org/hosts.txt
 https://v.firebog.net/hosts/AdguardDNS.txt
 https://hosts-file.net/ad_servers.txt
+
+### Too aggresive
+https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/hosts (blu) 
