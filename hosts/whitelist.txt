@@ -18,62 +18,18 @@ cds.s5x3j6q5.hwcdn.net
 use.typekit.net # CDN
 use.typekit.com
 
-# May break site
-instagram.c10r.facebook.com #instagram
-use.fontawesome.com
-maxcdn.bootstrapcdn.com
-c.trello.com # Trello content
-app-measurement.com # Google maps loding maps and other conetent
-mobilenetworkscoring-pa.googleapis.com
-dl.dropbox.com
-api.ipify.org
-app.adjust.com 
-api.fast.com # Fast speedtest 
-ichnaea-web.netflix.com # Fast speedtest 
-blog.csdn.net # China forum 
-www.wupload.com
-110415.libdd.com
-wwwstatic.megaupload.com
-cp76677.edgefcs.net
-sas.ooyala.com
-a.ooyala.com
-ak.c.ooyala.com
-www-tc.pbs.org
-playerstatic.entropymedia.com
-adcolo.com
-inapcache.boston.com
-lads.myspacecdn.com
-a.fsdn.com
-i.cmpnet.com
-attach2.mobile01.com
-dw.com.com
-m.bestofmedia.com
-o.aolcdn.com
-cdn.gigya.commes.122.2o7.net
-widgets.twimg.com
-zam.zamimg.com
-static.networkedblogs.com
-admin.brightcove.com
-p.jwpcdn.com
-safe.txmblr.com
-f.youku.com
-140cc.v.fwmrm.net
-viarnd.112.2o7.net
-cdn.gotraffic.net
-go.trouter.io
-release.theplatform.com
-z.cdn.turner.com
-# Facebook's pixel is required for clicking on notifications
-# pixel.facebook.com # still controversial
 # Twitch Chat
 mp.twitch.tv
+
 # Google Drive
 www.googleapis.com
 imasdk.googleapis.com
+
 # CircleCI uses pusher for actual functionality in their app
 stats.pusher.com
 ws.pusherapp.com
 js.pusher.com
+
 # NCSoft uses this
 mpsnare.iesnare.com
 
@@ -173,14 +129,41 @@ www.googleapis.com
 redirector.googlevideo.com
 suggestqueries.google.com
 
+## Instagram
+instagram.c10r.facebook.com
+cdninstagram.com
+scontent.cdninstagram.com
+curvesncombatboots.com
+instagram.c10r.facebook.com
+
 ## Facebook
+
+# Facebook's pixel is required for clicking on notifications
+# pixel.facebook.com # still controversial
+
+res.cloudinary.com # for upload picture
+h.facebook.com
+l.facebook.com # https://www.quora.com/Why-are-l-facebook-com-and-lm-facebook-com-appearing-as-a-new-traffic-source-on-analytics
+mobile.beta.facebook.com
+mobile.facebook.com
+web.beta.facebook.com
+web.facebook.com
+zero.facebook.com
+b-www.facebook.com
+free.facebook.com
+check4.facebook.com
+check6.facebook.com
+error.facebook.com
+h.beta.facebook.com
+lookaside.facebook.com
+
 snaptu-mini.facebook.com # facebook lite
 snaptu-mini.c10r.facebook.com # facebook lite
 b-api.facebook.com # facebook lite / messenger lite login required
 b-graph.facebook.com # facebook lite / messenger lite login required
 rupload.facebook.com # tested on mobile messenger while sending voice clip
 api.facebook.com # needed while viewing previous voice clip on mobile messenger
-# graph.facebook.com # it may break login and developer tool
+graph.facebook.com # it may break login and developer tool
 scontent-ort2-2.xx.fbcdn.net
 scontent-nrt1-1.xx.fbcdn.net
 fb.me
@@ -194,10 +177,8 @@ apps.facebook.com
 ct-m-fbx.fbsbx.com
 z-m.facebook.com
 z-m.c10r.facebook.com
-l.facebook.com # https://www.quora.com/Why-are-l-facebook-com-and-lm-facebook-com-appearing-as-a-new-traffic-source-on-analytics
 lm.facebook.com
 m.facebookcom
-instagram.c10r.facebook.com
 static.xx.fbcdn.net
 cdn.fbsbx.com
 edge-chat.facebook.com
@@ -214,7 +195,6 @@ edge-mqtt.facebook.com # get online and showing messenger current online status
 star.c10r.facebook.com
 mqtt.c10r.facebook.com
 mqtt-mini.facebook.com
-lookaside.facebook.com
 
 # Mozilla
 push.services.mozilla.com
@@ -359,11 +339,17 @@ cdn.vidible.tv
 
 # CNN
 dynaimage.cdn.turner.com # ios CNN image will load
+cvp1.cdn.turner.com
+z.cdn.turner.com
 
 # OCSP-Servers 
 ocsp.verisign.com
 a652.dscb.akamai.net # CNAME of ocsp.comodoca.com
 ocsp.godaddy.com.akadns.net # ocsp.godaddy.com
+ocsp.int-x3.letsencrypt.org
+ocsp.int-x4.letsencrypt.org
+ocsp.int-x2.letsencrypt.org
+ocsp.int-x1.letsencrypt.org
 
 # Payment
 ## Paypal and cdn
@@ -371,8 +357,11 @@ www.paypal.com
 www.glb.paypal.com
 www.paypal.com.edgekey.net
 e16973.a.akamaiedge.net
+
 ## Stripe
 stripe.com
+js.stripe.com # stripe
+q.stripe.com # stripe
 
 # eBay classified apps
 de.ioam.de
@@ -429,23 +418,52 @@ yandex.ru
 logrocket.com 
 salemove.com
 
+# Fox6now
+fox6now.com
+fox13now.com
+fox17online.com
+fox2now.com
+fox40.com
+fox43.com
+fox4kc.com
+fox59.com
+fox5sandiego.com
+fox8.com
+foxsports.com.au
+myfox8.com
+q13fox.com
+
+# Video wont play
+c.amazon-adsystem.com
+amp.usatoday.com
+
 # Unlisted
-ns1.com
+buy.geni.us # https://www.pcworld.com/article/3317848/storage/the-spacious-1tb-sandisk-ultra-ssd-is-one-of-the-best-drives-you-can-buy-and-its-cheaper-than-ever.html
+www.roadandtrack.com
+ads.talkbusiness.net
+talkbusiness.net
+www.miaminewtimes.com
+go.redirectingat.com
+redirectingat.com
+www.redirectingat.com
+www.skimresources.com
+www.kcsoftwares.com
+imageshack.com
+winfuture.de # German news site
+ns1.com # domain name provider/ dns
 appcloud.ironbeast.io
-he.net
-ipv6.he.net
-js.stripe.com
-q.stripe.com
-assets.adobedtm.com
+he.net # DNS provider
+ipv6.he.net # DNS provider
 whatismyipaddress.com
 www.researchgate.net
 researchgate.net
 widget.uservoice.com
-jsfiddle.net
-crbcdn.jsfiddle.net
+jsfiddle.net # Javascript online playground
+crbcdn.jsfiddle.net # Javascript online playground
 xd.adobelanding.com
 c.evidon.com
 l.betrad.com
+assets.adobedtm.com # Adobe tutorial assets wont load
 unbouncepages.com
 builder-assets.unbounce.com
 d9hhrg4mnvzow.cloudfront.net
@@ -454,3 +472,61 @@ cdn.cpnscdn.com #BJSapp
 api.target.com # target.com
 redsky.target.com # target.com
 profile.target.com # target.com
+
+# May break site
+ap.org # News main stream
+cdn.gotraffic.net
+promotions.newegg.com
+www.ojrq.net
+trafficrouter.io
+go.trafficrouter.io
+nanopool.org 
+target.georiot.com
+georiot.com
+zdbb.net
+redirect.viglink.com
+viglink.com
+survey.forseeresults.com
+mandrillapp.com
+use.fontawesome.com # Font-awesome CDN
+maxcdn.bootstrapcdn.com #bootstrap CDN
+c.trello.com # Trello content
+app-measurement.com # Google maps loding maps and other conetent
+mobilenetworkscoring-pa.googleapis.com
+dl.dropbox.com
+api.ipify.org
+app.adjust.com 
+api.fast.com # Fast speedtest 
+ichnaea-web.netflix.com # Fast speedtest 
+blog.csdn.net # China forum 
+www.wupload.com
+110415.libdd.com
+wwwstatic.megaupload.com
+cp76677.edgefcs.net
+sas.ooyala.com
+a.ooyala.com
+ak.c.ooyala.com
+www-tc.pbs.org
+playerstatic.entropymedia.com
+adcolo.com
+inapcache.boston.com
+lads.myspacecdn.com
+a.fsdn.com
+i.cmpnet.com
+attach2.mobile01.com
+dw.com.com
+m.bestofmedia.com
+o.aolcdn.com
+cdn.gigya.commes.122.2o7.net
+widgets.twimg.com
+zam.zamimg.com
+static.networkedblogs.com
+admin.brightcove.com
+p.jwpcdn.com
+safe.txmblr.com
+f.youku.com
+140cc.v.fwmrm.net
+viarnd.112.2o7.net
+cdn.gotraffic.net
+go.trouter.io
+release.theplatform.com
