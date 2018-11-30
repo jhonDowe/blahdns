@@ -66,6 +66,7 @@ sdns://AQMAAAAAAAAALlsyMDAxOjE5ZjA6NzAwMToxZGVkOjU0MDA6MDFmZjpmZTkwOjk0NWJdOjg0N
 6. https://github.com/anudeepND/whitelist (whitelist)
 7. https://github.com/privacytoolsIO/privacytools.io
 8. https://github.com/maravento/blackweb
+9. https://freek.ws/public-pi-hole/
 
 ## Huge thanks to those OSS and ORG
 1. [Knot-resolver](https://github.com/CZ-NIC/knot-resolver)
