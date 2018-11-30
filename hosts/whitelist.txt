@@ -531,3 +531,7 @@ viarnd.112.2o7.net
 cdn.gotraffic.net
 go.trouter.io
 release.theplatform.com
+
+# Leo dict
+dict.leo.org
+ap.orgdict.leo.org
