@@ -34,8 +34,9 @@ js.pusher.com
 mpsnare.iesnare.com
 
 ## Spotify
+googlehosted.l.googleusercontent.com
 beta.spotify.map.fastly.net
-geo3.ggpht.com
+geo3.ggpht.com # Google map also use
 redirector.gvt1.com
 audio-fa.scdn.co # do not block while using chromecast
 ## break windows client
