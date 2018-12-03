@@ -391,6 +391,9 @@ userapi.com
 static.tianyaui.com
 static.tianya.cn
 
+# Codecanyon
+codecanyon.net
+
 # Homepage: https://www.kuketz-blog.de
 # URL: https://media.kuketz.de/lists/mobile_list.txt
 # Just main domain
