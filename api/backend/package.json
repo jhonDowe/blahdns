@@ -1,0 +1,29 @@
+{
+  "name": "survey",
+  "version": "0.0.1",
+  "description": "A platform for checking domain name is blacklist or not",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ookanzheng/blahdns.git"
+  },
+  "keywords": [
+    "blahdns"
+  ],
+  "author": "ookangzheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ookanzheng/blahdns/issues"
+  },
+  "homepage": "https://github.com/ookanzheng/blahdns#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "dns-lookup": "^0.1.0",
+    "express": "^4.16.4"
+  }
+}
