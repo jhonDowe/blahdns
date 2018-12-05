@@ -68,6 +68,9 @@ sdns://AQMAAAAAAAAALlsyMDAxOjE5ZjA6NzAwMToxZGVkOjU0MDA6MDFmZjpmZTkwOjk0NWJdOjg0N
 8. https://github.com/maravento/blackweb
 9. https://freek.ws/public-pi-hole/
 
+## Awesome dns-resolver
+https://gist.github.com/ookangzheng/c8fba46fe1dbcc8152e3231f53f91e86
+
 ## Huge thanks to those OSS and ORG
 1. [Knot-resolver](https://github.com/CZ-NIC/knot-resolver)
 2. [Dnsdist](https://dnsdist.org)
