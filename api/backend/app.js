@@ -1,12 +1,10 @@
-var express = require('express')
-// const lookup = require('dns-lookup')
-var app = express()
+const service = require('restana')();
 const {
     Resolver
 } = require('dns').promises;
 const resolver = new Resolver();
-var cors = require('cors');
-app.use(cors({
+const cors = require('cors');
+service.use(cors({
     'allowedHeaders': ['sessionId', 'Content-Type'],
     'exposedHeaders': ['sessionId'],
     'origin': '*',
@@ -15,24 +13,22 @@ app.use(cors({
 }));
 
 
-resolver.setServers(['108.61.201.119']);
-
-app.get('/', function (req, res) {
-    res.json({
+resolver.setServers(['159.69.198.101']);
+service.get('/', function (req, res) {
+    res.send({
         hello: "world"
     })
 })
-
-app.get('/api/:domainName', function (req, res) {
+service.get('/api/:domainName', function (req, res) {
     // console.log(`${req.params.domainName}`)
     resolver.resolve(`${req.params.domainName}`).then((addresses) => {
         // console.log(addresses)
-        res.json({
+        res.send({
             status: 'passed'
         })
     }).catch(function (error) {
         if (error.code === 'ENOTFOUND') {
-            res.json({
+            res.send({
                 status: 'failed'
             })
         }
@@ -54,4 +50,4 @@ app.get('/api/:domainName', function (req, res) {
     // })
 
 })
-app.listen(3000)
+service.start(3000)
