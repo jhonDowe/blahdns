@@ -538,3 +538,6 @@ release.theplatform.com
 # Leo dict
 dict.leo.org
 ap.orgdict.leo.org
+
+# Payment
+bitpay.com
