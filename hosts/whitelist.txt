@@ -441,42 +441,6 @@ q13fox.com
 c.amazon-adsystem.com
 amp.usatoday.com
 
-# Unlisted
-buy.geni.us # https://www.pcworld.com/article/3317848/storage/the-spacious-1tb-sandisk-ultra-ssd-is-one-of-the-best-drives-you-can-buy-and-its-cheaper-than-ever.html
-www.roadandtrack.com
-ads.talkbusiness.net
-talkbusiness.net
-www.miaminewtimes.com
-go.redirectingat.com
-redirectingat.com
-www.redirectingat.com
-www.skimresources.com
-www.kcsoftwares.com
-imageshack.com
-winfuture.de # German news site
-ns1.com # domain name provider/ dns
-appcloud.ironbeast.io
-he.net # DNS provider
-ipv6.he.net # DNS provider
-whatismyipaddress.com
-www.researchgate.net
-researchgate.net
-widget.uservoice.com
-jsfiddle.net # Javascript online playground
-crbcdn.jsfiddle.net # Javascript online playground
-xd.adobelanding.com
-c.evidon.com
-l.betrad.com
-assets.adobedtm.com # Adobe tutorial assets wont load
-unbouncepages.com
-builder-assets.unbounce.com
-d9hhrg4mnvzow.cloudfront.net
-h-sdk.online-metrix.net
-cdn.cpnscdn.com #BJSapp
-api.target.com # target.com
-redsky.target.com # target.com
-profile.target.com # target.com
-
 # May break site
 ap.org # News main stream
 cdn.gotraffic.net
@@ -557,3 +521,40 @@ tiles.mapbox.com
 events.mapbox.com
 cdn.heapanalytics.com
 js-agent.newrelic.com
+
+# Unlisted
+buy.geni.us # https://www.pcworld.com/article/3317848/storage/the-spacious-1tb-sandisk-ultra-ssd-is-one-of-the-best-drives-you-can-buy-and-its-cheaper-than-ever.html
+www.roadandtrack.com
+ads.talkbusiness.net
+talkbusiness.net
+www.miaminewtimes.com
+go.redirectingat.com
+redirectingat.com
+www.redirectingat.com
+www.skimresources.com
+www.kcsoftwares.com
+imageshack.com
+winfuture.de # German news site
+ns1.com # domain name provider/ dns
+appcloud.ironbeast.io
+he.net # DNS provider
+ipv6.he.net # DNS provider
+whatismyipaddress.com
+www.researchgate.net
+researchgate.net
+widget.uservoice.com
+jsfiddle.net # Javascript online playground
+crbcdn.jsfiddle.net # Javascript online playground
+xd.adobelanding.com
+c.evidon.com
+l.betrad.com
+assets.adobedtm.com # Adobe tutorial assets wont load
+unbouncepages.com
+builder-assets.unbounce.com
+d9hhrg4mnvzow.cloudfront.net
+h-sdk.online-metrix.net
+cdn.cpnscdn.com #BJSapp
+api.target.com # target.com
+redsky.target.com # target.com
+profile.target.com # target.com
+e1151.e12.akamaiedge.net
