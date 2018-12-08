@@ -541,3 +541,17 @@ ap.orgdict.leo.org
 
 # Payment
 bitpay.com
+
+# Cloudflare
+zopim.com
+translate.googleapis.com
+login.cloudflarewarp.com
+statuspage.io
+dash.cloudflare.com
+rawhttp.cloudflareworkers.com
+cloudflareworkers.com
+heapanalytics.com
+api.cloudflareapps.com
+api.mapbox.com
+tiles.mapbox.com
+events.mapbox.com
