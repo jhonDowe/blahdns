@@ -555,3 +555,5 @@ api.cloudflareapps.com
 api.mapbox.com
 tiles.mapbox.com
 events.mapbox.com
+cdn.heapanalytics.com
+js-agent.newrelic.com
