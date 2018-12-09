@@ -558,3 +558,4 @@ api.target.com # target.com
 redsky.target.com # target.com
 profile.target.com # target.com
 e1151.e12.akamaiedge.net
+a90.g.akamai.net # www.dorkly.com
