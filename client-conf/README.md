@@ -136,9 +136,8 @@ resolvectl query dns.blahdns.com -t A
 ```
 
 ## Windows
-```bash
-Download https://simplednscrypt.org/ and install 
+Simplednscrypt -> https://simplednscrypt.org/ and install
+
 ![](https://github.com/ookangzheng/blahdns/blob/master/client-conf/blahdns-1.png?raw=true)
 ![](https://github.com/ookangzheng/blahdns/blob/master/client-conf/blahdns-2.png?raw=true)
 
-```
