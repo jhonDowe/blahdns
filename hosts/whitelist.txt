@@ -90,6 +90,7 @@ www.a.shifen.com
 www.wshifen.com
 
 ## Google
+gstaticadssl.l.google.com # fonts.gstatic.com
 manifest.googlevideo.com # Youtube video won't show if blocked
 i9.ytimg.com # Youtube 
 googlehosted.l.googleusercontent.com #google play
