@@ -45,13 +45,21 @@ function queryStatus() {
                 let data = JSON.stringify(res.status)
                 console.log(data)
                 if (data === '"passed"') {
-                    returnStat.innerHTML = `Domain: <strong>${domainInput.value}</strong> is not block`
-                } else if (data === '"failed"') {
-                    returnStat.innerHTML = `Domain: <strong>${domainInput.value}</strong> is blocked`
+                    returnStat.innerHTML = `Domain: ${domainInput.value} is <strong>not</strong> block`
+                }
+                if (data === '"failed"') {
+                    returnStat.innerHTML = `Domain: ${domainInput.value} lookup <strong>failed</strong>`
+                }
+                if (data === '"blocked"') {
+                    returnStat.innerHTML = `Domain: ${domainInput.value} is <strong>blocked</strong>`
+                }
+                if (data === '"timeout"') {
+                    returnStat.innerHTML = `Domain: ${domainInput.value} request <strong>timeout</strong>`
                 }
             })
     }
     return returnStat.innerHTML = `Please input valid URL`
+
 }
 
 

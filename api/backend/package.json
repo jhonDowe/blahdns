@@ -1,8 +1,8 @@
 {
-  "name": "survey",
-  "version": "0.0.1",
+  "name": "lookup-api",
+  "version": "0.0.3",
   "description": "A platform for checking domain name is blacklist or not",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
