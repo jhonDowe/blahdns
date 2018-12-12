@@ -91,6 +91,7 @@ www.wshifen.com
 
 ## Google
 img1.blogblog.com #blogger image
+fonts.gstatic.com
 gstaticadssl.l.google.com # fonts.gstatic.com
 manifest.googlevideo.com # Youtube video won't show if blocked
 i9.ytimg.com # Youtube 
@@ -561,3 +562,4 @@ redsky.target.com # target.com
 profile.target.com # target.com
 e1151.e12.akamaiedge.net
 a90.g.akamai.net # www.dorkly.com
+licensebuttons.net #creativecommons.org 
