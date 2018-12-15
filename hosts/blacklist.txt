@@ -1,6 +1,15 @@
 ## This blacklist maintaince by @ookangzheng
 ## Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
+# show ads on mahuaren.com android ads (outside china, singapore server)
+api.zcoup.com
+sdk.adtiming.com
+ad.sitemaji.com
+logger.zcoup.com
+ulogs.umeng.com
+userdata.andrcool.com
+ad4.com.cn
+static.youappi.com
 
 # CERT Vulnerability (#598349)
 wpad.example.com 
