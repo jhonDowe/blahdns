@@ -1,21 +1,29 @@
-const text = document.querySelector("#status")
+// https://developer.mozilla.org/en-US/docs/Web/API/AbortController
+(function () {
 const url = 'https://test.blahdns.com'
-fetch(url, {
+    let controller = new AbortController();
+    let signal = controller.signal;
+    let timeout = 600;
+    setTimeout(() => {
+        console.log("TEST request timeout")
+        controller.abort()
+    }, timeout);
+    fetch(url, {
+        signal,
         credentials: 'same-origin',
         method: "HEAD",
         mode: "no-cors",
         cache: "no-cache",
     })
-    .then(function (response) {
-        // console.log(response.status)
-        // console.log(text)
-        if (response.status == 0 || response.status == 403) {
-            text.innerHTML = "You're <strong> using </strong> Blahdns"
-        } else {
-            text.innerHTML = "You're <strong> not </strong> using Blahdns"
-        }
-    })
-    .catch(error => console.log(error));
+        .then(function (response) {
+            if (response.status == 0 || response.status == 403) {
+                text.innerHTML = "You're <strong> using </strong> Blahdns"
+            } else {
+                text.innerHTML = "You're <strong> not </strong> using Blahdns"
+            }
+        })
+        .catch(error => console.log(error));
+})()
 
 function handleErrors(response) {
     console.log('Resopone here')
@@ -24,20 +32,26 @@ function handleErrors(response) {
     }
     return response;
 }
-
-
-// const domainRegex = /^([a-zA-Z0-9]+(([\-]?[a-zA-Z0-9]+)*\.)+)*[a-zA-Z]{2,}$/
-const domainRegex = /^([a-z0-9]+(-[a-z0-9]+)*\.)+[a-z]{2,}$/
+const text = document.querySelector("#status")
+const domainRegex = /^([a-zA-Z0-9]+(([\-]?[a-zA-Z0-9]+)*\.)+)*[a-zA-Z]{2,}$/
+// const domainRegex = /^([a-z0-9]+(-[a-z0-9]+)*\.)+[a-z]{2,}$/
 const domainInput = document.querySelector('#domainName')
 const btnCheck = document.querySelector('#btnCheck')
 const returnStat = document.querySelector('#returnStatus')
 btnCheck.addEventListener('click', queryStatus)
 
 function queryStatus() {
-    // console.log(domainInput.value)
     const url = `https://blahdns.com/api/${domainInput.value}`
     if (domainRegex.test(domainInput.value)) {
-        fetch(url)
+        let controller = new AbortController();
+        let signal = controller.signal;
+        let timeout = 1500
+        setTimeout(() => {
+            console.log("Client request timeout")
+            returnStat.innerHTML = `Clientside Request timeout`
+            controller.abort()
+        }, timeout)
+        fetch(url, { signal })
             .then(function (res) {
                 return res.json();
             })
