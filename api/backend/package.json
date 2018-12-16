@@ -1,6 +1,6 @@
 {
   "name": "lookup-api",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A platform for checking domain name is blacklist or not",
   "main": "app.js",
   "scripts": {
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/ookanzheng/blahdns#readme",
   "dependencies": {
+    "abort-controller": "^2.0.0",
     "cors": "^2.8.5",
     "restana": "^2.4.0"
   }
