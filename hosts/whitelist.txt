@@ -10,6 +10,10 @@ detectportal.firefox.com # https://www.reddit.com/r/privacytoolsIO/comments/6j22
 msftconnecttest.com
 nmcheck.gnome.org
 
+# airasia
+jacepayment.airasia.com
+a-airasia-001-gyf12.insnw.net
+
 # Samsung Pay
 api.usebutton.com
 cdn-us-ec.yottaa.net
