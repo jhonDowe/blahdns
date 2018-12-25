@@ -1,6 +1,35 @@
 ## This blacklist maintaince by @ookangzheng
 ## Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
+log.quora.com
+count-server.sharethis.com
+data.sharethis.com
+ead.sharethis.com
+edge.sharethis.com
+emu.sharethis.com
+engineering.sharethis.com
+kiwi.sharethis.com
+l.sharethis.com
+platform-api.sharethis.com
+px.sharethis.com
+pxcel.sharethis.com
+rest.sharethis.com
+s.sharethis.com
+sad.sharethis.com
+sd.sharethis.com
+seg.sharethis.com
+t.sharethis.com
+w.sharethis.com
+wd.sharethis.com
+wd-edge.sharethis.com
+ws.sharethis.com
+sharethis.com
+capture.trackjs.com
+cdn.trackjs.com
+my.trackjs.com
+usage.trackjs.com
+trackjs.com
+
 # show ads on mahuaren.com android ads (outside china, singapore server)
 api.zcoup.com
 sdk.adtiming.com
