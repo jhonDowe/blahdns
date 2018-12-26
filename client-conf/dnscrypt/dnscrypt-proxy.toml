@@ -1,4 +1,4 @@
-server_names = ['blahdns-jp-dnscrypt-v4','blahdns-de-dnscrypt-v4','blahdns-jp-doh','blahdns-de-doh']
+server_names = ['blahdns-jp-doh','blahdns-jp-dnscrypt-v4']
 listen_addresses = ['127.0.0.1:53', '[::1]:53']
 max_clients = 250
 force_tcp = false
@@ -6,19 +6,14 @@ timeout = 2000
 keepalive = 30
 
 ## Load-balancing strategy: 'p2' (default), 'ph', 'fastest' or 'random'
-lb_strategy = 'p2'
-
-## Delay, in minutes, after which certificates are reloaded
-cert_refresh_delay = 240
+lb_strategy = 'fastest'
 fallback_resolver = '9.9.9.9:53'
 ignore_system_dns = false
 netprobe_timeout = 30
-block_ipv6 = false
-
 cache = false
 cache_size = 512
-cache_min_ttl = 9
-cache_max_ttl = 90
+cache_min_ttl = 90
+cache_max_ttl = 1800
 cache_neg_min_ttl = 2
 cache_neg_max_ttl = 6
 
