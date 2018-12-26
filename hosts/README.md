@@ -49,3 +49,8 @@ https://hosts-file.net/ad_servers.txt
 
 ### Too aggresive
 https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/hosts (blu) 
+
+### Torrent
+https://tspprs.com/dl/torrent
+https://github.com/ngosang/trackerslist/blob/master/trackers_all.txt
+https://github.com/ngosang/trackerslist/blob/master/blacklist.txt
