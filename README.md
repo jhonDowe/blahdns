@@ -1,6 +1,5 @@
 ## Announcement
-* I planned to close port 53 around at the end of this year, so be sure you change your connection either to DoT, DoH, DNSCryptv2.
-* DNS-over-TLS now support port 443(bypass firewall), 853 by default.
+* IMPORTANT - PORT 53 will shutdown soon, be sure you use DoT, DoH, DNSCryptv2.
 
 ## Our features
 * Block Tracker, Ads, Malware sites.
@@ -24,14 +23,14 @@
 |   |-- rpz.blacklist (DNS Firewall, return NXDDOMAIN)
 |   |-- knot-resolver (DNS forwarder)
 |   |   |-- DNSCrypt (DNScrypt-wrapper)
-|   |   |-- haproxy (TLS, -- BETA Testing, support TLS 1.3)
+|   |   |-- haproxy (TLS, support TLS 1.3)
 |   |   |-- m13253/dns-over-https (DNS-over-HTTPS)
-|   |   |-- |-- haproxy (https, -- BETA Testing, support TLS 1.3)
+|   |   |-- |-- haproxy (https, support TLS 1.3)
 `-- OpenNIC forwarder
 ```
 
 ## Server information
-- Tokyo, Japan
+- Japan (DoT, DoH, Dnscryptv2)
   * IP: 108.61.201.119, 2001:19f0:7001:1ded:5400:01ff:fe90:945b
   * DNS-over-HTTPS: https://doh.blahdns.com/dns-query
     * sdns://AgMAAAAAAAAADjEwOC42MS4yMDEuMTE5AA9kb2guYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
@@ -41,7 +40,7 @@
     * IPv6:
 sdns://AQMAAAAAAAAALlsyMDAxOjE5ZjA6NzAwMToxZGVkOjU0MDA6MDFmZjpmZTkwOjk0NWJdOjg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
 
-- Germany
+- Germany (DoT, DoH, Dnscryptv2)
   * IP: 159.69.198.101, 2a01:4f8:1c1c:6b4b::1
   * DNS-over-HTTPS: https://doh-de.blahdns.com/dns-query
     * sdns://AgMAAAAAAAAADjE1OS42OS4xOTguMTAxABJkb2gtZGUuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
