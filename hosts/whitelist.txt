@@ -520,6 +520,9 @@ ap.orgdict.leo.org
 # Payment
 bitpay.com
 
+# QQ.com
+jq.qq.com #invitation link
+
 # Cloudflare
 zopim.com
 translate.googleapis.com
