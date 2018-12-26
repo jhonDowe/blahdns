@@ -30,26 +30,34 @@ timeout = 2000
 keepalive = 30
 
 ## Load-balancing strategy: 'p2' (default), 'ph', 'fastest' or 'random'
-lb_strategy = 'p2'
-block_ipv6 = false
-cache = true
+lb_strategy = 'fastest'
+fallback_resolver = '9.9.9.9:53'
+ignore_system_dns = false
+netprobe_timeout = 30
+cache = false
 cache_size = 512
 cache_min_ttl = 90
-cache_max_ttl = 300
+cache_max_ttl = 1800
 cache_neg_min_ttl = 2
 cache_neg_max_ttl = 6
 
 [static]
+
 [static.'blahdns-jp-doh']
 stamp = 'sdns://AgMAAAAAAAAADjEwOC42MS4yMDEuMTE5AA9kb2guYmxhaGRucy5jb20KL2Rucy1xdWVyeQ'
+
 [static.'blahdns-jp-dnscrypt-v4']
 stamp = 'sdns://AQMAAAAAAAAAEzEwOC42MS4yMDEuMTE5Ojg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t'
+
 [static.'blahdns-jp-dnscrypt-v6']
 stamp = 'sdns://AQMAAAAAAAAALlsyMDAxOjE5ZjA6NzAwMToxZGVkOjU0MDA6MDFmZjpmZTkwOjk0NWJdOjg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t'
+
 [static.'blahdns-de-doh']
 stamp = 'sdns://AgMAAAAAAAAADjE1OS42OS4xOTguMTAxABJkb2gtZGUuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ'
+
 [static.'blahdns-de-dnscrypt-v4']
 stamp = 'sdns://AQMAAAAAAAAAEzE1OS42OS4xOTguMTAxOjg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t'
+
 [static.'blahdns-de-dnscrypt-v6']
 stamp = 'sdns://AQMAAAAAAAAAHFsyYTAxOjRmODoxYzFjOjZiNGI6OjFdOjg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t'
 ```
@@ -140,4 +148,3 @@ Simplednscrypt -> https://simplednscrypt.org/ and install
 
 ![](https://github.com/ookangzheng/blahdns/blob/master/client-conf/blahdns-1.png?raw=true)
 ![](https://github.com/ookangzheng/blahdns/blob/master/client-conf/blahdns-2.png?raw=true)
-
