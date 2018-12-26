@@ -4,16 +4,16 @@
 #    echo "not running"
 #fi
 
-#netstat -ln | grep ":50 " 2>&1 > /dev/null 
-#if [ $? -eq 1 ]; then   
-#     echo Starting Meteor; 
+#netstat -ln | grep ":50 " 2>&1 > /dev/null
+#if [ $? -eq 1 ]; then
+#     echo Starting Meteor;
 #fi
 
 #!/bin/bash
 
 # Check if gedit is running
 # -x flag only match processes whose name (or command line if -f is
-# specified) exactly match the pattern. 
+# specified) exactly match the pattern.
 
 if pgrep -x "kresd" > /dev/null
 then
