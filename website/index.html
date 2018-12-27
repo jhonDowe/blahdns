@@ -40,9 +40,9 @@
 
       No logs | No EDNS Client-Subnet | OpenNIC TLDs | DNSSEC ready | Filtered some ads, trackers, malware
       <ul class="w3-left-align">
-        <li class="w3-text-red">I planned close PORT 53 service at the end of this year, Pls migrate to either Doh,
+        <li class="w3-text-purple" > Start from Jan 1 2019, our serivce only support DoT, DoH, DNScryptv2. PORT 53 (plain text DNS will be terminated)
+        <li class="w3-text-">I planned close PORT 53 service at the end of this year, Pls migrate to either Doh,
           Dot, Dnscrypt service.</li>
-        <li class="w3-text-red">DNS-over-TLS now support port 443 (bypass firewall), 853 by default.</li>
 
         <li><a href="http://stats.blahdns.com" target="_blank"><strong>Server status</strong></a></li>
         <li>If you encounter problem, please submit it on <a href="https://github.com/ookangzheng/blahdns" target="_blank">Github</a>
@@ -50,9 +50,7 @@
         <li>This is an experimental service, only on a "best effort" basis. </li>
         <li>I'm not responsible for any down-time </li>
         <li>This service is for PERSONAL use, use it wisely. not for big traffic. </li>
-        <li class="w3-text-red"><del>Old Germany server: 217.61.0.97 will be delete at October 30, 2018 </del></li>
-        <li class="w3-text-red"><del>Germany DNS Server migratation announcement, follow <a href="https://github.com/ookangzheng/blahdns/issues/5">Github
-              issue </a>, will Start at October 28, 2018 8:00:00 AM CEST </del> </li>
+    
       </ul>
 
     </div>
@@ -268,13 +266,18 @@
             DNS over TLS encrypts and authenticates all your DNS traffic to protect your privacy and prevent DNS
             hijacking and sniffing.<br>
             Client software: <a href="https://dnsprivacy.org/wiki/display/DP/DNS+Privacy+Daemon+-+Stubby">Stubby</a> |
-            <a href="https://www.nlnetlabs.nl/projects/unbound/about/"> Unbound</a>
+            <a href="https://www.nlnetlabs.nl/projects/unbound/about/"> Unbound </a>
             <br>
             <strong>How to get SPKI </strong>
             <br>
-            Be sure you already install package <i>gnutls-utils</i> <br>
+            Be sure you already install package <i>apt install gnutls-bin</i> <br>
             <code>
               gnutls-cli --print-cert -p 853 108.61.201.119
+            </code>
+            <br>
+            OR
+            <code>
+                kdig -d @108.61.201.119 +tls-ca +tls-host=dns.jp.blahdns.com okz.io
             </code>
             <br>
             OR
@@ -282,9 +285,31 @@
             <code>
               echo | openssl s_client -connect '108.61.201.119:853' 2>/dev/null | openssl x509 -pubkey -noout | openssl
               pkey -pubin -outform der | openssl dgst -sha256 -binary | openssl enc -base64
-
             </code>
             <br>
+            <b>TLS1.3 support check</b> <br>
+            <code>
+                openssl s_client -connect 108.61.201.119:853
+            </code>
+            <br>
+            <i>Will return message: </i>
+<pre>
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+Protocol  : TLSv1.3
+Cipher    : TLS_AES_256_GCM_SHA384
+</pre>
+     
             For troubleshooting go <a href="https://getdnsapi.net/query/">HERE</a>
           </p>
         </div>
