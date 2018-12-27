@@ -577,3 +577,18 @@ profile.target.com # target.com
 e1151.e12.akamaiedge.net
 a90.g.akamai.net # www.dorkly.com
 licensebuttons.net #creativecommons.org 
+
+## Crypto curriencies
+## Coinbase
+coinbase.com
+www.coinbase.com
+custody.coinbase.com
+status.coinbase.com
+blog.coinbase.com
+support.coinbase.com
+static.coinbase.com
+static.ada.support
+ws.coinbase.com
+assets.coinbase.com
+am.coinbase.com
+api.coinbase.com
