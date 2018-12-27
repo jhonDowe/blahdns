@@ -31,6 +31,7 @@ usage.trackjs.com
 trackjs.com
 
 # show ads on mahuaren.com android ads (outside china, singapore server)
+api.adthor.com # added 29 Dec 2018
 api.zcoup.com
 sdk.adtiming.com
 ad.sitemaji.com
