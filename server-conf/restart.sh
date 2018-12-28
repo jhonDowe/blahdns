@@ -4,7 +4,6 @@ cd /var/log
 
 rm -rf haproxy.log*
 rm -rf daemon.log*
-rm -rf auth.log*
 rm -rf messages*
 rm -rf syslog*
 rm -rf user*
