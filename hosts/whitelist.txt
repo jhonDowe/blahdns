@@ -155,7 +155,7 @@ instagram.c10r.facebook.com
 
 # Facebook's pixel is required for clicking on notifications
 # pixel.facebook.com # still controversial
-
+origincache-atn.fbcdn.net
 res.cloudinary.com # for upload picture
 h.facebook.com
 l.facebook.com # https://www.quora.com/Why-are-l-facebook-com-and-lm-facebook-com-appearing-as-a-new-traffic-source-on-analytics
