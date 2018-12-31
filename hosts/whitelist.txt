@@ -592,3 +592,7 @@ ws.coinbase.com
 assets.coinbase.com
 am.coinbase.com
 api.coinbase.com
+
+## Pusher
+ws-mt1.pusher.com
+ws.pusherapp.com
