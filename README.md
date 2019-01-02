@@ -1,5 +1,5 @@
 ## Announcement
-* IMPORTANT - PORT 53 will shutdown soon, be sure you use DoT, DoH, DNSCryptv2.
+
 
 ## Our features
 * Block Tracker, Ads, Malware sites.
@@ -79,6 +79,7 @@ https://gist.github.com/ookangzheng/c8fba46fe1dbcc8152e3231f53f91e86
 5. [DNSPrivacy.org](https://dnsprivacy.org)
 
 ## Expired announcements
+* IMPORTANT - PORT 53 will shutdown soon, be sure you use DoT, DoH, DNSCryptv2.
 * Old germany server IP 217.61.0.97 will shutdown at October 30 2018
 * Blahdns Germany Server Migration announcement, Start: October 28, 2018 8:00:00 AM CEST, follow this [issue](https://github.com/ookangzheng/blahdns/issues/5)
 
