@@ -41,7 +41,8 @@
 
       No logs | No EDNS Client-Subnet | OpenNIC TLDs | DNSSEC ready | Filtered some ads, trackers, malware
       <ul class="w3-left-align">
-        <li class="w3-text-purple" > Start from Jan 1 2019, our serivce only support DoT, DoH, DNScryptv2. PORT 53 (plain text DNS will be terminated)
+        <li class="w3-text-purple"> Start from Jan 1 2019, our serivce only support DoT, DoH, DNScryptv2. PORT 53
+          (plain text DNS will be terminated)
         <li class="w3-text-">I planned close PORT 53 service at the end of this year, Pls migrate to either Doh,
           Dot, Dnscrypt service.</li>
 
@@ -51,7 +52,7 @@
         <li>This is an experimental service, only on a "best effort" basis. </li>
         <li>I'm not responsible for any down-time </li>
         <li>This service is for PERSONAL use, use it wisely. not for big traffic. </li>
-    
+
       </ul>
 
     </div>
@@ -74,25 +75,19 @@
 
           <ul class="w3-ul w3-border-top">
             <li>
-              <h3>IP</h3>
-              <textarea readonly rows="2" cols="20" maxlength="50">108.61.201.119
-2001:19f0:7001:1ded:5400:01ff:fe90:945b</textarea>
-            </li>
-            <li>
               <h3>DNS-over-HTTPS</h3>
               <textarea readonly rows="3" cols="50" maxlength="50">https://doh.blahdns.com/dns-query sdns://AgMAAAAAAAAADjEwOC42MS4yMDEuMTE5AA9kb2guYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
         </textarea>
               <h3>DNS-over-TLS</h3>
-              <p>
-                tls_auth_name: <br>
+              <p>IP: <br>
+              <textarea readonly rows="2" cols="20" maxlength="50">108.61.201.119
+2001:19f0:7001:1ded:5400:01ff:fe90:945b</textarea>
+              <p>tls_auth_name: <br>
                 <textarea readonly rows="1" cols="50" maxlength="50">dns.jp.blahdns.com</textarea>
-
                 port: 853, 443
               </p>
               <h3>DNSCrypt v2</h3>
-
               port: 8443
-
               <p>IPv4 - DNSStamp: <br>
                 <textarea readonly rows="4" cols="50" maxlength="50">sdns://AQMAAAAAAAAAEzEwOC42MS4yMDEuMTE5Ojg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t</textarea>
               </p>
@@ -113,23 +108,19 @@
 
           <ul class="w3-ul w3-border-top">
             <li>
-              <h3>IP</h3>
-              <textarea readonly rows="2" cols="20" maxlength="50">159.69.198.101
-2a01:4f8:1c1c:6b4b::1</textarea>
-            </li>
-            <li>
               <h3>DNS-over-HTTPS</h3>
               <textarea readonly rows="3" cols="50" maxlength="50">https://doh-de.blahdns.com/dns-query sdns://AgMAAAAAAAAADjE1OS42OS4xOTguMTAxABJkb2gtZGUuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
             </textarea>
               <h3>DNS-over-TLS</h3>
+              <p>IP: <br>
+              <textarea readonly rows="2" cols="20" maxlength="50">159.69.198.101
+2a01:4f8:1c1c:6b4b::1</textarea>
               <p>
                 tls_auth_name:<br>
                 <textarea readonly rows="1" cols="50" maxlength="50">dot-de.blahdns.com</textarea>
-
                 port: 853, 443
               </p>
               <h3>DNSCrypt v2</h3>
-
               port: 8443
               <p>IPv4 - DNSStamp: <br>
                 <textarea readonly rows="4" cols="50" maxlength="50">sdns://AQMAAAAAAAAAEzE1OS42OS4xOTguMTAxOjg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t</textarea></p>
@@ -294,7 +285,7 @@
             </code>
             <br>
             <i>Will return message: </i>
-<pre>
+            <pre>
 New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
 Server public key is 2048 bit
 Secure Renegotiation IS NOT supported
@@ -310,7 +301,7 @@ SSL-Session:
 Protocol  : TLSv1.3
 Cipher    : TLS_AES_256_GCM_SHA384
 </pre>
-     
+
             For troubleshooting go <a href="//getdnsapi.net/query/">HERE</a>
           </p>
         </div>
@@ -347,11 +338,8 @@ Cipher    : TLS_AES_256_GCM_SHA384
         <div id="TLS" class="w3-container city w3-animate-opacity">
 
           <ul>
-            <li>Our DNS-over-TLS/HTTPs currently support TLS 1.3, 1.2, view
-              <a href="//www.ssllabs.com/ssltest/analyze.html?d=doh.blahdns.com&s=108.61.201.119">SSL report</a></li>
-            <li>We do block Ads, tracker, malware domains. We gather all domains from awseome projects who provide
-              trackers, malware blacklist.</li>
-            <li>Do you deny any DNS type? Yes, We drop ANY and SOA types.</li>
+            <li>Supported TLS v1.3, 1.2</li>
+            <li>We drop ANY type.</li>
             <li>Why you building this porject? I started this project around 2016. During that time, with my private
               dns, I need an easy way to filter ads and tracker, so I rent a server and learn how to achive this.</li>
             <li>Why you dont like huge traffic? I'm still a student. and I run this service with my pocket money and
@@ -359,8 +347,6 @@ Cipher    : TLS_AES_256_GCM_SHA384
           </ul>
 
         </div>
-
-
       </div>
 
     </div>
@@ -412,7 +398,7 @@ Cipher    : TLS_AES_256_GCM_SHA384
         </div>
     </div>
   </footer>
-<script src="./script.js"></script>
+  <script src="./script.js"></script>
 </body>
 
 </html>
