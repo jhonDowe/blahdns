@@ -1,19 +1,18 @@
 ## Announcement
 
-
 ## Our features
 * Block Tracker, Ads, Malware sites.
-* No EDNS Client-Subnet (May slow down your CDN)
+* No EDNS Client-Subnet
 * DNSSEC ready
 * No logs
 * OpenNIC TLD
 
-## Disclaimer
-* This is an experimental service, I'm not responsible for any down-time.
-* Be sure you have agree with our [POLICY](https://github.com/ookangzheng/blahdns/#policy) before start to use. 
-* This service is for PERSONAL use, huge traffic for PTR, SOA, NS crawling are not welcome, will drop ANY by default.
-* Donation are welcome.
-* Due to some reason, we will change IP randomly on Tokyo or Germany.
+## Server status
+* Server status [Check status](https://stats.blahdns.com)
+* DNSCrypt-proxy and Stubby [config file](https://github.com/ookangzheng/blahdns/tree/master/client-conf)
+* Server status [https://dnsprivacy.org/jenkins/job/dnsprivacy-monitoring/](https://dnsprivacy.org/jenkins/job/dnsprivacy-monitoring/)
+* Different between encrypted DNS vs naked DNS request [https://imgur.com/a/3JP9kn0](https://imgur.com/a/3JP9kn0)
+* DoH via Mozilla Nightly tutorial [Check it out](https://www.ookangzheng.com/mozilla-nightly-enable-dns-over-https/)
 
 ## Server architecture
 
@@ -32,9 +31,9 @@
 ## Server information
 - Japan (DoT, DoH, Dnscryptv2)
   * IP: 108.61.201.119, 2001:19f0:7001:1ded:5400:01ff:fe90:945b
-  * DNS-over-HTTPS: https://doh.blahdns.com/dns-query
+  * DNS-over-HTTPS: doh-jp.blahdns.com/dns-query
     * sdns://AgMAAAAAAAAADjEwOC42MS4yMDEuMTE5AA9kb2guYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
-  * DNS-over-TLS: dns.jp.blahdns.com, port 853, 443
+  * DNS-over-TLS: dot-jp.blahdns.com, ports 853, 443
   * DNSCrypt v2, port 8443:
     * IPv4:  sdns://AQMAAAAAAAAAEzEwOC42MS4yMDEuMTE5Ojg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
     * IPv6:
@@ -42,19 +41,12 @@ sdns://AQMAAAAAAAAALlsyMDAxOjE5ZjA6NzAwMToxZGVkOjU0MDA6MDFmZjpmZTkwOjk0NWJdOjg0N
 
 - Germany (DoT, DoH, Dnscryptv2)
   * IP: 159.69.198.101, 2a01:4f8:1c1c:6b4b::1
-  * DNS-over-HTTPS: https://doh-de.blahdns.com/dns-query
+  * DNS-over-HTTPS: doh-de.blahdns.com/dns-query
     * sdns://AgMAAAAAAAAADjE1OS42OS4xOTguMTAxABJkb2gtZGUuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
-  * DNS-over-TLS: dot-de.blahdns.com, port 853, 443
+  * DNS-over-TLS: dot-de.blahdns.com, ports 853, 443
   * DNSCrypt v2, port 8443:
     * IPv4:    sdns://AQMAAAAAAAAAEzE1OS42OS4xOTguMTAxOjg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t 
     * IPv6: sdns://AQMAAAAAAAAAHFsyYTAxOjRmODoxYzFjOjZiNGI6OjFdOjg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
-
-## Other
-* Server status [Check status](https://stats.blahdns.com)
-* DNSCrypt-proxy and Stubby [config file](https://github.com/ookangzheng/blahdns/tree/master/client-conf)
-* Server status [https://dnsprivacy.org/jenkins/job/dnsprivacy-monitoring/](https://dnsprivacy.org/jenkins/job/dnsprivacy-monitoring/)
-* Different between encrypted DNS vs naked DNS request [https://imgur.com/a/3JP9kn0](https://imgur.com/a/3JP9kn0)
-* DoH via Mozilla Nightly tutorial [Check it out](https://www.ookangzheng.com/mozilla-nightly-enable-dns-over-https/)
 
 ## Related awesome projects
 1. https://github.com/notracking/hosts-blocklists
@@ -82,6 +74,13 @@ https://gist.github.com/ookangzheng/c8fba46fe1dbcc8152e3231f53f91e86
 * IMPORTANT - PORT 53 will shutdown soon, be sure you use DoT, DoH, DNSCryptv2.
 * Old germany server IP 217.61.0.97 will shutdown at October 30 2018
 * Blahdns Germany Server Migration announcement, Start: October 28, 2018 8:00:00 AM CEST, follow this [issue](https://github.com/ookangzheng/blahdns/issues/5)
+
+## Disclaimer
+* This is an experimental service, I'm not responsible for any down-time.
+* Be sure you have agree with our [POLICY](https://github.com/ookangzheng/blahdns/#policy) before start to use. 
+* This service is for PERSONAL use, huge traffic for PTR, SOA, NS crawling are not welcome, will drop ANY by default.
+* We can't block some ads with Apps inside your phone (Youtube official app Ads, Facebook app Ads, Twitter app Ads... )
+* Due to some reason, we will change IP randomly on Tokyo or Germany.
 
 ## Policy
 * Use at your own risk. Under no circumstances will the operator be held responsible or liable in any way for any claims, damages, losses, expenses, costs or liabilities whatsoever (including, without limitation, any direct or indirect damages for loss of profits, business interruption or loss of information) resulting or arising directly or indirectly from accessing or otherwise using this service (Blahdns server).
