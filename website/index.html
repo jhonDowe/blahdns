@@ -42,7 +42,7 @@
       No logs | No EDNS Client-Subnet | OpenNIC TLDs | DNSSEC ready | Filtered some ads, trackers, malware
       <ul class="w3-left-align">
         <li class="w3-text-purple"> Start from Jan 1 2019, our serivce only support DoT, DoH, DNScryptv2. PORT 53
-          (plain text DNS will be terminated)
+          (plain text DNS will be REFUSED)
         <li class="w3-text-">I planned close PORT 53 service at the end of this year, Pls migrate to either Doh,
           Dot, Dnscrypt service.</li>
 
@@ -76,14 +76,14 @@
           <ul class="w3-ul w3-border-top">
             <li>
               <h3>DNS-over-HTTPS</h3>
-              <textarea readonly rows="3" cols="50" maxlength="50">https://doh.blahdns.com/dns-query sdns://AgMAAAAAAAAADjEwOC42MS4yMDEuMTE5AA9kb2guYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
+              <textarea readonly rows="3" cols="50" maxlength="50">https://doh-jp.blahdns.com/dns-query sdns://AgMAAAAAAAAADjEwOC42MS4yMDEuMTE5AA9kb2guYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
         </textarea>
               <h3>DNS-over-TLS</h3>
               <p>IP: <br>
               <textarea readonly rows="2" cols="20" maxlength="50">108.61.201.119
 2001:19f0:7001:1ded:5400:01ff:fe90:945b</textarea>
               <p>tls_auth_name: <br>
-                <textarea readonly rows="1" cols="50" maxlength="50">dns.jp.blahdns.com</textarea>
+                <textarea readonly rows="1" cols="50" maxlength="50">dot-jp.blahdns.com</textarea>
                 port: 853, 443
               </p>
               <h3>DNSCrypt v2</h3>
@@ -140,7 +140,7 @@
       <h2 class="w3-center" style="text-shadow:1px 1px 0 #444">News</h2>
 
       <button onclick="myAccFunc('Demo000')" class="w3-padding-16 w3-button w3-block w3-left-align w3-purple">Check
-        Domain Status</button>
+        Domain Status</button><a href="#check"></a>
       <div id="Demo000" class="w3-hide">
         <div class="w3-left-align w3-margin-top">
           <label class="w3-text-blue">
@@ -215,9 +215,9 @@
         <div class="w3-container w3-white">
           <p class="w3-left-align">
             DNSSEC validate <br>
-            1. DNSSEC validation: <a href="//dnssec-or-not.com/" target="_blank">Test 1</a> | <a href="//dnssec.vs.uni-due.de/"
-              target="_blank"> Test 2 </a> <br>
-            2. Is your internet up-to-date: <a href="//conn.internet.nl/connection/" target="_blank">Go</a> <br>
+            1. DNSSEC validation: <a href="//dnssec.vs.uni-due.de/"
+              target="_blank"> Go</a> <br>
+            2. Is your internet up-to-date: <a href="//internet.nl/" target="_blank">Go</a> <br>
             3. DNSSEC resolver algorithm test: <a href="//rootcanary.org/test.html" target="_blank">Go</a> <br>
             4. IPv6 and DNSSEC test: <a href="//www.982.cz/en/t/run/" target="_blank">Go</a><br>
             5. DNSTrace: <a href="//dnsdumpster.com/" target="_blank">Go</a><br>
@@ -269,7 +269,7 @@
             <br>
             OR
             <code>
-                kdig -d @108.61.201.119 +tls-ca +tls-host=dns.jp.blahdns.com okz.io
+                kdig -d @108.61.201.119 +tls-ca +tls-host=dot-jp.blahdns.com okz.io
             </code>
             <br>
             OR
