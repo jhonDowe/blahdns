@@ -31,7 +31,8 @@
 ## Server information
 - Japan (DoT, DoH, Dnscryptv2)
   * IP: 108.61.201.119, 2001:19f0:7001:1ded:5400:01ff:fe90:945b
-  * DNS-over-HTTPS: doh-jp.blahdns.com/dns-query
+  * DNS-over-HTTPS: 
+    * https://doh-jp.blahdns.com/dns-query
     * sdns://AgMAAAAAAAAADjEwOC42MS4yMDEuMTE5AA9kb2guYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
   * DNS-over-TLS: dot-jp.blahdns.com, ports 853, 443
   * DNSCrypt v2, port 8443:
@@ -41,7 +42,8 @@ sdns://AQMAAAAAAAAALlsyMDAxOjE5ZjA6NzAwMToxZGVkOjU0MDA6MDFmZjpmZTkwOjk0NWJdOjg0N
 
 - Germany (DoT, DoH, Dnscryptv2)
   * IP: 159.69.198.101, 2a01:4f8:1c1c:6b4b::1
-  * DNS-over-HTTPS: doh-de.blahdns.com/dns-query
+  * DNS-over-HTTPS: 
+    * https://doh-de.blahdns.com/dns-query
     * sdns://AgMAAAAAAAAADjE1OS42OS4xOTguMTAxABJkb2gtZGUuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
   * DNS-over-TLS: dot-de.blahdns.com, ports 853, 443
   * DNSCrypt v2, port 8443:
