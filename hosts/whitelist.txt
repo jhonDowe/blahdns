@@ -433,6 +433,9 @@ userapi.com
 static.tianyaui.com
 static.tianya.cn
 
+# QQ.com
+thirdqq.qlogo.cn # qq app pic 
+
 # Codecanyon
 codecanyon.net
 
