@@ -1,5 +1,9 @@
 ## Announcement
-
+- Japan DoH, DoT address has been migrated to 
+  * DoH: doh-jp.blahdns.com
+  * DoT: dot-jp.blahdns.com
+  * (old domain `doh.blahdns.com & dns.jp.blahdns.com` will shutdown on March 31, 2019)
+ 
 ## Our features
 * Block Tracker, Ads, Malware sites.
 * No EDNS Client-Subnet
