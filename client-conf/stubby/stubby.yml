@@ -18,11 +18,11 @@ upstream_recursive_servers:
 
   - address_data: 108.61.201.119
     tls_port: 443
-    tls_auth_name: "dns.jp.blahdns.com"
+    tls_auth_name: "dot-jp.blahdns.com"
 
   - address_data: 108.61.201.119
     tls_port: 853
-    tls_auth_name: "dns.jp.blahdns.com"
+    tls_auth_name: "dot-jp.blahdns.com"
 
   - address_data: 159.69.198.101
     tls_port: 443
@@ -37,11 +37,11 @@ upstream_recursive_servers:
 
   - address_data: 2001:19f0:7001:1ded:5400:01ff:fe90:945b
     tls_port: 443
-    tls_auth_name: "dns.jp.blahdns.com"
+    tls_auth_name: "dot-jp.blahdns.com"
     
   - address_data: 2001:19f0:7001:1ded:5400:01ff:fe90:945b
     tls_port: 853
-    tls_auth_name: "dns.jp.blahdns.com"
+    tls_auth_name: "dot-jp.blahdns.com"
 
   - address_data: 2a01:4f8:1c1c:6b4b::1
     tls_port: 443

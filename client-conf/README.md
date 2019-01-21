@@ -1,6 +1,6 @@
 ## Kdig
 ```bash
-kdig google.com @dns.jp.blahdns.com +tls
+kdig google.com @dot-jp.blahdns.com +tls
 ```
 ## getdns
 ```bash
@@ -10,14 +10,14 @@ getdns_query @108.61.201.119 -s -L -A www.google.com
 
 ## Curl
 ```bash
-curl -H 'accept: application/dns-json' 'https://doh.blahdns.com/dns-query?name=www.google.com&type=A'
+curl -H 'accept: application/dns-json' 'https://doh-jp.blahdns.com/dns-query?name=www.google.com&type=A'
 ```
 
 ## Facebook python doh-proxy
 ```bash
 sudo apt install python3-pip python3-setuptools python3-wheel
 sudo -H pip3 install doh-proxy
-doh-client --domain doh.blahdns.com --qname google.com --qtype A
+doh-client --domain doh-jp.blahdns.com --qname google.com --qtype A
 ```
 
 ## Dnscrypt-proxy
@@ -98,11 +98,11 @@ upstream_recursive_servers:
 ####### IPv4 addresses ######
   - address_data: 108.61.201.119
     tls_port: 443
-    tls_auth_name: "dns.jp.blahdns.com"
+    tls_auth_name: "dot-jp.blahdns.com"
 
   - address_data: 108.61.201.119
     tls_port: 853
-    tls_auth_name: "dns.jp.blahdns.com"
+    tls_auth_name: "dot-jp.blahdns.com"
 
   - address_data: 159.69.198.101
     tls_port: 443
@@ -114,11 +114,11 @@ upstream_recursive_servers:
 ####### IPv6 addresses ######
   - address_data: 2001:19f0:7001:1ded:5400:01ff:fe90:945b
     tls_port: 443
-    tls_auth_name: "dns.jp.blahdns.com"
+    tls_auth_name: "dot-jp.blahdns.com"
     
   - address_data: 2001:19f0:7001:1ded:5400:01ff:fe90:945b
     tls_port: 853
-    tls_auth_name: "dns.jp.blahdns.com"
+    tls_auth_name: "dot-jp.blahdns.com"
 
   - address_data: 2a01:4f8:1c1c:6b4b::1
     tls_port: 443
@@ -140,7 +140,7 @@ DNSOverTLS=opportunistic
 sudo systemctl restart systemd-resolved
 // Check settings
 resolvectl status
-resolvectl query dns.blahdns.com -t A
+resolvectl query dot-jp.blahdns.com -t A
 ```
 
 ## Windows

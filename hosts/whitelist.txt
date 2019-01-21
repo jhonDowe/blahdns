@@ -433,6 +433,9 @@ userapi.com
 static.tianyaui.com
 static.tianya.cn
 
+# QQ.com
+thirdqq.qlogo.cn # qq app pic 
+
 # Codecanyon
 codecanyon.net
 
@@ -630,3 +633,12 @@ ws-zeplin.pusher.com
 # Hackmd.io
 baconredirects-elb-eyweax7fhr0v-300945382.us-east-1.elb.amazonaws.com
 r.us-east-1.awstrack.me # use as hackmd email tracker
+
+# Bugsnag
+www.bugsnag.com #official site
+docs.bugsnag.com
+# sessions.bugsnag.com # Realtime tracking, if you need this
+
+# Launchdarkly
+app.launchdarkly.com
+events.launchdarkly.com
