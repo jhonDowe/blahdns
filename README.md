@@ -23,12 +23,12 @@
 
 ```bash
 . Let's Encrypt SSL
-. Unbound (DNS Resolver)
-|   |-- rpz.blacklist (DNS Firewall, return NXDDOMAIN)
-|   |-- knot-resolver (DNS forwarder)
+. Unbound (DNS Resolver)   
+|   |-- knot-resolver 
+|   |-- rpz.blacklist (NXDDOMAIN)
 |   |   |-- DNSCrypt (DNScrypt-wrapper)
 |   |   |-- haproxy (TLS, support TLS 1.3)
-|   |   |-- m13253/dns-over-https (DNS-over-HTTPS)
+|   |   |-- rust-doh (DoH)
 |   |   |-- |-- haproxy (https, support TLS 1.3)
 `-- OpenNIC forwarder
 ```
@@ -72,7 +72,7 @@ https://gist.github.com/ookangzheng/c8fba46fe1dbcc8152e3231f53f91e86
 ## Huge thanks to those OSS and ORG
 1. [Knot-resolver](https://github.com/CZ-NIC/knot-resolver)
 2. [Dnsdist](https://dnsdist.org)
-3. [Dns-over-HTTPS](https://github.com/m13253/dns-over-https)
+3. [doh-proxy](https://github.com/jedisct1/rust-doh)
 4. [DNSCrypt](http://dnscrypt.info/)
 5. [Unbound DNS](https://nlnetlabs.nl/projects/unbound)
 5. [DNSPrivacy.org](https://dnsprivacy.org)
