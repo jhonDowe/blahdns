@@ -7,6 +7,16 @@ etl.tindersparks.com # Tinder iOS app to work, specifically, SMS verification # 
 # Thunder app
 api.tw06.xlmc.sandai.net
 adsp.xunlei.com
+xl7xml.client.xunlei.com
+stat.download.xunlei.com
+smallfiles.client.xunlei.com
+joint.reg2t.sandai.net
+client.update.sandai.net
+portal.client.xunlei.com
+interface.xl9.xunlei.com
+portal.client.xunlei.com
+msg2.client.xunlei.com
+tw03a159.sandai.net
 
 # Wifi portal or connectivity check
 msftncsi.com
@@ -130,6 +140,7 @@ js-agent.newrelic.com
 www.baidu.com
 www.a.shifen.com
 www.wshifen.com
+passport.baidu.com
 
 ## Google
 img1.blogblog.com #blogger image
