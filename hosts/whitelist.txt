@@ -140,6 +140,7 @@ js-agent.newrelic.com
 www.baidu.com
 www.a.shifen.com
 www.wshifen.com
+passport.baidu.com
 
 ## Google
 img1.blogblog.com #blogger image
