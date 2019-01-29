@@ -46,7 +46,7 @@ function queryStatus() {
   if (domainRegex.test(domainInput.value)) {
     let controller = new AbortController();
     let signal = controller.signal;
-    let timeout = 3500;
+    let timeout = 3000;
     let time = setTimeout(() => {
       console.log("Client request timeout");
       returnStat.innerHTML = `Clientside Request timeout`;
@@ -55,12 +55,13 @@ function queryStatus() {
     fetch(url, { time })
       .then(function(res) {
         clearTimeout(time);
+        // console.log(res)
         return res.json();
       })
       .then(function(res) {
-        let data = JSON.stringify(res.status);
-        //console.log(data)
-        if (data === '"passed"') {
+        let data = JSON.stringify(res.message);
+        console.log(data)
+        if (data === '"ok"') {
           returnStat.innerHTML = `Domain: ${
             domainInput.value
           } is <strong>not</strong> block`;
@@ -68,18 +69,18 @@ function queryStatus() {
         if (data === '"failed"') {
           returnStat.innerHTML = `Domain: ${
             domainInput.value
-          } lookup <strong>failed</strong>`;
+          } lookup <strong>failed or blocked</strong>`;
         }
-        if (data === '"blocked"') {
-          returnStat.innerHTML = `Domain: ${
-            domainInput.value
-          } is <strong>blocked</strong>`;
-        }
-        if (data === '"timeout"') {
-          returnStat.innerHTML = `Domain: ${
-            domainInput.value
-          } request <strong>timeout</strong>`;
-        }
+        // if (data === '"blocked"') {
+        //   returnStat.innerHTML = `Domain: ${
+        //     domainInput.value
+        //   } is <strong>blocked</strong>`;
+        // }
+        // if (data === '"timeout"') {
+        //   returnStat.innerHTML = `Domain: ${
+        //     domainInput.value
+        //   } request <strong>timeout</strong>`;
+        // }
       })
       .catch(error => console.log(error));
   }
