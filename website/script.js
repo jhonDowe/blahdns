@@ -50,7 +50,7 @@ function queryStatus() {
     returnStat.innerHTML = `loading....`;
     let controller = new AbortController();
     let signal = controller.signal;
-    let timeout = 20500;
+    let timeout = 2000;
     let time = setTimeout(() => {
       //console.log("Client request timeout");
       returnStat.innerHTML = `Request timeout`;
