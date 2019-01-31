@@ -1,6 +1,15 @@
 ## This whitelist maintaince by @ookangzheng
 ## Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
+# Twitter
+cdn.syndication.twimg.com # Embeded twitt
+cdn.syndication.twitter.com
+syndication.twimg.com
+
+# Pushbullet
+api.pushbullet.com
+widget.pushbullet.com
+
 # Bing 
 cn.bing.com # For chinese user
 
