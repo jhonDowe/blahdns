@@ -1,6 +1,12 @@
 ## This whitelist maintaince by @ookangzheng
 ## Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
+# Skype
+client-s.gateway.messenger.live.com #skype login
+
+# Ali Express
+ae01.alicdn.com
+my.aliexpress.com
 
 # VK.com
 pp.userapi.com
