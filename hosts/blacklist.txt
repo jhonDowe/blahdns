@@ -1,37 +1,38 @@
 ## This blacklist maintaince by @ookangzheng
 ## Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-log.quora.com
-count-server.sharethis.com
-data.sharethis.com
-ead.sharethis.com
-edge.sharethis.com
-emu.sharethis.com
-engineering.sharethis.com
-kiwi.sharethis.com
-l.sharethis.com
-platform-api.sharethis.com
-px.sharethis.com
-pxcel.sharethis.com
-rest.sharethis.com
-s.sharethis.com
-sad.sharethis.com
-sd.sharethis.com
-seg.sharethis.com
-t.sharethis.com
-w.sharethis.com
-wd.sharethis.com
-wd-edge.sharethis.com
-ws.sharethis.com
-sharethis.com
-capture.trackjs.com
-cdn.trackjs.com
-my.trackjs.com
-usage.trackjs.com
-trackjs.com
+# XiaoMi ads tracker https://gist.github.com/yalu/3113699c7c4d1daee11ade977d93049b
+api.ad.xiaomi.com
+api.admob.xiaomi.com
+api.d.xiaomi.com
+a.stat.xiaomi.com
+tracking.miui.com
+cdn.ad.xiaomi.com
+data.mistat.xiaomi.com
+e.ad.xiaomi.com
+globalapi.ad.xiaomi.com
+new.api.ad.xiaomi.com
+sdkconfig.ad.xiaomi.com
+ssp.ad.xiaomi.com
+test.ad.xiaomi.com
+test.e.ad.xiaomi.com
+test.new.api.ad.xiaomi.com
+cc.sys.intl.xiaomi.com
+cc.sys.miui.com
+ccc.sys.miui.com
+ccc.sys.intl.xiaomi.com
+data.mistat.intl.xiaomi.com
+adv.sec.miui.com
+geofence.sys.miui.com
+abtest.mistat.xiaomi.com
+logupdate.avlyun.sec.miui.com
+mazu.sec.miui.com
+feedback.miui.com
+data.sec.miui.com
+data.mistat.intl.xiaomi.com
 
-# show ads on mahuaren.com android ads (outside china, singapore server)
-api.adthor.com # added 29 Dec 2018
+# 看漫畫 Android comic viewer app 
+api.adthor.com # show ads on mahuaren.com android ads (outside china, singapore server) 
 api.zcoup.com
 sdk.adtiming.com
 ad.sitemaji.com
@@ -44,9 +45,7 @@ static.youappi.com
 # CERT Vulnerability (#598349)
 wpad.example.com 
 
-# Malicious -- redirected
-zer0day.ch 
-
+# Chinese tracker
 discuz.gtimg.cn
 hao.360.cn
 ip.ia22.com
@@ -175,8 +174,6 @@ wpad.example.com
 sky.2ip.ru
 syndication.twitter.com
 sp2.baidu.com
-b-api.facebook.com
-b-graph.facebook.com
 m.henxg.cn
 m.lsiwd.cn
 photo.0234408.cn
@@ -188,4 +185,34 @@ m.sdfvk.cn
 
 # Akamai DNS tools
 # https://developer.akamai.com/blog/2018/05/10/introducing-new-whoami-tool-dns-resolver-information
-whoami.akamai.net # will block and discontinue, pls use whoami.ds.akahelp.net
+# whoami.akamai.net # will block and discontinue, pls use whoami.ds.akahelp.net
+
+# Others
+log.quora.com
+count-server.sharethis.com
+data.sharethis.com
+ead.sharethis.com
+edge.sharethis.com
+emu.sharethis.com
+engineering.sharethis.com
+kiwi.sharethis.com
+l.sharethis.com
+platform-api.sharethis.com
+px.sharethis.com
+pxcel.sharethis.com
+rest.sharethis.com
+s.sharethis.com
+sad.sharethis.com
+sd.sharethis.com
+seg.sharethis.com
+t.sharethis.com
+w.sharethis.com
+wd.sharethis.com
+wd-edge.sharethis.com
+ws.sharethis.com
+sharethis.com
+capture.trackjs.com
+cdn.trackjs.com
+my.trackjs.com
+usage.trackjs.com
+trackjs.com
