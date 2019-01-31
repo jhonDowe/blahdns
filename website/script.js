@@ -5,7 +5,7 @@
   let signal = controller.signal;
   let timeout = 1500;
   let time = setTimeout(() => {
-    console.log("TEST request timeout");
+    //console.log("TEST request timeout");
     controller.abort();
   }, timeout);
   fetch(url, {
@@ -34,8 +34,8 @@ function handleErrors(response) {
   return response;
 }
 const text = document.querySelector("#status");
-const domainRegex = /^([a-zA-Z0-9]+(([\-]?[a-zA-Z0-9]+)*\.)+)*[a-zA-Z]{2,}$/;
-// const domainRegex = /^([a-z0-9]+(-[a-z0-9]+)*\.)+[a-z]{2,}$/
+//const domainRegex = /^([a-zA-Z0-9]+(([\-]?[a-zA-Z0-9]+)*\.)+)*[a-zA-Z]{2,}$/;
+const domainRegex = /^([a-z0-9]+(-[a-z0-9]+)*\.)+[a-z]{2,}$/
 const domainInput = document.querySelector("#domainName");
 const btnCheck = document.querySelector("#btnCheck");
 const returnStat = document.querySelector("#returnStatus");
@@ -43,24 +43,28 @@ btnCheck.addEventListener("click", queryStatus);
 
 function queryStatus() {
   const url = `https://blahdns.com/api/${domainInput.value}`;
+  if (!domainRegex.test(domainInput.value)) {
+     return returnStat.innerHTML = `Please input valid URL and no space`
+  }
   if (domainRegex.test(domainInput.value)) {
+    returnStat.innerHTML = `loading....`;
     let controller = new AbortController();
     let signal = controller.signal;
-    let timeout = 3000;
+    let timeout = 20500;
     let time = setTimeout(() => {
-      console.log("Client request timeout");
-      returnStat.innerHTML = `Clientside Request timeout`;
+      //console.log("Client request timeout");
+      returnStat.innerHTML = `Request timeout`;
       controller.abort();
     }, timeout);
     fetch(url, { time })
       .then(function(res) {
         clearTimeout(time);
-        // console.log(res)
+        //console.log(res)
         return res.json();
       })
       .then(function(res) {
         let data = JSON.stringify(res.message);
-        console.log(data)
+        //console.log(data)
         if (data === '"ok"') {
           returnStat.innerHTML = `Domain: ${
             domainInput.value
@@ -84,7 +88,7 @@ function queryStatus() {
       })
       .catch(error => console.log(error));
   }
-  return (returnStat.innerHTML = `Please input valid URL`);
+  //return (returnStat.innerHTML = `Please input valid URL and no space`);
 }
 
 
