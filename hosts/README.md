@@ -3,7 +3,6 @@
 * [Latest RPZ](https://github.com/ookangzheng/blahdns/blob/master/hosts/rpz.blacklist?raw=true)
 * [Content farm host](https://github.com/ookangzheng/blahdns/blob/master/hosts/contentfarms.host?raw=true)
 
-
 ## Source
 ### All-in-one
 https://www.reddit.com/comments/9xwwwy
@@ -47,10 +46,8 @@ https://adaway.org/hosts.txt
 https://v.firebog.net/hosts/AdguardDNS.txt
 https://hosts-file.net/ad_servers.txt
 
-### Too aggresive
-https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/hosts (blu) 
 
-### Torrent
+### Torrent - Not included
 https://tspprs.com/dl/torrent
 https://github.com/ngosang/trackerslist/blob/master/trackers_all.txt
 https://github.com/ngosang/trackerslist/blob/master/blacklist.txt
