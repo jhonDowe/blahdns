@@ -59,14 +59,15 @@ sdns://AQMAAAAAAAAALlsyMDAxOjE5ZjA6NzAwMToxZGVkOjU0MDA6MDFmZjpmZTkwOjk0NWJdOjg0N
 
 ## Related awesome projects
 1. https://github.com/notracking/hosts-blocklists
-2. https://github.com/publicarray/dns-resolver-infra
-3. https://v.firebog.net/hosts/lists.php?type=nocross
-4. https://github.com/oznu/dns-zone-blacklist (nxdomain)
-5. https://github.com/anudeepND/blacklist/ (blacklist)
-6. https://github.com/anudeepND/whitelist (whitelist)
-7. https://github.com/privacytoolsIO/privacytools.io
-8. https://github.com/maravento/blackweb
-9. https://freek.ws/public-pi-hole/
+2. https://github.com/oznu/dns-zone-blacklist (nxdomain)
+3. https://github.com/anudeepND/blacklist/ (blacklist)
+4. https://github.com/anudeepND/whitelist (whitelist)
+5. https://github.com/privacytoolsIO/privacytools.io
+6. https://github.com/maravento/blackweb
+
+## Default blocked wildcard domain
+* *.wpad
+* *.glassbox.* # https://techcrunch.com/2019/02/06/iphone-session-replay-screenshots/
 
 ## Awesome dns-resolver
 https://gist.github.com/ookangzheng/c8fba46fe1dbcc8152e3231f53f91e86
