@@ -6,7 +6,7 @@
 
 ## Source
 ### All-in-one
-
+https://www.reddit.com/comments/9xwwwy
 https://hblock.molinero.xyz/hosts
 http://sbc.io/hosts/alternates/fakenews/hosts
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
