@@ -9,16 +9,26 @@
 #     echo Starting Meteor;
 #fi
 
-#!/bin/bash
+!/bin/bash
 
 # Check if gedit is running
 # -x flag only match processes whose name (or command line if -f is
 # specified) exactly match the pattern.
 
-if pgrep -x "kresd" > /dev/null
+if ps -e | grep dnscrypt-wrap
+then
+    echo "Dnscrypt wrapper is running"
+else
+    /root/dns/dnscrypt-start.sh
+    echo "Dnscrypt is Stopped"
+fi
+
+if pgrep -x "kresd"
 then
     echo "kresd is Running"
 else
+    echo "kresd is Stopped and restart service "
     /root/kresd.sh
-    echo "kresd is Stopped"
+    #service knot-tls stop
+    #service knot-tls start
 fi
