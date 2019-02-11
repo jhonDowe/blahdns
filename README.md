@@ -67,7 +67,8 @@ sdns://AQMAAAAAAAAALlsyMDAxOjE5ZjA6NzAwMToxZGVkOjU0MDA6MDFmZjpmZTkwOjk0NWJdOjg0N
 
 ## Default blocked wildcard domain
 * *.wpad
-* *.glassbox.* # https://techcrunch.com/2019/02/06/iphone-session-replay-screenshots/
+* +.glassbox.+ # https://techcrunch.com/2019/02/06/iphone-session-replay-screenshots/
+* .+(xn--).+ # Blocking IDN and Non-ASCii Domain names https://www.reddit.com/r/pihole/comments/ap6ecf/regex_blocking_idn_and_nonascii_domain_names/
 
 ## Awesome dns-resolver
 https://gist.github.com/ookangzheng/c8fba46fe1dbcc8152e3231f53f91e86
