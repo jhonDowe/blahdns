@@ -1,6 +1,12 @@
 ## This whitelist maintaince by @ookangzheng
 ## Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
+
+# Statcounter
+gs.statcounter.com
+statcounter.com
+www.statcounter.com
+
 # Xiaomi
 #abtest.mistat.xiaomi.com
 #data.mistat.xiaomi.com
