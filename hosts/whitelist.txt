@@ -733,3 +733,27 @@ docs.bugsnag.com
 # Launchdarkly
 app.launchdarkly.com
 events.launchdarkly.com
+
+# Netflix 
+api-global.netflix.com 
+ichnaea.netflix.com 
+appboot.netflix.com 
+secure.netflix.com 
+
+# Nvidia
+ota-downloads.nvidia.com
+
+# Samsung TV
+cdn.samsungcloudsolution.com 
+assets.adobedtm.com
+track.ucas.com
+f1.media.brightcove.com
+brightcove.map.fastly.net
+entitlement.auth.adobe.com
+livepassdl.conviva.com
+fpdownload.adobe.com
+prod.appnexus.map.fastly.net
+
+# Amazon echo
+device-metrics-us-2.amazon.com
+device-metrics-us.amazon.com
