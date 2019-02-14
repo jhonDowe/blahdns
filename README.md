@@ -24,8 +24,7 @@
 
 ```bash
 . Let's Encrypt SSL
-. Unbound (DNS Resolver)   
-|   |-- knot-resolver 
+|-- knot-resolver 
 |   |-- rpz.blacklist (NXDDOMAIN)
 |   |   |-- DNSCrypt (DNScrypt-wrapper)
 |   |   |-- haproxy (TLS, support TLS 1.3)
