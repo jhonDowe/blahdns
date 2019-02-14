@@ -1,4 +1,5 @@
 ## Announcement
+- Server in Germany currently higly unstable, I will try to fix it ASAP. Thanks 
 - Japan DoH, DoT address has been migrated to 
   * DoH: doh-jp.blahdns.com
   * DoT: dot-jp.blahdns.com
