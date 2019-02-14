@@ -7,7 +7,7 @@
  
 ## Our features
 * Block Tracker, Ads, Malware sites.
-* No EDNS Client-Subnet
+* No ECS
 * DNSSEC ready
 * No logs
 * OpenNIC TLD
@@ -68,20 +68,18 @@ sdns://AQMAAAAAAAAALlsyMDAxOjE5ZjA6NzAwMToxZGVkOjU0MDA6MDFmZjpmZTkwOjk0NWJdOjg0N
 ## Default blocked wildcard domain
 * *.wpad
 * +.glassbox.+ # https://techcrunch.com/2019/02/06/iphone-session-replay-screenshots/
-* .+(xn--).+ # Blocking IDN and Non-ASCii Domain names https://www.reddit.com/r/pihole/comments/ap6ecf/regex_blocking_idn_and_nonascii_domain_names/
-http://blog.netlab.360.com/idn_measurement_netlab/
-https://github.com/mmotti/pihole-regex
+* .+(xn--).+ # Blocking IDN and Non-ASCii Domain name, eg: `kdig xn--80ak6aa92e.com` (apple.com) https://www.reddit.com/r/pihole/comments/ap6ecf/regex_blocking_idn_and_nonascii_domain_names/
+  http://blog.netlab.360.com/idn_measurement_netlab/
+  https://github.com/mmotti/pihole-regex
 
 ## Awesome dns-resolver
 https://gist.github.com/ookangzheng/c8fba46fe1dbcc8152e3231f53f91e86
 
 ## Huge thanks to those OSS and ORG
 1. [Knot-resolver](https://github.com/CZ-NIC/knot-resolver)
-2. [Dnsdist](https://dnsdist.org)
-3. [doh-proxy](https://github.com/jedisct1/rust-doh)
-4. [DNSCrypt](http://dnscrypt.info/)
-5. [Unbound DNS](https://nlnetlabs.nl/projects/unbound)
-5. [DNSPrivacy.org](https://dnsprivacy.org)
+2. [doh-proxy](https://github.com/jedisct1/rust-doh)
+3. [DNSCrypt](http://dnscrypt.info/)
+4. [DNSPrivacy.org](https://dnsprivacy.org)
 
 ## Expired announcements
 * IMPORTANT - PORT 53 will shutdown soon, be sure you use DoT, DoH, DNSCryptv2.
