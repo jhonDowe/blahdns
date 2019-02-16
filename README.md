@@ -24,14 +24,12 @@
 
 ```bash
 . Let's Encrypt SSL
-|-- Unbound (OpenNIC)
-|-- Unbound (ICANN)
+|-- Unbound (ICANN, OpenNIC)
 |   |-- rpz.blacklist (NXDDOMAIN)
 |   |   |-- DNSCrypt (DNScrypt-wrapper)
 |   |   |-- haproxy (TLS, support TLS 1.3)
 |   |   |-- rust-doh (DoH)
 |   |   |-- |-- haproxy (https, support TLS 1.3)
-`-- Unbound
 ```
 
 ## Server information
