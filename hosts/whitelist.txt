@@ -1,6 +1,9 @@
 ## This whitelist maintaince by @ookangzheng
 ## Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
+# Buisiness Insiders
+amp.businessinsider.com # Article image
+
 # 163 China
 static.ws.126.net
 static.3001.net
