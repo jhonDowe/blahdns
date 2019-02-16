@@ -24,13 +24,14 @@
 
 ```bash
 . Let's Encrypt SSL
-|-- knot-resolver 
+|-- Unbound (OpenNIC)
+|-- Unbound (ICANN)
 |   |-- rpz.blacklist (NXDDOMAIN)
 |   |   |-- DNSCrypt (DNScrypt-wrapper)
 |   |   |-- haproxy (TLS, support TLS 1.3)
 |   |   |-- rust-doh (DoH)
 |   |   |-- |-- haproxy (https, support TLS 1.3)
-`-- OpenNIC forwarder
+`-- Unbound
 ```
 
 ## Server information
@@ -77,9 +78,10 @@ https://gist.github.com/ookangzheng/c8fba46fe1dbcc8152e3231f53f91e86
 
 ## Huge thanks to those OSS and ORG
 1. [Knot-resolver](https://github.com/CZ-NIC/knot-resolver)
-2. [doh-proxy](https://github.com/jedisct1/rust-doh)
-3. [DNSCrypt](http://dnscrypt.info/)
-4. [DNSPrivacy.org](https://dnsprivacy.org)
+2. [Unbound](https://www.nlnetlabs.nl/projects/unbound)
+3. [doh-proxy](https://github.com/jedisct1/rust-doh)
+4. [DNSCrypt](http://dnscrypt.info/)
+5. [DNSPrivacy.org](https://dnsprivacy.org)
 
 ## Expired announcements
 * IMPORTANT - PORT 53 will shutdown soon, be sure you use DoT, DoH, DNSCryptv2.
