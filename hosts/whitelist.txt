@@ -419,6 +419,7 @@ prod.disqus.map.fastlylb.net
 c.disquscdn.com.cdn.cloudflare.net
 
 # Microsoft 
+secure.aadcdn.microsoftonline-p.com # Outlook.com logo
 g00.msn.com
 www.sdad.guru
 c.msn.com
