@@ -533,6 +533,7 @@ static.tianyaui.com
 static.tianya.cn
 
 # QQ.com
+wx.qlogo.cn # Picture
 thirdqq.qlogo.cn # qq app pic 
 
 # Codecanyon
