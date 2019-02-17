@@ -2,6 +2,8 @@
 ## Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
 # XiaoMi ads tracker https://gist.github.com/yalu/3113699c7c4d1daee11ade977d93049b
+ad.state.mi.us
+tastesk.net
 api.ad.xiaomi.com
 api.admob.xiaomi.com
 api.d.xiaomi.com
