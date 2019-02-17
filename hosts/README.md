@@ -1,7 +1,7 @@
 ## Hosts
 
-** RPZ blacklist only can be use at Knot-resolver, Bind9. Not for Mobile adblock list like Blokada **
-** Mobile use, I suggest [https://dbl2.oisd.nl/](https://dbl2.oisd.nl/) **
+* RPZ blacklist only can be use at Knot-resolver, Bind9. Not for Mobile adblock list like Blokada
+* Mobile use, I suggest [https://dbl2.oisd.nl/](https://dbl2.oisd.nl/)
 
 * [Latest RPZ](https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/rpz.blacklist)
 * [Content farm host](https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/contentfarms.host)
@@ -11,21 +11,26 @@
 * https://1hos.cf
 * https://dbl.oisd.nl/
 * https://hblock.molinero.xyz/hosts
-* http://sbc.io/hosts/alternates/fakenews/hosts
+* https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts
 * https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
 * https://hosts.nfz.moe/full/hosts
 * https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/custom-list.txt
-* https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 
-### Suspicious
-* https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt
 
 ### Malware
+* https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
+* https://v.firebog.net/hosts/Prigent-Phishing.txt
+* https://v.firebog.net/hosts/Prigent-Malware.txt
+*	https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt
 * https://mirror1.malwaredomains.com/files/justdomains
 * https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 * https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
 
 ### Ads & Tracker
+* https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+* https://www.squidblacklist.org/downloads/dg-ads.acl
+* https://www.squidblacklist.org/downloads/dg-malicious.acl
+* https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 * https://hosts-file.net/ad_servers.txt
 * https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt  
 * https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
