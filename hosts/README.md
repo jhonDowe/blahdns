@@ -1,26 +1,22 @@
 ## Hosts
 
-* [Latest RPZ](https://github.com/ookangzheng/blahdns/blob/master/hosts/rpz.blacklist?raw=true)
-* [Content farm host](https://github.com/ookangzheng/blahdns/blob/master/hosts/contentfarms.host?raw=true)
+RPZ file only can be use at Knot-resolver, Bind9
+Mobile app like (Blokada, can't support it. You may consider Host file)
+
+* [Latest RPZ](https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/rpz.blacklist)
+* [Content farm host](https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/contentfarms.host)
 
 ## Source
 ### All-in-one
-https://www.reddit.com/comments/9xwwwy
+https://dbl.oisd.nl/
 https://hblock.molinero.xyz/hosts
 http://sbc.io/hosts/alternates/fakenews/hosts
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
-https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 https://hosts.nfz.moe/full/hosts
 https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/custom-list.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 
 ### Suspicious
-https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
-https://v.firebog.net/hosts/static/w3kbl.txt
-#https://ransomwaretracker.abuse.ch/blocklist/
-https://ransomwaretracker.abuse.ch/downloads/RW_URLBL.txt
-https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
-https://zerodot1.gitlab.io/CoinBlockerLists/hosts
 https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt
 https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt  
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
@@ -28,12 +24,11 @@ https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.tx
 ### Malware
 https://mirror1.malwaredomains.com/files/justdomains
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-http://sysctl.org/cameleon/hosts
 https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 
 ### Tracker
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 https://github.com/jawz101/MobileAdTrackers/blob/master/hosts
 https://v.firebog.net/hosts/Easyprivacy.txt
 https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
