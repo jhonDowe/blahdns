@@ -1,12 +1,16 @@
 ## Hosts
 
-* RPZ blacklist only can be use at Knot-resolver, Bind9. Not for Mobile adblock list like Blokada
-* Mobile use, I suggest [https://dbl2.oisd.nl/](https://dbl2.oisd.nl/)
+* This repository provides RPZ blacklist blocklist specifically designed for Knot-resolver, Bind9.
+* Mobile use, I suggest hosts: [https://dbl2.oisd.nl/](https://dbl2.oisd.nl/)
+* Mobile ads block client: [Blokada](https://github.com/blokadaorg/blokada), [DNS66](https://github.com/julian-klode/dns66)
 
 * [Latest RPZ](https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/rpz.blacklist)
 * [Content farm host](https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/contentfarms.host)
+* [Whitelist](https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt)
+* [Blacklist](https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/blacklist.txt)
 
 ## Source
+
 ### All-in-one
 * https://1hos.cf
 * https://dbl.oisd.nl/
