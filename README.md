@@ -1,5 +1,5 @@
 ## Announcement
-- Japan Ipv6 problem fixed. 2019-02-17 (Vps provider suddenly last 3 days add another new IPv6, so I have 2 IPv6. but the knot-resolver was set listen [::] automatically. I manually listen both of them, everything works fine again. Sorry for the inconvenient.
+- Japan Ipv6 problem fixed. 2019-02-17 (Vps provider suddenly added an IPv6, so I have 2 IPv6. But the knot-resolver was set listen `[::]` automatically. I manually listen both of them, everything works fine again. Sorry for the inconvenient.
 - Server in Germany currently higly unstable, I will try to fix it ASAP. Thanks (Problem solved, still have to monitor it) 
 - Japan DoH, DoT address has been migrated to 
   * DoH: doh-jp.blahdns.com
