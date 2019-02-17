@@ -1,7 +1,7 @@
 ## Hosts
 
 * This repository provides RPZ blacklist blocklist specifically designed for Knot-resolver, Bind9.
-* Mobile use, I suggest hosts: [https://dbl2.oisd.nl/](https://dbl2.oisd.nl/)
+* Mobile use, I suggest hosts: [https://dbl2.oisd.nl/](https://dbl2.oisd.nl/), [1hos.cf](https://1hos.cf), [1hos.cf](https://1hos.cf/mini)
 * Mobile ads block client: [Blokada](https://github.com/blokadaorg/blokada), [DNS66](https://github.com/julian-klode/dns66)
 
 * [Latest RPZ](https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/rpz.blacklist)
