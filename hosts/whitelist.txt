@@ -4,6 +4,13 @@
 # Buisiness Insiders
 amp.businessinsider.com # Article image
 
+# Kopoimi license
+www.kopimi.com
+kopimi.com
+
+# ipredator
+ipredator.se
+
 # 163 China
 static.ws.126.net
 static.3001.net
