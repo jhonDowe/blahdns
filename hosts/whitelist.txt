@@ -543,6 +543,7 @@ static.tianyaui.com
 static.tianya.cn
 
 # QQ.com
+sparta.qb.mig.tencent-cloud.net
 wx.qlogo.cn # Picture
 thirdqq.qlogo.cn # qq app pic 
 
