@@ -31,7 +31,8 @@ func main() {
 	r.Run()
 }
 
-// env GOOS=linux GOARCH=amd64 go build main.go
+// env GOOS=linux GOARCH=amd64 go build -ldflags "-s -w" main.go
+// upx --brute main
 
 // e := echo.New()
 // e.GET("/", func(c echo.Context) error {
