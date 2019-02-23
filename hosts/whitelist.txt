@@ -1,6 +1,9 @@
 ## This whitelist maintaince by @ookangzheng
 ## Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
+# yerl.org
+yerl.org  #URL shorter
+
 # Discord
 discord.gg
 
@@ -543,6 +546,7 @@ static.tianyaui.com
 static.tianya.cn
 
 # QQ.com
+sparta.qb.mig.tencent-cloud.net
 wx.qlogo.cn # Picture
 thirdqq.qlogo.cn # qq app pic 
 

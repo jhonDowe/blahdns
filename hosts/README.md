@@ -1,10 +1,20 @@
 ## Hosts
 
 * This repository provides RPZ blacklist blocklist specifically designed for Knot-resolver, Bind9.
-* Mobile use, I suggest hosts: [https://dbl2.oisd.nl/](https://dbl2.oisd.nl/), [1hos.cf](https://1hos.cf), [1hos.cf](https://1hos.cf/mini)
-* Mobile ads block client: [Blokada](https://github.com/blokadaorg/blokada), [DNS66](https://github.com/julian-klode/dns66)
 
-* [Latest RPZ](https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/rpz.blacklist)
+* [Blahdns RPZ](https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/rpz.blacklist), [hBlock RPZ](https://hblock.molinero.xyz/hosts_rpz.txt), [hBlock Unbound](https://hblock.molinero.xyz/hosts_unbound.conf), [hBlock dnsmasq](https://hblock.molinero.xyz/hosts_dnsmasq.conf)
+
+
+* Mobile use, I suggest hosts: 
+  * [dbl2.oisd.nl](https://dbl2.oisd.nl)
+  * [1hos.cf](https://1hos.cf)
+  * [1hos.cf](https://1hos.cf/mini)
+  * [280Blocker-JP](https://280blocker.net/files/280blocker_domain.txt)
+  * [hblock](https://hblock.molinero.xyz/hosts)
+  * [hblock-android.ZIP](https://hblock.molinero.xyz/hosts_android.zip)
+
+* Mobile ads block client: [Blokada](https://github.com/blokadaorg/blokada), [DNS66](https://github.com/julian-klode/dns66), DNSCloak, AdguardPro(iOS), Adguard Home, or Adhell
+
 * [Content farm host](https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/contentfarms.host)
 * [Whitelist](https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt)
 * [Blacklist](https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/blacklist.txt)
