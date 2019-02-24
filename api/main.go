@@ -28,7 +28,7 @@ func main() {
 		}
 
 	})
-	r.Run()
+	r.Run(":3000")
 }
 
 // env GOOS=linux GOARCH=amd64 go build -ldflags "-s -w" main.go
