@@ -7,6 +7,15 @@ assets.alicdn.com
 i.alicdn.com
 us-aebridge.aliexpress.com.gds.alibabadns.com
 fr.aliexpress.com
+aeu.alicdn.com
+cdp.aliexpress.com
+passport.alipay.com
+gpsfront.aliexpress.com
+aeis.alicdn.com
+feedback.aliexpress.com
+coupon.aliexpress.com
+promotion.aliexpress.com
+freight.aliexpress.com
 
 # UOB bank
 uob.sc.omtrdc.net
