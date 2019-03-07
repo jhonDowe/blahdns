@@ -6,6 +6,10 @@ useg.nextdigital.com.hk
 lptag.liveperson.net
 imp.appledaily.com
 
+# EttToday
+wurfl.io
+ad.ettoday.net
+
 # XiaoMi ads tracker https://gist.github.com/yalu/3113699c7c4d1daee11ade977d93049b
 ad.state.mi.us
 tastesk.net
