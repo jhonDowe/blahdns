@@ -45,16 +45,14 @@
 * https://www.squidblacklist.org/downloads/dg-ads.acl
 * https://www.squidblacklist.org/downloads/dg-malicious.acl
 * https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
-* https://hosts-file.net/ad_servers.txt
 * https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt  
 * https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
-* https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-* https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 * https://github.com/jawz101/MobileAdTrackers/blob/master/hosts
 * https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
 * https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 * https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
 * https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
+* https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList-Mirror/master/Anti-Corp/Spotify/Spotify-HOSTS.txt
 
 ### Torrent - Not included
 * https://tspprs.com/dl/torrent
