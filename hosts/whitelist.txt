@@ -1,6 +1,10 @@
 ## This whitelist maintaince by @ookangzheng
 ## Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
+# Giphy / Instagram GIF use this
+limited-prod.giphy.map.fastly.net
+api.giphy.com 
+
 # Alipay
 img.alicdn.com
 img.alicdn.com.danuoyi.alicdn.com
