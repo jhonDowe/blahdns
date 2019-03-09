@@ -1,6 +1,8 @@
 ## Announcement
-- Japan Ipv6 problem fixed. 2019-02-17 (Vps provider suddenly added an IPv6, so I have 2 IPv6. But the knot-resolver was set listen `[::]` automatically. I manually listen both of them, everything works fine again. Sorry for the inconvenient.
-- Server in Germany currently higly unstable, I will try to fix it ASAP. Thanks (Problem solved, still have to monitor it) 
+
+**This DNS blocked this** 
+* Facebook SDK, google-analytics, googleadservices, amazon-adsystem, crashlytics.com analytics.yahoo, doubleclick.net, etc.. 
+
 - Japan DoH, DoT address has been migrated to 
   * DoH: doh-jp.blahdns.com
   * DoT: dot-jp.blahdns.com
@@ -83,6 +85,8 @@ https://gist.github.com/ookangzheng/c8fba46fe1dbcc8152e3231f53f91e86
 5. [DNSPrivacy.org](https://dnsprivacy.org)
 
 ## Expired announcements
+* Japan Ipv6 problem fixed. 2019-02-17 (Vps provider suddenly added an IPv6, so I have 2 IPv6. But the knot-resolver was set listen `[::]` automatically. I manually listen both of them, everything works fine again. Sorry for the inconvenient.
+* Server in Germany currently higly unstable, I will try to fix it ASAP. Thanks (Problem solved, still have to monitor it) 
 * IMPORTANT - PORT 53 will shutdown soon, be sure you use DoT, DoH, DNSCryptv2.
 * Old germany server IP 217.61.0.97 will shutdown at October 30 2018
 * Blahdns Germany Server Migration announcement, Start: October 28, 2018 8:00:00 AM CEST, follow this [issue](https://github.com/ookangzheng/blahdns/issues/5)
