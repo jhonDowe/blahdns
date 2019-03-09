@@ -1,6 +1,13 @@
 ## This blacklist maintaince by @ookangzheng
 ## Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
+# www.bostonglobe.com
+meter.bostonglobe.com
+c.amazon-adsystem.com
+connect.facebook.com
+cdn.krxd.net
+dz9qn8fh4jznm.cloudfront.net
+
 # 蘋果日報
 useg.nextdigital.com.hk
 lptag.liveperson.net
