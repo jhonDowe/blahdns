@@ -1,7 +1,7 @@
 ## Announcement
 
 **This DNS blocked this** 
-* Facebook SDK, google-analytics, googleadservices, amazon-adsystem, crashlytics.com analytics.yahoo, doubleclick.net, etc.. 
+* Facebook SDK, data.mob.com, google-analytics, googleadservices, amazon-adsystem, crashlytics.com analytics.yahoo, doubleclick.net, etc.. 
 
 - Japan DoH, DoT address has been migrated to 
   * DoH: doh-jp.blahdns.com
