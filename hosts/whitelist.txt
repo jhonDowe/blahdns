@@ -248,7 +248,7 @@ apresolve.spotify.com
 weblb-wg.dual-gslb.spotify.com
 
 ## Check internet online status
-dns.msftncsi.com -- Microsoft check wifi online
+dns.msftncsi.com -- check wifi online
 
 ## CDN or toolskit
 maxmind.com
@@ -472,6 +472,14 @@ prod.disqus.map.fastlylb.net
 c.disquscdn.com.cdn.cloudflare.net
 
 # Microsoft 
+eu-v20.events.data.microsoft.com
+v20.events.data.microsoft.com
+v10.events.data.microsoft.com
+asimov-win.settings.data.microsoft.com.akadns.net
+ui.skype.akadns.net
+v10-win.vortex.data.microsoft.com.akadns.net
+v20.vortex-win.data.microsoft.com
+wdcpalt.microsoft.com
 secure.aadcdn.microsoftonline-p.com # Outlook.com logo
 g00.msn.com
 www.sdad.guru
