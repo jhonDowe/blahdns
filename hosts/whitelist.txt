@@ -505,6 +505,14 @@ github.hubspot.com
 hubspot.com
 
 # Apple
+geo-applefinance-cache.internal.query.g03.yahoodns.net
+api-glb.smoot.apple.com
+gateway.fe.apple-dns.net
+lcdn-locator-usnkq.apple.com.akadns.net
+swcdn.apple.com
+swcdn.g.aaplimg.com
+swcdn.apple.com.akadns.net
+lcdn-locator.apple.com.akadns.net
 itunes.apple.com
 appleid.apple.com
 captive.apple.com 
