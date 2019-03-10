@@ -486,6 +486,26 @@ www.sdad.guru
 c.msn.com
 
 # Windows 10 update
+au.download.windowsupdate.com
+au.v4.download.windowsupdate.com
+ctldl.windowsupdate.com
+displaycatalog.mp.microsoft.com
+dl.delivery.mp.microsoft.com
+download.windowsupdate.com
+emdl.ws.microsoft.com
+fe2.update.microsoft.com
+fe2.update.microsoft.com.akadns.net
+fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+fe3.delivery.mp.microsoft.com
+fg.v4.download.windowsupdate.com
+microsoftwindowsupdate.net
+sls.update.microsoft.com
+sls.update.microsoft.com.akadns.net
+statsfe2.update.microsoft.com.akadns.net
+tlu.dl.delivery.mp.microsoft.com
+v4.download.windowsupdate.com
+windowsupdate.com
+windowupdate.org
 wdcp.microsoft.com # Windows defender
 wdcpalt.microsoft.com # https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-antivirus/configure-network-connections-windows-defender-antivirus
 
