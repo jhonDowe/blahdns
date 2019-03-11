@@ -18,7 +18,7 @@ connect = 108.61.201.119:853 #Japan
 verifyChain = yes
 CApath = /etc/ssl/certs
 
-checkHost = dns.jp.blahdns.com
+checkHost = dot-jp.blahdns.com
 # checkHost = dot-de.blahdns.com 
 ````
 
