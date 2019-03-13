@@ -465,6 +465,7 @@ web.pcbeta.com
 www.pcbeta.com
 
 # Wordpress
+c0.wp.com # Jetpack cdn 
 s0.wp.com
 s2.wp.com
 secure.gravatar.com
