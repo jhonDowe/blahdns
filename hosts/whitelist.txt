@@ -137,6 +137,7 @@ cn.bing.com # For chinese user
 etl.tindersparks.com # Tinder iOS app to work, specifically, SMS verification # https://discourse.pi-hole.net/t/trackers/5656/4
 
 # Thunder app
+img2.user.kanimg.com
 pc.xunlei.com
 static-xl9-ssl.xunlei.com
 upgrade.xl9.xunlei.com
