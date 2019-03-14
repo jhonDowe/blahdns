@@ -104,6 +104,6 @@ https://gist.github.com/ookangzheng/c8fba46fe1dbcc8152e3231f53f91e86
 * By using this website and service you consent to the disclaimer and agree to its terms and conditions.
 
 ## Donate
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=F2H8HS44QAV8N&source=url"><img style="height:40px" src="https://blahdns.b-cdn.net/paypal-donate.png" alt="Donate with PayPal button" /></a>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=F2H8HS44QAV8N&source=url"> <img height='36' style='border:0px;height:36px;' src="https://blahdns.b-cdn.net/paypal-donate.png" alt="Donate with PayPal button" /></a>
 |
 <a href='https://ko-fi.com/P5P4GPQ8' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi4.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
