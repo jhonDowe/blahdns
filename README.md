@@ -29,10 +29,10 @@
 . Let's Encrypt SSL
 |-- Unbound (ICANN, OpenNIC)
 |   |-- rpz.blacklist (NXDDOMAIN)
-|   |   |-- DNSCrypt (DNScrypt-wrapper)
-|   |   |-- haproxy (TLS, support TLS 1.3)
-|   |   |-- rust-doh (DoH)
-|   |   |-- |-- haproxy (https, support TLS 1.3)
+|   |   |-- DNSCrypt (dnsdist)
+|   |   |-- HAProxy 1.9.5 (TLS, support TLS 1.3)
+|   |   |-- doh-server (DoH)
+|   |   |-- |-- HAProxy 1.9.5 (https, support TLS 1.3)
 ```
 
 ## Server information
