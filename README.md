@@ -28,11 +28,11 @@
 ```bash
 . Let's Encrypt SSL
 |-- Unbound (ICANN, OpenNIC)
-|   |-- rpz.blacklist (NXDDOMAIN)
-|   |   |-- DNSCrypt (dnsdist)
-|   |   |-- HAProxy 1.9.5 (TLS, support TLS 1.3)
-|   |   |-- doh-server (DoH)
-|   |   |-- |-- HAProxy 1.9.5 (https, support TLS 1.3)
+|   |-- Knot-resolver with rpz.blacklist (NXDDOMAIN)
+|   |   |-- DNSCryptv2 (dnsdist)
+|   |   |-- HAProxy 1.9.5 (TLS 1.3)
+|   |   |-- doh-server (DoH, GET, POST)
+|   |   |-- |-- HAProxy 1.9.5 (https,TLS 1.3)
 ```
 
 ## Server information
