@@ -1,7 +1,9 @@
 ## Announcement
 
-**This DNS blocked this** 
-* If you are developer using those services, both are blocked by default. Facebook SDK, data.mob.com, google-analytics, googleadservices, amazon-adsystem, crashlytics.com analytics.yahoo, doubleclick.net, etc.. 
+**DNS blocked** 
+* If you are developer using those services, both are blocked by default. Facebook SDK, data.mob.com, google-analytics, googleadservices, amazon-adsystem, crashlytics.com analytics.yahoo, doubleclick.net, hm.baidu.com, etc.. 
+
+* Say goodbye to ANY, Finally -> [rfc8482](https://blog.cloudflare.com/rfc8482-saying-goodbye-to-any/)
 
 - Japan DoH, DoT address has been migrated to 
   * DoH: doh-jp.blahdns.com
