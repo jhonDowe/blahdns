@@ -527,7 +527,10 @@ github.hubspot.com
 hubspot.com
 
 # Apple
-geo-applefinance-cache.internal.query.g03.yahoodns.net
+www-cdn.icloud.com.akadns.net
+help.apple.com.edgekey.net
+world-gen.g.aaplimg.com # System update download & user guide
+geo-applefinance-cache.internal.query.g03.yahoodns.net # Check currency or stock on spotlight
 api-glb.smoot.apple.com
 gateway.fe.apple-dns.net
 lcdn-locator-usnkq.apple.com.akadns.net
