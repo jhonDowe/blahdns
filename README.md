@@ -1,7 +1,6 @@
-## Announcement
+*If you are developer using those services, both are blocked by default. Facebook SDK, data.mob.com, google-analytics, googleadservices, amazon-adsystem, crashlytics.com analytics.yahoo, doubleclick.net, hm.baidu.com, etc.. 
 
-**DNS blocked** 
-* If you are developer using those services, both are blocked by default. Facebook SDK, data.mob.com, google-analytics, googleadservices, amazon-adsystem, crashlytics.com analytics.yahoo, doubleclick.net, hm.baidu.com, etc.. 
+* For more old announcements, go [here](https://github.com/ookangzheng/blahdns/issues/36)
 
 * Say goodbye to ANY, Finally -> [rfc8482](https://blog.cloudflare.com/rfc8482-saying-goodbye-to-any/)
 
@@ -11,31 +10,29 @@
   * (old domain `doh.blahdns.com & dns.jp.blahdns.com` will shutdown on March 31, 2019)
  
 ## Our features
-* Block Tracker, Ads, Malware sites.
-* No ECS
-* DNSSEC ready
-* No logs
-* OpenNIC TLD
+* Block Trackers, Ads, Malware, etc..
+* No ECS, DNSSEC ready, No logs, OpenNIC TLD
 
 ## Server status
 * Server status [Check status](https://stats.blahdns.com)
-* DNSCrypt-proxy and Stubby [config file](https://github.com/ookangzheng/blahdns/tree/master/client-conf)
 * Server status [https://dnsprivacy.org/jenkins/job/dnsprivacy-monitoring/](https://dnsprivacy.org/jenkins/job/dnsprivacy-monitoring/)
-* Ads block status [https://blockads.fivefilters.org](https://blockads.fivefilters.org)
-* Different between encrypted DNS vs naked DNS request [https://imgur.com/a/3JP9kn0](https://imgur.com/a/3JP9kn0)
-* DoH via Mozilla Nightly tutorial [Check it out](https://www.ookangzheng.com/mozilla-nightly-enable-dns-over-https/)
 
 ## Server architecture
 
 ```bash
-. Let's Encrypt SSL
+. 
+|-- Let's Encrypt SSL
 |-- Unbound (ICANN, OpenNIC)
-|   |-- Knot-resolver with rpz.blacklist (NXDDOMAIN)
-|   |   |-- DNSCryptv2 (dnsdist)
-|   |   |-- HAProxy 1.9.5 (TLS 1.3)
-|   |   |-- doh-server (DoH, GET, POST)
-|   |   |-- |-- HAProxy 1.9.5 (https,TLS 1.3)
+|-- Knot-resolver with rpz.blacklist (NXDDOMAIN)
+|   |-- DNSCryptv2 (dnsdist)
+|   |-- HAProxy 1.9.5 (TLS 1.3)
+|   |-- doh-server (DoH, GET, POST)
+|   |-- |-- HAProxy 1.9.5 (https,TLS 1.3)
+
 ```
+
+## Config file
+* DNSCrypt-proxy or Stubby(DoT) [config file](https://github.com/ookangzheng/blahdns/tree/master/client-conf)
 
 ## Server information
 - Japan (DoT, DoH, Dnscryptv2)
@@ -61,20 +58,15 @@ sdns://AQMAAAAAAAAALlsyMDAxOjE5ZjA6NzAwMToxZGVkOjU0MDA6MDFmZjpmZTkwOjk0NWJdOjg0N
     * IPv4:    sdns://AQMAAAAAAAAAEzE1OS42OS4xOTguMTAxOjg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t 
     * IPv6: sdns://AQMAAAAAAAAAHFsyYTAxOjRmODoxYzFjOjZiNGI6OjFdOjg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
 
-## Related awesome projects
-1. https://github.com/notracking/hosts-blocklists
-2. https://github.com/oznu/dns-zone-blacklist (nxdomain)
-3. https://github.com/anudeepND/blacklist/ (blacklist)
-4. https://github.com/anudeepND/whitelist (whitelist)
-5. https://github.com/privacytoolsIO/privacytools.io
-6. https://github.com/maravento/blackweb
-
 ## Default blocked wildcard domain
-* *.wpad
-* +.glassbox.+ # https://techcrunch.com/2019/02/06/iphone-session-replay-screenshots/
-* .+(xn--).+ # Blocking IDN and Non-ASCii Domain name, eg: `kdig xn--80ak6aa92e.com` (apple.com) https://www.reddit.com/r/pihole/comments/ap6ecf/regex_blocking_idn_and_nonascii_domain_names/
-  http://blog.netlab.360.com/idn_measurement_netlab/
-  https://github.com/mmotti/pihole-regex
+* `*.wpad`
+
+* `+.glassbox.+ `# https://techcrunch.com/2019/02/06/iphone-session-replay-screenshots
+
+* `.+(xn--).+ ` # Blocking IDN and Non-ASCii Domain name, eg: `kdig xn--80ak6aa92e.com` (apple.com) 
+1. https://www.reddit.com/r/pihole/comments/ap6ecf/regex_blocking_idn_and_nonascii_domain_names/
+2. http://blog.netlab.360.com/idn_measurement_netlab/
+3. https://github.com/mmotti/pihole-regex
 
 ## Awesome dns-resolver
 https://gist.github.com/ookangzheng/c8fba46fe1dbcc8152e3231f53f91e86
@@ -82,16 +74,17 @@ https://gist.github.com/ookangzheng/c8fba46fe1dbcc8152e3231f53f91e86
 ## Huge thanks to those OSS and ORG
 1. [Knot-resolver](https://github.com/CZ-NIC/knot-resolver)
 2. [Unbound](https://www.nlnetlabs.nl/projects/unbound)
-3. [doh-proxy](https://github.com/jedisct1/rust-doh)
-4. [DNSCrypt](http://dnscrypt.info/)
-5. [DNSPrivacy.org](https://dnsprivacy.org)
+3. [m13253](https://github.com/m13253/dns-over-https)
+4. [DNSPrivacy.org](https://dnsprivacy.org)
 
-## Expired announcements
-* Japan Ipv6 problem fixed. 2019-02-17 (Vps provider suddenly added an IPv6, so I have 2 IPv6. But the knot-resolver was set listen `[::]` automatically. I manually listen both of them, everything works fine again. Sorry for the inconvenient.
-* Server in Germany currently higly unstable, I will try to fix it ASAP. Thanks (Problem solved, still have to monitor it) 
-* IMPORTANT - PORT 53 will shutdown soon, be sure you use DoT, DoH, DNSCryptv2.
-* Old germany server IP 217.61.0.97 will shutdown at October 30 2018
-* Blahdns Germany Server Migration announcement, Start: October 28, 2018 8:00:00 AM CEST, follow this [issue](https://github.com/ookangzheng/blahdns/issues/5)
+## Related awesome projects
+1. https://github.com/notracking/hosts-blocklists (dnsmasq)
+2. https://github.com/oznu/dns-zone-blacklist (nxdomain)
+3. https://github.com/anudeepND/blacklist/ (blacklist)
+4. https://github.com/anudeepND/whitelist (whitelist)
+5. https://www.reddit.com/comments/9xwwwy (DBL all in one)
+6. https://github.com/maravento/blackweb
+7. https://github.com/gaenserich/hostsblock (Linux hosts only)
 
 ## Disclaimer
 * This is an experimental service, I'm not responsible for any down-time.
