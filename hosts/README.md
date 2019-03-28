@@ -27,9 +27,10 @@
 
 [hBlock Unbound](https://hblock.molinero.xyz/hosts_unbound.conf)
 
-**DNSmasq*
+**DNSmasq**
 
 [hBlock dnsmasq](https://hblock.molinero.xyz/hosts_dnsmasq.conf)
+[notracking](https://github.com/notracking/hosts-blocklists)
 
 ## Source use on Blahdns 
 **Updated on March 29, 2019**
