@@ -1,4 +1,4 @@
-*If you are developer using those services, both are blocked by default. Facebook SDK, data.mob.com, google-analytics, googleadservices, amazon-adsystem, crashlytics.com analytics.yahoo, doubleclick.net, hm.baidu.com, etc.. 
+* If you are developer using those services, both are blocked by default. Facebook SDK, data.mob.com, google-analytics, googleadservices, amazon-adsystem, crashlytics.com analytics.yahoo, doubleclick.net, hm.baidu.com, etc.. 
 
 * For more old announcements, go [here](https://github.com/ookangzheng/blahdns/issues/36)
 
