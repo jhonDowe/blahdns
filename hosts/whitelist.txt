@@ -408,6 +408,7 @@ api.jr.mi.com
 resolver.msg.xiaomi.ne
 
 # Amazon Web Services
+mas-ext.amazon.com # Amazon shopping on firetv stick
 s3.amazonaws.com
 s3-1.amazonaws.com
 c.media-amazon.com # IMDB
@@ -527,7 +528,7 @@ github.hubspot.com
 hubspot.com
 
 # Apple
-world-gen.g.aaplimg.com
+dzc-metrics.mzstatic.com # Itunes desktop sync
 iadsdk.apple.com
 cf.iadsdk.apple.com
 configuration.apple.com.akadns.net
