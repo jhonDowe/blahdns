@@ -25,9 +25,9 @@
 |-- Unbound (ICANN, OpenNIC)
 |-- Knot-resolver with rpz.blacklist (NXDDOMAIN)
 |   |-- DNSCryptv2 (dnsdist)
-|   |-- HAProxy 1.9.5 (TLS 1.3)
+|   |-- DoT (HAProxy, port 853, 443, TLS 1.3)
 |   |-- doh-server (DoH, GET, POST)
-|   |-- |-- HAProxy 1.9.5 (https,TLS 1.3)
+|   |-- |-- HAProxy (https, port 443, TLS 1.3)
 
 ```
 
