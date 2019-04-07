@@ -91,6 +91,8 @@ https://gist.github.com/ookangzheng/c8fba46fe1dbcc8152e3231f53f91e86
 5. https://www.reddit.com/comments/9xwwwy (DBL all in one)
 6. https://github.com/maravento/blackweb
 7. https://github.com/gaenserich/hostsblock (Linux hosts only)
+8. https://github.com/mitchellkrogza/Ultimate.Hosts.Blacklist 
+9. https://phishing.army/
 
 ## Disclaimer
 * This is an experimental service, I'm not responsible for any down-time.
