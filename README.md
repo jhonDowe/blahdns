@@ -4,6 +4,8 @@
 
 * Say goodbye to ANY, Finally -> [rfc8482](https://blog.cloudflare.com/rfc8482-saying-goodbye-to-any/)
 
+* Chrome on Android leaking DNS, check [HERE](https://github.com/ookangzheng/blahdns/blob/master/FAQ.md) to fix.
+
 - Japan DoH, DoT address has been migrated to 
   * DoH: doh-jp.blahdns.com
   * DoT: dot-jp.blahdns.com
