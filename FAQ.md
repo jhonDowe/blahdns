@@ -6,4 +6,5 @@
 3. set value to `DISABLED`
 4. restart Chrome
 
-![]()
+![](https://github.com/ookangzheng/blahdns/raw/master/client-conf/img-source/disable-async-dns-on-android-chrome.jpg)
+
