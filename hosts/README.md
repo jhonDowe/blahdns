@@ -41,7 +41,7 @@
 * https://hblock.molinero.xyz/hosts
 * https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts
 * https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
-* https://hosts.nfz.moe/full/hosts
+* https://github.com/ookangzheng/some-mirros/raw/master/full-hosts
 
 ### Malware
 * https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
