@@ -31,8 +31,12 @@
 
 ```
 
-## Config file
+## Config file / Client
 * DNSCrypt-proxy or Stubby(DoT) [config file](https://github.com/ookangzheng/blahdns/tree/master/client-conf)
+* Android DoT/DoH: [Nebulo](https://itunes.apple.com/app/dnscloak-secure-dns-client/id1452162351)
+* Android DoH: [Intra](https://play.google.com/store/apps/details?id=app.intra)
+* iOS Dnscryptv2/DoH: [Dnscloak](https://itunes.apple.com/app/dnscloak-secure-dns-client/id1452162351)
+* Dnscryptv2: [dnscrypt-proxy](https://github.com/jedisct1/dnscrypt-proxy/)
 
 ## Server information
 - Japan (DoT, DoH, Dnscryptv2)
