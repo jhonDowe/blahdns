@@ -8,7 +8,7 @@
   * DoH: doh-jp.blahdns.com
   * DoT: dot-jp.blahdns.com
   * (old domain `doh.blahdns.com & dns.jp.blahdns.com` will shutdown on March 31, 2019)
- 
+
 ## Our features
 * Block Trackers, Ads, Malware, etc..
 * No ECS, DNSSEC ready, No logs, OpenNIC TLD
@@ -32,7 +32,7 @@
 ```
 
 ## Config file / Client
-* DNSCrypt-proxy or Stubby(DoT) [config file](https://github.com/ookangzheng/blahdns/tree/master/client-conf)
+* DNSCrypt-proxy / Stubby(DoT) / Nebulo [ Config ](https://github.com/ookangzheng/blahdns/tree/master/client-conf)
 * Android DoT/DoH: [Nebulo](https://itunes.apple.com/app/dnscloak-secure-dns-client/id1452162351)
 * Android DoH: [Intra](https://play.google.com/store/apps/details?id=app.intra)
 * iOS Dnscryptv2/DoH: [Dnscloak](https://itunes.apple.com/app/dnscloak-secure-dns-client/id1452162351)
