@@ -4,6 +4,8 @@
 
 * Say goodbye to ANY, Finally -> [rfc8482](https://blog.cloudflare.com/rfc8482-saying-goodbye-to-any/)
 
+* Chrome on Android leaking DNS, check [HERE](https://github.com/ookangzheng/blahdns/blob/master/FAQ.md) to fix.
+
 - Japan DoH, DoT address has been migrated to 
   * DoH: doh-jp.blahdns.com
   * DoT: dot-jp.blahdns.com
@@ -20,14 +22,22 @@
 ## Server architecture
 
 ```bash
-. 
+Germany server
 |-- Let's Encrypt SSL
-|-- Unbound (ICANN, OpenNIC)
-|-- Knot-resolver with rpz.blacklist (NXDDOMAIN)
-|   |-- DNSCryptv2 (dnsdist)
+|-- Knot-resolver with rpz.blacklist (NXDDOMAIN), quad9 as upstream, OPENNIC TLD
+|   |-- DNSCryptv2 (dnsdist, port 8443)
 |   |-- DoT (HAProxy, port 853, 443, TLS 1.3)
 |   |-- doh-server (DoH, GET, POST)
 |   |-- |-- HAProxy (https, port 443, TLS 1.3)
+
+Japan server (Beta testing)
+|-- Let's Encrypt SSL
+|-- Knot-resolver with rpz.blacklist (NXDDOMAIN), OPENNIC TLD, local resolver
+|   |-- DNSCryptv2 (dnsdist, port 8443)
+|-- dnsdist instance for DoH & DoT
+|   |-- doh-server (DoH, GET, POST -- m13253)
+|   |-- |-- HAProxy (https, port 443, TLS 1.3)
+|-- DoT (HAProxy, port 853, 443, TLS 1.3)
 
 ```
 
@@ -77,9 +87,8 @@ https://gist.github.com/ookangzheng/c8fba46fe1dbcc8152e3231f53f91e86
 
 ## Huge thanks to those OSS and ORG
 1. [Knot-resolver](https://github.com/CZ-NIC/knot-resolver)
-2. [Unbound](https://www.nlnetlabs.nl/projects/unbound)
-3. [m13253](https://github.com/m13253/dns-over-https)
-4. [DNSPrivacy.org](https://dnsprivacy.org)
+2. [m13253](https://github.com/m13253/dns-over-https)
+3. [DNSPrivacy.org](https://dnsprivacy.org)
 
 ## Related awesome projects
 1. https://github.com/notracking/hosts-blocklists (dnsmasq)
@@ -89,6 +98,8 @@ https://gist.github.com/ookangzheng/c8fba46fe1dbcc8152e3231f53f91e86
 5. https://www.reddit.com/comments/9xwwwy (DBL all in one)
 6. https://github.com/maravento/blackweb
 7. https://github.com/gaenserich/hostsblock (Linux hosts only)
+8. https://github.com/mitchellkrogza/Ultimate.Hosts.Blacklist 
+9. https://phishing.army/
 
 ## Disclaimer
 * This is an experimental service, I'm not responsible for any down-time.
