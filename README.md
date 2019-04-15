@@ -1,7 +1,7 @@
 * If you are developer using those services, both are blocked by default. 
 `data.mob.com, google-analytics, googleadservices, amazon-adsystem, crashlytics.com analytics.yahoo, doubleclick.net, hm.baidu.com, etc.. `
 
-* Germany server has been reinstall and use new solution to provide better and faster service, enjoy (April 13, 2019)
+* Germany server has been reinstall and use new solution to provide better and faster service, enjoy (April 16, 2019)
 
 * For more old announcements, go [here](https://github.com/ookangzheng/blahdns/issues/36)
 
@@ -26,7 +26,7 @@
 
 ```bash
 
-Server (April 13, 2019)
+Server (April 16, 2019)
 |-- Let's Encrypt SSL
 |-- Knot-resolver with rpz.blacklist (NXDDOMAIN), OPENNIC TLD, local resolver
 |   |-- DNSCryptv2 (dnsdist, port 8443)
