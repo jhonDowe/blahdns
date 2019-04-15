@@ -1,4 +1,7 @@
-* If you are developer using those services, both are blocked by default. Facebook SDK, data.mob.com, google-analytics, googleadservices, amazon-adsystem, crashlytics.com analytics.yahoo, doubleclick.net, hm.baidu.com, etc.. 
+* If you are developer using those services, both are blocked by default. 
+`data.mob.com, google-analytics, googleadservices, amazon-adsystem, crashlytics.com analytics.yahoo, doubleclick.net, hm.baidu.com, etc.. `
+
+* Germany server has been reinstall and use new solution to provide better and faster service, enjoy (April 13, 2019)
 
 * For more old announcements, go [here](https://github.com/ookangzheng/blahdns/issues/36)
 
@@ -22,15 +25,8 @@
 ## Server architecture
 
 ```bash
-Germany server
-|-- Let's Encrypt SSL
-|-- Knot-resolver with rpz.blacklist (NXDDOMAIN), quad9 as upstream, OPENNIC TLD
-|   |-- DNSCryptv2 (dnsdist, port 8443)
-|   |-- DoT (HAProxy, port 853, 443, TLS 1.3)
-|   |-- doh-server (DoH, GET, POST)
-|   |-- |-- HAProxy (https, port 443, TLS 1.3)
 
-Japan server (Beta testing)
+Server (April 13, 2019)
 |-- Let's Encrypt SSL
 |-- Knot-resolver with rpz.blacklist (NXDDOMAIN), OPENNIC TLD, local resolver
 |   |-- DNSCryptv2 (dnsdist, port 8443)
