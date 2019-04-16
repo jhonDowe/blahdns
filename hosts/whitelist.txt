@@ -867,3 +867,7 @@ prod.appnexus.map.fastly.net
 # Amazon echo
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
+
+# Chan
+8ch.net
+4chan.org
