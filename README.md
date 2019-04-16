@@ -98,6 +98,9 @@ https://gist.github.com/ookangzheng/c8fba46fe1dbcc8152e3231f53f91e86
 9. https://phishing.army/
 10. https://github.com/maravento/blackweb (Squid cache)
 
+## Site found which try to block DoH / DoT / Dnscrypt
+1. https://forum.opnsense.org/index.php?PHPSESSID=s1mi1kp08r1c5lrr57rfklbtu0&topic=12238.0 (opensense)
+
 ## Disclaimer
 * This is an experimental service, I'm not responsible for any down-time.
 * Be sure you have agree with our [POLICY](https://github.com/ookangzheng/blahdns/#policy) before start to use. 
