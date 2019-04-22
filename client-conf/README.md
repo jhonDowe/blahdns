@@ -1,13 +1,6 @@
-## personalDNSfilter config -- get this [Android app](https://zenz-solutions.de/personaldnsfilter/)
+## Android DoT / DoH config
 
-```bash
-108.61.201.119::853::DoT
-[2001:19f0:7001:1ded:5400:01ff:fe90:945b]::853::DoT
-108.61.201.119::443::DoH::https://doh-jp.blahdns.com
-[2001:19f0:7001:1ded:5400:01ff:fe90:945b]::443::DoH::https://doh-jp.blahdns.com/dns-query
-
-```
-
+Go [HERE](https://github.com/ookangzheng/blahdns/blob/master/client-conf/DoT-or-DoH-Android.md)
 
 ## Dnscrypt-proxy
 
