@@ -38,11 +38,11 @@ Server (April 16, 2019)
 ```
 
 ## Config file / Client
-* DNSCrypt-proxy / Stubby(DoT) / Nebulo [ Config ](https://github.com/ookangzheng/blahdns/tree/master/client-conf)
-* Android DoT/DoH: [Nebulo](https://itunes.apple.com/app/dnscloak-secure-dns-client/id1452162351)
+* Android DoT/DoH: [Nebulo App](https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen) | [personalDNSfilter App](https://zenz-solutions.de/personaldnsfilter/)
 * Android DoH: [Intra](https://play.google.com/store/apps/details?id=app.intra)
 * iOS Dnscryptv2/DoH: [Dnscloak](https://itunes.apple.com/app/dnscloak-secure-dns-client/id1452162351)
 * Dnscryptv2: [dnscrypt-proxy](https://github.com/jedisct1/dnscrypt-proxy/)
+* Configuration: [ Config ](https://github.com/ookangzheng/blahdns/tree/master/client-conf)
 
 ## Server information
 - Japan (DoT, DoH, Dnscryptv2)
