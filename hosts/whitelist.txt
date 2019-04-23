@@ -211,6 +211,9 @@ hlrcv.stage.adobe.com
 # Twitch Chat
 mp.twitch.tv
 
+# Google Play
+play.app.goo.gl
+
 # Google Drive
 www.googleapis.com
 imasdk.googleapis.com
