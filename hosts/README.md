@@ -4,12 +4,11 @@
 
 * [Blahdns RPZ](https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/rpz.blacklist)
 
-* Mobile, I recommend hosts below: 
-  * [dblmobile.oisd.nl wildcard ](https://dblmobile.oisd.nl)
-  * [1hos.cf Mini version](https://1hos.cf/mini)
+* Mobile version, I recommend hosts below: 
+  * [dblmobile.oisd.nl wildcard](https://dblmobile.oisd.nl)
+  * [1hos.cf Mini](https://1hos.cf/mini)
   * [280Blocker-JP](https://280blocker.net/files/280blocker_domain.txt)
-  * [hblock](https://hblock.molinero.xyz/hosts)
-  * [hblock-android.ZIP](https://hblock.molinero.xyz/hosts_android.zip)
+  * [hblock hosts](https://hblock.molinero.xyz/hosts)
 
 * Mobile ads block client: [Blokada](https://github.com/blokadaorg/blokada), [DNS66](https://github.com/julian-klode/dns66), DNSCloak, AdguardPro(iOS), Adguard Home, or Adhell
 
@@ -41,12 +40,11 @@
 * https://hblock.molinero.xyz/hosts
 * https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts
 * https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
-* https://github.com/ookangzheng/some-mirros/raw/master/full-hosts
 
-### Malware
+### Malware / Phishing
 * https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
-* https://v.firebog.net/hosts/Prigent-Phishing.txt
-* https://v.firebog.net/hosts/Prigent-Malware.txt
+* https://phishing.army/download/phishing_army_blocklist.txt
+* http://theantisocialengineer.com/AntiSocial_Blacklist_Community_V1.txt
 *	https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt
 
 ### Ads & Tracker
