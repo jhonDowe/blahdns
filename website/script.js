@@ -47,46 +47,71 @@ function queryStatus() {
      return returnStat.innerHTML = `Please input valid URL and no space`
   }
   if (domainRegex.test(domainInput.value)) {
+      
     returnStat.innerHTML = `loading....`;
+    //console.log(loading)
     let controller = new AbortController();
     let signal = controller.signal;
-    let timeout = 2000;
+    let timeout = 3000;
     let time = setTimeout(() => {
-      //console.log("Client request timeout");
+      console.log("Client request timeout");
       returnStat.innerHTML = `Request timeout`;
       controller.abort();
     }, timeout);
-    fetch(url, { time })
-      .then(function(res) {
-        clearTimeout(time);
-        //console.log(res)
-        return res.json();
-      })
-      .then(function(res) {
-        let data = JSON.stringify(res.message);
-        //console.log(data)
-        if (data === '"ok"') {
+fetch(url, { time })
+  .then(response => {
+    return response.json()
+  })
+  .then(data => {
+    // Work with JSON data here
+    console.log(data)
+    let result = JSON.stringify(data.status);
+        if (result === '"ok"') {
+            clearTimeout(time);
           returnStat.innerHTML = `Domain: ${
             domainInput.value
           } is <strong>not</strong> block`;
         }
-        if (data === '"failed"') {
+        if (result === '"failed"') {
+            clearTimeout(time);
           returnStat.innerHTML = `Domain: ${
             domainInput.value
           } lookup <strong>failed or blocked</strong>`;
         }
-        // if (data === '"blocked"') {
-        //   returnStat.innerHTML = `Domain: ${
-        //     domainInput.value
-        //   } is <strong>blocked</strong>`;
-        // }
-        // if (data === '"timeout"') {
-        //   returnStat.innerHTML = `Domain: ${
-        //     domainInput.value
-        //   } request <strong>timeout</strong>`;
-        // }
-      })
-      .catch(error => console.log(error));
+  })
+  .catch(error => console.log(error));
+    // fetch(url, { time })
+    //   .then(function(res) {
+    //     console.log(url)
+    //     clearTimeout(time);
+    //     console.log("res", res)
+    //     return res.json();
+    //   })
+    //   .then(function(res) {
+    //     let data = JSON.stringify(res.message);
+    //     console.log(data)
+    //     if (data === '"ok"') {
+    //       returnStat.innerHTML = `Domain: ${
+    //         domainInput.value
+    //       } is <strong>not</strong> block`;
+    //     }
+    //     if (data === '"failed"') {
+    //       returnStat.innerHTML = `Domain: ${
+    //         domainInput.value
+    //       } lookup <strong>failed or blocked</strong>`;
+    //     }
+    //     // if (data === '"blocked"') {
+    //     //   returnStat.innerHTML = `Domain: ${
+    //     //     domainInput.value
+    //     //   } is <strong>blocked</strong>`;
+    //     // }
+    //     // if (data === '"timeout"') {
+    //     //   returnStat.innerHTML = `Domain: ${
+    //     //     domainInput.value
+    //     //   } request <strong>timeout</strong>`;
+    //     // }
+    //   })
+    //   .catch(error => console.log(error));
   }
   //return (returnStat.innerHTML = `Please input valid URL and no space`);
 }

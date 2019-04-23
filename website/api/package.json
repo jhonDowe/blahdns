@@ -1,8 +1,8 @@
 {
-  "name": "lookup-api",
-  "version": "0.0.5",
-  "description": "A platform for checking domain name is blacklist or not",
-  "main": "app.js",
+  "name": "blahdns-api",
+  "version": "0.0.6",
+  "description": "blahdns api check domain status",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js",
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/ookanzheng/blahdns#readme",
   "dependencies": {
-    "abort-controller": "^2.0.2",
+    "abort-controller": "^2.0.3",
     "cors": "^2.8.5",
     "express": "^4.16.4"
   }
