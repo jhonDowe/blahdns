@@ -49,7 +49,7 @@ function queryStatus() {
   if (domainRegex.test(domainInput.value)) {
       
     returnStat.innerHTML = `loading....`;
-    //console.log(loading)
+
     let controller = new AbortController();
     let signal = controller.signal;
     let timeout = 3000;
