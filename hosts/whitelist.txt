@@ -807,6 +807,29 @@ api.target.com # target.com
 redsky.target.com # target.com
 profile.target.com # target.com
 e1151.e12.akamaiedge.net
+money.yandex.ru
+down.sandai.net
+google.qualtrics.com
+cf.hamreus.com
+c.apple.com
+images2015.cnblogs.com
+assets.gumroad.com
+www.ipify.org
+graph.facebook.com
+tools.pingdom.com
+s.reddit.com
+api.intsig.net
+blog.xuite.net
+sslshare.gshifen.com
+d1z2jf7jlzjs58.cloudfront.net
+pull.ticktick.com
+www.loggly.com
+download.intsig.net
+www.squaretrade.com
+lithium.facebook.com
+8ch.net
+i.loli.net
+
 a90.g.akamai.net # www.dorkly.com
 licensebuttons.net #creativecommons.org 
 
