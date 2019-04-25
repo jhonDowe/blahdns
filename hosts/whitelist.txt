@@ -478,6 +478,7 @@ prod.disqus.map.fastlylb.net
 c.disquscdn.com.cdn.cloudflare.net
 
 # Microsoft 
+update.code.visualstudio.com # vscode update
 eu-v20.events.data.microsoft.com
 v20.events.data.microsoft.com
 v10.events.data.microsoft.com
