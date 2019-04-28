@@ -32,7 +32,7 @@
 * [notracking](https://github.com/notracking/hosts-blocklists)
 
 ## Source use on Blahdns 
-**Updated on March 29, 2019**
+**Updated on April 29, 2019**
 
 ### All-in-one
 * https://1hos.cf
@@ -52,7 +52,6 @@
 * https://www.squidblacklist.org/downloads/dg-ads.acl
 * https://www.squidblacklist.org/downloads/dg-malicious.acl
 * https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
-* https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt  
 * https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
 * https://github.com/jawz101/MobileAdTrackers/blob/master/hosts
 * https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
