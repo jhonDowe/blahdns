@@ -20,3 +20,15 @@ kdig google.com @2001:19f0:7001:1ded:5400:1ff:fe90:945b +tls
 kdig google.com @108.61.201.119 +tls -p 443
 
 ```
+
+## Mac OSX Mojave use Openssl TLS 1.3 
+
+```
+brew upgrade
+brew install openssl@1.1
+
+// Put openssl tls 1.3 as first choice on zsh, paste it and restart terminal
+echo 'export PATH="/usr/local/opt/openssl@1.1/bin:$PATH"' >> ~/.zshrc
+
+// Debug DoH with TLS 1.3
+openssl s_client -state -debug -msg -connect doh-jp.blahdns.com:443 -tls1_3
