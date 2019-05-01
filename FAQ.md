@@ -41,7 +41,9 @@ Use `dig` to test, this will return with header `AD`
 dig blahdns.com +dnssec +multi
 ```
 
-This will failed, should only return a SERVFAIL
+This will failed, should only return a `SERVFAIL`
+
 ```
 dig www.dnssec-failed.org 
+
 ```
