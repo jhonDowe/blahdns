@@ -32,6 +32,7 @@ echo 'export PATH="/usr/local/opt/openssl@1.1/bin:$PATH"' >> ~/.zshrc
 
 // Debug DoH with TLS 1.3
 openssl s_client -state -debug -msg -connect doh-jp.blahdns.com:443 -tls1_3
+```
 
 ## DNSSEC validation test
 
