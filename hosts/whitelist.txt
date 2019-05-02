@@ -898,3 +898,7 @@ device-metrics-us.amazon.com
 # Chan
 8ch.net
 4chan.org
+
+# Utorrent
+update.utorrent.com
+
