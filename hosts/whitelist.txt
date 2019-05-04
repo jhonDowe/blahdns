@@ -1,6 +1,9 @@
 ## This whitelist maintaince by @ookangzheng
 ## Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
+# Yahoo Mail
+s.yimg.com
+
 # Giphy / Instagram GIF use this
 limited-prod.giphy.map.fastly.net
 api.giphy.com 
@@ -157,6 +160,7 @@ msg2.client.xunlei.com
 tw03a159.sandai.net
 
 # Wifi portal or connectivity check
+dns.msftncsi.com
 msftncsi.com
 www.msftncsi.com
 captive.apple.com
@@ -250,9 +254,6 @@ sto3.spotify.com
 wg.spotify.com
 apresolve.spotify.com
 weblb-wg.dual-gslb.spotify.com
-
-## Check internet online status
-dns.msftncsi.com -- check wifi online
 
 ## CDN or toolskit
 maxmind.com
@@ -901,4 +902,7 @@ device-metrics-us.amazon.com
 
 # Utorrent
 update.utorrent.com
+
+#Appledaily
+imp.appledaily.com #mobile page image
 
